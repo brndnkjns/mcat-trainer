@@ -1,0 +1,2710 @@
+{
+  "metadata": {
+    "source": "Kaplan MCAT General Chemistry Review 2026-2027",
+    "subject": "General Chemistry",
+    "total_questions": 180,
+    "chapters": 12
+  },
+  "questions": [
+    {
+      "id": "ch1_q1",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 1,
+      "question_text": "Which of the following is the correct electron configuration for Zn2+?",
+      "options": {
+        "A": "1s22s22p63s23p64s03d10",
+        "B": "1s22s22p63s23p64s23d8",
+        "C": "1s22s22p63s23p64s23d10",
+        "D": "1s22s22p63s23p64s03d8"
+      },
+      "correct_answer": "A",
+      "explanation": "Remember that when electrons are removed from an element, forming a cation, they will be removed from the subshell with the highest n value first. Zn0 has 30 electrons, so it would have an electron configuration of 1s22s22p63s23p64s23d10. The 4s subshell has the highest principal quantum number, so it is emptied first, forming 1s22s22p63s23p64s03d10. (B) implies that electrons are pulled out of the d subshell, (C) presents the configuration of the uncharged zinc atom, and (D) shows the configuration that would exist if four electrons were removed."
+    },
+    {
+      "id": "ch1_q2",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 2,
+      "question_text": "Which of the following quantum number sets is possible?",
+      "options": {
+        "A": "n = 2; l = 2; ml = 1; m s = + 1 2",
+        "B": "n = 2; l = 1; ml = −1; m s = + 1 2",
+        "C": "n = 2; l = 0; ml = −1; m s = − 1 2",
+        "D": "n = 2; l = 0; ml = 1; m s = − 1 2"
+      },
+      "correct_answer": "B",
+      "explanation": "The azimuthal quantum number l cannot be higher than n – 1, ruling out (A). The ml number, which describes the chemical’s magnetic properties, can only be an integer value between –l and l. It cannot be equal to ±1 if l = 0; this would imply that the s subshell has three orbitals (−1, 0, and 1) when we know it can only have one. This rules out (C) and (D)."
+    },
+    {
+      "id": "ch1_q3",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 3,
+      "question_text": "What is the maximum number of electrons allowed in a single atomic energy level in terms of the principal quantum number n ?",
+      "options": {
+        "A": "2n",
+        "B": "2n + 2",
+        "C": "2n2",
+        "D": "2n2 + 2"
+      },
+      "correct_answer": "C",
+      "explanation": "For any value of n, there will be a maximum of 2n2 electrons; that is, two per orbital. This can also be determined from the periodic table. There are only two elements (H and He) that have valence electrons in the n = 1 shell. Eight elements (Li to Ne) have valence electrons in the n = 2 shell. This is the only equation that matches this pattern."
+    },
+    {
+      "id": "ch1_q4",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 4,
+      "question_text": "Which of the following equations describes the maximum number of electrons that can fill a subshell?",
+      "options": {
+        "A": "2l + 2",
+        "B": "4l + 2",
+        "C": "2l2",
+        "D": "2l2 + 2"
+      },
+      "correct_answer": "B",
+      "explanation": "This formula describes the number of electrons in terms of the azimuthal quantum number l, which ranges from 0 to n – 1, with n being the principal quantum number. A table of the maximum number of electrons per subshell is provided here:"
+    },
+    {
+      "id": "ch1_q5",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 5,
+      "question_text": "Which of the following atoms only has paired electrons in its ground state?",
+      "options": {
+        "A": "Sodium",
+        "B": "Iron",
+        "C": "Cobalt",
+        "D": "Helium"
+      },
+      "correct_answer": "D",
+      "explanation": "The only answer choice without unpaired electrons in its ground state is helium. Recall from the chapter that a diamagnetic substance is identified by the lack of unpaired electrons in its shell. A substance without unpaired electrons, like helium, cannot be magnetized by an external magnetic field and is actually slightly repelled. Elements that come at the end of a block (Group IIA, the group containing Zn, and the noble gases, most notably) have only paired electrons."
+    },
+    {
+      "id": "ch1_q6",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 6,
+      "question_text": "An electron returns from an excited state to its ground state, emitting a photon at λ = 500 nm. What would be the magnitude of the energy change if one mole of these photons were emitted? (Note: h = 6.626 × 10−34 J · s, NA = 6.02 × 1023 mol−1)",
+      "options": {
+        "A": "3.98 × 10−21 J",
+        "B": "3.98 × 10−19 J",
+        "C": "2.39 × 103 J",
+        "D": "2.39 × 105 J"
+      },
+      "correct_answer": "D",
+      "explanation": "The problem requires the MCAT favorite equation where h = 6.626 × 10−34 J · s (Planck’s constant), is the speed of light, and λ is the wavelength of the light. This question asks for the energy of one mole of photons, so we must multiply by Avogadro’s number, NA = 6.02 × 1023 mol−1. The setup is: As we rounded during calculation, we must find the answer choice that most closely matches this value. (D) is the closest match."
+    },
+    {
+      "id": "ch1_q7",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 7,
+      "question_text": "Suppose an electron falls from n = 4 to its ground state, n = 1. Which of the following effects is most likely?",
+      "options": {
+        "A": "A photon is absorbed.",
+        "B": "A photon is emitted.",
+        "C": "The electron moves into a p-orbital.",
+        "D": "The electron moves into a d-orbital."
+      },
+      "correct_answer": "B",
+      "explanation": "Because the electron is moving into the n = 1 shell, the only subshell available is the 1s subshell, which eliminates (C) and (D). There will be some energy change, however, as the electron must lose energy to return to the minimum-energy ground state. That will require emitting radiation in the form of a photon."
+    },
+    {
+      "id": "ch1_q8",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 8,
+      "question_text": "Which of the following isotopes of carbon is LEAST likely to be found in nature?",
+      "options": {
+        "A": "6C",
+        "B": "12C",
+        "C": "13C",
+        "D": "14C"
+      },
+      "correct_answer": "A",
+      "explanation": "Recall that the superscript refers to the mass number of an atom, which is equal to the number of protons plus the number of neutrons present in an element. Sometimes a text will list the atomic number, Z, as a subscript under the mass number, A. According to the periodic table, carbon contains six protons; therefore, its atomic number is 6. Isotopes all have the same number of protons, but differ in the number of neutrons. Almost all atoms with Z > 1 have at least one neutron. Carbon is most likely to have a mass number of 12, for six protons and six neutrons, as in (B). (C) and (D) are possible isotopes that would have more neutrons than 12C. The 6C isotope is unlikely. It would mean that there are 6 protons and 0 neutrons. As shown in Figure 1.4, this would be a highly unstable isotope."
+    },
+    {
+      "id": "ch1_q9",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 9,
+      "question_text": "Which of the following best explains the inability to measure position and momentum exactly and simultaneously according to the Heisenberg uncertainty principle?",
+      "options": {
+        "A": "Imprecision in the definition of the meter and kilogram",
+        "B": "Limits on accuracy of existing scientific instruments",
+        "C": "Error in one variable is increased by attempts to measure the other",
+        "D": "Discrepancies between the masses of nuclei and of their component particles"
+      },
+      "correct_answer": "C",
+      "explanation": "The limitations placed by the Heisenberg uncertainty principle are caused by limitations inherent in the measuring process: if a particle is moving, it has momentum, but trying to measure that momentum necessarily creates uncertainty in the position. Even if we had an exact definition of the meter, as in (A), or perfect measuring devices, as in (B), we still wouldn’t be able to measure position and momentum simultaneously and exactly."
+    },
+    {
+      "id": "ch1_q10",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 10,
+      "question_text": "Which of the following electronic transitions would result in the greatest gain in energy for a single hydrogen electron?",
+      "options": {
+        "A": "An electron moves from n = 6 to n = 2.",
+        "B": "An electron moves from n = 2 to n = 6.",
+        "C": "An electron moves from n = 3 to n = 4.",
+        "D": "An electron moves from n = 4 to n = 3."
+      },
+      "correct_answer": "B",
+      "explanation": "For the electron to gain energy, it must absorb energy from photons to jump up to a higher energy level. There is a bigger jump between n = 2 and n = 6 than there is between n = 3 and n = 4."
+    },
+    {
+      "id": "ch1_q11",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 11,
+      "question_text": "Suppose that an atom fills its orbitals as shown:    Such an electron configuration most clearly illustrates which of the following laws of atomic physics?",
+      "options": {
+        "A": "Hund’s rule",
+        "B": "Heisenberg uncertainty principle",
+        "C": "Bohr model",
+        "D": "Rutherford model"
+      },
+      "correct_answer": "A",
+      "explanation": "The MCAT covers the topics in this chapter qualitatively more often than quantitatively. It is critical to be able to distinguish the fundamental principles that determine electron organization, which are usually known by the names of the scientists who discovered or postulated them. The Heisenberg uncertainty principle, (B), refers to the inability to know the momentum and position of a single electron simultaneously. The Bohr model, (C), was an early attempt to describe the behavior of the single electron in a hydrogen atom. The Rutherford model, (D), described a dense, positively charged nucleus. The element shown here, phosphorus, is often used to demonstrate Hund’s rule because it contains a half-filled p subshell. Hund’s rule explains that electrons fill empty orbitals first before doubling up electrons in the same orbital."
+    },
+    {
+      "id": "ch1_q12",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 12,
+      "question_text": "How many total electrons are in a 133Cs cation?",
+      "options": {
+        "A": "54",
+        "B": "55",
+        "C": "78",
+        "D": "132"
+      },
+      "correct_answer": "A",
+      "explanation": "The quickest way to solve this problem is to use the periodic table and find out how many protons are in Cs atoms; there are 55. Neutral Cs atoms would also have 55 electrons. A stable Cs cation will have a single positive charge because it has one unpaired s-electron. This translates to one fewer electron than the number of protons or 54 electrons."
+    },
+    {
+      "id": "ch1_q13",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 13,
+      "question_text": "The atomic weight of hydrogen is 1.008 amu. What is the percent composition of hydrogen by isotope, assuming that hydrogen’s only isotopes are 1H and 2D?",
+      "options": {
+        "A": "92% H, 8% D",
+        "B": "99.2% H, 0.8% D",
+        "C": "99.92% H, 0.08% D",
+        "D": "99.992% H, 0.008% D"
+      },
+      "correct_answer": "B",
+      "explanation": "The easiest way to approach this problem is to set up a system of two algebraic equations, where H and D are the percentages of H (mass = 1 amu) and D (mass = 2 amu), respectively. Your setup should look like the following system: H + D = 1 (percent H + percent D = 100%) 1 H + 2 D = 1.008 (atomic weight calculation) Rearranging the first equation and substituting into the second yields (1 – D) + 2D = 1.008, or D = 0.008. 0.008 is 0.8%, so there is 0.8% D."
+    },
+    {
+      "id": "ch1_q14",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 14,
+      "question_text": "Consider the two sets of quantum numbers shown in the table, which describe two different electrons in the same atom.  n l ml ms 2 1 1 + 1 2 3 1 −1 + 1 2  Which of the following terms best describes these two electrons?",
+      "options": {
+        "A": "Parallel",
+        "B": "Opposite",
+        "C": "Antiparallel",
+        "D": "Paired"
+      },
+      "correct_answer": "A",
+      "explanation": "The terms in the answer choices refer to the magnetic spin of the two electrons. The quantum number ms represents this property as a measure of an electron’s intrinsic spin. These electrons’ spins are parallel, in that their spins are aligned in the same direction (ms = + for both species)."
+    },
+    {
+      "id": "ch1_q15",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 15,
+      "question_text": "Which of the following species is represented by the electron configuration 1s22s22p63s23p64s13d5?\nI. Cr\nII. Mn+\nIII. Fe2+",
+      "options": {
+        "A": "I only",
+        "B": "I and II only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "B",
+      "explanation": "When dealing with ions, you cannot directly approach electronic configurations based on the number of electrons they currently hold. First examine the neutral atom’s configuration, and then determine which electrons are removed. Due to the stability of half-filled d-orbitals, neutral chromium assumes the electron configuration of [Ar] 4s13d5. Mn must lose one electron from its initial configuration to become the Mn+ cation. That electron would come from the 4s subshell according to the rule that the first electron removed comes from the highest-energy shell. Fe must lose two electrons to become Fe2+. They’ll both be lost from the same orbital; the only way Fe2+ could hold the configuration in the question stem would be if one d-electron and one s-electron were lost together."
+    },
+    {
+      "id": "ch2_q1",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 1,
+      "question_text": "Lithium and sodium have similar chemical properties. For example, both can form ionic bonds with chloride. Which of the following best explains this similarity?",
+      "options": {
+        "A": "Both lithium and sodium ions are positively charged.",
+        "B": "Lithium and sodium are in the same group of the periodic table.",
+        "C": "Lithium and sodium are in the same period of the periodic table.",
+        "D": "Both lithium and sodium have low atomic weights."
+      },
+      "correct_answer": "B",
+      "explanation": "The periodic table is organized into periods (rows) and groups (columns). Groups (columns) are particularly significant because they represent sets of elements with the same valence electron configuration, which in turn will dictate many of the chemical properties of those elements. Although (A) is true, the fact that both ions are positively charged does not explain the similarity in chemical properties; most metals produce positively charged ions. (C) is not true because lithium and sodium are in the same group, not period. Finally, although lithium and sodium do have relatively low atomic weights, so do several other elements that do not share the same properties, eliminating (D)."
+    },
+    {
+      "id": "ch2_q2",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 2,
+      "question_text": "Carbon and silicon are the basis of biological life and synthetic computing, respectively. While these elements share many chemical properties, which of the following best describes a difference between the two elements?",
+      "options": {
+        "A": "Carbon has a smaller atomic radius than silicon.",
+        "B": "Silicon has a smaller atomic radius than carbon.",
+        "C": "Carbon has fewer valence electrons than silicon.",
+        "D": "Silicon has fewer valence electrons than carbon."
+      },
+      "correct_answer": "A",
+      "explanation": "As one moves from top to bottom in a group (column), extra electron shells accumulate, despite the fact that the valence configurations remain identical. These extra electron shells provide shielding between the positive nucleus and the outermost electrons, decreasing the electrostatic attraction and increasing the atomic radius. Because carbon and silicon are in the same group, and silicon is farther down in the group, silicon will have a larger atomic radius because of its extra electron shell."
+    },
+    {
+      "id": "ch2_q3",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 3,
+      "question_text": "Which of the following elements has the highest electronegativity?",
+      "options": {
+        "A": "Mg",
+        "B": "Cl",
+        "C": "Zn",
+        "D": "I"
+      },
+      "correct_answer": "B",
+      "explanation": "This question requires knowledge of the trends of electronegativity within the Periodic Table. Electronegativity increases as one moves from left to right for the same reasons that effective nuclear charge increases. Electronegativity decreases as one moves down the Periodic Table because there are more electron shells separating the nucleus from the outermost electrons. In this question, chlorine is the furthest toward the top-right corner of the Periodic Table, making (B) the correct answer."
+    },
+    {
+      "id": "ch2_q4",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 4,
+      "question_text": "Ionization energy contributes to an atom’s chemical reactivity. Which of the following shows an accurate ranking of ionization energies from lowest to highest?",
+      "options": {
+        "A": "First ionization energy of Be < second ionization energy of Be < first ionization energy of Li",
+        "B": "First ionization energy of Be < first ionization energy of Li < second ionization energy of Be",
+        "C": "First ionization energy of Li < first ionization energy of Be < second ionization energy of Be",
+        "D": "First ionization energy of Li < second ionization energy of Be < first ionization energy of Be"
+      },
+      "correct_answer": "C",
+      "explanation": "Ionization energy increases from left to right, so the first ionization energy of lithium is lower than that of beryllium. Second ionization energy is always larger than first ionization energy, so beryllium’s second ionization energy should be the highest value. This is because removing an additional electron from Be+ requires one to overcome a significantly larger electrostatic force."
+    },
+    {
+      "id": "ch2_q5",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 5,
+      "question_text": "Antimony is used in some antiparasitic medications—specifically those targeting Leishmania donovani. What type of element is antimony?",
+      "options": {
+        "A": "Metal",
+        "B": "Metalloid",
+        "C": "Halogen",
+        "D": "Nonmetal"
+      },
+      "correct_answer": "B",
+      "explanation": "Antimony (Sb) is on the right side of the periodic table, but not far right enough to be a nonmetal, (D). It certainly does not lie far enough to the right to fall in Group VIIA (Group 17), which would classify it as a halogen, (C). While sources have rarely classified antimony as a metal, (A), it is usually classified as a metalloid, (B)."
+    },
+    {
+      "id": "ch2_q6",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 6,
+      "question_text": "The properties of atoms can be predicted, to some extent, by their location within the periodic table. Which property or properties increase in the direction of the arrows shown?\nI. Electronegativity\nII. Atomic radius\nIII. First ionization energy",
+      "options": {
+        "A": "I only",
+        "B": "I and II only",
+        "C": "I and III only",
+        "D": "II and III only"
+      },
+      "correct_answer": "C",
+      "explanation": "Electronegativity describes how strong an attraction an element will have for electrons in a bond. A nucleus with a larger effective nuclear charge will have a higher electronegativity; Zeff increases toward the right side of a period. A stronger nuclear pull will also lead to increased first ionization energy, as the forces make it more difficult to remove an electron. The vertical arrow can be explained by the size of the atoms. As size decreases, the positive charge becomes more effective at attracting electrons in a chemical bond (higher electronegativity), and the energy required to remove an electron (ionization energy) increases."
+    },
+    {
+      "id": "ch2_q7",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 7,
+      "question_text": "Metals are often used for making wires that conduct electricity. Which of the following properties of metals explains why?",
+      "options": {
+        "A": "Metals are malleable.",
+        "B": "Metals have low electronegativities.",
+        "C": "Metals have valence electrons that can move freely.",
+        "D": "Metals have high melting points."
+      },
+      "correct_answer": "C",
+      "explanation": "All four descriptions of metals are true, but the most significant property that contributes to the ability of metals to conduct electricity is the fact that they have valence electrons that can move freely. Malleability, (A), is the ability to shape a material with a hammer, which does not play a role in conducting electricity. The low electronegativity and high melting points of metals, (B) and (D), also do not play a major role in the conduction of electricity."
+    },
+    {
+      "id": "ch2_q8",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 8,
+      "question_text": "Which of the following is an important property of the group of elements shaded in the periodic table below?",
+      "options": {
+        "A": "These elements are the best electrical conductors in the periodic table.",
+        "B": "These elements form divalent cations.",
+        "C": "The second ionization energy for these elements is lower than the first ionization energy.",
+        "D": "The atomic radii of these elements decrease as one moves down the column."
+      },
+      "correct_answer": "B",
+      "explanation": "This block represents the alkaline earth metals, which form divalent cations, or ions with a +2 charge. All of the elements in Group IIA have two electrons in their outermost s subshell. Because loss of these two electrons would leave a full octet as the outermost shell, becoming a divalent cation is a stable configuration for all of the alkaline earth metals. Although some of these elements might be great conductors, they are not as effective as the alkali metals, eliminating (A). (C) is also incorrect because, although forming a divalent cation is a stable configuration for the alkaline earth metals, the second ionization energy is still always higher than the first. Finally, (D) is incorrect because atomic radii increase when moving down a group of elements because the number of electron shells increases."
+    },
+    {
+      "id": "ch2_q9",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 9,
+      "question_text": "When dissolved in water, which of the following ions is most likely to form a complex ion with H2O?",
+      "options": {
+        "A": "Na+",
+        "B": "Fe2+",
+        "C": "Cl–",
+        "D": "S2–"
+      },
+      "correct_answer": "B",
+      "explanation": "Iron is a transition metal. Transition metals can often form more than one ion. Iron, for example, can be Fe2+ or Fe3+. The transition metals, in these various oxidation states, can often form hydration complexes with water. Part of the significance of these complexes is that, when a transition metal can form a complex, its solubility within the related solvent will increase. The other ions given might dissolve readily in water, but because none of them are transition metals, they will not likely form complexes."
+    },
+    {
+      "id": "ch2_q10",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 10,
+      "question_text": "How many valence electrons are present in elements in the third period?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "The number decreases as the atomic number increases.",
+        "D": "The number increases as the atomic number increases."
+      },
+      "correct_answer": "D",
+      "explanation": "This question is simple if one recalls that periods refer to the rows in the periodic table, while groups or families refer to the columns. Within the same period, an additional valence electron is added with each step toward the right side of the table."
+    },
+    {
+      "id": "ch2_q11",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 11,
+      "question_text": "Arsenic mediates some of its toxic effects via the inhibition of acetyl-CoA formation and the inhibition of the enzyme succinic dehydrogenase to decrease ATP production. In addition to its metabolic effects, arsenic can also replace phosphorus in many reactions. Which of the following best explains the similarity between these two elements?",
+      "options": {
+        "A": "Similar atomic numbers",
+        "B": "Similar number of electrons",
+        "C": "Similar valence configuration",
+        "D": "Similar atomic radius"
+      },
+      "correct_answer": "C",
+      "explanation": "Phosphorous and arsenic are both found in group 5A, indicating that they have a similar number of valence electrons. Since the valence electron configuration is one of the main determinants of bonding, elements with similar valence states react similarly, supporting (C)."
+    },
+    {
+      "id": "ch2_q12",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 12,
+      "question_text": "Of the four atoms depicted here, which has the highest electron affinity?",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer to this question may be surprising because this question illustrates an important exception to a trend. Electron affinity generally increases as one moves up and to the right on the periodic table. Based on this trend alone, one might expect that the atom fluorine, depicted in (B), would be correct. However, the correct answer is chlorine, (D), even despite the fact that chlorine is below fluorine on the periodic table. The diagrams in the answer choices help make sense of this apparent exception: Fluorine and chlorine have the same valence electron configuration and have a similar amount of effective nuclear charge. However, when an electron is added to fluorine's valence shell, that negative charge is added to the second energy shell, which is quite small in physical size, meaning that the new electron is crowded into a small energy shell with seven other electrons. As a result, energy is still released when an electron is added to fluorine, but not as much energy as might be predicted by the general trend alone. By contrast, when an additional electron is added to a chlorine atom, that new electron adds to the third energy shell, so there is less repulsion among the valence electrons, leading to a slightly greater electron affinity for chlorine. Thus, chlorine, (D), has the highest electron affinity and is the right answer."
+    },
+    {
+      "id": "ch2_q13",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 13,
+      "question_text": "Which of the following atoms or ions has the largest effective nuclear charge?",
+      "options": {
+        "A": "Cl",
+        "B": "Cl–",
+        "C": "K",
+        "D": "K+"
+      },
+      "correct_answer": "D",
+      "explanation": "The effective nuclear charge refers to the strength with which the protons in the nucleus can pull on electrons. This phenomenon helps to explain electron affinity, electronegativity, and ionization energy. The effective nuclear charge can be calculated by subtracting the number of non-valence electrons from the number of protons. In (A) and (B), chlorine has 17 protons and 10 non-valence electrons, giving it a Zeff of 7. Next, elemental potassium, (C), has the lowest effective nuclear charge because it contains additional inner shells that shield its valence electron from the nucleus. With 19 protons and 18 non-valence electrons, it has a Zeff of 1. (D), ionic potassium, has a higher effective nuclear charge than any of the other options. It has the same electron configuration as Cl− (10 non-valence electrons) but contains two extra protons in its nucleus, and thus has a Zeff of 9"
+    },
+    {
+      "id": "ch2_q14",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 14,
+      "question_text": "Why do halogens often form ionic bonds with alkaline earth metals?",
+      "options": {
+        "A": "The alkaline earth metals have much higher electron affinities than the halogens.",
+        "B": "By sharing electrons equally, the alkaline earth metals and halogens both form full octets.",
+        "C": "Within the same row, the halogens have smaller atomic radii than the alkaline earth metals.",
+        "D": "The halogens have much higher electron affinities than the alkaline earth metals."
+      },
+      "correct_answer": "D",
+      "explanation": "Ionic bonds are formed through unequal sharing of electrons. These bonds typically occur because the electron affinities of the two bonded atoms differ greatly. For example, the halogens have high electron affinities because adding a single electron to their valence shells would create full valence shells. In contrast, the alkaline earth metals have very low electron affinities and are more likely to be electron donors because the loss of two electrons would leave them with full valence shells. (A) states the opposite and is incorrect because the halogens have high electron affinity and the alkaline earth metals have low electron affinity. (B) is incorrect because equal sharing of electrons is a classic description of covalent bonding, not ionic. (C) is a true statement, but is not relevant to why ionic bonds form."
+    },
+    {
+      "id": "ch2_q15",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 15,
+      "question_text": "What is the highest-energy orbital of elements with valence electrons in the n = 3 shell?",
+      "options": {
+        "A": "s-orbital",
+        "B": "p-orbital",
+        "C": "d-orbital",
+        "D": "f-orbital"
+      },
+      "correct_answer": "C",
+      "explanation": "When n = 3, l = 0, 1, or 2. The highest value for l in this case is 2, which corresponds to the d subshell. Although the 3d block appears to be part of the fourth period, it still has the principal quantum number n = 3. In general, the subshells within an energy shell increase in energy as follows: s < p < d < f (although there is no 3f subshell)."
+    },
+    {
+      "id": "ch3_q1",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 1,
+      "question_text": "What is the character of the bonds in carbon dioxide?",
+      "options": {
+        "A": "Ionic",
+        "B": "Polar covalent",
+        "C": "Nonpolar covalent",
+        "D": "Coordinate covalent"
+      },
+      "correct_answer": "B",
+      "explanation": "Carbon dioxide, CO2, has a double bond between carbon and each of its oxygen atoms. In polar covalent bonds, the difference in electronegativity between the bonded atoms is great enough to cause electrons to move disproportionately toward the more electronegative atom; hence the bonds are polar. But the electronegativity difference is not great enough to completely transfer electrons to the more electronegative atom; hence the bonds are covalent. Because oxygen has somewhat greater electronegativity compared to carbon, the bonds of carbon dioxide are polar covalent."
+    },
+    {
+      "id": "ch3_q2",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 2,
+      "question_text": "Which of the following molecules contains the oxygen atoms with the most negative average formal charge?",
+      "options": {
+        "A": "H2O",
+        "B": "CO32–",
+        "C": "O3",
+        "D": "CH2O"
+      },
+      "correct_answer": "B",
+      "explanation": "To answer this question, one must understand the contribution of resonance structures to average formal charge. In (B), there are three possible resonance structures. Each of the three oxygen atoms carries a formal charge of −1 in two out of the three structures. This averages to approximately − 2 3 charge on each oxygen atom, which is more negative than in the other answer choices. Both water and formaldehyde, (A) and (D), have no formal charge on the oxygen. Ozone, (C), has a − 1 2 on two of the three oxygens and a +1 charge on the central oxygen."
+    },
+    {
+      "id": "ch3_q3",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 3,
+      "question_text": "Which of the following elements does NOT break the octet rule?",
+      "options": {
+        "A": "Be",
+        "B": "S",
+        "C": "Na",
+        "D": "P"
+      },
+      "correct_answer": "C",
+      "explanation": "This question is asking for an element that reliably follows the octet rule. There are only a few elements that do not break the octet rule, including carbon, nitrogen, oxygen, fluorine, sodium, and magnesium. Thus, (C) is correct. To eliminate (A), (B), and (D), observe that the remaining elements can have other valences; Be is stable with a valence of four electrons, while both S and P can expand their octets."
+    },
+    {
+      "id": "ch3_q4",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 4,
+      "question_text": "Which of the following correctly ranks the compounds below by ascending boiling point?\nI. Acetone\nII. KCl\nIII. Kr\nIV. Isopropyl alcohol",
+      "options": {
+        "A": "I < II < IV < III",
+        "B": "III < IV < I < II",
+        "C": "II < IV < I < III",
+        "D": "III < I < IV < II"
+      },
+      "correct_answer": "D",
+      "explanation": "The key to answering this question is to understand the types of intermolecular forces that exist in each of these molecules because larger intermolecular forces correspond to higher boiling points. Kr is a noble gas with a full octet, so the only intermolecular forces present are London dispersion forces, the weakest type of intermolecular forces. Acetone and isopropyl alcohol are both polar, so both have dipole–dipole interactions, which are stronger than dispersion forces. However, isopropyl alcohol can also form hydrogen bonds, increasing its boiling point. Finally, the strongest interactions are ionic bonds, which exist in potassium chloride."
+    },
+    {
+      "id": "ch3_q5",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 5,
+      "question_text": "Both CO32– and ClF3 have three atoms bonded to a central atom. What is the best explanation for why CO32– has trigonal planar electronic geometry, while ClF3 has trigonal bipyramidal electronic geometry?",
+      "options": {
+        "A": "CO32– has multiple resonance structures, while ClF3 does not.",
+        "B": "CO32– has a charge of −2, while ClF3 has no charge.",
+        "C": "ClF3 has lone pairs on its central atom, while CO32– has none.",
+        "D": "CO32– has lone pairs on its central atom, while ClF3 has none."
+      },
+      "correct_answer": "C",
+      "explanation": "The central carbon in carbonate has no lone pairs. It has three resonance structures, each of which involves a double bond between carbon and one of the three oxygens. Having made four bonds, carbon has no further orbitals for bonding or to carry lone pairs. This makes carbonate’s geometry trigonal planar. Alternatively, ClF3 also has three bonds; however, chloride still maintains two extra lone pairs. These lone pairs each inhabit one orbital, meaning that the central chloride must organize five items about itself: three bonds to fluorides and two lone pairs. The best configuration for maximizing the distance between all of these groups is trigonal bipyramidal. (A) and (B) are true statements but do not account for the difference in geometry."
+    },
+    {
+      "id": "ch3_q6",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 6,
+      "question_text": "Which of the following elements, when paired together, would form ionic bonds?\nI. Mg\nII. Cl\nIII. O\nIV. H",
+      "options": {
+        "A": "II and IV",
+        "B": "I and II",
+        "C": "II and III",
+        "D": "III and IV"
+      },
+      "correct_answer": "B",
+      "explanation": "Ionic bonds are formed between elements with large differences in electronegativity, i.e. between metals and nonmetals. Mg is a metal, whereas Cl, O, and H are all nonmetals. Since (B) contains a metal and nonmetal, it is correct. (A), (C), and (D) all describe covalent bonds. While HCl does ionize in aqueous solution, it exists as a polar covalent compound in the gaseous state."
+    },
+    {
+      "id": "ch3_q7",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 7,
+      "question_text": "Despite the fact that both C2H2 and HCN contain triple bonds, the lengths of these triple bonds are not equal. Which of the following is the best explanation for this finding?",
+      "options": {
+        "A": "In C2H2, the bond is shorter because it is between atoms of the same element.",
+        "B": "The two molecules have different resonance structures.",
+        "C": "Carbon is more electronegative than hydrogen.",
+        "D": "Nitrogen is more electronegative than carbon."
+      },
+      "correct_answer": "D",
+      "explanation": "Bond lengths decrease as the bond order increases, and they also decrease with larger differences in electronegativity. In this case, because both C2H2 and HCN have triple bonds, we cannot compare the bond lengths based on bond order. We must then rely on other periodic trends. The bond length decreases when moving to the right along the periodic table’s rows because more electronegative atoms have shorter atomic radii. The nitrogen in HCN is likely to hold its electrons closer, or in a shorter radius, than the carbons in C2H2."
+    },
+    {
+      "id": "ch3_q8",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 8,
+      "question_text": "Which of the following is the best explanation of the phenomenon of hydrogen bonding?",
+      "options": {
+        "A": "Hydrogen has a strong affinity for holding onto valence electrons.",
+        "B": "Hydrogen can only hold two valence electrons.",
+        "C": "Electronegative atoms disproportionately carry shared electron pairs when bonded to hydrogen.",
+        "D": "Hydrogen bonds have ionic character."
+      },
+      "correct_answer": "C",
+      "explanation": "Electronegative atoms bonded to hydrogen disproportionately pull covalently bonded electrons toward themselves, which leaves hydrogen with a partial positive character. That partial positive charge is attracted to nearby negative or partial negative charges, such as those on other electronegative atoms."
+    },
+    {
+      "id": "ch3_q9",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 9,
+      "question_text": "Which of the following best describes the number and character of the bonds in an ammonium cation?",
+      "options": {
+        "A": "Three polar covalent bonds",
+        "B": "Four polar covalent bonds, of which none are coordinate covalent bonds",
+        "C": "Four polar covalent bonds, of which one is a coordinate covalent bond",
+        "D": "Four polar covalent bonds, of which two are coordinate covalent bonds"
+      },
+      "correct_answer": "C",
+      "explanation": "First recall that ammonium is NH4+, while ammonia is NH3. Ammonium is formed by the association of NH3, an uncharged molecule with a lone pair on the nitrogen, with a positively charged hydrogen cation. In other words, NH3 is a Lewis base, while H+ is a Lewis acid. This type of bonding between a Lewis acid and base is a coordinate covalent bond."
+    },
+    {
+      "id": "ch3_q10",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 10,
+      "question_text": "Although the octet rule dictates much of molecular structure, some atoms can violate the octet rule by being surrounded by more than eight electrons. Which of the following is the best explanation for why some atoms can exceed the octet?",
+      "options": {
+        "A": "Atoms that exceed the octet already have eight electrons in their outermost electron shell.",
+        "B": "Atoms that exceed the octet only do so when bonding with transition metals.",
+        "C": "Atoms that exceed the octet can do so because they have d-orbitals in which extra electrons can reside.",
+        "D": "Some atoms can exceed the octet because they are highly electronegative."
+      },
+      "correct_answer": "C",
+      "explanation": "All atoms in the third period or greater have d-orbitals, which can hold an additional 10 electrons. The typical “octet” electrons reside in s- and p-orbitals, but elements in period 3 or higher can place electrons into these d-orbitals."
+    },
+    {
+      "id": "ch3_q11",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 11,
+      "question_text": "Which of the following types of intermolecular forces provides the most accurate explanation for why noble gases can liquefy?",
+      "options": {
+        "A": "Hydrogen bonding",
+        "B": "Ion–dipole interactions",
+        "C": "Dispersion forces",
+        "D": "Dipole–dipole interactions"
+      },
+      "correct_answer": "C",
+      "explanation": "All of the listed types of forces describe interactions between different types of molecules. However, noble gases are entirely uncharged and do not have polar covalent bonds, ionic bonds, or dipole moments. Therefore, the only intermolecular forces experienced by noble gases are London dispersion forces. Although these interactions are small in magnitude, they are necessary for condensation into a liquid."
+    },
+    {
+      "id": "ch3_q12",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 12,
+      "question_text": "In the structure shown, which atom(s) have the most positive charge?",
+      "options": {
+        "A": "The phosphorus atom has the most positive charge.",
+        "B": "All atoms share the charge equally.",
+        "C": "The four oxygen atoms share the highest charge.",
+        "D": "The oxygen atom at the peak of the trigonal pyramidal geometry has the most positive charge."
+      },
+      "correct_answer": "A",
+      "explanation": "In this Lewis diagram, the phosphate molecule has an overall formal charge of −3. The four oxygen atoms would each be assigned a formal charge of −1. Given the overall charge of −3 and the −1 charge on each oxygen, the phosphorus must have a formal charge of +1."
+    },
+    {
+      "id": "ch3_q13",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 13,
+      "question_text": "Which of the following is the best name for the new bond formed in the reaction shown?",
+      "options": {
+        "A": "Nonpolar covalent bond",
+        "B": "Ionic bond",
+        "C": "Coordinate covalent bond",
+        "D": "Hydrogen bond"
+      },
+      "correct_answer": "C",
+      "explanation": "The reaction in this question shows a water molecule, which has two lone pairs of electrons on the central oxygen, combining with a free hydrogen cation. The resulting molecule, H3O+ has formed a new bond between H+ and H2O. This bond is created via the sharing of one of oxygen’s lone pairs with the free H+ ion. This represents the donation of a shared pair of electrons from a Lewis base (H2O) to a Lewis acid (H+, electron acceptor). This type of bond is called a coordinate covalent bond."
+    },
+    {
+      "id": "ch3_q14",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 14,
+      "question_text": "Both BF3 and NH3 have three atoms bonded to the central atom. Which of the following is the best explanation for why the geometry of these two molecules is different?",
+      "options": {
+        "A": "BF3 has three bonded atoms and no lone pairs, which makes its geometry trigonal pyramidal.",
+        "B": "NH3 is nonpolar, while BF3 is polar.",
+        "C": "NH3 has three bonded atoms and one lone pair, which makes its geometry trigonal pyramidal.",
+        "D": "BF3 is nonpolar, while NH3 is polar."
+      },
+      "correct_answer": "C",
+      "explanation": "NH3 has three hydrogen atoms bonded to the central nitrogen, which also has a lone pair. These four groups—three atoms, one lone pair—lead NH3 to assume tetrahedral electronic geometry yet trigonal pyramidal molecular geometry. The nitrogen in ammonia is sp3-hybridized. By hybridizing all three p-orbitals and the one s-orbital, four groups are arranged about the central atom, maximizing the distances between the groups to minimize the energy of the molecule with a tetrahedral configuration. In contrast, BF3 has three atoms and no lone pairs, resulting in sp2-hybridization. Its shape is called trigonal planar."
+    },
+    {
+      "id": "ch3_q15",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 15,
+      "question_text": "Which of the following compounds has the highest melting point?",
+      "options": {
+        "A": "Sucrose",
+        "B": "NaCl",
+        "C": "Glycerol",
+        "D": "H2O"
+      },
+      "correct_answer": "B",
+      "explanation": "When a compound melts, the interactions between molecules must be broken to a sufficient extent to enable movement. In NaCl, these interactions are ionic. On the other hand, solids made of molecules of sucrose, glycerol, or water are held together by hydrogen bonds. Due to the greater electrostatic attraction between the full charges of ionic bonds, the ionic bonds of NaCl are significantly stronger than hydrogen bonds of other molecules. Thus, NaCl has the highest melting point, consistent with (B)."
+    },
+    {
+      "id": "ch4_q1",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 1,
+      "question_text": "Which of the following best describes ionic compounds?",
+      "options": {
+        "A": "Ionic compounds are formed from molecules containing two or more atoms.",
+        "B": "Ionic compounds are formed of charged particles and are measured by molecular weight.",
+        "C": "Ionic compounds are formed of charged particles that share electrons equally.",
+        "D": "Ionic compounds are three-dimensional arrays of charged particles."
+      },
+      "correct_answer": "D",
+      "explanation": "Ionic compounds are composed of atoms held together by ionic bonds. Ionic bonds associate charged particles with large differences in electronegativity. Rather than forming molecules or being measured by molecular weight, as in (A) and (B), ionic compounds form large arrays of ions in crystalline solids and are measured with formula weights. In ionic bonds, electrons are not really shared but rather are donated from the less electronegative atom to the more electronegative atom, eliminating (C)."
+    },
+    {
+      "id": "ch4_q2",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 2,
+      "question_text": "Which of the following compounds has a formula weight between 74 and 75 grams per mole?",
+      "options": {
+        "A": "KCl",
+        "B": "C4H10O",
+        "C": "MgCl2",
+        "D": "BF3"
+      },
+      "correct_answer": "A",
+      "explanation": "Of the compounds listed, both (B) and (D) are covalent compounds and thus are measured in molecular weights, not formula weights. The formula weight of MgCl2 is much too high (24.3 amu + 2 × 35.5 amu = 95.3 amu per formula unit), eliminating (C). Only KCl fits the criteria (39.1 amu + 35.5 amu = 74.6 amu)."
+    },
+    {
+      "id": "ch4_q3",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 3,
+      "question_text": "Which of the following is the gram equivalent weight of H2SO4 with respect to protons?",
+      "options": {
+        "A": "49.1 g",
+        "B": "98.1 g",
+        "C": "147.1 g",
+        "D": "196.2 g"
+      },
+      "correct_answer": "A",
+      "explanation": "First, it is helpful to know the molar mass of one mole of H2SO4, which is found by adding the atomic weights of the atoms that constitute the molecule: ( 2 × 1.0 g mol H ) + ( 1 × 32.1 g mol S ) + ( 4 × 16.0 g mol O ) = 98.1 g mol H 2 SO 4 . Gram equivalent weight is the mass (in grams) that would release one mole of protons. Because sulfuric acid has two hydrogens per molecule, the gram equivalent weight is 98.1 g divided by 2, or 49.1 g."
+    },
+    {
+      "id": "ch4_q4",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 4,
+      "question_text": "Which of the following molecules CANNOT be expressed by the empirical formula CH?",
+      "options": {
+        "A": "Benzene",
+        "B": "Ethyne",
+        "C": "",
+        "D": ""
+      },
+      "correct_answer": "C",
+      "explanation": "The definition of an empirical formula is a formula that represents a molecule with the simplest ratio, in whole numbers, of the elements comprising the compound. In this case, given the empirical formula CH, any molecule with carbon and hydrogen atoms in a 1:1 ratio would be accurately represented by this empirical formula. (C) has three carbon atoms and four hydrogen atoms. Both its molecular and empirical formulas would be C3H4 because this formula represents the smallest whole-number ratio of its constituent elements."
+    },
+    {
+      "id": "ch4_q5",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 5,
+      "question_text": "In which of the following compounds is the percent composition of carbon by mass closest to 62 percent?",
+      "options": {
+        "A": "Acetone",
+        "B": "Ethanol",
+        "C": "Propane",
+        "D": "Methanol"
+      },
+      "correct_answer": "A",
+      "explanation": "The percent composition by mass of any given element within a molecule is equal to the mass of that element in the molecule divided by the molar mass of the compound, times 100%. In this case, acetone, C3H6O, has 3 × 12 g mol C (3 × 12 g mol C ) + ( 6 × 1 g mol H ) + ( 16 g mol O ) = 36 g mol 58 g mol = 18 29 ≈ 2 3 ≈ 66 . 7 % . This is an overestimation, and the actual value will be lower; it is closest to 62% out of the four choices available. (B), ethanol, is 24 g mol C 46 g mol total ≈ 50 % . This is an underestimation, and the actual value will be higher but nowhere near 62%. (C), propane, is C3H8, and calculates to be 36 g mol c 44 g mol total ≈ 9 11 ≈ 80 % carbon . This is an underestimation, and therefore the actual value cannot be 62%. Finally, (D), methanol, is 12 g mol C 32 g mol total = 3 8 = 37.5 % carbon . Note that all four of these compounds are commonly encountered on the MCAT, and you should be familiar with the structure and composition of each, including their common names."
+    },
+    {
+      "id": "ch4_q6",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 6,
+      "question_text": "What is the most specific characterization of the reaction shown?  Ca(OH)2 (aq) + H2SO4 (aq) → CaSO4 (aq) + H2O (l)",
+      "options": {
+        "A": "Single-displacement",
+        "B": "Neutralization",
+        "C": "Double-displacement",
+        "D": "Oxidation–reduction"
+      },
+      "correct_answer": "B",
+      "explanation": "This reaction is a classic example of a neutralization reaction, in which an acid and a base react to form a salt and, usually, water. Although this reaction also fits the criteria for a double-displacement reaction, (C), in which two molecules essentially exchange ions with each other, neutralization is a more specific description of the process."
+    },
+    {
+      "id": "ch4_q7",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 7,
+      "question_text": "In the reaction shown, if 39.05 g of Na2S are reacted with 85.5 g of AgNO3, how much of the excess reagent will be left over once the reaction has gone to completion?  Na2S + 2 AgNO3 → Ag2S + 2 NaNO3",
+      "options": {
+        "A": "19.5 g Na2S",
+        "B": "26.0 g Na2S",
+        "C": "41.4 g AgNO3",
+        "D": "74.3 g AgNO3"
+      },
+      "correct_answer": "A",
+      "explanation": "In this question, you are first given the masses of both reactants used to start the reaction. To figure out what will be left over, we must first determine which species is the limiting reagent. The formula weight of Na2S is ( 2 × 23 g mol Na ) + ( 1 × 32 . 1 g mol S ) = 78 . 1 g mol Na 2 S . The formula weight of AgNO3 is ( 1 × 107 . 9 g mol Ag ) + ( 1 × 14 g mol N ) + ( 3 × 16 g mol O ) = 169 . 9 g mol AgNO 3 . From this, we can determine that we are given: 39 . 05 g Na 2 S 78 . 1 g mol = 0 . 5 mol Na 2 S and 85 . 5 g AgNO 3 169 . 9 g mol = 0.5 mol AgNO 3 . Because we need two moles of AgNO3 for every mole of Na2S, AgNO3 is the limiting reagent, and the correct answer choice will be in grams of Na2S. If 0.5 mol of AgNO3 are used up, and Na2S will be consumed at half the rate of AgNO3 (based on their mole ratio), then 0.25 mol Na2S will be used up. We then have 0.25 mol excess Na2S, which has a mass of 0 . 25 mol × 78 . 1 g mol ≈ 1 4 × 80 1 = 20 g actual value = 19.5 g ."
+    },
+    {
+      "id": "ch4_q8",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 8,
+      "question_text": "Using a given mass of KClO3, how would one calculate the mass of oxygen produced in the following reaction, assuming it goes to completion?  2 KClO3 → 2 KCl + 3 O2",
+      "options": {
+        "A": "( grams KClO 3 consumed ) ( 3 moles O 2 ) ( molar mass O 2 ) ( molar mass KCl O 3 ) ( 2 moles KCl O 3 )",
+        "B": "(grams KClO 3 consumed) ( molar mass O 2 ) ( molar mass KClO 3 ) ( 2 moles KClO 3 )",
+        "C": "( molar mass KClO 3 ) ( 2 moles KClO 3 ) (grams KClO 3 consumed) ( molar mass O 2 )",
+        "D": "(grams KClO 3 consumed)(3 moles O 2 ) (molar mass KClO 3 )(2 moles KClO 3 )(molar mass O 2 )"
+      },
+      "correct_answer": "A",
+      "explanation": "This is a question best answered by dimensional analysis. Keeping in mind that molar mass is measured in grams of a substance per moles of that substance, only (A) comes out with the units of grams of oxygen. (B) has the units of grams per mole of oxygen, not grams of oxygen. (C) has the units of moles per gram of oxygen. (D) has the units of mol2 per gram of oxygen."
+    },
+    {
+      "id": "ch4_q9",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 9,
+      "question_text": "Aluminum metal can be used to remove tarnish from silver when the two solid metals are placed in water, according to the following reaction:  3 AgO + 2 Al → 3 Ag + Al2O3  This reaction is a:\nI. double-displacement reaction.\nII. single-displacement reaction.\nIII. oxidation–reduction reaction.\nIV. combination reaction.",
+      "options": {
+        "A": "II only",
+        "B": "IV only",
+        "C": "I and III only",
+        "D": "II and III only"
+      },
+      "correct_answer": "D",
+      "explanation": "In the reaction, there is a single displacement, with the silver in silver oxide being replaced by the aluminum to form aluminum oxide. This single-displacement reaction also necessitates a transfer of electrons in an oxidation–reduction reaction; silver, for example, changes from the +2 oxidation state to neutral. Aluminum changes from neutral to the +3 oxidation state."
+    },
+    {
+      "id": "ch4_q10",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 10,
+      "question_text": "Which of the following types of reactions generally have the same number of reactants and products?\nI. Double-displacement reactions\nII. Single-displacement reactions\nIII. Combination reactions",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and II only",
+        "D": "II and III only"
+      },
+      "correct_answer": "C",
+      "explanation": "Typically, both single-displacement and double-displacement reactions have two reactants that swap either one or two components between the two species. Combination reactions, on the other hand, have more reactants than products because the reactants combine together to form the product."
+    },
+    {
+      "id": "ch4_q11",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 11,
+      "question_text": "Diethyl zinc is a very unstable compound. When exposed to air, it reacts with oxygen to produce zinc oxide, carbon dioxide, and water. The unbalanced reaction is shown below.  Z n ( C 2 H 5 ) 2 + O 2 → Z n O + C O 2 + H 2 O  What is the coefficient for carbon dioxide in the balanced reaction?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correct_answer": "A",
+      "explanation": "In the unbalanced reaction given in the question stem, zinc is already balanced. Next check carbon. There are 4 carbon atoms in the reactants and 1 in the product, so add a coefficient of 4 to carbon dioxide on the product side. Next, check hydrogen. There are 10 hydrogen atoms in the reactants and 2 in the products, so add a coefficient of 5 to water on the product side. Finally, check oxygen. There are 2 oxygen atoms in the reactants and 14 in the products, so add a coefficient of 7 to molecular oxygen on the reactant side. These alterations yield the balanced reaction Zn(C 2 H 5 ) 2 + 7 O 2 → ZnO + 4 CO 2 + 5 H 2 O Because of the coefficient of 4 in front of the CO2 molecule on the product side, the answer is (A)."
+    },
+    {
+      "id": "ch4_q12",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 12,
+      "question_text": "In the process of photosynthesis, carbon dioxide and water combine with energy to form glucose and oxygen, according to the following equation:   What is the theoretical yield of glucose if 30 grams of water are reacted with excess carbon dioxide and energy, according to the equation above?",
+      "options": {
+        "A": "30.0 g",
+        "B": "50.0 g",
+        "C": "300.1 g",
+        "D": "1801 g"
+      },
+      "correct_answer": "B",
+      "explanation": "The equation given is unbalanced, so the first step must be to balance it: 6 CO 2 + 6 H 2 O → h ν C 6 H 12 O 6 + 6 O 2 The theoretical yield is the amount of product synthesized if the limiting reagent is completely used up. This question therefore asks how much glucose is produced if the limiting reagent is 30 grams of water. Using the three-fraction method discussed in this chapter to solve for the mass of glucose produced gives: 30.0 g H 2 O × [ 1 mol H 2 O 18 g H 2 O ] [ 1 mol C 6 H 12 O 6 6 mol H 2 O ] [ 180 g C 6 H 12 O 6 1 mol C 6 H 12 O 6 ] = 50 g C 6 H 12 O 6 Thus, 50 grams of glucose are produced."
+    },
+    {
+      "id": "ch4_q13",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 13,
+      "question_text": "In the following reaction:    If 2 moles of Au2S3 (s) is reacted with 5 moles of hydrogen gas, what is the limiting reagent?",
+      "options": {
+        "A": "Au2S3 (s)",
+        "B": "H2 (g)",
+        "C": "Au (s)",
+        "D": "H2S (g)"
+      },
+      "correct_answer": "B",
+      "explanation": "A limiting reagent is by definition a reactant. Because Au and H2S are products, they cannot act as limiting reagents, eliminating (C) and (D). Next, note that the given equation is unbalanced and the first step is to balance it: Au2S3 (s) + 3 H2 (g) → 2 Au (s) + 3 H2S (g) The problem states that 2 moles of gold(III) sulfide and 5 moles of hydrogen gas are available. To use up both moles of gold(III) sulfide, 6 moles of hydrogen gas are needed because there is a 1:3 ratio between these reactants. Since only 5 moles of hydrogen gas are present, that will have to be the limiting reagent."
+    },
+    {
+      "id": "ch4_q14",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 14,
+      "question_text": "Which of the following would make the strongest electrolytic solution?",
+      "options": {
+        "A": "A nonpolar covalent compound with significant solubility.",
+        "B": "An ionic compound composed of one cation with +3 charge and three anions with −1 charge.",
+        "C": "A polar covalent compound with a small dissociation constant.",
+        "D": "An ionic compound composed of two cations with +1 charge and one anion with −2 charge."
+      },
+      "correct_answer": "B",
+      "explanation": "The best electrolytes dissociate readily (have a high dissociation constant) and are ionic compounds with large amounts of cations and anions. This rules out (A) and (C). (D) has fewer total ions with a smaller total magnitude of charge and therefore is not as strong an electrolyte as (B)."
+    },
+    {
+      "id": "ch4_q15",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 15,
+      "question_text": "Carbon disulfide and nitrous oxide, when ignited, react exothermically to produce elemental sulfur, nitrogen, and carbon dioxide. Since this reaction produces a “woof” sound, it is sometimes referred to as the Barking Dog reaction. Which of the following represents the balanced chemical reaction?",
+      "options": {
+        "A": "8 N2O + 4 CS2 → S8 + 4 CO2 + 8 N2",
+        "B": "6 N2O + 4 CS2 → S8 + 4 CO2 + 6 N2",
+        "C": "8 N2O + 2 CS2 → S8 + 2 CO2 + 8 N2",
+        "D": "7 N2O + 5 CS2 → S8 + 4 CO2 + 7 N2"
+      },
+      "correct_answer": "A",
+      "explanation": "One approach to answering this question might be to write out an unbalanced equation using the description in the question stem, and then balance that equation. But a faster method is elimination. Three of the given chemical equations are not properly balanced, while one is. Check one element at a time. Observe that in this question, the oxygen atoms in equation (A) are balanced, but oxygen is not balanced in (B), (C), and (D). Thus (A) must be the correct answer."
+    },
+    {
+      "id": "ch5_q1",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 1,
+      "question_text": "In a third-order reaction involving two reactants and two products, doubling the concentration of the first reactant causes the rate to increase by a factor of 2. What will happen to the rate of this reaction if the concentration of the second reactant is cut in half?",
+      "options": {
+        "A": "It will increase by a factor of 2.",
+        "B": "It will increase by a factor of 4.",
+        "C": "It will decrease by a factor of 2.",
+        "D": "It will decrease by a factor of 4."
+      },
+      "correct_answer": "D",
+      "explanation": "Based on the information given in the question, the rate is first-order with respect to the concentration of the first reactant; when the concentration of that reactant doubles, the rate also doubles. Because the reaction is third-order, the sum of the exponents in the rate law must be equal to 3. Therefore, the reaction order with respect to the other reactant must be 3 – 1 = 2. If the concentration of this second reactant is multiplied by 1 2 , the rate will be multiplied by ( 1 2 ) 2 = 1 4 ."
+    },
+    {
+      "id": "ch5_q2",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 2,
+      "question_text": "In a certain equilibrium process, the activation energy of the forward reaction (ΔGǂf) is greater than the activation energy of the reverse reaction (ΔGǂr). This reaction is:",
+      "options": {
+        "A": "endothermic.",
+        "B": "exothermic.",
+        "C": "spontaneous.",
+        "D": "nonspontaneous."
+      },
+      "correct_answer": "D",
+      "explanation": "Before you try to answer this question, you should draw a free energy diagram for the system. If the activation energy of the forward reaction is greater than the activation energy of the reverse reaction, then the products must have a higher free energy than the reactants. The overall energy of the system is higher at the end than it was in the beginning. The net free energy change is positive, indicating an endergonic (nonspontaneous) reaction. The terms endothermic, (A), and exothermic, (B), are associated with enthalpy. While free energy does depend on enthalpy, it also depends on entropy; there is not enough information in the question stem to reliably determine the sign of the entropy change of the reaction."
+    },
+    {
+      "id": "ch5_q3",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 3,
+      "question_text": "A reactant in a second-order reaction at a certain temperature is increased by a factor of 4. By how much is the rate of the reaction altered?",
+      "options": {
+        "A": "It is unchanged.",
+        "B": "It is increased by a factor of 4.",
+        "C": "It is increased by a factor of 16.",
+        "D": "It cannot be determined from the information given."
+      },
+      "correct_answer": "D",
+      "explanation": "A second-order reaction can be second-order with respect to one reactant, or first-order with respect to two different reactants. In this case, one reactant was increased by a factor of 4. If the reaction is second-order with respect to this reactant, the rate law will be rate = k[A]2[B]0 and the rate will increase by a factor of 16. If it is first-order with respect to this reactant and first-order with respect to another reactant, the rate law will be rate = k[A]1[B]1, and the rate will increase by a factor of 4. We do not know which of these is the correct rate law and, thus, cannot determine the effect on the rate."
+    },
+    {
+      "id": "ch5_q4",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 4,
+      "question_text": "The concentrations of all reactants in a zero-order reaction are increased two-fold. What is the new rate of the reaction?",
+      "options": {
+        "A": "It is unchanged.",
+        "B": "It is decreased by a factor of 2.",
+        "C": "It is increased by a factor of 2.",
+        "D": "It cannot be determined from the information given."
+      },
+      "correct_answer": "A",
+      "explanation": "By definition, zero-order reactions are unaffected by the concentrations of any reactants in the reaction. Thus, changing the concentrations of these reactants will not affect the rate."
+    },
+    {
+      "id": "ch5_q5",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 5,
+      "question_text": "Which of the following experimental methods should NEVER affect the rate of a reaction?",
+      "options": {
+        "A": "Placing an exothermic reaction in an ice bath.",
+        "B": "Increasing the pressure of a reactant in a closed container.",
+        "C": "Putting the reactants into an aqueous solution.",
+        "D": "Removing the product of an irreversible reaction."
+      },
+      "correct_answer": "D",
+      "explanation": "The question asks which alteration does NOT affect the rate of the reaction. Temperature directly affects the rate constant (k), making (A) incorrect. Changing the partial pressure of a gas will affect the number of effective collisions per time. This makes (B) incorrect—but note that concentration changes will not affect the rate of zero-order reactions. Solvents affect the rate of reactions depending on how the reactants interact with the solvent, making (C) incorrect. Removing the product of an irreversible reaction, (D), should not affect the rate of the reaction because the rate law does not depend on the concentrations of products."
+    },
+    {
+      "id": "ch5_q6",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 6,
+      "question_text": "What would increasing the concentration of reactants accomplish in a solution containing a saturated catalyst?",
+      "options": {
+        "A": "It would increase the rate constant but not the reaction rate.",
+        "B": "It would decrease the rate constant but increase the reaction rate.",
+        "C": "It would increase the rate constant and increase the reaction rate.",
+        "D": "The reaction rate would be unaffected."
+      },
+      "correct_answer": "D",
+      "explanation": "While increasing the concentration of reactants can alter the reaction rate in first- or higher-order reactions, saturated solutions containing a catalyst have a maximum turnover rate and cannot increase the rate constant or the reaction rate any higher by adding more reactant molecules."
+    },
+    {
+      "id": "ch5_q7",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 7,
+      "question_text": "A certain chemical reaction has the following rate law:  rate = k[NO2][Br2]  Which of the following statements necessarily describe(s) the kinetics of this reaction?\nI. The reaction is second-order.\nII. The amount of NO2 consumed is equal to the amount of Br2 consumed.\nIII. The rate will not be affected by the addition of a compound other than NO2 and Br2.",
+      "options": {
+        "A": "I only",
+        "B": "I and II only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "A",
+      "explanation": "If the sum of the exponents (orders) of the concentrations of each species in the rate law is equal to 2, then the reaction is second-order. The exponents in the rate law are unrelated to stoichiometric coefficients, so NO2 and Br2 could have any stoichiometric coefficients in the original reaction and still be a second-order reaction, invalidating statement II. Statement III is incorrect because the rate can be affected by a wide variety of compounds. A catalyst, for example, could increase the rate."
+    },
+    {
+      "id": "ch5_q8",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 8,
+      "question_text": "The following data shown in the table were collected for the combustion of the theoretical compound XH4:  XH4 + 2 O2 → XO2 + 2 H2O  Trial [XH4]initial (M) [O2]initial (M) Rate initial ( M min ) 1 0.6 0.6 12.4 2 0.6 2.4 49.9 3 1.2 2.4 198.3  What is the rate law for the reaction described here?",
+      "options": {
+        "A": "rate = k[XH4][O2]",
+        "B": "rate = k[XH4][O2]2",
+        "C": "rate = k[XH4]2[O2]",
+        "D": "rate = k[XH4]2[O2]2"
+      },
+      "correct_answer": "C",
+      "explanation": "Start with the generic rate law: rate = k[XH4]x[O2]y. In the first two trials, the concentration of XH4 is held constant while the concentration of O2 is multiplied by 4, and the rate of the reaction also increases by a factor of approximately 4. This gives the proportion Δrate = [O 2 ] y , or 4 = 4 y , meaning y = 1. The rate law can be updated to: rate = k[XH4]x[O2]1. In the last two trials, the concentration of O2 is held constant while the concentration of XH4 is doubled, and the rate of the reaction is increased by a factor of approximately 4. This gives Δrate = [XH 4 ] x , or 4 = 2 x , and x = 2. The rate law can be updated to: rate = k[XH4]2[O2]1. The final version of the rate law is: rate = k[XH4]2[O2]."
+    },
+    {
+      "id": "ch5_q9",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 9,
+      "question_text": "Which of the following best describes the purpose of a catalyst?",
+      "options": {
+        "A": "Catalysts are used up in the reaction, increasing reaction efficiency.",
+        "B": "Catalysts increase the rate of the reaction by lowering the activation energy.",
+        "C": "Catalysts alter the thermodynamics of the reaction to facilitate the formation of products or reactants.",
+        "D": "Catalysts stabilize the transition state by bringing it to a higher energy."
+      },
+      "correct_answer": "B",
+      "explanation": "By definition, a catalyst increases the rate of a reaction by lowering the activation energy, making it easier for both the forward and reverse reactions to overcome this energy barrier. Catalysts are neither used up in the reaction, nor do they alter the equilibrium of a reaction, eliminating (A) and (C). Finally, catalysts stabilize the transition state by lowering its energy, not raising it, eliminating (D)."
+    },
+    {
+      "id": "ch5_q10",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 10,
+      "question_text": "If the rate law for a reaction is:  rate = k[A]0[B]2[C]1  What is the overall order of the reaction?",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "explanation": "The overall order of a reaction is the sum of the individual orders in the reaction. Therefore, the rate order is 0 + 2 + 1 = 3."
+    },
+    {
+      "id": "ch5_q11",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 11,
+      "question_text": "The overall reaction depicted by this energy diagram is:",
+      "options": {
+        "A": "endergonic, because point B is higher than point A.",
+        "B": "endergonic, because point C is higher than point A.",
+        "C": "exergonic, because point D is higher than point E.",
+        "D": "exergonic, because point A is higher than point E."
+      },
+      "correct_answer": "D",
+      "explanation": "A system is exergonic if energy is released by the reaction. For exergonic reactions, the net energy change is negative, and the free energy of the final products is lower than the free energy of the initial reactants. Point E, which represents the energy of the final products, is lower on the energy diagram than point A, which represents the energy of initial reactants. Thus, energy must have been given off, and the reaction is exergonic."
+    },
+    {
+      "id": "ch5_q12",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 12,
+      "question_text": "Which process has the highest activation energy?",
+      "options": {
+        "A": "The first step of the forward reaction",
+        "B": "The first step of the reverse reaction",
+        "C": "The second step of the forward reaction",
+        "D": "The second step of the reverse reaction"
+      },
+      "correct_answer": "B",
+      "explanation": "The activation energy of a reaction is represented by the distance on the y-axis from the energy of the reactants to the peak energy prior to formation of products. The activation energy of the first step of the forward reaction, for example, is equal to the distance along the y-axis from point A to point B. The largest energy increase on this graph occurs during the progress from point E to point D, which represents the first step of the reverse reaction."
+    },
+    {
+      "id": "ch5_q13",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 13,
+      "question_text": "Point C in this reaction profile refers to the:",
+      "options": {
+        "A": "reactants.",
+        "B": "products.",
+        "C": "transition state.",
+        "D": "intermediates."
+      },
+      "correct_answer": "D",
+      "explanation": "Intermediates exist at “valleys” in reaction diagrams. Reactants, (A), are represented by point A. Products, (B), are represented by point E. Transition states, (C), are represented by points B and D."
+    },
+    {
+      "id": "ch5_q14",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 14,
+      "question_text": "The following system obeys second-order kinetics.   2 NO2 → NO3 + NO (slow) NO3 + CO → NO2 + CO2 (fast)  What is the rate law for this reaction?",
+      "options": {
+        "A": "rate = k[NO2][CO]",
+        "B": "rate = k[NO2]2[CO]",
+        "C": "rate = k[NO2][NO3]",
+        "D": "rate = k[NO2]2"
+      },
+      "correct_answer": "D",
+      "explanation": "To answer this question, recall that the slow step of a reaction is the rate-determining step. The rate is always related to the concentrations of the reactants in the rate-determining step (not the overall reaction), so NO2 is the only compound that should be included in the correct answer. The concentration of NO2 is squared in the rate law because the question stem tells us that the system obeys second-order kinetics."
+    },
+    {
+      "id": "ch5_q15",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 15,
+      "question_text": "The potential energy diagram shown represents four different reactions.    Assuming identical conditions, which of the reactions displayed on the energy diagram proceeds the fastest?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correct_answer": "D",
+      "explanation": "The faster a reaction can reach its activation energy, the faster it will proceed to completion. Because this question states that all conditions are equal, the reaction with the lowest activation energy will have the fastest rate. In the diagram, (D) has the lowest activation energy."
+    },
+    {
+      "id": "ch6_q1",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 1,
+      "question_text": "A reaction is found to stop just before all reactants are converted to products. Which of the following could be true about this reaction?",
+      "options": {
+        "A": "The reaction is irreversible, and the forward rate is greater than the reverse rate.",
+        "B": "The reaction is irreversible, and the reverse rate is too large for products to form.",
+        "C": "The reaction is reversible, and the forward rate is equal to the reverse rate.",
+        "D": "The reaction is reversible, and the reverse rate is greater than the forward rate."
+      },
+      "correct_answer": "C",
+      "explanation": "This scenario likely describes a situation in which a reaction has reached equilibrium very far to the right (with high product concentration and low reactant concentration). This reaction must be reversible because the reaction did not proceed all the way to the right. Any reaction in equilibrium has equal forward and reverse rates of reaction."
+    },
+    {
+      "id": "ch6_q2",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 2,
+      "question_text": "What is the equilibrium expression for the reaction Cu2SO4 (s) ⇌ 2 Cu+ (aq) + SO42− (aq)?",
+      "options": {
+        "A": "[Cu + ] 2 [ SO 4 2 − ] [ Cu 2 SO 4 ]",
+        "B": "2 × [Cu + ] [ SO 4 2 − ] [ Cu 2 SO 4 ]",
+        "C": "[Cu + ] [ SO 4 2 − ]",
+        "D": "[Cu + ] 2 [ SO 4 2 − ]"
+      },
+      "correct_answer": "D",
+      "explanation": "Recall that pure solids and liquids do not appear in the equilibrium expression; thus, this Keq has no denominator because the only reactant is a solid, cuprous sulfate. This could also be called Ksp because a solid is dissociating into ions in solution. The correct Keq should have [Cu+] squared because its stoichiometric coefficient is 2."
+    },
+    {
+      "id": "ch6_q3",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 3,
+      "question_text": "Carbonated beverages are produced by dissolving carbon dioxide in water to produce carbonic acid:  CO2 (g) + H2O (l) ⇌ H2CO3 (aq)  When a bottle containing carbonated water is opened, the taste of the beverage gradually changes as the carbonation is lost. Which of the following statements best explains this phenomenon?",
+      "options": {
+        "A": "The change in pressure and volume causes the reaction to shift to the left, thereby decreasing the amount of aqueous carbonic acid.",
+        "B": "The change in pressure and volume causes the reaction to shift to the right, thereby decreasing the amount of gaseous carbon dioxide.",
+        "C": "Carbonic acid reacts with environmental oxygen and nitrogen.",
+        "D": "Carbon dioxide reacts with environmental oxygen and nitrogen."
+      },
+      "correct_answer": "A",
+      "explanation": "Carbon dioxide gas evolves and leaves the bottle, which decreases the total pressure of the reactants. Le Châtelier’s principle explains that a decrease in pressure shifts the equilibrium to increase the number of moles of gas present. This particular reaction will shift to the left, which in turn will decrease the amount of carbonic acid and increase the amount of carbon dioxide and water. Oxygen and nitrogen are not highly reactive and are unlikely to combine spontaneously with carbon dioxide or carbonic acid, as in (C) and (D)."
+    },
+    {
+      "id": "ch6_q4",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 4,
+      "question_text": "Which of the following best describes how to favor the production of the kinetic product over the thermodynamic product?",
+      "options": {
+        "A": "High temperature and short reaction time",
+        "B": "Low temperature and short reaction time",
+        "C": "High temperature and long reaction time",
+        "D": "Low temperature and long reaction time"
+      },
+      "correct_answer": "B",
+      "explanation": "Recall that when multiple products are possible and an equilibrium exists between these multiple products, one product will be called the kinetic product and the other the thermodynamic product. The transition state leading to the kinetic product is lower in energy, so that the kinetic product is formed more rapidly in solution. However, the kinetic product is less stable than the thermodynamic product. The end result is that the equilibrium of products initially favors the kinetic product, but eventually favors the more stable thermodynamic product. Taking these factors together, to favor the kinetic product, conduct the reaction for a short duration, so that the thermodynamic product does not have much chance to form. Also, the reaction should be conducted at a lower temperature to help stabilize the otherwise less stable kinetic product. These factors—low temperature and short reaction time—justify choice (B)."
+    },
+    {
+      "id": "ch6_q5",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 5,
+      "question_text": "If Kc ≫ 1:",
+      "options": {
+        "A": "the equilibrium mixture will favor products over reactants.",
+        "B": "the equilibrium mixture will favor reactants over products.",
+        "C": "the equilibrium concentrations of reactants and products are equal.",
+        "D": "the reaction is essentially irreversible."
+      },
+      "correct_answer": "A",
+      "explanation": "The larger the value of Keq (whether Kc or Kp), the larger the ratio of products to reactants. Therefore, if Kc ≫ 1, there are significantly larger concentrations of products than reactants at equilibrium. Even with a large Keq, the reaction will ultimately reach equilibrium far toward the products side and is therefore reversible, eliminating (D)."
+    },
+    {
+      "id": "ch6_q6",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 6,
+      "question_text": "Acetic acid dissociates in solution according to the following equation:  CH3COOH ⇌ CH3COO– + H+  If sodium acetate is added to a solution of acetic acid in excess water, which of the following effects would be observed in the solution?",
+      "options": {
+        "A": "Decreased pH",
+        "B": "Increased pH",
+        "C": "Decreased pKeq (pKa)",
+        "D": "Increased pKeq (pKa)"
+      },
+      "correct_answer": "B",
+      "explanation": "Adding sodium acetate increases the number of acetate ions present. According to Le Châtelier’s principle, this change will push this reaction to the left, resulting in a decrease in the number of free H+ ions. Because pH is determined by the hydrogen ion concentration, a decrease in the number of free protons will increase the pH. An acid’s Ka (which is simply the Keq for acid dissociation) will remain constant under a given temperature and pressure, eliminating (C) and (D)."
+    },
+    {
+      "id": "ch6_q7",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 7,
+      "question_text": "Which of the following would increase the formation of product?",
+      "options": {
+        "A": "Decreasing the volume of the container",
+        "B": "Decreasing the pressure of the container",
+        "C": "Increasing the volume of the container",
+        "D": "Decreasing the volume of the container while maintaining a constant pressure"
+      },
+      "correct_answer": "A",
+      "explanation": "Both increasing the pressure of the container and decreasing the volume would favor the side with fewer moles of gas, which is the product side. This makes (B) and (C) incorrect. (D) would not disturb the equilibrium—the significance of decreasing the volume of the container in most equilibria is that there is an increase in pressure; in this case, however, the pressure remains constant despite the change in volume."
+    },
+    {
+      "id": "ch6_q8",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 8,
+      "question_text": "If this reaction were exothermic, what effect would decreasing the temperature have on the equilibrium?",
+      "options": {
+        "A": "The forward reaction rate and the reverse reaction rate both increase.",
+        "B": "The forward reaction rate decreases while the reverse reaction rate increases.",
+        "C": "The forward reaction rate increases while the reverse reaction rate decreases.",
+        "D": "The forward reaction rate and the reverse reaction rate both decrease."
+      },
+      "correct_answer": "C",
+      "explanation": "An exothermic reaction produces heat. Decreasing the temperature favors product formation, resulting in an increase in the forward reaction rate with a concomitant decrease in the reverse reaction rate."
+    },
+    {
+      "id": "ch6_q9",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 9,
+      "question_text": "Which of the following actions does NOT affect the equilibrium position of a reaction?",
+      "options": {
+        "A": "Adding or removing heat.",
+        "B": "Adding or removing a catalyst.",
+        "C": "Increasing or decreasing concentrations of reactants.",
+        "D": "Increasing or decreasing volumes of reactants."
+      },
+      "correct_answer": "B",
+      "explanation": "The equilibrium of a reaction can be changed by several factors. Adding or subtracting heat, (A), would shift the equilibrium based on the enthalpy change of the reaction. Increasing reactant concentrations would shift the equilibrium in the direction of the product, and the opposite would occur if reactant concentrations were decreased, eliminating (C). Changing the volume of a reactant would affect any reaction with gaseous reactants or products, eliminating (D). While adding or removing a catalyst would change the reaction rates, it would not change where the equilibrium lies."
+    },
+    {
+      "id": "ch6_q10",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 10,
+      "question_text": "In a sealed 1 L container, 1 mole of nitrogen gas reacts with 3 moles of hydrogen gas to form 0.05 moles of NH3 at equilibrium. Which of the following is closest to the Kc of the reaction?",
+      "options": {
+        "A": "0.0001",
+        "B": "0.001",
+        "C": "0.01",
+        "D": "0.1"
+      },
+      "correct_answer": "A",
+      "explanation": "Start with the balanced equation for the reaction of H2 and N2 to produce NH3: N2 + 3 H2 ⇌ 2 NH3. Next, write out Kc = Keq = [ NH 3 ] 2 [ N 2 ] [ H 2 ] 3 . Because the volume is 1 L, the amount of each gas in moles is equal to the value of the concentration of each gas in moles per liter (M). The relatively small amount of NH3 produced indicates that it will be possible to consider the amount of N2 and H2 that reacts to be negligible compared to their starting concentrations. Putting the amounts of each reactant and product into the Keq expression gives: K eq = [ NH 3 ] 2 [ N 2 ] [ H 2 ] 3 = [ 0 .05 ] 2 [ 1 - x ] [ 3 - x ] 3 ≈ [ 0 .05 ] 2 [ 1 ] [ 3 ] 3 = 5 × 10 - 2 2 27 K eq = 25 × 10 - 4 27 ≈ 25 × 10 - 4 25 = 1 × 10 - 4 = 0.0001"
+    },
+    {
+      "id": "ch6_q11",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 11,
+      "question_text": "Increasing temperature can alter the Keq of a reaction. Why might increasing temperature indefinitely be unfavorable for changing reaction conditions?",
+      "options": {
+        "A": "The equilibrium constant has a definite limit that cannot be surpassed.",
+        "B": "The products or reactants can decompose at high temperatures.",
+        "C": "Increasing temperature would decrease pressure, which may or may not alter reaction conditions.",
+        "D": "If a reaction is irreversible, its Keq will resist changes in temperature."
+      },
+      "correct_answer": "B",
+      "explanation": "At extremely high temperatures, reactants or products may decompose, which will affect the equilibrium and potentially destroy the desired products. (A) implies that reactions have limits, which is true; however, this does not make increasing temperature unfavorable. (C) is false because increasing temperature would also increase pressure, assuming constant volume. (D) is incorrect because it refers to properties of irreversible reactions, which would not be involved in an equilibrium between products and reactants."
+    },
+    {
+      "id": "ch6_q12",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 12,
+      "question_text": "How does the change in free energy compare between the kinetic and thermodynamic product?",
+      "options": {
+        "A": "The free energy change for the kinetic product is greater since it is less stable.",
+        "B": "The free energy change for the kinetic product is greater since it is more stable.",
+        "C": "The free energy change for the thermodynamic product is greater since it is less stable.",
+        "D": "The free energy change for the thermodynamic product is greater since it is more stable."
+      },
+      "correct_answer": "D",
+      "explanation": "The thermodynamic product is more stable than the kinetic product, making the thermodynamic product lower in energy. Because the energy of the product is lower, the change in free energy is greater for the thermodynamic product compared to the kinetic product. Thus, (D) is correct."
+    },
+    {
+      "id": "ch6_q13",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 13,
+      "question_text": "Compound A has a Ka (equilibrium constant of acid dissociation) of approximately 10–4. Which of the following compounds is most likely to react with a solution of compound A?",
+      "options": {
+        "A": "HNO3",
+        "B": "NO2",
+        "C": "NH3",
+        "D": "N2O5"
+      },
+      "correct_answer": "C",
+      "explanation": "Ka is equal to the ratio of products to reactants, with each species raised to its stoichiometric coefficient. A compound with a Ka greater than 10–7 contains more H+ cations than HA– anions at equilibrium, which makes it an acid. This means that the compound in question is likely to react with a compound that is basic. Of the four answer choices, NH3 is the only base."
+    },
+    {
+      "id": "ch6_q14",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 14,
+      "question_text": "Consider the following two reactions:  3 A + 2 B ⇌ 3 C + 4 D (Reaction 1) 4 D + 3 C ⇌ 3 A + 2 B (Reaction 2)  If Keq for reaction 1 is equal to 0.1, what is Keq for reaction 2?",
+      "options": {
+        "A": "0.1",
+        "B": "1",
+        "C": "10",
+        "D": "100"
+      },
+      "correct_answer": "C",
+      "explanation": "Reaction 2 is the reverse of reaction 1. This means that Keq for reaction 2 is the inverse of Keq of reaction 1, so the answer is 1 0 . 1 = 1 1 10 = 10 ."
+    },
+    {
+      "id": "ch6_q15",
+      "chapter": 6,
+      "chapter_title": "Equilibrium",
+      "question_number": 15,
+      "question_text": "Which of the following statements best describes the effect of lowering the temperature of the following reaction?  A + B ⇌ C + D Δ H = − 1.12 kJ mol",
+      "options": {
+        "A": "[C] and [D] would increase.",
+        "B": "[A] and [B] would increase.",
+        "C": "ΔH would increase.",
+        "D": "ΔH would decrease."
+      },
+      "correct_answer": "A",
+      "explanation": "A negative ΔH value indicates an exothermic reaction, meaning that the forward reaction produces heat. Visualize this as follows: A + B ⇌ C + D + heat This means that removing heat by decreasing the temperature is similar to removing any other product of the reaction. To compensate for this loss, the reaction will shift to the right, causing an increase in the concentrations of C and D, as well as a decrease in the concentrations of A and B."
+    },
+    {
+      "id": "ch7_q1",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 1,
+      "question_text": "Consider the cooling of an ideal gas in a closed system. This process is illustrated in the pressure–volume graph shown in the following figure.   Based on this information, the process may be:",
+      "options": {
+        "A": "adiabatic.",
+        "B": "isobaric.",
+        "C": "isothermal.",
+        "D": "isochoric."
+      },
+      "correct_answer": "A",
+      "explanation": "This process may be adiabatic. Given that the gas was cooled, it did not maintain constant temperature, eliminating (C). Isobaric and isovolumetric processes appear as horizontal and vertical lines in pressure–volume graphs, respectively, eliminating (B) and (D). Adiabatic processes appear hyperbolic on pressure–volume graphs, as illustrated here."
+    },
+    {
+      "id": "ch7_q2",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 2,
+      "question_text": "A pot of water at 100°C sits on a heating element and boils. Which of the following best characterizes this phase change process?",
+      "options": {
+        "A": "Isothermal expansion",
+        "B": "Adiabatic expansion",
+        "C": "Isovolumetric heating",
+        "D": "Adiabatic compression"
+      },
+      "correct_answer": "A",
+      "explanation": "Since the temperature during a phase change is constant, all phase changes are isothermal processes. During boiling, heat is added to the system to break the intermolecular attractions between the water molecules. As the water molecules vaporize, they expand outward, occupying a larger volume. Thus, boiling is an isothermal expansion, consistent with (A)."
+    },
+    {
+      "id": "ch7_q3",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 3,
+      "question_text": "Pure sodium metal spontaneously combusts upon contact with room temperature water. What is true about the equilibrium constant of this combustion reaction at 25°C?",
+      "options": {
+        "A": "Keq < 0",
+        "B": "0 < Keq < 1",
+        "C": "Keq = 1",
+        "D": "Keq > 1"
+      },
+      "correct_answer": "D",
+      "explanation": "Solve this question using the equation ΔG°rxn = −RT ln Keq. ΔG°rxn is negative (as it must be for a spontaneous reaction), and R and T are always positive. Therefore, lnKeq must also be positive for the sign convention to work out correctly. Since ln(1) = 0, the natural logarithm of any number greater than 1 will be positive, and the natural logarithm of any number less than 1 will be negative. In order for lnKeq to be a positive number, Keq must be greater than 1."
+    },
+    {
+      "id": "ch7_q4",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 4,
+      "question_text": "Which of the following processes has the most exothermic standard heat of combustion?",
+      "options": {
+        "A": "Combustion of ethane",
+        "B": "Combustion of propane",
+        "C": "Combustion of n-butane",
+        "D": "Combustion of n-pentane"
+      },
+      "correct_answer": "D",
+      "explanation": "Combustion often involves the reaction of a hydrocarbon with oxygen to produce carbon dioxide and water. Longer hydrocarbon chains yield greater amounts of combustion products and release more heat in the process—that is, the reaction is more exothermic. Of the hydrocarbons listed here, n-pentane is the longest chain."
+    },
+    {
+      "id": "ch7_q5",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 5,
+      "question_text": "Methanol reacts with acetic acid to form methyl acetate and water.  Type of Bond Bond Dissociation Energy ( kJ mol ) C – C 348 C – H 415 C = O 805 O – H 463 C – O 360  Based on the values in the table above, what is the heat of reaction in kJ mol ?",
+      "options": {
+        "A": "0",
+        "B": "464",
+        "C": "824",
+        "D": "1288"
+      },
+      "correct_answer": "A",
+      "explanation": "At first glance, this might seem like a math-heavy problem, but it really doesn’t require any calculations at all. We just have to keep track of which bonds are broken and which bonds are formed. Remember, breaking bonds requires energy, while forming bonds releases energy. Two bonds are broken: a C–O bond between the carbonyl carbon and oxygen of acetic acid , and an O–H bond between the hydroxyl oxygen and hydrogen of methanol . Two bonds are also formed: a C–O bond between the carbonyl carbon and the oxygen of methyl acetate , and an O–H bond between a hydroxyl group and a hydrogen to form water . Given that the same two bonds are broken and formed in this reaction, the energy change must be 0 kJ mol ."
+    },
+    {
+      "id": "ch7_q6",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 6,
+      "question_text": "Which of the following refers to the temperature and pressure at which all three phases exist in equilibrium?",
+      "options": {
+        "A": "Critical point",
+        "B": "Triple point",
+        "C": "Deposition",
+        "D": "State function"
+      },
+      "correct_answer": "B",
+      "explanation": "At the triple point (triple for three phases), the solid, liquid, and gas phases exist in equilibrium, consistent with (B). On the other hand, the critical point refers to the temperature and pressure above which gases and liquids are indistinguishable, so (A) can be eliminated."
+    },
+    {
+      "id": "ch7_q7",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 7,
+      "question_text": "A 10 g sample of water is brought from 40oC to boiling and is completely boiled to the gas phase. Which of the following expressions represents the total amount of energy required if the final temperature of the vapor is 100oC? (The heat of vaporization of water is 2,260 J/g.)",
+      "options": {
+        "A": "(10 g)(40oC)(4.2 J/goC) + (2,260 J/g)(10 g)",
+        "B": "(10 g)(40oC)(4.2 J/goC) + (2,260 J/oC)(60oC)",
+        "C": "(10 g)(60oC)(4.2 J/goC) + (2,260 J/g)(10 g)",
+        "D": "(10 g)(60oC)(4.2 J/goC) + (2,260 J/oC)(60oC)"
+      },
+      "correct_answer": "C",
+      "explanation": "There are two parts to this computation. First, the water must be heated from 40oC to 100oC, then it must be vaporized. To calculate the energy required to heat the water, use the formula q = mcΔT. Plugging in values yields (10 g)(60oC)(4.2 J/goC). Next, calculate the energy required to vaporize using the equation q = mL. Plugging in values yields (2,260 J/g)(10 g). Finally combine the two energies together: (10 g)(60oC)(4.2 J/goC) + (2,260 J/g)(10 g), matching (C)."
+    },
+    {
+      "id": "ch7_q8",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 8,
+      "question_text": "Consider the chemical reaction in the vessel depicted in the following diagram.",
+      "options": {
+        "A": "The reaction is spontaneous.",
+        "B": "The reaction is nonspontaneous.",
+        "C": "The reaction is at equilibrium.",
+        "D": "There is not enough information to determine if the reaction is spontaneous."
+      },
+      "correct_answer": "D",
+      "explanation": "There is not enough information available to determine the free energy of this reaction. While the entropy is clearly increasing (there are more particles in the system), it is unclear what the enthalpy change is. Because bonds are breaking, the reaction should be endothermic, meaning that both ΔS and ΔH are positive. In this case, it is a temperature-dependent process, and—without a temperature given—we cannot determine the sign on ΔG."
+    },
+    {
+      "id": "ch7_q9",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 9,
+      "question_text": "Suppose Δ G rxn ∘ = − 2000 J mol for a chemical reaction. At 300 K, what is the change in Gibbs free energy in J mol ?",
+      "options": {
+        "A": "ΔG = –2000 + (300 K)(8.314)(ln Q)",
+        "B": "ΔG = –2000 – (300 K)(8.314)(ln Q)",
+        "C": "ΔG = –2000 + (300 K)(8.314)(log Q)",
+        "D": "ΔG = –2000 – (300 K)(8.314)(log Q)"
+      },
+      "correct_answer": "A",
+      "explanation": "This problem asks for the free energy of a reaction at nonstandard conditions, which can be determined with the equation ΔG = ΔG° + RT ln Q."
+    },
+    {
+      "id": "ch7_q10",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 10,
+      "question_text": "A chemical reaction has a negative enthalpy and a negative entropy. Which of the following terms necessarily describes this reaction?",
+      "options": {
+        "A": "Exothermic",
+        "B": "Endothermic",
+        "C": "Exergonic",
+        "D": "Endergonic"
+      },
+      "correct_answer": "A",
+      "explanation": "A reaction with a negative enthalpy is, by definition, exothermic. Because both enthalpy and entropy are negative, this is a temperature-dependent process, and the reaction will be both endergonic and exergonic—but only at particular temperatures, eliminating (C) and (D)."
+    },
+    {
+      "id": "ch7_q11",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 11,
+      "question_text": "Which of the following statements is true of a process that is spontaneous in the forward direction?",
+      "options": {
+        "A": "ΔG > 0 and Keq > Q",
+        "B": "ΔG > 0 and Keq < Q",
+        "C": "ΔG < 0 and Keq > Q",
+        "D": "ΔG < 0 and Keq < Q"
+      },
+      "correct_answer": "C",
+      "explanation": "For a process to progress forward spontaneously, Q must be less than Keq and will therefore have a tendency to move in the direction toward equilibrium. A spontaneous reaction’s free energy is negative by convention."
+    },
+    {
+      "id": "ch7_q12",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 12,
+      "question_text": "Which of the following reactions has the greatest decrease in entropy?",
+      "options": {
+        "A": "2 NH3 (g) → 3 H2 (g) + N2 (g)",
+        "B": "2 Na (s) + Cl2 (g) → 2 NaCl (s)",
+        "C": "2 H2O2 (l) → 2 H2O (l) + O2 (g)",
+        "D": "Zn (s) + CuSO4 (aq) → ZnSO4 (aq) + Cu (s)"
+      },
+      "correct_answer": "B",
+      "explanation": "This question is asking for a reaction with the greatest decrease in entropy, so the phases of the reactants and products must be evaluated. In general, the entropy of gases is the highest, while the entropy of solids is the lowest. Thus, a reaction in which gases react to produce solids will have a significant entropy decrease. In reaction (B), a gaseous reactant forms a solid product, so the entropy decreases, making (B) correct. By contrast, the other reactions have either a minimal change or increase in entropy. In reaction (A), two moles of gaseous reactants become four moles of gaseous product, so the entropy increases. In (C), a liquid reactant forms a gaseous product, so entropy likewise increases. In reaction (D), each side of the equation has a solid and an aqueous component, so there is approximately no change in entropy."
+    },
+    {
+      "id": "ch7_q13",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 13,
+      "question_text": "A reaction coordinate for a chemical reaction is displayed in the graph below.    Which of the following terms describes the energy of this reaction?",
+      "options": {
+        "A": "Endothermic",
+        "B": "Exothermic",
+        "C": "Endergonic",
+        "D": "Exergonic"
+      },
+      "correct_answer": "A",
+      "explanation": "Eliminate (C) and (D), which describe the free energy of reaction and cannot be determined from this graph. While most reaction coordinate graphs we’ve explored in this book use free energy for the y-axis, this one uses potential energy (enthalpy). If the heat of formation of the products is greater than that of the reactants, the reaction is endothermic. We can determine this information from their relative positions on the graph: because the products are higher than the reactants, this is an endothermic reaction."
+    },
+    {
+      "id": "ch7_q14",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 14,
+      "question_text": "The process of melting NaCl requires a large amount of energy due to the strong attraction between ions. A researcher finds that 58 g of salt melts at 1060 K and requires a heat input of 30,000 J. What is the change in entropy?",
+      "options": {
+        "A": "28 J/K",
+        "B": "1,580 J/K",
+        "C": "61,000 J/K",
+        "D": "Not enough information is provided"
+      },
+      "correct_answer": "A",
+      "explanation": "The entropy change can be calculated using the formula ΔS = q/T. Note that more information is given in the question than is necessary, so ignore the mass. Plugging in values yields: ΔS = 30,000 J / 1,060 K = 28 J/K. Thus, (A) is correct."
+    },
+    {
+      "id": "ch7_q15",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 15,
+      "question_text": "Explosions are necessarily characterized by:",
+      "options": {
+        "A": "ΔG < 0.",
+        "B": "ΔH > 0.",
+        "C": "ΔS < 0.",
+        "D": "T < 0."
+      },
+      "correct_answer": "A",
+      "explanation": "In an explosion, a significant amount of heat energy is released, meaning that the reaction is exothermic (ΔH < 0), eliminating (B). The entropy change associated with an explosion is positive because energy is dispersed over a much larger area, eliminating (C). If this is true, the expression ΔH – TΔS must be negative, indicating that this is an exergonic process (ΔG < 0). Absolute temperature can never be negative, eliminating (D)."
+    },
+    {
+      "id": "ch8_q1",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 1,
+      "question_text": "Which of the following sets of conditions would be LEAST likely to result in ideal gas behavior?",
+      "options": {
+        "A": "High pressure and low temperature",
+        "B": "Low temperature and large volume",
+        "C": "High pressure and large volume",
+        "D": "Low pressure and high temperature"
+      },
+      "correct_answer": "A",
+      "explanation": "Gases deviate from ideal behavior at higher pressures and lower volumes and temperatures, all of which force molecules closer together. The closer they are, the more they can participate in intermolecular forces, which violates the definition of an ideal gas. At low temperatures, the kinetic energy of the particles is reduced, so collisions with other particles or the walls of the container are more likely to result in significant changes in kinetic energy."
+    },
+    {
+      "id": "ch8_q2",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 2,
+      "question_text": "What is the density of neon gas in g L at STP?",
+      "options": {
+        "A": "452.3",
+        "B": "226.0",
+        "C": "1.802",
+        "D": "0.9018"
+      },
+      "correct_answer": "D",
+      "explanation": "Density equals mass divided by volume. The mass of 1 mole of neon gas equals 20.2 grams. At STP, 1 mole of neon occupies 22.4 L. density = ρ = mass volume = 20 . 2 g 22 . 4 L ≈ 10 11 < 1 g L ( actual = 0 . 902 g L )"
+    },
+    {
+      "id": "ch8_q3",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 3,
+      "question_text": "A leak of helium gas through a small hole occurs at a rate of 3.22 × 10 − 5 mol s . How will the leakage rates of neon and oxygen gases compare to helium at the same temperature and pressure?",
+      "options": {
+        "A": "Neon will leak faster than helium; oxygen will leak faster than helium.",
+        "B": "Neon will leak faster than helium; oxygen will leak slower than helium.",
+        "C": "Neon will leak slower than helium; oxygen will leak faster than helium.",
+        "D": "Neon will leak slower than helium; oxygen will leak slower than helium."
+      },
+      "correct_answer": "D",
+      "explanation": "Graham’s law of effusion states that the relative rates of effusion of two gases at the same temperature and pressure are given by the inverse ratio of the square roots of the masses of the gas particles. In other words, a gas with a higher molar mass will leak more slowly than a gas with a lower molar mass. Both neon and oxygen gases will leak at slower rates than helium because they both have more mass than helium."
+    },
+    {
+      "id": "ch8_q4",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 4,
+      "question_text": "A 0.10 g piece of magnesium is placed in a beaker of hydrochloric acid. Hydrogen gas is generated according to the following equation:  Mg (s) + 2 HCl (aq) → MgCl2 (aq) + H2 (g)  The gas is collected over water at 25°C, and the gauge pressure during the experiment reads 784 mmHg.  The gas displaces a volume of 100 mL. The vapor pressure of water at 25°C is approximately 24.0 mmHg. Based on this data, how many moles of hydrogen are produced in this reaction? (Note: R = 0.0821 L · atm mol · K = 8.314 J K · mol . )",
+      "options": {
+        "A": "4.04 × 10−5 moles hydrogen",
+        "B": "4.09 × 10−3 moles hydrogen",
+        "C": "3.07 × 10−2 moles hydrogen",
+        "D": "3.11 moles hydrogen"
+      },
+      "correct_answer": "B",
+      "explanation": "The pressure of the gas is calculated by subtracting the vapor pressure of water from the measured pressure during the experiment: 784 mmHg – 24 mmHg = 760 mmHg, or 1 atm. This is because the reaction is carried out in an aqueous environment; the water present will contribute to the partial pressures of the gas over the liquid. The ideal gas law can be used to calculate the moles of hydrogen gas. The volume of the gas is 0.100 L, the temperature is 298 K, and R = 0.0821 L · atm mol · K . Plugging in gives: n = P V R T = ( 1 atm)(0 .1 L) ( 0.0821 L · atm mol · K ) ( 298 K) ≈ 1 0.8 × 300 = 1 240 ≈ 1 250 = 0.004 (A) incorrectly substitutes 8.314 into the gas law, rather than 0.0821. Remember that the value of R depends on the other variables in the equation; using 1 atm in the numerator necessitates using 0.0821. (C) incorrectly substitutes the wrong R and keeps the pressure in mmHg. (D) also keeps the pressure in mmHg."
+    },
+    {
+      "id": "ch8_q5",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 5,
+      "question_text": "Ideal gases:\nI. have no volume.\nII. have particles with no attractive forces between them.\nIII. have no mass.",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and II only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "B",
+      "explanation": "Ideal gases are said to have no attractive forces between molecules. While each particle within the gas is considered to have negligible volume, ideal gases as a whole certainly do have a measurable volume, thus option I is eliminated. Gases have molar masses, thus option III is eliminated."
+    },
+    {
+      "id": "ch8_q6",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 6,
+      "question_text": "Which of the following best explains the difference in ideal behavior between nitrogen and fluoromethane gas?",
+      "options": {
+        "A": "Nitrogen gas is more ideal because it is smaller and forms stronger intermolecular interactions.",
+        "B": "Nitrogen gas is more ideal because it is smaller and forms weaker intermolecular interactions.",
+        "C": "Fluoromethane is more ideal because it is larger and forms stronger intermolecular interactions.",
+        "D": "Fluoromethane is more ideal because it is smaller and forms weaker intermolecular interactions."
+      },
+      "correct_answer": "B",
+      "explanation": "Deviations from ideal behavior are due either to large particle size and/or strong intermolecular forces between molecules. Nitrogen gas consists of two nitrogen atoms triple bonded. This molecule is therefore relatively small and its nonpolar triple bond leads to very weak intermolecular forces. Together, these observations support (B) as the correct answer. By contrast, fluoromethane consists of all single bonds, making this molecule somewhat larger. Furthermore, due to the polarity of the carbon-fluorine bond, this molecule can participate in dipole-dipole interactions. Fluoromethane would therefore exhibit greater deviations from ideal behavior."
+    },
+    {
+      "id": "ch8_q7",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 7,
+      "question_text": "The kinetic molecular theory states that:",
+      "options": {
+        "A": "the average kinetic energy of a molecule of gas is directly proportional to the temperature of the gas in kelvin.",
+        "B": "collisions between gas molecules are inelastic.",
+        "C": "gas particles occupy discrete areas of space.",
+        "D": "all gas molecules have the same kinetic energy at the same temperature."
+      },
+      "correct_answer": "A",
+      "explanation": "The average kinetic energy is directly proportional to the temperature of a gas in kelvin. The kinetic molecular theory states that collisions between molecules are elastic and thus do not result in a loss of energy, eliminating (B). Gas particles are assumed to take up negligible space in kinetic molecular theory, eliminating (C). While the average kinetic energy of any gas as a whole is the same at a given temperature, the particles themselves have a distribution of speeds (as seen in the Maxwell–Boltzmann distribution curve), eliminating (D)."
+    },
+    {
+      "id": "ch8_q8",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 8,
+      "question_text": "The plots of two gases at STP are shown below. One of the gases is 1.0 L of helium, and the other is 1.0 L of bromine. Which plot corresponds to each gas and why?",
+      "options": {
+        "A": "Curve A is helium and curve B is bromine because helium has a smaller molar mass than bromine.",
+        "B": "Curve A is helium and curve B is bromine because the average kinetic energy of bromine is greater than the average kinetic energy of helium.",
+        "C": "Curve A is bromine and curve B is helium because helium has a smaller molar mass than bromine.",
+        "D": "Curve A is bromine and curve B is helium because the average kinetic energy of bromine is greater than the average kinetic energy of helium."
+      },
+      "correct_answer": "C",
+      "explanation": "At STP, the difference between the distribution of speeds for helium and bromine gas is due to the difference in molar mass. Helium has a smaller molar mass than bromine. Particles with small masses travel faster than those with large masses, so the helium gas corresponds to curve B, which has a higher average speed. Because the gases are at the same temperature (273 K), they have the same average kinetic energy, eliminating (B) and (D)."
+    },
+    {
+      "id": "ch8_q9",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 9,
+      "question_text": "At sea level and 25°C, the solubility of oxygen gas in water is 1.25 × 10−3 M. In Denver, a city in the United States that lies high above sea level, the atmospheric pressure is 0.800 atm. What is the solubility of oxygen in water in Denver?",
+      "options": {
+        "A": "1.00 × 10−3 M",
+        "B": "1.05 × 10−3 M",
+        "C": "1.50 × 10−3 M",
+        "D": "2.56 × 10−3 M"
+      },
+      "correct_answer": "A",
+      "explanation": "The solubility of gases in liquids is directly proportional to the atmospheric pressure, as shown by Henry’s law. Note that the use of fractions allows this problem to be simplified more readily than it would be with decimals."
+    },
+    {
+      "id": "ch8_q10",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 10,
+      "question_text": "Given that the gases at the center of the sun have an average molar mass of 2.00 g mol , compressed to a density of 1.20 g cm 3 under 1.30 × 109 atm of pressure, what is the temperature at the center of the sun?",
+      "options": {
+        "A": "2.6 × 104 K",
+        "B": "2.6 × 106 K",
+        "C": "2.6 × 107 K",
+        "D": "2.6 × 1010 K"
+      },
+      "correct_answer": "C",
+      "explanation": "The ideal gas law can be modified to include density (ρ) because the number of moles of gas, n, is equal to the mass divided by the molar mass. Thus, P V = n R T = m M R T → P = m V × R T M = ρ R T M . Isolating for temperature gives: T = P M ρ R T = ( 1.3 × 10 9 atm) ( 2 .00 g mol ) ( 1.2 g cm 3 ) ( 1000 cm 3 L= ) ( 0.0821 L · atm mol · K ) ≈ ( 1.3 × 2 × 10 9 ) ( 1 ) ( 1000 ) ( 0 . 1 ) ≈ 2 . 6 × 10 9 100 ≈ 2 . 6 × 10 7 K"
+    },
+    {
+      "id": "ch8_q11",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 11,
+      "question_text": "The gaseous state of matter is characterized by which of the following properties?\nI. Gases are compressible.\nII. Gases assume the volume of their containers.\nIII. Gas particles exist as diatomic molecules.",
+      "options": {
+        "A": "I only",
+        "B": "I and II only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "B",
+      "explanation": "Gases are easily compressible because they travel freely with large amounts of space between molecules. Because gas particles are far apart from each other and in rapid motion, they tend to take up the volume of their container. Many gases exist as diatomic molecules, but this is not a property that characterizes all gases, eliminating option III."
+    },
+    {
+      "id": "ch8_q12",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 12,
+      "question_text": "A gas at a temperature of 27°C has a volume of 60.0 mL. What temperature change is needed to increase this gas to a volume of 90.0 mL?",
+      "options": {
+        "A": "A reduction of 150°C",
+        "B": "An increase of 150°C",
+        "C": "A reduction of 13.5°C",
+        "D": "An increase of 13.5°C"
+      },
+      "correct_answer": "B",
+      "explanation": "We will use Charles’s law. First, we must convert the temperature to kelvin by adding 273 to get 300 K as the initial temperature. Think of this as a proportionality: If the volume is multiplied by 3 2 , the temperature will also have to be multiplied by 3 2 . Thus the final temperature is 450 K, which represents a 150 K increase (which is equivalent to an increase of 150°C)."
+    },
+    {
+      "id": "ch8_q13",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 13,
+      "question_text": "How do a significant decrease in temperature and volume affect ideal gas behavior, respectively?",
+      "options": {
+        "A": "Both lead to more ideal behavior.",
+        "B": "A lower temperature leads to deviations from ideal behavior, while lower volume causes more ideal behavior.",
+        "C": "A lower temperature leads to more ideal behavior, while lower volume causes more ideal behavior.",
+        "D": "Both lead to deviations in ideal behavior."
+      },
+      "correct_answer": "D",
+      "explanation": "A decrease in temperature leads to a decrease in the kinetic energy of the particles so intermolecular interactions become more significant. This change leads to deviations from ideal behavior. Similarly, decreases in volume cause the volume of the particles themselves to become significant. This change also leads to deviations from ideal behavior. Thus, (D) is correct."
+    },
+    {
+      "id": "ch8_q14",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 14,
+      "question_text": "In which of the following situations is it impossible to predict how the pressure will change for a gas sample?",
+      "options": {
+        "A": "The gas is cooled at a constant volume.",
+        "B": "The gas is heated at a constant volume.",
+        "C": "The gas is heated, and the volume is simultaneously increased.",
+        "D": "The gas is cooled, and the volume is simultaneously increased."
+      },
+      "correct_answer": "C",
+      "explanation": "Both a change in temperature and a change in volume can affect a gas’s pressure. So if one of those two variables is kept constant, as in (A) and (B), we’ll definitely be able to predict which way the pressure will change. At a constant volume, heating the gas will increase its pressure, and cooling the gas will decrease it. What about when both temperature and volume are changing? If both changes have the same effect on pressure, then we can still predict which way it will change. This is the case in (D). Cooling the gas and increasing its volume both decrease pressure. (C), on the other hand, presents too vague a scenario for us to predict definitively the change in pressure. Heating the gas would amplify the pressure, while increasing the volume would decrease it. Without knowing the magnitude of each influence, it’s impossible to say whether the pressure would increase, decrease, or stay the same."
+    },
+    {
+      "id": "ch8_q15",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 15,
+      "question_text": "Experimenters notice that the molar concentration of dissolved oxygen in an enclosed water tank has decreased to one-half its original value. In an attempt to counter this decrease, they quadruple the partial pressure of oxygen in the container. What is the final concentration of the gas?",
+      "options": {
+        "A": "Half of the original concentration",
+        "B": "The same as the original concentration",
+        "C": "Double the original concentration",
+        "D": "Quadruple the original concentration"
+      },
+      "correct_answer": "C",
+      "explanation": "Initially the concentration of the gas is decreased to one-half its original value. Recall that concentration (solubility) and partial pressure are directly related—as one increases, the other increases. If the experimenters then quadruple the partial pressure of oxygen in the vessel, the solubility is also increased by a factor of four. One-half times four gives twice the original concentration value. Misreading the answer choices as being related to the concentration before the experimenters increased the partial pressure leads to (D)."
+    },
+    {
+      "id": "ch9_q1",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 1,
+      "question_text": "An aqueous solution was prepared by mixing 70 g of an unknown nondissociating solute into 100 g of water. The solution has a boiling point of 101.0°C. What is the molar mass of the solute? (Note: K b = 0.512 K · kg mol )",
+      "options": {
+        "A": "358 . 4 g mol",
+        "B": "32. 3 g mol",
+        "C": "123.2 g mol",
+        "D": "233. 6 g mol"
+      },
+      "correct_answer": "A",
+      "explanation": "The equation ΔTb = iKbm can be used to solve this problem. The change in boiling point is 101.0 − 100 = 1.0°C. Then, plug that into: Δ T b = i K b m → m = Δ T b i K b = 1. 0 K ( 1 ) ( 0.512 K · kg mol ) ≈ 2 m The van’t Hoff factor for this solute is 1 because the molecule does not dissociate into smaller components. Then, convert to grams of solute using the definition of molality: molality = moles of solute kg of solvent → moles of solute = ( 2 m ) ( 0.1 kg) = 0.2 mol . The mass used in this equation is 0.1 kg because 100 mL of water has a mass of 0.1 kg. Then, determine the molar mass: molar mass = 70 g 0.2 mol = 350 g mol , which is closest to (A)."
+    },
+    {
+      "id": "ch9_q2",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 2,
+      "question_text": "Which phases of solvent and solute can form a solution?\nI. Solid solvent, gaseous solute\nII. Solid solvent, solid solute\nIII. Gaseous solvent, gaseous solute",
+      "options": {
+        "A": "I and II only",
+        "B": "I and III only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "D",
+      "explanation": "All three choices can make a solution as long as the two components create a mixture that is of uniform appearance (homogeneous). Hydrogen in platinum is an example of a gas in a solid. Brass and steel are examples of homogeneous mixtures of solids. The air we breathe is an example of a homogeneous mixture of gases; while these are more commonly referred to as mixtures, they still fit the criteria of a solution."
+    },
+    {
+      "id": "ch9_q3",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 3,
+      "question_text": "Two organic liquids, pictured in the figure below, are combined to form a solution. Based on their structures, will the solution closely obey Raoult’s law?",
+      "options": {
+        "A": "Yes; the liquids differ due to the additional methyl group on toluene and, therefore, will not deviate from Raoult’s law.",
+        "B": "Yes; the liquids are very similar and, therefore, will not deviate from Raoult’s law.",
+        "C": "No; the liquids differ due to the additional methyl group on toluene and, therefore, will deviate from Raoult’s law.",
+        "D": "No; the liquids both contain benzene rings, which will interact with each other and cause deviation from Raoult’s law."
+      },
+      "correct_answer": "B",
+      "explanation": "Benzene and toluene are both organic liquids and have very similar properties. They are both nonpolar and are almost exactly the same size. Raoult’s law states that ideal solution behavior is observed when solute–solute, solvent–solvent, and solute–solvent interactions are all very similar. Therefore, benzene and toluene in solution will be predicted to behave as a nearly ideal solution."
+    },
+    {
+      "id": "ch9_q4",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 4,
+      "question_text": "Which of the following explanations best describes the mechanism by which solute particles affect the melting point of ice?",
+      "options": {
+        "A": "Melting point is elevated because the kinetic energy of the substance increases.",
+        "B": "Melting point is elevated because the kinetic energy of the substance decreases.",
+        "C": "Melting point is depressed because solute particles interfere with lattice formation.",
+        "D": "Melting point is depressed because solute particles enhance lattice formation."
+      },
+      "correct_answer": "C",
+      "explanation": "Melting point depresses upon solute addition, making (A) and (B) incorrect. Solute particles interfere with lattice formation, the highly organized state in which solid molecules align themselves. Colder-than-normal conditions are necessary to create the solid structure."
+    },
+    {
+      "id": "ch9_q5",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 5,
+      "question_text": "The process of formation of a salt solution can be better understood by breaking the process into three steps:   Which of the following correctly lists the enthalpy changes for these three steps, respectively?",
+      "options": {
+        "A": "Endothermic, exothermic, endothermic",
+        "B": "Exothermic, endothermic, endothermic",
+        "C": "Exothermic, exothermic, endothermic",
+        "D": "Endothermic, endothermic, exothermic"
+      },
+      "correct_answer": "D",
+      "explanation": "The first step will most likely be endothermic because energy is required to break molecules apart. The second step is also endothermic because the intermolecular forces in the solvent must be overcome to allow incorporation of solute particles. The third step will most likely be exothermic because polar water molecules will interact with the dissolved ions, creating a stable solution and releasing energy."
+    },
+    {
+      "id": "ch9_q6",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 6,
+      "question_text": "The entropy change when a solution forms can be expressed by the term ΔS°soln. When water molecules become ordered around an ion as it dissolves, the ordering would be expected to make a negative contribution to ΔS°soln. An ion that has more charge density will have a greater hydration effect, or ordering of water molecules. In an experiment, an equimolar amount of each of the following aqueous soluble compounds is dissolved in its own test tube containing 100 mL of water. Which will have the most negative contribution to ΔS°soln? (Assume that the charge density of each ion is equal to its actual charge.)",
+      "options": {
+        "A": "KCl",
+        "B": "CsI",
+        "C": "BeF2",
+        "D": "NaCl"
+      },
+      "correct_answer": "C",
+      "explanation": "BeF2 will cause the most negative contribution to ΔS°soln through the hydration effect because Be2+ cation has the highest charge density compared to the other ions. All of the other ions have a charge density of +1 or –1, whereas Be2+ has a charge density of magnitude two."
+    },
+    {
+      "id": "ch9_q7",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 7,
+      "question_text": "When ammonia, NH3, is used as a solvent, it can form complex ions. For example, dissolving AgCl in NH3 will result in the complex ion [Ag(NH3)]2+. What effect would the formation of complex ions have on the solubility of a compound like AgCl in NH3?",
+      "options": {
+        "A": "The solubility of AgCl will increase because complex ion formation will cause more ions to exist in solution, which interact with AgCl to cause it to dissociate.",
+        "B": "The solubility of AgCl will increase because complex ion formation will consume Ag+ ions and cause the equilibrium to shift away from solid AgCl.",
+        "C": "The solubility of AgCl will decrease because Ag+ ions are in complexes, and the Ag+ ions that are not complexed will associate with Cl− to form solid AgCl.",
+        "D": "The solubility of AgCl will decrease because complex ion formation will consume Ag+ ions and cause the equilibrium to shift toward the solid AgCl."
+      },
+      "correct_answer": "B",
+      "explanation": "Formation of complex ions between silver ions and ammonia will cause more molecules of solid AgCl to dissociate. The equilibrium is driven toward dissociation because the Ag+ ions are essentially being removed from solution when they complex with ammonia. This rationale is based upon Le Châtelier’s principle, stating that when a chemical equilibrium experiences a change in concentration, the system will shift to counteract that change."
+    },
+    {
+      "id": "ch9_q8",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 8,
+      "question_text": "One hundred grams of sucrose are dissolved in a cup of hot water at 80°C. The cup of water contains 300.00 mL of water. What is the percent composition by mass of sugar in the resulting solution? (Note: Sucrose = C12H22O11, density of water at 80 ° C = 0.975 g mL )",
+      "options": {
+        "A": "25.0%",
+        "B": "25.5%",
+        "C": "33.3%",
+        "D": "34.2%"
+      },
+      "correct_answer": "B",
+      "explanation": "The mass percent of a solute equals the mass of the solute divided by the mass of the total solution times 100%. mass % = mass of solute total mass of solution ×100%. Plug in the values given for sucrose, the volume of water and the density of water to determine the % mass of sucrose: 100 g sucrose ( 300 mL H 2 O ) ( 0 . 975 g/mL ) + 100 g sucrose × 100 % ≈ 100 300 + 100 × 100 % = 100 400 × 100 % = 25 % Keep in mind that in rounding while calculating, the denominator was estimated to be larger than the actual value, thus giving an answer that is slightly lower than the actual value. Thus, the correct answer is (B), 25.5%. (A) results if rounding error is not taken into account. While these answers are very close, the mass of the water must be slightly less than 300 g, given the density value, so the percent composition of sucrose must be slightly higher than 25%. If the solute’s mass is not added to the solvent’s, the calculated value is 34.2%, which is (D). (C) neglects both the addition step and the rounding error."
+    },
+    {
+      "id": "ch9_q9",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 9,
+      "question_text": "Which of the following combinations of liquids would be expected to have a vapor pressure higher than the vapor pressure that would be predicted by Raoult’s law?",
+      "options": {
+        "A": "Ethanol and hexane",
+        "B": "Acetone and water",
+        "C": "Isopropanol and methanol",
+        "D": "Nitric acid and water"
+      },
+      "correct_answer": "A",
+      "explanation": "Mixtures that have a higher vapor pressure than predicted by Raoult’s law have stronger solvent–solvent and solute–solute interactions than solvent–solute interactions. Therefore, particles do not want to stay in solution and more readily evaporate, creating a higher vapor pressure than an ideal solution. Two liquids that have different properties, like hexane (hydrophobic) and ethanol (hydrophilic, small) in (A), would not have many interactions with each other and would cause positive deviation (i.e. higher vapor pressure). (B) and (C) are composed of liquids that are similar to one another and would not show significant deviation from Raoult’s law. (D) contains two liquids that would interact very well with each other, which would actually cause a negative deviation from Raoult’s law—when attracted to one other, solutes and solvents prefer to stay in liquid form and have a lower vapor pressure than predicted by Raoult’s law."
+    },
+    {
+      "id": "ch9_q10",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 10,
+      "question_text": "The salt KCl is dissolved in a beaker. To an observer holding the beaker, the solution begins to feel colder as the KCl dissolves. From this observation, one could conclude that:",
+      "options": {
+        "A": "ΔS°soln is large enough to overcome the unfavorable ΔH°soln.",
+        "B": "KCl is mostly insoluble in water.",
+        "C": "ΔS°soln must be negative when KCl dissolves.",
+        "D": "boiling point depression will occur in this solution."
+      },
+      "correct_answer": "A",
+      "explanation": "Dissolution is governed by enthalpy and entropy, which are related by the equation ΔG°soln = ΔH°soln − TΔS°soln. The cooling of the solution indicates that heat is used up in this bond-breaking reaction. In other words, dissolution is endothermic, and ΔH is positive. The reaction is occurring spontaneously, so ΔG must be negative. The only way that a positive ΔH can result in a negative ΔG is if entropy, ΔS, is a large, positive value as in (A). Conceptually, that means that the only way the solid can dissolve is if the increase in entropy is great enough to overcome the increase in enthalpy. (B) is incorrect because it is clearly stated in the question stem that KCl dissolves; further, all salts of Group 1 metals are soluble. (C) is incorrect because ΔS°soln must be positive in order for KCl to dissolve. Finally, (D) is incorrect because solute dissolution would cause the boiling point to elevate, not depress. It is also not a piece of evidence that could be found simply by observing the beaker’s temperature change."
+    },
+    {
+      "id": "ch9_q11",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 11,
+      "question_text": "Which of the following will cause the greatest increase in the boiling point of water when it is dissolved in 1.00 kg H2O?",
+      "options": {
+        "A": "0.4 mol calcium sulfate",
+        "B": "0.5 mol iron(III) nitrate",
+        "C": "1.0 mol acetic acid",
+        "D": "1.0 mol sucrose"
+      },
+      "correct_answer": "B",
+      "explanation": "The equation to determine the change in boiling point of a solution is as follows: ΔTb = iKbm. m is the molality of the solution, and Kb is the boiling point elevation constant. In this case, the solvent is always water, so Kb will be the same for each solution. What is needed is the number of dissociated particles from each of the original species. This is referred to as the van’t Hoff factor (i) and is multiplied by molality to give a normality (the concentration of the species of interest—in this case, all particles). The normality values determine which species causes the greatest change in boiling point. The choice is between iron(III) nitrate and acetic acid. The fact that acetic acid is a weak acid indicates that only a few particles will dissociate into H+ and acetate. Therefore, the normality of the acetic acid will be much closer to 1.0 than 2.0."
+    },
+    {
+      "id": "ch9_q12",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 12,
+      "question_text": "Reverse osmosis is a process that allows fresh water to be obtained by using pressure to force an impure water source through a semi-permeable membrane that only allows water molecules to pass. What is the minimum pressure that would be required to purify seawater at 25°C that has a total osmolarity of 1,000 mOsm/L?",
+      "options": {
+        "A": "23.5 atm",
+        "B": "24.5 atm",
+        "C": "24,000 atm",
+        "D": "24,500 atm"
+      },
+      "correct_answer": "B",
+      "explanation": "Osmotic pressure is given by the formula Π = i M R T . Entering the values from the question stem gives: Π = ( 1000 × 10 - 3 mOsm/L)(0.0812 L·atm/mol·K)(298 K) ≈ 1 × 0 . 08 × 300 = 24 atm actual value = 24.2 atm Notice that the concentration of seawater is given for all solutes, which represents i×M. It is also given in mOsm/L, which is converted to moles per liter by multiplying by 10-3. Also, the question asks for the minimum pressure required, which means that the correct answer choice must be slightly above the calculated pressure in order for reverse osmosis to proceed."
+    },
+    {
+      "id": "ch9_q13",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 13,
+      "question_text": "Lead is a toxic element that can cause many symptoms, including intellectual disabilities in children. If a body of water is polluted with lead ions at 200 ppb (parts per billion), what is the concentration of lead expressed as molarity? (Note: The density of water is 1 g mL , and ppb = grams per 109 grams of solution)",
+      "options": {
+        "A": "9.7 × 10−10 M Pb2+",
+        "B": "9.7 × 10−7 M Pb2+",
+        "C": "6.2 × 10−7 M Pb2+",
+        "D": "6.2 × 10−6 M Pb2+"
+      },
+      "correct_answer": "B",
+      "explanation": "200 ppb of Pb2+ is equivalent to 200 grams of Pb2+ in 109 grams of solution; given the extremely low concentration of lead, the mass of the water can be assumed to be approximately 109 grams, as well. To solve, set up a dimensional analysis question. The units needed at the end are moles per liter (molarity), so convert from grams of lead to moles of lead and grams of water to liters of water: [ 200 g Pb 2 + 10 9 g H 2 O ] [ 10 3 g H 2 O 1 L ] [ 1 mol Pb 2 + 207.2 g Pb 2 + ] ≈ 200 × 10 3 200 × 10 9 = 1 × 10 − 6 M = 10 × 10 - 7 M ( actual value = 9 . 67 × 10 - 7 M ) Note that the denominator was rounded to a smaller number, meaning the estimated answer is slightly larger than the actual value."
+    },
+    {
+      "id": "ch9_q14",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 14,
+      "question_text": "A saturated solution of aqueous cobalt(III) hydroxide (Ksp = 1.6 × 10−44) is added to a saturated solution of aqueous thallium(III) hydroxide (Ksp = 6.3 × 10−46). What is likely to occur?",
+      "options": {
+        "A": "Both cobalt(III) hydroxide and thallium(III) hydroxide remain stable in solution.",
+        "B": "Thallium(III) hydroxide precipitates and cobalt(III) hydroxide remains stable in solution.",
+        "C": "Cobalt(III) hydroxide precipitates and thallium(III) hydroxide remains stable in solution.",
+        "D": "Both thallium(III) hydroxide and cobalt(III) hydroxide precipitate."
+      },
+      "correct_answer": "A",
+      "explanation": "This question is actually more complicated than it seems since hydroxide is involved. In aqueous solution, the concentration of hydroxide from the autoionization of water is 10–7 M. This concentration is significantly greater (approximately 10,000× greater) than the amount of hydroxide that would be produced by the dissociation of either salt. Thus, the concentration of hydroxide is set by water, not by the dissociation of cobalt(III) hydroxide and thallium(III) hydroxide. When the two solutions are mixed, the concentration of hydroxide does not change. However, in mixing the two solutions, the concentration of the metal ions decreases as a consequence of dilution. As a result, both solutions would be below saturation, justifying (A) as the correct answer."
+    },
+    {
+      "id": "ch9_q15",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 15,
+      "question_text": "The following equilibrium exists when AgBr (Ksp = 5.35 × 10−13) is in solution:  AgBr (s) ⇌ Ag+ (aq) + Br− (aq)  What is the solubility of AgBr in a solution of 0.0010 M NaBr?",
+      "options": {
+        "A": "5 . 35 × 10 − 13 g L",
+        "B": "1. 04 × 10 − 12 g L",
+        "C": "5 . 35 × 10 − 10 g L",
+        "D": "1. 04 × 10 − 7 g L"
+      },
+      "correct_answer": "D",
+      "explanation": "The solubility of AgBr can be determined using the Ksp value given in the equation. Some amount of AgBr will dissolve; this is the molar solubility x for these conditions. When AgBr dissociates, there will be x amount of silver(I) formed and x amount of bromide—which is added to the 0.0010 M Br- already present from NaBr. AgBr ⇌ Ag + + Br − K sp = [ Ag + ] [ Br − ] 5 . 35 × 10 − 13 = ( x ) ( 0.0010 M + x ) Given the Ksp of 5.4 × 10–13, x will be negligible compared to 0.0010 M. Thus, the math can be simplified to: 5 . 35 × 10 - 13 = ( x ) ( 0 . 0010 ) x = 5 . 35 × 10 - 13 10 - 3 = 5 . 35 × 10 - 10 Therefore, x, the molar solubility, is 5.35 × 10−10, which looks like (C). However, the units of the answer choices are grams per liter, not molarity, and the result must be multiplied by the molar mass ( 187.8 g mol ) : 5 . 35 × 10 − 10 mol L × 187.8 g mol ≈ 5 × 10 − 10 × 200 = 1 , 000 × 10 − 10 = 1 × 10 − 7 which is close to (D). Note that a very accurate approximation was reached by rounding down the first number and rounding up the second, balancing the error."
+    },
+    {
+      "id": "ch10_q1",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 1,
+      "question_text": "Which of the following is not a Brønsted–Lowry base?",
+      "options": {
+        "A": "",
+        "B": "F−",
+        "C": "",
+        "D": "H — O — N = O"
+      },
+      "correct_answer": "D",
+      "explanation": "A Brønsted–Lowry base is defined as a proton acceptor. Ammonia, fluoride, and water— (A), (B), and (C), respectively—each accept a proton. (D), HNO2, is a far better Brønsted–Lowry acid, donating a proton to a solution."
+    },
+    {
+      "id": "ch10_q2",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 2,
+      "question_text": "Which of the following is closest to the pH of a solution containing 5 mM H2SO4?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "B",
+      "explanation": "First, convert the concentration to 5 × 10−3 M. Next, because sulfuric acid is a strong acid, we can assume that, for the majority of sulfuric acid molecules (although not all), both protons will dissociate. The concentration of hydrogen ions is therefore 2 × 5 × 10−3, or 10−2. The equation for pH is pH = −log [H+]. If [H+] = 10−2 M, then pH = 2."
+    },
+    {
+      "id": "ch10_q3",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 3,
+      "question_text": "Which of the following represents chloric acid?",
+      "options": {
+        "A": "HClO3",
+        "B": "ClO3−",
+        "C": "HClO2",
+        "D": "HClO"
+      },
+      "correct_answer": "A",
+      "explanation": "Answering this question is simply a matter of knowing nomenclature. Acids ending in –ic are derivatives of anions ending in –ate, while acids ending in –ous are derivatives of anions ending in –ite. ClO3−, (B), is chlorate because it has more oxygen than the other commonly occurring ion, ClO2−, which is named chlorite. Therefore, HClO3 is chloric acid. HClO2, (C), represents chlorous acid. HClO, (D), represents hypochlorous acid."
+    },
+    {
+      "id": "ch10_q4",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 4,
+      "question_text": "Which of the following bases is the weakest?",
+      "options": {
+        "A": "KOH",
+        "B": "NH3",
+        "C": "CH3NH2",
+        "D": "Ca(OH)2"
+      },
+      "correct_answer": "B",
+      "explanation": "Soluble hydroxides of Group IA and IIA metals are strong bases, eliminating (A) and (D). (B) and (C) are both weak bases; however, methylamine contains an alkyl group, which is electron-donating. This increases the electron density on the nitrogen in methylamine, making it a stronger (Lewis) base. Therefore, ammonia is the weakest base."
+    },
+    {
+      "id": "ch10_q5",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 5,
+      "question_text": "The function of a buffer is to:",
+      "options": {
+        "A": "maintain a neutral pH.",
+        "B": "resist changes in pH when small amounts of acid or base are added.",
+        "C": "slow down reactions between acids and bases.",
+        "D": "speed up reactions between acids and bases."
+      },
+      "correct_answer": "B",
+      "explanation": "The purpose of a buffer is to resist changes in the pH of a reaction. Buffers are not generally used to affect the kinetics of a reaction, so (C) and (D) are incorrect. (A) is true only in specific circumstances where the pH of the buffer solution itself is neutral. Many natural buffer systems maintain pH in the acidic or basic ranges."
+    },
+    {
+      "id": "ch10_q6",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 6,
+      "question_text": "What is the pH of a solution with an ammonium concentration of 70 mM and an ammonia concentration of 712 mM? (Note: The pKb of ammonia is 3.45.)",
+      "options": {
+        "A": "2.45",
+        "B": "4.45",
+        "C": "9.55",
+        "D": "11.55"
+      },
+      "correct_answer": "D",
+      "explanation": "The question is asking for pH, but because of the information given, we must first find the pOH and then subtract it from 14 to get the pH. Use the Henderson–Hasselbalch equation: pOH = p K b + log [ conjugate acid] [ base] = 3.45 + log 70 m M 712 m M ≈ 3.45 + log 1 10 = 3.45 − 1 = 2.45 If the pOH = 2.45, the pH = 14 − 2.45 = 11.55."
+    },
+    {
+      "id": "ch10_q7",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 7,
+      "question_text": "What is the approximate value of p K a1 ?",
+      "options": {
+        "A": "1.9",
+        "B": "2.9",
+        "C": "3.8",
+        "D": "4.1"
+      },
+      "correct_answer": "A",
+      "explanation": "The first pKa in this curve can be estimated by eye. It is located halfway between the starting point (when no base had yet been added) and the first equivalence point (the first steep portion of the graph, around 15 mL). This point is at approximately 7–8 mL on the x-axis, which corresponds to a pH of approximately 1.9. Notice that this region experiences very little change in pH, which is the defining characteristic of a buffer region."
+    },
+    {
+      "id": "ch10_q8",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 8,
+      "question_text": "At what pH is the second equivalence point?",
+      "options": {
+        "A": "pH = 3.0",
+        "B": "pH = 4.1",
+        "C": "pH = 5.9",
+        "D": "pH = 7.2"
+      },
+      "correct_answer": "C",
+      "explanation": "The second equivalence point is the midpoint of the second steep increase in slope. This corresponds to approximately pH = 5.9."
+    },
+    {
+      "id": "ch10_q9",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 9,
+      "question_text": "What is the approximate value of pKa2?",
+      "options": {
+        "A": "3.6",
+        "B": "4.1",
+        "C": "5.5",
+        "D": "7.2"
+      },
+      "correct_answer": "B",
+      "explanation": "The value of the second pKa is found at the midpoint between the first and second equivalence points. In this curve, that corresponds to pH = 4.1. Just like the first pKa, it is in the center of a flat buffering region."
+    },
+    {
+      "id": "ch10_q10",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 10,
+      "question_text": "What is the gram equivalent weight of phosphoric acid?",
+      "options": {
+        "A": "24.5 g",
+        "B": "32.7 g",
+        "C": "49.0 g",
+        "D": "98.0 g"
+      },
+      "correct_answer": "B",
+      "explanation": "Gram equivalent weight is the weight (in grams) that releases 1 acid or base equivalent from a compound. Because H3PO4 contains 3 protons, we find the gram equivalent weight by dividing the mass of one mole of the species by 3. The molar mass of phosphoric acid is 98 g mol , so the gram equivalent weight is 32.7 g."
+    },
+    {
+      "id": "ch10_q11",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 11,
+      "question_text": "What is the [H3O+] of a 2 M aqueous solution of a weak acid HXO2 with Ka = 3.2 × 10−5?",
+      "options": {
+        "A": "6.4 × 10−5 M",
+        "B": "1.3 × 10−4 M",
+        "C": "4.0 × 10−3 M",
+        "D": "8.0 × 10−3 M"
+      },
+      "correct_answer": "D",
+      "explanation": "This question requires the application of the acid dissociation constant. Weak acids do not dissociate completely; therefore, all three species that appear in the balanced equation will be present in solution. Hydrogen ions and conjugate base anions dissociate in equal amounts, so [H+] = [XO2−]. If the initial concentration of HXO2 was 2 M and some amount x dissociates, we will have x amount of H3O+ and XO2− at equilibrium, with 2 M − x amount of HXO2 at equilibrium. K a = [ H 3 O + ] [ XO 2 − ] [ HXO 2 ] = ( x ) ( x ) 2 M − x ≈ x 2 2 Note that x was considered negligible when added or subtracted, per usual. Solving for x, we get: x 2 2 = 3.2 × 10 − 5 → x 2 = 6.4 × 10 − 5 = 64 × 10 − 6 → x = 8 × 10 − 3 M"
+    },
+    {
+      "id": "ch10_q12",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 12,
+      "question_text": "A solution is prepared with an unknown concentration of a theoretical compound with a Ka of exactly 1.0. What is the pH of this solution?",
+      "options": {
+        "A": "Higher than 7",
+        "B": "Exactly 7",
+        "C": "Less than 7",
+        "D": "There is not enough information to answer the question."
+      },
+      "correct_answer": "C",
+      "explanation": "A higher Ka implies a stronger acid. Weak acids usually have a Ka that is several orders of magnitude below 1. The pKa of a compound is the pH at which there are equal concentrations of acid and conjugate base; the pKa of this compound would be −log 1 = 0. With such a low pKa, this compound must be an acid. Therefore, the pH of any concentration of this compound must be below 7."
+    },
+    {
+      "id": "ch10_q13",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 13,
+      "question_text": "Which of the following is NOT a characteristic of an amphoteric species?",
+      "options": {
+        "A": "Amphoteric species can act as an acid or a base, depending on its environment.",
+        "B": "Amphoteric species can act as an oxidizing or reducing agent, depending on its environment.",
+        "C": "Amphoteric species are sometimes amphiprotic.",
+        "D": "Amphoteric species are always nonpolar."
+      },
+      "correct_answer": "D",
+      "explanation": "An amphoteric species is one that can act either as an acid or a base, depending on its environment. Proton transfers are classic oxidation–reduction reactions, so (A) and (B) are true. (C) is true because many amphoteric species, such as water and bicarbonate, can either donate or accept a proton. (D) is false, and thus the correct answer because amphoteric species can be either polar or nonpolar in nature."
+    },
+    {
+      "id": "ch10_q14",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 14,
+      "question_text": "What is the approximate pH of a 1.2 × 10−5 M aqueous solution of NaOH?",
+      "options": {
+        "A": "4.92",
+        "B": "7.50",
+        "C": "9.08",
+        "D": "12.45"
+      },
+      "correct_answer": "C",
+      "explanation": "NaOH is a strong base; as such, there will be 1.2 × 10−5 M OH− in solution. Based on this information alone, the pOH must be between 4 and 5, and the pH must be between 9 and 10. Using the shortcut, pOH ≈ 5 − 0.12 = 4.88. pH = 14 − pOH = 9.12 (actual = 9.08)."
+    },
+    {
+      "id": "ch10_q15",
+      "chapter": 10,
+      "chapter_title": "Acids and Bases",
+      "question_number": 15,
+      "question_text": "How many liters of 2 M Ba(OH)2 are needed to titrate a 4 L solution of 6 M H3PO4?",
+      "options": {
+        "A": "1.33 L",
+        "B": "12 L",
+        "C": "18 L",
+        "D": "56 L"
+      },
+      "correct_answer": "C",
+      "explanation": "Use the equivalence point equation: NaVa = NbVb. Ba(OH)2 can dissociate to give two hydroxide ions, so its normality is 2 M × 2 = 4 N. H3PO4 can dissociate to give three hydronium ions, so its normality is 6 M × 3 = 18 N. Plugging into the equation, we get (18 N)(4 L) = (4 N)(Vb). Therefore, Vb is 18 L."
+    },
+    {
+      "id": "ch11_q1",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 1,
+      "question_text": "Consider the following equation: 6 Na (s) + 2 NH3 (aq) → 2 Na3N (s) + 3 H2 (g)  Which species acts as an oxidizing agent?",
+      "options": {
+        "A": "Na",
+        "B": "N in NH3",
+        "C": "H in NH3",
+        "D": "H2"
+      },
+      "correct_answer": "C",
+      "explanation": "The oxidizing agent is the species that is reduced in any given equation. In this problem, six hydrogen atoms with +1 oxidation states in NH3 are reduced to three neutral H2 molecules."
+    },
+    {
+      "id": "ch11_q2",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 2,
+      "question_text": "How many electrons are involved in the following half-reaction after it is balanced?  Cr2O72− + H+ + e− → Cr2+ + H2O",
+      "options": {
+        "A": "2",
+        "B": "8",
+        "C": "12",
+        "D": "16"
+      },
+      "correct_answer": "B",
+      "explanation": "First, balance the atoms in the equation: Cr2O72− + 14 H+ → 2 Cr2+ + 7 H2O Now, adjust the number of electrons to balance the charge. Currently, the left side has a charge of +12 (–2 from dichromate and +14 from protons). The right side has a charge of +4 (+2 from each chromium cation). To decrease the charge on the left side from +12 to +4, we should add 8 electrons: Cr2O72− + 14 H+ + 8 e− → 2 Cr2+ + 7 H2O"
+    },
+    {
+      "id": "ch11_q3",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 3,
+      "question_text": "Lithium aluminum hydride (LiAlH4) is often used in laboratories because of its tendency to donate a hydride ion. Which of the following roles would lithium aluminum hydride likely play in a reaction?",
+      "options": {
+        "A": "Strong reducing agent only",
+        "B": "Strong oxidizing agent only",
+        "C": "Both a strong reducing agent and strong oxidizing agent",
+        "D": "Neither a strong reducing agent nor a strong oxidizing agent"
+      },
+      "correct_answer": "A",
+      "explanation": "Hydride ions are composed of a hydrogen nucleus with two electrons, thereby giving it a negative charge and a considerable tendency to donate electrons. LiAlH4 is therefore a strong reducing agent. Strong reducing agents tend to have metals or hydrides; strong oxidizing agents tend to have oxygen or a similarly electronegative element."
+    },
+    {
+      "id": "ch11_q4",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 4,
+      "question_text": "What is the oxidation number of chlorine in NaClO?",
+      "options": {
+        "A": "–1",
+        "B": "0",
+        "C": "+1",
+        "D": "+2"
+      },
+      "correct_answer": "C",
+      "explanation": "In NaClO (sodium hypochlorite), sodium carries its typical +1 charge, and oxygen carries its typical –2 charge. This means that the chlorine atom must carry a +1 charge in order to balance the overall charge of zero."
+    },
+    {
+      "id": "ch11_q5",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 5,
+      "question_text": "The following electronic configurations represent elements in their neutral form. Which element is the strongest oxidizing agent?",
+      "options": {
+        "A": "1s22s22p63s23p64s2",
+        "B": "1s22s22p63s23p64s23d5",
+        "C": "1s22s22p63s23p64s23d104p1",
+        "D": "1s22s22p63s23p64s23d104p5"
+      },
+      "correct_answer": "D",
+      "explanation": "A strong oxidizing agent will be easily reduced, meaning that it will have a tendency to gain electrons. Atoms usually gain electrons if they are one or two electrons away from filling up their valence shell. (A) has a full 4s-orbital, meaning that it can only gain an electron if it gains an entire subshell. (B) has a stable, half-full 3d-orbital, so it is unlikely to pick up electrons unless it can gain five. (C) has only a single electron in the outer shell, which is more likely lost upon ionization. (D) would fill up its 4p-orbital by gaining one electron, so it is easily reduced."
+    },
+    {
+      "id": "ch11_q6",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 6,
+      "question_text": "Which of the following is the correct net ionic reaction for the reaction of copper with silver(I) nitrate?",
+      "options": {
+        "A": "Cu + AgNO3 → Cu(NO3)2 + Ag",
+        "B": "Cu + 2 Ag+ + 2 NO3− → Cu2+ + 2 NO3− + 2 Ag",
+        "C": "2 Ag+ + 2 NO3− → 2 NO3− + 2 Ag+",
+        "D": "Cu + 2 Ag+ → Cu2+ + 2 Ag"
+      },
+      "correct_answer": "D",
+      "explanation": "A net ionic equation represents each of the aqueous ions comprising the reactants and products as individual ions, instead of combining them as formula units. Thus, (A) is not a net ionic reaction. The term net means that the correct answer does not include any spectator ions (ions that do not participate in the reaction). In this reaction, nitrate (NO3−) remains unchanged. Therefore, (B) and (C) are eliminated."
+    },
+    {
+      "id": "ch11_q7",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 7,
+      "question_text": "One way to test for the presence of iron in solution is by adding potassium thiocyanate to the solution. The product when this reagent reacts with iron is FeSCN2+, which creates a dark red color in solution via the following net ionic equation:  Fe3+ + SCN– → FeSCN2+  How many grams of iron sulfate would be needed to produce 2 moles of FeSCN2+?",
+      "options": {
+        "A": "110 g",
+        "B": "220 g",
+        "C": "400 g",
+        "D": "500 g"
+      },
+      "correct_answer": "C",
+      "explanation": "What you are shown is a net ionic equation. If two moles of FeSCN are created, two moles of Fe3+ must be used because the mole ratio is 1:1. Iron sulfate has the formula Fe2(SO4)3 because sulfate has a charge of –2 and iron has a charge of +3 (based on the net ionic equation). Therefore, one mole of iron sulfate is needed to make two moles of iron for the reaction. The molar mass of iron sulfate is 2 × 55.8 g mol + 3 × 32.1 g mol + 12 × 16.0 g mol = 399.9 g mol This most closely matches answer (C). The most common error would be to calculate the amount of iron, which would be 111.6 g, (A)."
+    },
+    {
+      "id": "ch11_q8",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 8,
+      "question_text": "During the assigning of oxidation numbers, which of the following elements would most likely be determined last?",
+      "options": {
+        "A": "Ar",
+        "B": "F",
+        "C": "Sr",
+        "D": "Ir"
+      },
+      "correct_answer": "D",
+      "explanation": "When assigning oxidation numbers, one starts with elements of known oxidation state first, and determines the oxidation state of the other elements by deduction. As a noble gas, argon, (A), will always have an oxidation state of 0. As a Group VIIA element, fluorine, (B), will have an oxidation state of 0 (by itself) or –1 (in a compound). As a Group IIA element, strontium, (C), will have an oxidation state of 0 (by itself) or +2 (in a compound). Like most transition metals, iridium, (D), can have various oxidation states, ranging from –3 to +8. Therefore, one would have to determine the oxidation states of other atoms in an iridium-containing compound to determine iridium’s oxidation number."
+    },
+    {
+      "id": "ch11_q9",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 9,
+      "question_text": "As methanol is converted to methanal, and then methanoic acid, the oxidation number of the carbon:",
+      "options": {
+        "A": "increases.",
+        "B": "decreases.",
+        "C": "increases, then decreases.",
+        "D": "decreases, then increases."
+      },
+      "correct_answer": "A",
+      "explanation": "The formula for methanol is H3COH, for methanal is HCHO, and for methanoic acid is HCOOH. If we assign oxidation numbers to carbon in each molecule, it starts at –2, then becomes 0, then becomes +2: In general, it is often easier to think of oxidation as a gain of bonds to oxygen (or a similarly electronegative element) or loss of bonds to hydrogen for organic compounds. Therefore, because the carbon is oxidized as one converts from an alcohol to an aldehyde to a carboxylic acid, the oxidation number must increase."
+    },
+    {
+      "id": "ch11_q10",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 10,
+      "question_text": "In the compound KH2PO4, which element has the highest oxidation number?",
+      "options": {
+        "A": "K",
+        "B": "H",
+        "C": "P",
+        "D": "O"
+      },
+      "correct_answer": "C",
+      "explanation": "Start with the atoms that have oxidation states of which you are certain. Potassium is a Group IA metal, and therefore must have an oxidation state of +1. Hydrogen is almost always +1, unless it is paired with a less electronegative element (which is not the case here). Oxygen is generally –2. Because there are four oxygens, they create a total negative charge of –8 which is partially balanced by two hydrogens (+2) and potassium (+1). Therefore, phosphorus has a +5 charge, making it the highest oxidation state."
+    },
+    {
+      "id": "ch11_q11",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 11,
+      "question_text": "If a certain metal has multiple oxidation states, its acidity as an oxide generally increases as the oxidation state increases. Therefore, which of the following tungsten compounds is likely to be the strongest acid?",
+      "options": {
+        "A": "WO2",
+        "B": "WO3",
+        "C": "W2O3",
+        "D": "W2O5"
+      },
+      "correct_answer": "B",
+      "explanation": "Recall that oxygen has an oxidation state of –2. Therefore, in tungsten(IV) oxide, (A), tungsten has an oxidation state of +4. In tungsten(VI) oxide, (B), it has an oxidation state of +6. In tungsten(III) oxide, (C), it is +3. In tungsten pentoxide, (D), it is +5."
+    },
+    {
+      "id": "ch11_q12",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 12,
+      "question_text": "Consider the following steps in the reaction between oxalic acid and chlorine:   Which of these steps, occurring in aqueous solution, is an example of a disproportionation reaction?\nI. Cl2 + H2O → HOCl + Cl– + H+\nII. H2C2O4 → H+ + HC2O4−\nIII. HOCl + HC2O4− → H2O + Cl− + 2 CO2",
+      "options": {
+        "A": "I only",
+        "B": "III only",
+        "C": "I and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "A",
+      "explanation": "Step I is a disproportionation reaction because chlorine starts with an oxidation state of 0 in the reactants and ends up with an oxidation state of +1 in HOCl and –1 as Cl–. In the other reactions, no element appears with different oxidation states in two different products. Therefore, only step I is a disproportionation reaction."
+    },
+    {
+      "id": "ch11_q13",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 13,
+      "question_text": "Potentiometry in an oxidation–reduction titration is analogous to performing an acid–base titration with a(n):",
+      "options": {
+        "A": "acidic indicator.",
+        "B": "basic indicator.",
+        "C": "pH meter.",
+        "D": "oxidizing agent."
+      },
+      "correct_answer": "C",
+      "explanation": "Potentiometry refers to carrying out an oxidation–reduction titration with a voltmeter present to get precise readings of the reaction’s electromotive force (emf) to determine the endpoint. This is analogous to using a pH meter in an acid–base titration because it uses technology to get precise readings for plotting a titration curve. Indicators, as in (A) and (B), can be used in both acid–base and redox titrations, but provide a qualitative (rather than quantitative) analysis of the titration. Oxidizing and reducing agents are used in redox titrations, not acid–base titrations, eliminating (D)."
+    },
+    {
+      "id": "ch11_q14",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 14,
+      "question_text": "After balancing the following oxidation–reduction reaction, what is the sum of the stoichiometric coefficients of all of the reactants and products?  S8 (s) + NO3− (aq) → SO32− (aq) + NO (g)",
+      "options": {
+        "A": "4",
+        "B": "50",
+        "C": "91",
+        "D": "115"
+      },
+      "correct_answer": "D",
+      "explanation": "Utilize the method described earlier to balance this redox reaction. The balanced half-reactions are: To get equal numbers of electrons in each half-reaction, the oxidation half-reaction will have to be multiplied by 3, and the reduction half-reaction will have to be multiplied by 32: This makes the overall reaction: 3 S8 + 32 NO3− + 8 H2O → 24 SO32− + 32 NO + 16 H+ The sum of the stoichiometric coefficients is therefore: 3 + 32 + 8 + 24 + 32 + 16 = 115."
+    },
+    {
+      "id": "ch11_q15",
+      "chapter": 11,
+      "chapter_title": "Oxidation–reduction Reactions",
+      "question_number": 15,
+      "question_text": "An assay is performed to determine the gold content in a supply of crushed ore. One method for pulling gold out of ore is to react it in a concentrated cyanide (CN–) solution. The equation is provided below:  Au + NaCN + O2 + H2O → Na[Au(CN)2] + NaOH  An indicator is used during this reaction, and approximately 100 mL of a 2 M NaCN solution is used to reach the endpoint. How many moles of Au are present in the crushed ore?",
+      "options": {
+        "A": "0.01 mol",
+        "B": "0.02 mol",
+        "C": "0.10 mol",
+        "D": "0.20 mol"
+      },
+      "correct_answer": "C",
+      "explanation": "First, balance the chemical equation: 4 Au + 8 NaCN + O2 + 2 H2O → 4 Na[Au(CN)2] + 4 NaOH Now, determine the number of moles of NaCN used in the reaction: If 0.2 mol NaCN are used in the reaction, then 0.2 mol NaCN × 4 mol Au 8 mol NaCN = 0.1 mol Au is oxidized."
+    },
+    {
+      "id": "ch12_q1",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 1,
+      "question_text": "Rusting occurs due to the oxidation–reduction reaction of iron with environmental oxygen: 4 Fe (s) + 3 O2 (g) → 2 Fe2O3 (s)  Some metals cannot react with oxygen in this fashion.  Which of the following best explains why iron can?",
+      "options": {
+        "A": "Iron has a more positive reduction potential than those metals, making it more likely to donate electrons to oxygen.",
+        "B": "Iron has a more positive reduction potential than those metals, making it more likely to accept electrons from oxygen.",
+        "C": "Iron has a less positive reduction potential than those metals, making it more likely to donate electrons to oxygen.",
+        "D": "Iron has a less positive reduction potential than those metals, making it more likely to accept electrons from oxygen."
+      },
+      "correct_answer": "C",
+      "explanation": "In the oxidation–reduction reaction of a metal with oxygen, the metal will be oxidized (donate electrons) and oxygen will be reduced (accept electrons). This fact allows us to immediately eliminate (B) and (D). A species with a higher reduction potential is more likely to be reduced, and a species with a lower reduction potential is more likely to be oxidized. Based on the information in the question, iron is oxidized more readily than those metals; this means that iron has a lower reduction potential."
+    },
+    {
+      "id": "ch12_q2",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 2,
+      "question_text": "Given the following standard reduction potentials:  Zn 2 + + 2 e − → Zn E red ∘ = − 0.763 V Ag + + e − → Ag E red ∘ = + 0.337 V  What is the standard electromotive force of the following reaction?  Zn2+ + 2 Ag → 2 Ag+ + Zn",
+      "options": {
+        "A": "–2.2 V",
+        "B": "–1.1 V",
+        "C": "+1.1 V",
+        "D": "+2.2 V"
+      },
+      "correct_answer": "B",
+      "explanation": "To determine the standard electromotive force of a cell, simply subtract the standard reduction potentials of the two electrodes. In this case, the cathode is zinc because it is being reduced; the anode is silver because it is being oxidized. Thus, E°cell = E°red,cathode − E°red,anode = − 0.763 − 0.337 = − 1.10 V While we must multiply the silver half-reaction by two to balance electrons, the actual value for the reduction potential does not change. Remember that the standard reduction potential is determined by the identity of the electrode, not the amount of it present."
+    },
+    {
+      "id": "ch12_q3",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 3,
+      "question_text": "Consider the following data:  Hg 2 + + 2 e − → Hg E red ∘ = + 0.85 V Cu + + e − → Cu E red ∘ = + 0.52 V Zn 2 + + 2 e − → Zn E red ∘ = − 0.76 V Al 3 + + 3 e − → Al E red ∘ = − 1.66 V  The anode of a certain galvanic cell is composed of copper. Which of the metals from the data table can be used at the cathode, assuming equal concentrations of the two electrolyte solutions?",
+      "options": {
+        "A": "Hg",
+        "B": "Cu",
+        "C": "Zn",
+        "D": "Al"
+      },
+      "correct_answer": "A",
+      "explanation": "Oxidation occurs at the anode, and reduction occurs at the cathode. Because Cu is the anode, it must be oxidized. The reduction potential of the cathode cannot be less than that of the anode for a galvanic cell. Therefore, mercury, (A), must be the cathode. In a concentration cell, the same material is used as both the cathode and anode; however, this question assumes equal concentrations. If both electrolyte solutions have the same concentration, there will be no oxidation–reduction reaction and, therefore, no anode or cathode. This eliminates (B)."
+    },
+    {
+      "id": "ch12_q4",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 4,
+      "question_text": "An electrolytic cell is filled with water. Which of the following will move toward the cathode of such a cell?\nI. H+ ions\nII. O2– ions\nIII. Electrons",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and III only",
+        "D": "II and III only"
+      },
+      "correct_answer": "C",
+      "explanation": "In an electrolytic cell, ionic compounds are broken up into their constituents; the cations (positively charged ions) migrate toward the cathode, and the anions (negatively charged ions) migrate toward the anode. In this case, the cations are H+ ions (protons), so option I is correct. Electrons flow from anode to cathode in all types of cells, meaning that option III is also correct. Option II is incorrect for two reasons. First, it is unlikely that the anions in any cell would be O2– rather than OH–. Second, and more significantly, these anions would flow to the anode, not the cathode."
+    },
+    {
+      "id": "ch12_q5",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 5,
+      "question_text": "If the value of E°cell is known, what other data is needed to calculate ΔG°?",
+      "options": {
+        "A": "Equilibrium constant",
+        "B": "Reaction quotient",
+        "C": "Temperature of the system",
+        "D": "Half-reactions of the cells"
+      },
+      "correct_answer": "D",
+      "explanation": "This answer comes directly from the equation relating Gibbs free energy and E°cell. ΔG° = −nFE°cell, where n is the number of moles of electrons transferred and F is the Faraday constant, 96 , 485 C mol e − . To determine n, one must look at the balanced half-reactions occurring in the oxidation–reduction reaction."
+    },
+    {
+      "id": "ch12_q6",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 6,
+      "question_text": "Which of the following compounds is LEAST likely to be found in the salt bridge of a galvanic cell?",
+      "options": {
+        "A": "NaCl",
+        "B": "SO3",
+        "C": "MgSO3",
+        "D": "NH4NO3"
+      },
+      "correct_answer": "B",
+      "explanation": "Salt bridges contain inert electrolytes. Ionic compounds, such as (A), (C), and (D), are known to be strong electrolytes because they completely dissociate in solution. (B) cannot be considered an electrolyte because its atoms are covalently bonded and will not dissociate in aqueous solution. (B) and (C) may appear similar, but there is an important distinction to be made. (C) implies that Mg2+ and SO32− are the final, dissociated ionic constituents, while (B) implies that neutral SO3 would have to be dissolved in solution."
+    },
+    {
+      "id": "ch12_q7",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 7,
+      "question_text": "If the surface area of electrode material in an electrochemical cell is tripled, what else is necessarily tripled?\nI. E°cell\nII. Current\nIII. Keq",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and II only",
+        "D": "II and III only"
+      },
+      "correct_answer": "B",
+      "explanation": "Potential, as measured by E°cell, is dependent only on the identity of the electrodes and not the amount present. Similarly, the equilibrium constant depends only on the identity of the electrolyte solutions and the temperature. However, as the electrode material is increased, the surface area participating in oxidation–reduction reactions is increased and more electrons are released, making statement II correct."
+    },
+    {
+      "id": "ch12_q8",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 8,
+      "question_text": "Which of the following can alter the emf of an electrochemical cell?",
+      "options": {
+        "A": "The mass of the electrodes",
+        "B": "The length of the wire connecting the half-cells",
+        "C": "The overall size of the battery",
+        "D": "The temperature of the solutions in the half-cells"
+      },
+      "correct_answer": "D",
+      "explanation": "E°cell is dependent upon the change in free energy of the system through the equation RT ln Keq = nFE°cell. The temperature, T, appears in this equation; thus, a change in temperature will impact the E°cell."
+    },
+    {
+      "id": "ch12_q9",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 9,
+      "question_text": "Which of the following statements could be true about a Na–Cd cell, based on the information below?  Na + + e − → Na E red ∘ = − 2.71 V Cd 2 + + 2 e − → Cd E red ∘ = − 0.40 V",
+      "options": {
+        "A": "It is a galvanic cell, and sodium is the cathode.",
+        "B": "It is an electrolytic cell, and cadmium is the anode.",
+        "C": "It is a galvanic cell, with E°cell = 3.11 V.",
+        "D": "It is an electrolytic cell, with E°cell = −3.11 V."
+      },
+      "correct_answer": "B",
+      "explanation": "If this were a galvanic cell, the species with the more positive reduction potential (cadmium) would be reduced. The cathode is always reduced in an electrochemical cell, so sodium could not be the cathode in such a galvanic cell, eliminating (A). Sodium would be the cathode in an electrolytic cell, however, which would make cadmium the anode. Thus, the answer is (B). Note that we do not have to determine E°cell because we already know the answer. However, the E°cell would be −2.71 − (−0.40) = −2.31 V for an electrolytic cell, and +2.31 V for a galvanic cell, eliminating (C) and (D)."
+    },
+    {
+      "id": "ch12_q10",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 10,
+      "question_text": "Which of the following expressions correctly describes the relationship between standard electromotive force and standard change in free energy?",
+      "options": {
+        "A": "ΔG° = −nF(E°red,anode − E°red,cathode)",
+        "B": "E cell ∘ = n F R T ln K eq",
+        "C": "E cell ∘ = − R T n F ln K eq",
+        "D": "ΔG° = nF(E°red,anode − E°red,cathode)"
+      },
+      "correct_answer": "D",
+      "explanation": "There are only two equations involving standard change in free energy in electrochemical cells: ΔG° = −nFE°cell and ΔG° = –RT ln Keq. Substituting E°cell = E°red,cathode − E°red,anode into the first equation and distributing the negative sign gives (D). (A) would be the opposite of ΔG°. Setting the two equations equal to each other, we get RT ln Keq = nFE°cell. Solving for E°cell, we get E cell ∘ = R T n F ln K eq , which is the opposite of (B). (C) incorrectly solves the algebra."
+    },
+    {
+      "id": "ch12_q11",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 11,
+      "question_text": "Which of the following choices is indicative of a spontaneous reaction, assuming standard conditions?",
+      "options": {
+        "A": "E°cell is negative.",
+        "B": "Q = Keq",
+        "C": "The cell is a concentration cell.",
+        "D": "Keq > 1"
+      },
+      "correct_answer": "D",
+      "explanation": "A spontaneous electrochemical reaction has a negative ΔG. Using the equation ΔG° = –RT ln Keq, Keq > 1 would result in ln Keq > 0, which means ΔG° < 0. A negative electromotive force, (A), or equilibrium state, (B), would not correspond to a spontaneous reaction. Concentration cells can be spontaneous; however, if the concentration cell had reached equilibrium, it would cease to be a spontaneous reaction, eliminating (C). When an answer choice may be true, but does not have to be—it is the wrong answer on Test Day."
+    },
+    {
+      "id": "ch12_q12",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 12,
+      "question_text": "For a cell with the following half-reactions:  Anode: SO2 + 2 H2O → SO42− + 4 H+ + 2 e−  Cathode: Pd2+ + 2 e− → Pd  How would decreasing the pH of the solution inside the cell affect the electromotive force (emf)?",
+      "options": {
+        "A": "The emf would decrease.",
+        "B": "The emf would remain the same.",
+        "C": "The emf would increase.",
+        "D": "The emf would become zero."
+      },
+      "correct_answer": "A",
+      "explanation": "A change in pH has a direct correlation to the hydrogen ion (H+) concentration. Decreasing the pH increases the H+ concentration, which means the concentration of products has increased in the oxidation of sulfur dioxide. This means it would be harder to liberate electrons, thus decreasing the emf. One could also view this decrease in oxidation potential as an increase in reduction potential. If E°red,anode increases, then E°cell must decrease according to E°cell = E°red,cathode − E°red,anode."
+    },
+    {
+      "id": "ch12_q13",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 13,
+      "question_text": "An electrolytic cell necessarily has:",
+      "options": {
+        "A": "ΔS° > 0",
+        "B": "ΔG° < 0",
+        "C": "Keq < 1",
+        "D": "E°cell > 0"
+      },
+      "correct_answer": "C",
+      "explanation": "An electrolytic cell is nonspontaneous. Therefore, the ΔG° must be positive and E°cell must be negative, eliminating (B) and (D). The change in entropy may be positive or negative, depending on the species involved, eliminating (A). According to the equation ΔG° = –RT ln Keq, Keq < 1 would result in ln Keq < 0, which means ΔG° > 0."
+    },
+    {
+      "id": "ch12_q14",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 14,
+      "question_text": "Which of the following is the best explanation for the fact that a larger mass of electrodes are required for lead–acid batteries, as compared to other batteries, to produce a certain current?",
+      "options": {
+        "A": "The lead–acid electrolyte, sulfuric acid, is diprotic and incompletely dissociates in solution.",
+        "B": "The energy density of lead–acid electrodes is higher than that of other batteries.",
+        "C": "The electrolytes in other batteries less readily dissociate than those of lead–acid batteries.",
+        "D": "The energy density of lead–acid electrodes is lower than that of other batteries."
+      },
+      "correct_answer": "D",
+      "explanation": "Compared to other cell types, lead–acid batteries have a characteristically low energy density, (D). While (A) is a true statement, the incomplete dissociation of sulfuric acid does not fully explain the low energy density of lead–acid batteries. (C) is likely to be an opposite; the more easily the electrodes dissociate, the easier it is to carry out oxidation–reduction reactions with them."
+    },
+    {
+      "id": "ch12_q15",
+      "chapter": 12,
+      "chapter_title": "Electrochemistry",
+      "question_number": 15,
+      "question_text": "Which of the following best describes why over-charging a Ni–Cd battery is not detrimental?",
+      "options": {
+        "A": "The energy density of a Ni–Cd battery is high, so it can store more charge than other batteries per its mass.",
+        "B": "The electrodes of a Ni–Cd battery can discharge through the circuit when they are fully charged.",
+        "C": "The Ni–Cd battery will stop accepting electrons from an outside source when its electrodes are recharged.",
+        "D": "Ni–Cd batteries have a high surge current and can dissipate the overcharge before damage can occur to electrodes."
+      },
+      "correct_answer": "C",
+      "explanation": "During the recharge cycle, Ni–Cd cells will accept current from an outside source until the Cd and NiO(OH) electrodes are pure; at this point, the reaction will stop because Cd(OH)2 runs out and no more electrons can be accepted. (A) and (B) are both true statements, but they fail to explain why overcharging the battery (continuing to try to run current into the battery even when the electrodes are reverted to their original state) is not a problem with Ni–Cd batteries. Finally, surge current refers to the initial burst of current seen in some batteries; once charged, the surge current will not increase even if the power source continues to be run because no additional charge will be stored on the electrodes, eliminating (D)."
+    }
+  ]
+}

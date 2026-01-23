@@ -1,0 +1,2710 @@
+{
+  "metadata": {
+    "source": "Kaplan MCAT Behavioral Sciences Review 2026-2027",
+    "subject": "Behavioral Sciences",
+    "total_questions": 180,
+    "chapters": 12
+  },
+  "questions": [
+    {
+      "id": "ch1_q1",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 1,
+      "question_text": "A researcher deletes a gene from an organism to determine the gene’s function. This approach is most analogous to the work of which of the following scientists?",
+      "options": {
+        "A": "Paul Broca",
+        "B": "Pierre Flourens",
+        "C": "Franz Gall",
+        "D": "Sir Charles Sherrington"
+      },
+      "correct_answer": "B",
+      "explanation": "Creating knockouts to study gene function is similar to ablation, or extirpation, in which specific parts of an organism’s anatomy are removed. This approach was used by Pierre Flourens to show that specific parts of the brain served particular functions, supporting (B) as the correct answer. Unlike Pierre, Paul Broca, choice (A), did not ablate regions of the brain; rather he studied the functional impairments in individuals with different brain lesions."
+    },
+    {
+      "id": "ch1_q2",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 2,
+      "question_text": "Which component of the nervous system is NOT involved in the initial reflexive response to pain?",
+      "options": {
+        "A": "Spinal cord",
+        "B": "Cerebral cortex",
+        "C": "Interneuron",
+        "D": "Motor neuron"
+      },
+      "correct_answer": "B",
+      "explanation": "The cerebral cortex is not involved in the initial reflexive response to pain. Instead, the sensory receptors send information to the interneurons in the spinal cord, which stimulate a motor neuron to allow quick withdrawal. While the brain does ultimately get the signal, the reflexive withdrawal has already occurred by that time."
+    },
+    {
+      "id": "ch1_q3",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 3,
+      "question_text": "A child has experienced nervous system damage and can no longer coordinate the movements to dribble a basketball, although the child can still walk in an uncoordinated fashion. Which region of the central nervous system was most likely affected?",
+      "options": {
+        "A": "Forebrain",
+        "B": "Midbrain",
+        "C": "Hindbrain",
+        "D": "Spinal cord"
+      },
+      "correct_answer": "C",
+      "explanation": "The hindbrain is responsible for balance and motor coordination, which would be necessary for dribbling a basketball. The midbrain, (B), manages sensorimotor reflexes that also promote survival. The forebrain, (A), is associated with emotion, memory, and higher-order cognition. The spinal cord, (D), is likely not damaged as the child can still walk."
+    },
+    {
+      "id": "ch1_q4",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 4,
+      "question_text": "The temporal lobe deals with all of the following EXCEPT:",
+      "options": {
+        "A": "language comprehension.",
+        "B": "memory.",
+        "C": "emotion.",
+        "D": "motor skills."
+      },
+      "correct_answer": "D",
+      "explanation": "The temporal lobes have many functions, but motor skills are not associated with this area. The temporal lobes contain Wernicke’s area, which is responsible for language comprehension, (A). The temporal lobes also function in memory and emotion, (B) and (C), because they contain the hippocampus and amygdala. Motor skills are associated with the frontal lobe (primary motor cortex), basal ganglia (smooth movements), and cerebellum (coordination)."
+    },
+    {
+      "id": "ch1_q5",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 5,
+      "question_text": "Which part of the brain deals with both homeostasis and emotions?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Pons",
+        "C": "Hypothalamus",
+        "D": "Thalamus"
+      },
+      "correct_answer": "C",
+      "explanation": "The hypothalamus is responsible for homeostatic and emotional functions. The cerebellum, (A), is responsible for maintaining posture and balance while the pons, (B), is above the medulla and contains sensory and motor tracts between the cortex and the medulla. The thalamus, (D), acts as a relay station for sensory information."
+    },
+    {
+      "id": "ch1_q6",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 6,
+      "question_text": "Which of the following activities would most likely be completed by the right hemisphere of a left-handed person?",
+      "options": {
+        "A": "Finding a car in a parking lot",
+        "B": "Learning a new language",
+        "C": "Reading a book for pleasure",
+        "D": "Jumping rope with friends"
+      },
+      "correct_answer": "A",
+      "explanation": "The right hemisphere is usually the nondominant hemisphere, even in left-handed individuals. Sense of direction is an ability of the nondominant hemisphere. The other answer choices are all abilities attributed to the dominant hemisphere."
+    },
+    {
+      "id": "ch1_q7",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 7,
+      "question_text": "Which of the following is/are true with regard to neurulation?\nI. The neural tube differentiates from endoderm.\nII. The neural tube becomes the peripheral nervous system.\nIII. Neural crest cells migrate from their original site.",
+      "options": {
+        "A": "I only",
+        "B": "III only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "B",
+      "explanation": "Neurulation occurs when the notochord causes differentiation of overlying ectoderm into the neural tube and neural crest cells. The neural tube ultimately becomes the central nervous system (brain and spinal cord), and neural crest cells migrate to other sites in the body to differentiate into a number of different tissues. Thus, only statement III is true."
+    },
+    {
+      "id": "ch1_q8",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 8,
+      "question_text": "Which of the following neurotransmitters is NOT classified as a catecholamine?",
+      "options": {
+        "A": "Epinephrine",
+        "B": "Norepinephrine",
+        "C": "Dopamine",
+        "D": "Acetylcholine"
+      },
+      "correct_answer": "D",
+      "explanation": "Catecholamines are the hormones produced by the adrenal glands during the fight-or-flight response, and include epinephrine, norepinephrine, and dopamine. Acetylcholine is produced by cholinergic neurons and is, thus, not a catecholamine."
+    },
+    {
+      "id": "ch1_q9",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 9,
+      "question_text": "If the amount of acetylcholinesterase, an enzyme that breaks down acetylcholine, is increased, which of the following would likely be the result?",
+      "options": {
+        "A": "Weakness of muscle movements",
+        "B": "Excessive pain or discomfort",
+        "C": "Mood swings and mood instability",
+        "D": "Auditory and visual hallucinations"
+      },
+      "correct_answer": "A",
+      "explanation": "If there were increased amounts of acetylcholinesterase, more acetylcholine would be degraded, lowering acetylcholine levels in the body. Low levels of acetylcholine would result in weakness or paralysis of muscles. Pain, (B), could result if one were injured and endorphins were found in low levels. Mood swings, (C), could be a result of varying levels of serotonin. Hallucinations, (D), have been seen to result from high levels of dopamine."
+    },
+    {
+      "id": "ch1_q10",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 10,
+      "question_text": "The adrenal glands do all of the following EXCEPT:",
+      "options": {
+        "A": "promote the fight-or-flight response via estrogen.",
+        "B": "produce stress responses via cortisol.",
+        "C": "produce both hormones and neurotransmitters.",
+        "D": "release estrogen in males and testosterone in females."
+      },
+      "correct_answer": "A",
+      "explanation": "The adrenal glands do promote the fight-or-flight response, but through epinephrine and norepinephrine, not estrogen. The adrenal cortex produces both estrogen and testosterone in both sexes, as mentioned in (D), thus serving as a source of estrogen in males and testosterone in females."
+    },
+    {
+      "id": "ch1_q11",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 11,
+      "question_text": "A disorder of the pineal gland would most likely result in which of the following disorders?",
+      "options": {
+        "A": "High blood pressure",
+        "B": "Diabetes",
+        "C": "Insomnia",
+        "D": "Hyperthyroidism"
+      },
+      "correct_answer": "C",
+      "explanation": "The pineal gland is responsible for producing melatonin, which controls the body’s circadian rhythm. Insomnia would be a disturbance of this circadian rhythm, and may be attributable to a pineal gland disorder in some cases. Hypertension, diabetes, and hyperthyroidism would be unrelated to issues with the pineal gland."
+    },
+    {
+      "id": "ch1_q12",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 12,
+      "question_text": "Which of the following conclusions would William James most likely support?",
+      "options": {
+        "A": "Mental processes help individuals adapt to their environments.",
+        "B": "Psychological attributes could be measured by feeling the skull.",
+        "C": "Specific functional impairments can be linked to specific lesions in the brain.",
+        "D": "Synaptic transmission is an electrical process."
+      },
+      "correct_answer": "A",
+      "explanation": "William James studied how the mind adapts to the environment and formed the foundation of functionalism. Thus, (A) is correct. The remaining wrong answer choices can be ascribed to other scientists. Answer (B) describes phrenology, the theory of Franz Gall. Answer (C) describes the conclusions of Paul Broca. Answer (D) describes one of the conclusions of Sir Charles Sherrington (although we now know that his conclusion was false)."
+    },
+    {
+      "id": "ch1_q13",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 13,
+      "question_text": "A scientist designs a study to determine if different regions of the brain are activated when a person speaks their native language vs. a second language. Which of the following methods would the scientist most likely choose?",
+      "options": {
+        "A": "MRI",
+        "B": "CT scan",
+        "C": "fMRI",
+        "D": "EEG"
+      },
+      "correct_answer": "C",
+      "explanation": "Activity in different regions of the brain is assumed to positively correlate with blood flow. Thus, regions that are more active should have increased blood flow. Changes in blood flow can be measured via fMRI, supporting (C) as the preferred methodology. On the other hand, MRI and CT scans are used to image tissues, ruling out (A) and (B), and EEGs are useful in measuring broad brain activity and not specific brain regions, eliminating (D)."
+    },
+    {
+      "id": "ch1_q14",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 14,
+      "question_text": "During a physical examination, a physician brushes the bottom of the foot of a patient who is fifty years old with multiple sclerosis. The patient’s toes are observed to curl toward the bottom of the foot, with no fanning of the toes. This response is:",
+      "options": {
+        "A": "abnormal, and evidence that the patient is exhibiting a primitive reflex.",
+        "B": "normal, and evidence that the patient is exhibiting a primitive reflex.",
+        "C": "abnormal, and evidence that the patient is not exhibiting a primitive reflex.",
+        "D": "normal, and evidence that the patient is not exhibiting a primitive reflex."
+      },
+      "correct_answer": "D",
+      "explanation": "The Babinski reflex is a primitive reflex that refers to an extension of the big toe accompanied by fanning of the other toes. It is normal in infants, but should disappear with time—certainly by the time a child begins to walk. In a person who is fifty years old, the Babinski reflex would be abnormal. However, despite having a neurological illness, this patient is exhibiting a normal response to the brushing of the foot; that is, the patient is not showing the Babinski reflex."
+    },
+    {
+      "id": "ch1_q15",
+      "chapter": 1,
+      "chapter_title": "Biology and Behavior",
+      "question_number": 15,
+      "question_text": "Which of the following fine motor tasks would one expect to see first in an infant?",
+      "options": {
+        "A": "Grasping for objects with two fingers",
+        "B": "Following objects with the eyes",
+        "C": "Scribbling with a crayon",
+        "D": "Moving a toy from one hand to the other"
+      },
+      "correct_answer": "B",
+      "explanation": "Motor skills tend to develop from the core toward the periphery. Following objects with the eyes occurs around four weeks of age. The other actions all require movements of the hand, which do not occur in an organized fashion until later."
+    },
+    {
+      "id": "ch2_q1",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 1,
+      "question_text": "A weight lifter is just able to tell the difference between 100 and 125 pounds. According to Weber’s law, the lifter would notice a difference between:",
+      "options": {
+        "A": "125 and 150 pounds.",
+        "B": "5 and 6 pounds.",
+        "C": "25 and 35 pounds.",
+        "D": "225 and 275 pounds."
+      },
+      "correct_answer": "C",
+      "explanation": "Weber’s law posits that thresholds are proportional. Going from 100 to 125 pounds is a 25 percent increase. (C) is a 40 percent increase while all the rest are all under 25 percent."
+    },
+    {
+      "id": "ch2_q2",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 2,
+      "question_text": "A person is at a party with a friend. There is loud music in the background and the location is crowded. While listening to the music, the person hears what seems like the friend’s laughter and turns around to investigate. The person is exhibiting:",
+      "options": {
+        "A": "feature detection.",
+        "B": "bottom-up processing.",
+        "C": "vestibular sense.",
+        "D": "signal detection."
+      },
+      "correct_answer": "D",
+      "explanation": "The person is discerning a specific noise within a field of many noises. This is the definition of signal detection. In an experimental setup, the person’s response would be considered a hit if the friend was indeed laughing; it would be considered a false alarm if the friend was not laughing."
+    },
+    {
+      "id": "ch2_q3",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 3,
+      "question_text": "A person is at a restaurant and orders a spicy entrée. After the first bite, the person experiences burning in the mouth and becomes concerned that the food is too hot. The next few bites are similarly uncomfortable, but after a while the spiciness seems to subside somewhat, and by the end of the meal, the person doesn’t notice the spice level. The end of the meal experience is best described as:",
+      "options": {
+        "A": "adaptation.",
+        "B": "signal detection.",
+        "C": "a difference threshold.",
+        "D": "pain perception."
+      },
+      "correct_answer": "A",
+      "explanation": "The spicy food can be considered an extreme stimulus because it eclipses what the person believes can be handled in terms of heat. However, after experiencing the stimulus over and over, the experience of spice drops to barely perceptible. This is sensory adaptation: a reduction in response to a stimulus over time."
+    },
+    {
+      "id": "ch2_q4",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 4,
+      "question_text": "Which sensory receptors send signals in response to tissue damage?",
+      "options": {
+        "A": "Chemoreceptors",
+        "B": "Nociceptors",
+        "C": "Osmoreceptors",
+        "D": "Photoreceptors"
+      },
+      "correct_answer": "B",
+      "explanation": "Nociceptors are important for pain sensation, which would be expected during tissue damage. Chemoreceptors, (A), respond to chemicals, whether volatile or aerosolized (olfaction) or dissolved (taste). Osmoreceptors, (C), respond to changes in blood osmolarity, and photoreceptors, (D), respond to light."
+    },
+    {
+      "id": "ch2_q5",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 5,
+      "question_text": "Which part of the eye is responsible for gathering and focusing light?",
+      "options": {
+        "A": "Cornea",
+        "B": "Pupil",
+        "C": "Iris",
+        "D": "Retina"
+      },
+      "correct_answer": "A",
+      "explanation": "The cornea is responsible for gathering and focusing light. The pupil and iris, (B) and (C), are both involved in regulating the amount of light coming into the eye but not in focusing it. The retina, (D), transduces the light into electrical signals that are sent to the brain. The lens serves a similar function to the cornea and would also be a valid answer to this question."
+    },
+    {
+      "id": "ch2_q6",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 6,
+      "question_text": "A person is looking for change to do laundry and decides to look under the seats of the household car. Even using a flashlight allows no more than an obscured look at the space below. There are various items such as wrappers and papers, but the person sees the glint of silver from an object laying flat and determines it to be a coin. To make this determination, this person used:",
+      "options": {
+        "A": "signal detection.",
+        "B": "sensory adaptation.",
+        "C": "feature detection.",
+        "D": "kinesthetic sense."
+      },
+      "correct_answer": "C",
+      "explanation": "This person was able to distinguish the coin from other items by recognizing specific features of the coin; in this case, it was the glint of the metal surface and its position in the car. This phenomenon is called feature detection."
+    },
+    {
+      "id": "ch2_q7",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 7,
+      "question_text": "Upon which part of the eye are images projected and transduced into electrical signals?",
+      "options": {
+        "A": "Cornea",
+        "B": "Pupil",
+        "C": "Retina",
+        "D": "Lens"
+      },
+      "correct_answer": "C",
+      "explanation": "The retina is the part of the eye upon which images are projected. Rods and cones in the retina then convert the electromagnetic radiation into electrical signals."
+    },
+    {
+      "id": "ch2_q8",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 8,
+      "question_text": "The ability to sense stimuli against one’s own skin is known as:",
+      "options": {
+        "A": "somatosensation.",
+        "B": "kinesthetic sense.",
+        "C": "vestibular sense.",
+        "D": "chemoreception."
+      },
+      "correct_answer": "A",
+      "explanation": "Somatosensation refers to the various modalities of touch: pressure, vibration, temperature, and pain. Kinesthetic sense, (B), refers to the ability to tell where one’s body is in space. Vestibular sense, (C), refers to the detection of linear and rotational acceleration in the middle ear. Finally, chemoreception, (D), refers to sensing chemicals in the environment."
+    },
+    {
+      "id": "ch2_q9",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 9,
+      "question_text": "Which of the following is NOT a taste modality?",
+      "options": {
+        "A": "Sweet",
+        "B": "Floral",
+        "C": "Savory",
+        "D": "Bitter"
+      },
+      "correct_answer": "B",
+      "explanation": "The five tastes are sweet, sour, salty, bitter, and umami. Floral would be related to smell rather than taste."
+    },
+    {
+      "id": "ch2_q10",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 10,
+      "question_text": "Which of the following best describes the difference between endolymph and perilymph?",
+      "options": {
+        "A": "Endolymph is found in the vestibule, while perilymph is found in the cochlea.",
+        "B": "Endolymph is found in the cochlea, while perilymph is found in the vestibule.",
+        "C": "Endolymph is found in the membranous labyrinth, while perilymph is found in the bony labyrinth.",
+        "D": "Endolymph is found in the bony labyrinth, while perilymph is found in the membranous labyrinth."
+      },
+      "correct_answer": "C",
+      "explanation": "Endolymph is the potassium-rich fluid that bathes the hair cells of the inner ear, all of which are found within the membranous labyrinth. Perilymph is found in the space between the membranous labyrinth and the bony labyrinth. Both the membranous labyrinth and bony labyrinth contribute to the cochlea and the vestibule, eliminating (A) and (B)."
+    },
+    {
+      "id": "ch2_q11",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 11,
+      "question_text": "Chemicals that compel behavior after binding with chemoreceptors are known as:",
+      "options": {
+        "A": "pheromones.",
+        "B": "olfactory receptors.",
+        "C": "somatostimuli.",
+        "D": "papillae."
+      },
+      "correct_answer": "A",
+      "explanation": "Pheromones are the volatile chemicals given off by organisms that bind with olfactory chemoreceptors and influence behavior. It is debatable if pheromones serve a role in humans, but they are known to affect foraging and sexual behavior in some animals."
+    },
+    {
+      "id": "ch2_q12",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 12,
+      "question_text": "Prolonged vitamin B 12 deficiency can be associated with subacute combined degeneration of the spinal cord. Patients with this disease have difficulty walking because they lose the ability to feel where their feet are in space. This represents a loss of:",
+      "options": {
+        "A": "vestibular sense.",
+        "B": "kinesthetic sense.",
+        "C": "parallel processing.",
+        "D": "feature detection."
+      },
+      "correct_answer": "B",
+      "explanation": "Kinesthetic sense, or proprioception, refers to the ability to tell where body parts are in three-dimensional space. The sensors for proprioception are found predominantly in the muscles and joints. Loss of vestibular sense, (A), would also cause difficulty walking, but this would be due to a sense of dizziness or vertigo, not an inability to feel one’s feet."
+    },
+    {
+      "id": "ch2_q13",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 13,
+      "question_text": "A person proofreading a paper reads over a long, misspelled word in which an “e” is replaced with an “o.” The person does not recognize the error and reads the word as correct. Which of the following could explain why the proofreader read the word as correct?",
+      "options": {
+        "A": "Parallel processing",
+        "B": "Feature detection",
+        "C": "Top-down processing",
+        "D": "Bottom-up processing"
+      },
+      "correct_answer": "C",
+      "explanation": "The proofreader used a larger pattern to identify the word and expected to see an “e,” thus missing the error. This is related to top-down processing; the proofreader used recognition and expectations, which led to missing a detail. Bottom-up processing, (D), would be the analysis of each detail individually before creating a cohesive image."
+    },
+    {
+      "id": "ch2_q14",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 14,
+      "question_text": "A corporate logo uses five unconnected angles equally spaced in a circular fashion. When viewed, it appears to be a star. Which of the following is the logo artist using to create a complete pattern to viewers?",
+      "options": {
+        "A": "Bottom-up processing",
+        "B": "Top-down processing",
+        "C": "Gate theory",
+        "D": "Gestalt principles"
+      },
+      "correct_answer": "D",
+      "explanation": "Gestalt principles are the basis for many optical illusions and include the tendency of people to see continuity even when lines are unconnected. Specifically, this logo appears to rely on the law of closure to create one complete star from five nontouching angles."
+    },
+    {
+      "id": "ch2_q15",
+      "chapter": 2,
+      "chapter_title": "Sensation and Perception",
+      "question_number": 15,
+      "question_text": "A patient comes in with a tumor of the pituitary gland which has grown upward into the optic chiasm and caused a visual field defect. The most likely defect from compression of the optic chiasm is:",
+      "options": {
+        "A": "complete blindness in one eye.",
+        "B": "loss of the upper visual fields in both eyes.",
+        "C": "loss of the nasal visual fields in both eyes.",
+        "D": "loss of the temporal visual fields in both eyes."
+      },
+      "correct_answer": "D",
+      "explanation": "The optic chiasm houses the crossing fibers from each optic nerve. Specifically, the fibers coming from the nasal half of the retina in each eye cross in the chiasm to join the optic tract on the opposite side. Remember that the lens of the eye causes inversion, so images on the nasal half of the retina actually originate in the temporal visual field. This condition is called bitemporal hemianopsia."
+    },
+    {
+      "id": "ch3_q1",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 1,
+      "question_text": "Researchers repeatedly startle a participant with a loud buzzer. After some time, the participant stops being startled by the buzzer. If the researchers interrupt the study with the sound of pans banging together, which of the following would likely be observed?",
+      "options": {
+        "A": "Increased startle response to the buzzer",
+        "B": "Decreased startle response to the buzzer",
+        "C": "No change in the response to the buzzer",
+        "D": "Generalization to previously nonaversive stimuli"
+      },
+      "correct_answer": "A",
+      "explanation": "After a while, the participant became habituated to the sound of the buzzer. Introducing a new stimulus, such as the banging pans, should dishabituate (resensitize) the original stimulus, causing a temporary increase in response to the sound of the buzzer."
+    },
+    {
+      "id": "ch3_q2",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 2,
+      "question_text": "Many pets will run toward the kitchen when they hear the sound of a can opener opening a can of pet food. The sound of the can opener is a(n):",
+      "options": {
+        "A": "conditioned response.",
+        "B": "unconditioned response.",
+        "C": "conditioned stimulus.",
+        "D": "unconditioned stimulus."
+      },
+      "correct_answer": "C",
+      "explanation": "The sound of a can opener would not normally produce a response on its own, making it a stimulus that must have been conditioned by association with food."
+    },
+    {
+      "id": "ch3_q3",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 3,
+      "question_text": "A person suffers from food poisoning after eating a spoiled orange and later finds that the smell of lemon and other citrus fruits causes a feeling of nausea. This is an example of:",
+      "options": {
+        "A": "acquisition.",
+        "B": "generalization.",
+        "C": "discrimination.",
+        "D": "negative reinforcement."
+      },
+      "correct_answer": "B",
+      "explanation": "Generalization is the process by which similar stimuli can produce the same conditioned response. Here, the response to the taste and smell of oranges has generalized to that of all citrus."
+    },
+    {
+      "id": "ch3_q4",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 4,
+      "question_text": "Which of the following processes would increase the likelihood of a behavior?",
+      "options": {
+        "A": "Extinction",
+        "B": "Negative punishment",
+        "C": "Positive punishment",
+        "D": "Avoidance learning"
+      },
+      "correct_answer": "D",
+      "explanation": "Avoidance learning is a type of negative reinforcement in which a behavior is increased to prevent an unpleasant future consequence. Extinction, (A), is a decreased response to a conditioned stimulus when it is no longer paired with an unconditioned stimulus. Punishment, (B) and (C), leads to decreased behaviors in operant conditioning."
+    },
+    {
+      "id": "ch3_q5",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 5,
+      "question_text": "The presynaptic neuron becomes more efficient at releasing neurotransmitters while receptor density increases on the postsynaptic neuron. These changes are consistent with:",
+      "options": {
+        "A": "long term potentiation.",
+        "B": "synaptic pruning.",
+        "C": "an increase in neuroplasticity.",
+        "D": "amnesia."
+      },
+      "correct_answer": "A",
+      "explanation": "Long term potentiation is believed to be the neurophysiological basis of long-term memory, making (A) the correct answer. As synapses are reinforced, the neuroplasticity of the brain decreases, eliminating (C). Also, synaptic pruning, (B), refers to the removal of infrequently used synapses, which is not consistent with the description in the question stem."
+    },
+    {
+      "id": "ch3_q6",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 6,
+      "question_text": "A rat is trained to press a lever to obtain food under a fixed-interval schedule. Which of the following behaviors would the rat most likely exhibit?",
+      "options": {
+        "A": "Pressing the lever continuously whenever it is hungry.",
+        "B": "Pressing the lever exactly once and waiting for the food pellet before pressing it again.",
+        "C": "Pressing the lever slowly at first, but with increasing frequency as the end of the interval approaches.",
+        "D": "None of the above; the association formed by fixed-interval schedules is too weak to increase behavior."
+      },
+      "correct_answer": "C",
+      "explanation": "In a fixed-interval schedule, the desired behavior is rewarded the first time it is exhibited after the fixed interval has elapsed. Both fixed-interval and fixed-ratio schedules tend to show this phenomenon: almost no response immediately after the reward is given, but the behavior increases as the rat gets close to receiving the reward."
+    },
+    {
+      "id": "ch3_q7",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 7,
+      "question_text": "Which of the following is true of teaching an animal a complicated, multistage behavior?\nI. The individual parts of the behavior should not run counter to the animal’s natural instincts.\nII. The behaviors must be tied to a food reward of some kind.\nIII. Rewarding individual parts of the behavior on their own interferes with reinforcement of the entire behavior.",
+      "options": {
+        "A": "I only",
+        "B": "I and III only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "A",
+      "explanation": "Complicated, multistage behaviors are typically taught through shaping, so statement III must not be part of the correct answer. Reinforcers do not necessarily need to be food-based, and instinctive drift can interfere with learning of complicated behaviors; therefore, only statement I is accurate."
+    },
+    {
+      "id": "ch3_q8",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 8,
+      "question_text": "Which of the following is true of controlled processing?",
+      "options": {
+        "A": "It is the means through which information enters short-term memory.",
+        "B": "Information that requires controlled processing cannot become automatic.",
+        "C": "It always requires active attention to the information being encoded.",
+        "D": "Most information we can later recall is encoded using controlled processing."
+      },
+      "correct_answer": "C",
+      "explanation": "This is the definition of controlled processing and is the only answer choice that is necessarily true of controlled processing. Effortful processing is used to create long-term memories, and—with practice—can become automatic, invalidating (A) and (B). Most of our day-to-day activities are processed automatically, making (D) incorrect."
+    },
+    {
+      "id": "ch3_q9",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 9,
+      "question_text": "Which of the following methods of encoding is most conducive to later recall?",
+      "options": {
+        "A": "Semantic",
+        "B": "Visual",
+        "C": "Iconic",
+        "D": "Acoustic"
+      },
+      "correct_answer": "A",
+      "explanation": "Semantic encoding, or encoding based on the meaning of the information, is the strongest of the methods of encoding. Visual encoding, (B), is the weakest, and acoustic encoding, (D), is intermediate between the two. Iconic memory, (C), is a type of sensory memory."
+    },
+    {
+      "id": "ch3_q10",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 10,
+      "question_text": "A hemisphere of the brain can be removed to prevent the recurrence of severe seizures. How would the ability of the other hemisphere to adopt functionalities of the removed section differ between a two year old and a twenty year old?",
+      "options": {
+        "A": "The brain of the twenty year old would be more adaptable due to higher neuroplasticity.",
+        "B": "The brain of the twenty year old would be more adaptable due to lower neuroplasticity.",
+        "C": "The brain of the two year old would be more adaptable due to higher neuroplasticity.",
+        "D": "The brain of the two year old would be more adaptable due to lower neuroplasticity."
+      },
+      "correct_answer": "C",
+      "explanation": "We are born with an overabundance of neurons and quickly form many new synapses in the first few years of life. As we age, the plasticity of our brains decreases, although we do retain some plasticity throughout adulthood. Thus, the brain of a two year old, due to its higher neuroplasticity, would better adapt, supporting (C) as the correct answer."
+    },
+    {
+      "id": "ch3_q11",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 11,
+      "question_text": "An individual memorizes a shopping list by associating each item with an image that corresponds with a number. This individual is using which of the following mnemonics?",
+      "options": {
+        "A": "Clustering",
+        "B": "Method of loci",
+        "C": "Elaborative rehearsal",
+        "D": "Peg-words"
+      },
+      "correct_answer": "D",
+      "explanation": "The association of words on a list to a preconstructed set of ideas is common to both the method-of-loci and peg-word mnemonics. Method-of-loci systems, (B), associate items with locations, while peg-word systems use images associated with numbers."
+    },
+    {
+      "id": "ch3_q12",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 12,
+      "question_text": "A researcher uses a partial-report procedure after presenting participants with an array of nine numbers for a fraction of a second. Which of the following is the most likely result of this procedure?",
+      "options": {
+        "A": "The participants will be able to recall any of the rows or columns in great detail but only immediately after presentation.",
+        "B": "The participants will only be able to recall the first few numbers in the array due to the serial position effect.",
+        "C": "The participants will be able to recall approximately seven of the numbers for a few seconds following presentation of the stimulus.",
+        "D": "The participants will not be able to recall any of the numbers verbally, but will be able to draw the full array under hypnosis."
+      },
+      "correct_answer": "A",
+      "explanation": "Partial-report procedures, in which the individual is asked to recall a specific portion of the stimulus, are incredibly accurate, but only for a very brief time. This is a method of studying sensory (specifically, iconic) memory. Both the serial position effect, (B), and the 7 ± 2 rule, (C), are characteristics of short-term memory."
+    },
+    {
+      "id": "ch3_q13",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 13,
+      "question_text": "Which of the following is an example of a semantic memory?",
+      "options": {
+        "A": "Having the ability to drive a car",
+        "B": "Knowing the parts of a car engine",
+        "C": "Remembering the experience of learning to drive",
+        "D": "Associating a car with other vehicles in a semantic network"
+      },
+      "correct_answer": "B",
+      "explanation": "Semantic memory is the category of long-term memory that refers to recall of facts, rather than experiences or skills. Be careful not to confuse semantic memory with semantic networks, (D), which are the associations of similar concepts in the mind to aid in their retrieval."
+    },
+    {
+      "id": "ch3_q14",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 14,
+      "question_text": "Which of the following is an example of a circumstance that could cause a state-dependent recall effect?\nI. The individual is outside on a rainy day.\nII. The individual is intoxicated on cannabis.\nIII. The individual is experiencing a manic episode.",
+      "options": {
+        "A": "I only",
+        "B": "III only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "C",
+      "explanation": "State-dependent recall is concerned with the internal rather than external states of the individual. As such, both statements II and III are examples of state-dependent circumstances, while statement I might cause a context effect instead."
+    },
+    {
+      "id": "ch3_q15",
+      "chapter": 3,
+      "chapter_title": "Learning and Memory",
+      "question_number": 15,
+      "question_text": "Which of the following would an older adult be most likely to have trouble recalling?",
+      "options": {
+        "A": "The circumstances of meeting a significant other in college",
+        "B": "A doctor’s appointment scheduled for 1:00 p.m.",
+        "C": "The names of the characters in a favorite television show",
+        "D": "That a library book needs to be returned when passing by the library on a morning walk"
+      },
+      "correct_answer": "B",
+      "explanation": "Older adults may have trouble with time-based prospective memory, which is remembering to do an activity at a particular time. Other forms of memory are generally preserved, or may decline slightly but less significantly than time-based prospective memory."
+    },
+    {
+      "id": "ch4_q1",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 1,
+      "question_text": "Which of the following terms describes how existing schemata are modified to incorporate new information?",
+      "options": {
+        "A": "Assimilation",
+        "B": "Adaptation",
+        "C": "Affirmation",
+        "D": "Accommodation"
+      },
+      "correct_answer": "D",
+      "explanation": "Jean Piaget hypothesized that new information is processed by adaptation, (B). Adaptation is too broad of an answer because it includes both assimilation, (A), and accommodation, (D). Assimilation is incorporation of new information into existing schemata. If the new information doesn’t fit, then accommodation occurs. Accommodation is the modification of existing schemata to account for new information and is thus the correct answer."
+    },
+    {
+      "id": "ch4_q2",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 2,
+      "question_text": "After completing final exams, a student reports to student health complaining of paranoia, lack of appetite, and elevated heart rate. After some questioning, the student admits to having been awake for over 48 hours after having bought pills from another student in the library. Which of the following drugs has this student likely taken?",
+      "options": {
+        "A": "Phenobarbitol",
+        "B": "Dextroamphetamine",
+        "C": "Oxycodone",
+        "D": "Lysergic acid diethylamide"
+      },
+      "correct_answer": "B",
+      "explanation": "While many drugs can cause paranoia, the elevation in heart rate combined with prolonged alertness and a decrease in appetite suggests amphetamines, matching choice (B)."
+    },
+    {
+      "id": "ch4_q3",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 3,
+      "question_text": "A student is volunteering in a hospital with a stroke center. When asked what the prevalence of stroke is among those greater than 65 years old, the student states that it is probably about 40% even though data analysis indicates that it is significantly lower. What accounts for this error?",
+      "options": {
+        "A": "Deductive reasoning",
+        "B": "Representativeness heuristic",
+        "C": "Base rate fallacy",
+        "D": "Confirmation bias"
+      },
+      "correct_answer": "C",
+      "explanation": "The base rate fallacy occurs when prototypical or stereotypical factors are used for analysis rather than actual data. Because the student is volunteering in a hospital with a stroke center, the student sees more patients who have experienced a stroke than would be expected in a hospital without a stroke center. Thus, this experience changes the student’s perception and results in base rate fallacy. Deductive reasoning, (A), refers to drawing conclusions by integrating different pieces of evidence. The representativeness heuristic, (B), involves categorization and classification based on how well an individual example fits its category. Confirmation bias, (D), occurs when people only seek information that reinforces their opinions."
+    },
+    {
+      "id": "ch4_q4",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 4,
+      "question_text": "Which of the following types of intelligence is NOT described by Gardner’s theory of multiple intelligences?",
+      "options": {
+        "A": "Fluid intelligence",
+        "B": "Bodily–kinesthetic intelligence",
+        "C": "Visual–spatial intelligence",
+        "D": "Linguistic intelligence"
+      },
+      "correct_answer": "A",
+      "explanation": "Fluid intelligence consists of problem-solving skills and is not one of Gardner’s eight multiple intelligences. Gardner’s theory lists linguistic, logical–mathematical, musical, visual–spatial, bodily–kinesthetic, interpersonal, intrapersonal, and naturalist intelligences."
+    },
+    {
+      "id": "ch4_q5",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 5,
+      "question_text": "EEG waveforms during REM sleep most resemble which of the following states of consciousness?",
+      "options": {
+        "A": "Alertness",
+        "B": "Slow-wave sleep",
+        "C": "Stage 1 sleep",
+        "D": "Meditation"
+      },
+      "correct_answer": "A",
+      "explanation": "EEG during REM is composed mainly of beta waves, which are present during alertness. SWS, (B), consists mainly of delta waves, which are not typically present during REM sleep. Stage 1 sleep, (C), consists mainly of theta waves. Meditation, (D), is quieting of the mind, and consists mainly of slow alpha and theta waves."
+    },
+    {
+      "id": "ch4_q6",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 6,
+      "question_text": "Which of the following indicates the pattern of sleep stages during a complete sleep cycle early in the night?",
+      "options": {
+        "A": "1–2–3–4–1–2–REM",
+        "B": "1–2–3–4–3–2–REM",
+        "C": "4–3–2–1–2–3–REM",
+        "D": "4–3–2–4–3–1–REM"
+      },
+      "correct_answer": "B",
+      "explanation": "Early in the evening, sleep cycles include deepening of sleep (Stages 1–2–3–4), followed either by lightening of sleep (Stages 4–3–2) and then REM, or just directly moving from Stage 4 into REM. Later in the evening, the cycle may be shortened as slow-wave sleep becomes less common."
+    },
+    {
+      "id": "ch4_q7",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 7,
+      "question_text": "Which of the following best explains a student’s ability to sit on the couch and watch reruns of a favorite TV show while studying for a chemistry exam?",
+      "options": {
+        "A": "Selective attention",
+        "B": "Divided attention",
+        "C": "Shadowing",
+        "D": "Parallel processing"
+      },
+      "correct_answer": "B",
+      "explanation": "Divided attention is the ability to perform several tasks simultaneously. Routine actions, such as rewatching familiar episodes of a favorite TV show, are completed via automatic processing which allows the brain to focus on other tasks. Working on two tasks simultaneously means the student is using divided attention, supporting (B) as the correct answer. By contrast, parallel processing, (D), refers to the brain’s ability to analyze imagery by processing several aspects of the image (shape, color, motion, etc.) independently and simultaneously."
+    },
+    {
+      "id": "ch4_q8",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 8,
+      "question_text": "Which theory of dreaming states that dreams and thoughts during wakeful periods use the same stream-of-consciousness system?",
+      "options": {
+        "A": "Activation–synthesis theory",
+        "B": "Problem solving theory",
+        "C": "Cognitive process theory",
+        "D": "Neurocognitive theory"
+      },
+      "correct_answer": "C",
+      "explanation": "Cognitive theorists proposed in the cognitive process dream theory that wakeful and dreaming states use the same mental systems within the brain, particularly stream-of-consciousness. The activation–synthesis theory, (A), states that dreams are caused by widespread, random activation of neural circuitry. The problem solving dream model, (B), indicates that dreams are used to solve problems while sleeping due to untethering of dreams from obstacles perceived while awake. The neurocognitive theorists, (D), seek to unify cognitive and biological perspectives by correlating the subjective dream experience with the physiological experience of dreaming."
+    },
+    {
+      "id": "ch4_q9",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 9,
+      "question_text": "A 19-year-old college student with bloodshot eyes is picked up by campus police after shoplifting a large bag of corn chips and a dozen ice cream sandwiches. During questioning, the student cannot stop giggling and repeatedly asks for water, complaining of dryness in the mouth. What is the psychoactive substance in the drug this student has most likely recently taken?",
+      "options": {
+        "A": "Alprazolam",
+        "B": "3,4-Methylenedioxy-N-methylamphetamine",
+        "C": "Diacetylmorphine",
+        "D": "Tetrahydrocannabinol"
+      },
+      "correct_answer": "D",
+      "explanation": "The description of the student matches the clinical features of marijuana (cannabis) use: hunger (presumably, based on what was shoplifted), redness of the eyes, dry mouth, and euphoria. Marijuana may also cause an increased heart rate, short-term memory loss, paranoia, and—in high doses—hallucinations. Tetrahydrocannabinol is the primary active substance in marijuana."
+    },
+    {
+      "id": "ch4_q10",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 10,
+      "question_text": "Language consists of multiple components. Which of the following involves the order in which words are put together?",
+      "options": {
+        "A": "Phonology",
+        "B": "Semantics",
+        "C": "Syntax",
+        "D": "Pragmatics"
+      },
+      "correct_answer": "C",
+      "explanation": "Syntax refers to how words are put together to form sentences and create meaning. Phonology, (A), refers to the actual sounds of a language. Semantics, (B), refers to the association of meaning with a word. Pragmatics, (D), refers to changes in usage, wording, and inflection based on context."
+    },
+    {
+      "id": "ch4_q11",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 11,
+      "question_text": "A child speaks in sentences of at least 3 words, but makes grammatical errors including misuse of the past tense. How old is this child likely to be?",
+      "options": {
+        "A": "14 months",
+        "B": "22 months",
+        "C": "30 months",
+        "D": "5 years"
+      },
+      "correct_answer": "C",
+      "explanation": "A child who speaks in three-word sentences but has not yet mastered most of the fundamental rules of language, including past tense, is likely to be between two and three years old."
+    },
+    {
+      "id": "ch4_q12",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 12,
+      "question_text": "Which language theory states that language development occurs due to preferential reinforcement of certain phonemes by parents and caregivers?",
+      "options": {
+        "A": "Nativist theory",
+        "B": "Learning theory",
+        "C": "Social interactionist theory",
+        "D": "Neurocognitive theory"
+      },
+      "correct_answer": "B",
+      "explanation": "Learning theory, largely based on the work of B. F. Skinner, states that parents reinforce phonemes that sound most like their language, resulting in preferential preservation of these phonemes. Nativist theory, (A), posits a critical period during which language acquisition occurs. Social interactionist theory, (C), indicates that language develops via interaction with parents and caregivers as well as a desire of the child to communicate. Neurocognitive theory, (D), is concerned with the subjective experience of dreaming and the physiology of dreaming."
+    },
+    {
+      "id": "ch4_q13",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 13,
+      "question_text": "A stroke patient comprehends speech but cannot properly move the mouth to form words. Which of the following brain areas is likely affected?",
+      "options": {
+        "A": "Broca’s area",
+        "B": "Wernicke’s area",
+        "C": "Arcuate fasciculus",
+        "D": "Superior temporal gyrus"
+      },
+      "correct_answer": "A",
+      "explanation": "Broca’s area governs the motor function of language. A stroke that affects Broca’s area will leave receptive language intact, but word formation will be affected. A stroke affecting Wernicke’s area, (B), will make it so the individual is unable to comprehend speech. A stroke affecting the arcuate fasciculus, (C), will result in an inability to repeat words heard but spontaneous language production is intact. The superior temporal gyrus, (D), is where Wernicke’s area is located."
+    },
+    {
+      "id": "ch4_q14",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 14,
+      "question_text": "A person sits at a terminal of the airport and works on a challenging sudoku puzzle. The individual ignores most of the intercom announcements but, after an announcement indicates that boarding for the flight has begun, quickly gets in line. Which of the following best explains the person’s rapid response for boarding?",
+      "options": {
+        "A": "Cocktail party phenomenon",
+        "B": "Divided attention",
+        "C": "Automatic processing",
+        "D": "Effortful processing"
+      },
+      "correct_answer": "A",
+      "explanation": "With selective attention, a person focuses on a specific task while filtering out background stimuli. In this way, the individual in the airport ignored most of the background noise while working on a puzzle. However, the brain can shift attention quickly when a stimulus is particularly important, such as the specific call for boarding the flight. This shift is known as the cocktail party phenomenon, named for a person’s ability to quickly reorient their focus when they hear their name at a party. Thus, (A) is the correct answer. By contrast, while effortful processing, (D), describes this person’s intense focus on the puzzle, it does not explain the ability to respond quickly to the boarding announcement. Similarly, divided attention, (B), works best on simple tasks and the question stem uses the word “challenging” to describe the puzzle."
+    },
+    {
+      "id": "ch4_q15",
+      "chapter": 4,
+      "chapter_title": "Cognition, Consciousness, and Language",
+      "question_number": 15,
+      "question_text": "During which of the following stages does dreaming occur?\nI. Stage 3\nII. Stage 4\nIII. REM",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "D",
+      "explanation": "About 75% of dreaming occurs during REM, but dreams occur in all other stages of sleep as well. More bizarre dreams are likely to occur during REM."
+    },
+    {
+      "id": "ch5_q1",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 1,
+      "question_text": "A college student strives for excellent grades and hopes to graduate with a better GPA than an older sibling. This type of motivation is considered:",
+      "options": {
+        "A": "extrinsic motivation.",
+        "B": "intrinsic motivation.",
+        "C": "a primary drive.",
+        "D": "a secondary drive."
+      },
+      "correct_answer": "A",
+      "explanation": "Due to the competitive nature of the motivation, this is considered extrinsic motivation. Extrinsic motivation is based on external conditions, including perceived reward or fear of punishment. In this case, the reward is beating the sibling. There is no suggestion of an uncomfortable internal state or tension, which is an aspect of drives, eliminating (C) and (D)."
+    },
+    {
+      "id": "ch5_q2",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 2,
+      "question_text": "When practicing a recital song at home, a student sounds perfectly in pitch to family and friends. However, when performing at the recital in front of a large audience of peers, strangers, and coaches, the student’s pitch and tone are off, resulting in a poor performance. This second performance is best explained by:",
+      "options": {
+        "A": "drive reduction theory.",
+        "B": "instinct approach theory.",
+        "C": "Maslow’s hierarchy of needs.",
+        "D": "the Yerkes–Dodson law."
+      },
+      "correct_answer": "D",
+      "explanation": "The Yerkes–Dodson law states that there is an optimal level of arousal necessary to perform. If levels of arousal are too high, poor performance can result. In the case of this student performing at a recital, arousal level is very high as a result of nervousness and anxiety, resulting in a poor performance."
+    },
+    {
+      "id": "ch5_q3",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 3,
+      "question_text": "Seeking homeostasis to reduce an uncomfortable internal state is associated with which motivational theory?",
+      "options": {
+        "A": "Drive reduction theory",
+        "B": "Instinct theory",
+        "C": "Arousal theory",
+        "D": "Incentive theory"
+      },
+      "correct_answer": "A",
+      "explanation": "Drive reduction theory is the theory that one will act to eliminate uncomfortable internal states known as drives. The body will push toward equilibrium, or homeostasis."
+    },
+    {
+      "id": "ch5_q4",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 4,
+      "question_text": "People from cultures around the world can identify which of the following emotions?",
+      "options": {
+        "A": "Happiness, sadness, and surprise",
+        "B": "Happiness, anger, and apathy",
+        "C": "Sadness, anticipation, and happiness",
+        "D": "Excitement, anger, and disgust"
+      },
+      "correct_answer": "A",
+      "explanation": "The seven universal emotions are happiness, sadness, contempt, surprise, fear, disgust, and anger."
+    },
+    {
+      "id": "ch5_q5",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 5,
+      "question_text": "Experiencing emotion involves three components, which are:",
+      "options": {
+        "A": "behavioral, reactionary, and cognitive.",
+        "B": "emotional, physical, and mental.",
+        "C": "physiological, cognitive, and behavioral.",
+        "D": "emotional, cognitive, and behavioral."
+      },
+      "correct_answer": "C",
+      "explanation": "The three components of emotion are the physiological (changes in the autonomic nervous system), cognitive (subjective interpretation of an emotion), and behavioral (facial expressions and body language) responses."
+    },
+    {
+      "id": "ch5_q6",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 6,
+      "question_text": "The statement “I noticed my heart racing and breathing rate increasing when I saw a bear, so I am afraid” corresponds most closely with which theory of emotion?",
+      "options": {
+        "A": "Schachter–Singer theory",
+        "B": "Yerkes–Dodson theory",
+        "C": "Cannon–Bard theory",
+        "D": "James–Lange theory"
+      },
+      "correct_answer": "D",
+      "explanation": "Experiencing a physiological reaction to a stimulus and then labeling that response as emotion is in line with the James–Lange theory of emotion. In the statement, seeing the bear is the stimulus, an increase in heart rate and breathing rate is the physiological reaction, and identifying this as fear is the emotion experienced."
+    },
+    {
+      "id": "ch5_q7",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 7,
+      "question_text": "Which theory of motivation is most significantly informed by Darwin’s theory of evolution?",
+      "options": {
+        "A": "Arousal theory",
+        "B": "Drive reduction theory",
+        "C": "Instinct theory",
+        "D": "Incentive theory"
+      },
+      "correct_answer": "C",
+      "explanation": "According to Darwin’s theory of evolution, all species have instincts that help them survive. The instinct theory of motivation states that people are motivated to act based on instincts that they are programmed to exhibit."
+    },
+    {
+      "id": "ch5_q8",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 8,
+      "question_text": "Simultaneous processing of conscious emotions and physiological activation is the defining feature of which theory of emotion?",
+      "options": {
+        "A": "Schachter–Singer theory",
+        "B": "James–Lange theory",
+        "C": "Incentive theory",
+        "D": "Cannon–Bard theory"
+      },
+      "correct_answer": "D",
+      "explanation": "The Cannon–Bard theory of emotion is based on the premise that conscious feelings and physiological components of emotion are experienced at exactly the same time. In this theory, this combination then leads to action. This is commonly confused with the Schachter–Singer theory, (A), in which nervous system arousal occurs and then is labeled based on the context provided by the environment."
+    },
+    {
+      "id": "ch5_q9",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 9,
+      "question_text": "All of the following brain regions are primarily responsible for the experience of emotions EXCEPT the:",
+      "options": {
+        "A": "amygdala.",
+        "B": "prefrontal cortex.",
+        "C": "basal ganglia.",
+        "D": "thalamus."
+      },
+      "correct_answer": "C",
+      "explanation": "The amygdala, prefrontal cortex, and thalamus all play a role in the experience of emotions. The basal ganglia are involved in smooth movement and are not primarily responsible for the experience of emotions."
+    },
+    {
+      "id": "ch5_q10",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 10,
+      "question_text": "A person with high left frontal lobe activity is most likely experiencing which emotion?",
+      "options": {
+        "A": "Happiness",
+        "B": "Sadness",
+        "C": "Surprise",
+        "D": "Disgust"
+      },
+      "correct_answer": "A",
+      "explanation": "The left frontal lobe is associated with positive feelings, corresponding with joy and happiness. The right frontal lobe is associated with negative feelings, such as sadness and disgust, (B) and (D)."
+    },
+    {
+      "id": "ch5_q11",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 11,
+      "question_text": "Determination of the intensity and risk of a stressor occurs during which stage(s) of stress appraisal?",
+      "options": {
+        "A": "Primary appraisal only",
+        "B": "Secondary appraisal only",
+        "C": "Both primary and secondary appraisal",
+        "D": "Neither primary nor secondary appraisal"
+      },
+      "correct_answer": "B",
+      "explanation": "Secondary appraisal of stress is the stage at which the ability of the organism to cope with the stressor is evaluated. This is based on the harm, threat, and challenge of the stressor, which are all correlated with its intensity. Primary appraisal is simply the initial determination of whether there is a negative association at all, not its intensity."
+    },
+    {
+      "id": "ch5_q12",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 12,
+      "question_text": "A medical student is feeling a high level of stress due to upcoming exams and pressure from family to engage in activities at home. The student chooses to go to the gym for a workout to help relax. This workout is which type of stress?",
+      "options": {
+        "A": "Hassle",
+        "B": "Frustration",
+        "C": "Distress",
+        "D": "Eustress"
+      },
+      "correct_answer": "D",
+      "explanation": "A positive stressor creates eustress. Because working out is used to relax, it is considered a eustress. Hassle, (A), and frustration, (B), are both types of distress, (C), or negative stressors."
+    },
+    {
+      "id": "ch5_q13",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 13,
+      "question_text": "Which type of conflict is associated with the LEAST amount of stress?",
+      "options": {
+        "A": "Approach–approach conflict",
+        "B": "Avoidance–avoidance conflict",
+        "C": "Approach–avoidance conflict",
+        "D": "Avoidance–escape conflict"
+      },
+      "correct_answer": "A",
+      "explanation": "Approach–approach conflict is one in which both results are good outcomes. While one must be chosen, neither choice results in a negative outcome: for example, choosing between two desserts. Avoidance–escape conflict, (D), is not a recognized form of conflict; these two terms are related to types of negative reinforcers."
+    },
+    {
+      "id": "ch5_q14",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 14,
+      "question_text": "While cleaning your house, you notice a large spider on the wall by your head and feel your heart rate jump up and your skin temperature grow warm. Which stage of stress response are you experiencing?",
+      "options": {
+        "A": "Alarm",
+        "B": "Resistance",
+        "C": "Exhaustion",
+        "D": "Homeostasis"
+      },
+      "correct_answer": "A",
+      "explanation": "The initial reaction to stress, which is activation of the sympathetic nervous system, is the alarm stage of stress response."
+    },
+    {
+      "id": "ch5_q15",
+      "chapter": 5,
+      "chapter_title": "Motivation, Emotion, and Stress",
+      "question_number": 15,
+      "question_text": "Each of the following responses to stress is considered maladaptive EXCEPT:",
+      "options": {
+        "A": "drug use.",
+        "B": "social withdrawal.",
+        "C": "progressive muscle relaxation.",
+        "D": "avoiding the stressor."
+      },
+      "correct_answer": "C",
+      "explanation": "Progressive muscle relaxation is a relaxation technique demonstrated to help reduce stress in a manner that is beneficial to the body and psyche. The other methods described here, including avoidance of the stressor, (D), serve to increase stress or merely change the source of the stress."
+    },
+    {
+      "id": "ch6_q1",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 1,
+      "question_text": "Each of the following is considered a part of a person’s self-concept EXCEPT:",
+      "options": {
+        "A": "the past self.",
+        "B": "the ought self.",
+        "C": "the future self.",
+        "D": "self-schemata."
+      },
+      "correct_answer": "B",
+      "explanation": "Self-concept is defined as the sum of all of the ways in which we see ourselves, including who we are, as in (D), who we were in the past, (A), and who we may become in the future, (C). The ought self, while closely related to self-esteem, is our appraisal of how others see us and is not a part of our self-concept."
+    },
+    {
+      "id": "ch6_q2",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 2,
+      "question_text": "As a gender identity, androgyny is defined as:",
+      "options": {
+        "A": "low femininity, low masculinity.",
+        "B": "high femininity, low masculinity.",
+        "C": "low femininity, high masculinity.",
+        "D": "high femininity, high masculinity."
+      },
+      "correct_answer": "D",
+      "explanation": "Androgyny is defined as scoring highly on scales of both femininity and masculinity. Achieving a low score on both scales, (A), would be considered undifferentiated, while (B) and (C) would be described as feminine and masculine, respectively."
+    },
+    {
+      "id": "ch6_q3",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 3,
+      "question_text": "A high school student struggles consistently with math and feels that no amount of studying will help because “I just don’t get it.” Which of the following is the most likely short-term result with respect to the student’s ability to do math?",
+      "options": {
+        "A": "Low self-esteem",
+        "B": "Low self-efficacy",
+        "C": "Learned helplessness",
+        "D": "An external locus of control"
+      },
+      "correct_answer": "B",
+      "explanation": "Because there is nothing in the question stem to suggest that this situation will fundamentally change this student’s attitudes in the short term, (A) and (D) can be eliminated. (C) is unlikely in the short term, as learned helplessness requires a repeated inability to have any effect on a situation over a long period of time and is much more severe, usually manifesting as depression. It is far more likely that the student will simply feel ineffective when it comes to math, which is low self-efficacy."
+    },
+    {
+      "id": "ch6_q4",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 4,
+      "question_text": "A district attorney with an internal locus of control wins an important court trial. Which of the following best represents the lawyer’s attribution of the events?",
+      "options": {
+        "A": "“I won because I made great arguments and had more experience than the defense.”",
+        "B": "“I won because the jury was on my side from the beginning and believed my arguments.”",
+        "C": "“I won because the defense did not adequately present their side of the case.”",
+        "D": "“I shouldn’t have won because I don’t deserve to be successful.”"
+      },
+      "correct_answer": "A",
+      "explanation": "Because we know the lawyer has an internal locus of control, we expect belief in being in control of the events happening in life. Both (B) and (C) attribute success to outside factors, representing an external locus of control. While (D) perhaps represents an attribution that could correlate to low self-esteem, it is not indicative of locus of control."
+    },
+    {
+      "id": "ch6_q5",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 5,
+      "question_text": "A person keeps an extremely tidy desk and becomes very nervous whenever things are disorganized or out of place. In which of the following stages would a psychodynamic therapist say this person had become fixated?",
+      "options": {
+        "A": "The oral stage",
+        "B": "The anal stage",
+        "C": "The phallic stage",
+        "D": "The genital stage"
+      },
+      "correct_answer": "B",
+      "explanation": "Both excessive organization and excessive sloppiness are indicative of fixation in the anal stage of psychosexual development—what is commonly referred to as anal-retentiveness."
+    },
+    {
+      "id": "ch6_q6",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 6,
+      "question_text": "According to Erikson’s stages of psychosocial development, which of the following would be the most important for a recent college graduate to accomplish?",
+      "options": {
+        "A": "Figuring out what identities are most important personally",
+        "B": "Feeling like a contributing member of society",
+        "C": "Forming an intimate relationship with a significant other",
+        "D": "Finding a feeling of accomplishment in life"
+      },
+      "correct_answer": "C",
+      "explanation": "As a postadolescent young adult, this person would be described by Erikson as experiencing the conflict of intimacy vs. isolation, and so forming significant relationships with others would be a primary goal. (B) and (D) represent the next two stages in life (generativity vs. stagnation and integrity vs. despair, respectively), while (A) is the conflict that Erikson would say should have been resolved in adolescence (identity vs. role confusion)."
+    },
+    {
+      "id": "ch6_q7",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 7,
+      "question_text": "Matt and Cati discuss the reasons why they avoid driving above the speed limit. Matt cites wanting to avoid a traffic fine, while Cati says that speeding is dangerous and, if everyone did it, there would be more accidents and people would get hurt. According to Kohlberg, which of the following describes the phases of moral reasoning demonstrated by Matt and Cati, respectively?",
+      "options": {
+        "A": "Preconventional; conventional",
+        "B": "Preconventional; postconventional",
+        "C": "Conventional; preconventional",
+        "D": "Postconventional; conventional"
+      },
+      "correct_answer": "A",
+      "explanation": "Matt’s reasoning reflects a desire to avoid punishment, which reflects stage one in Kohlberg’s preconventional phase (obedience). Cati’s reasoning takes into account social order, reflecting stage four in the conventional phase (law and order)."
+    },
+    {
+      "id": "ch6_q8",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 8,
+      "question_text": "A child cannot make an origami swan alone, but is able to do so when observing and being assisted by an adult. This scenario is described in the ideas of which of the following theorists?",
+      "options": {
+        "A": "Albert Bandura",
+        "B": "Alfred Adler",
+        "C": "B. F. Skinner",
+        "D": "Lev Vygotsky"
+      },
+      "correct_answer": "D",
+      "explanation": "This situation is best described by Lev Vygotsky’s zone of proximal development theory, which holds that children are often unable to perform tasks by themselves, but can complete the task with the help of a more knowledgeable other."
+    },
+    {
+      "id": "ch6_q9",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 9,
+      "question_text": "Which of the following is a conclusion that can be made from research in role-taking and observational learning?",
+      "options": {
+        "A": "Young children will only model actions performed by their parents.",
+        "B": "Celebrities and athletes are an adolescent’s most important role models.",
+        "C": "Children who role-take identities that are not gender typical are more likely to take on those roles later in life.",
+        "D": "A female child is more likely to model the behavior of another female than a male."
+      },
+      "correct_answer": "D",
+      "explanation": "(C) has no support from role-taking research and can be eliminated. (A) and (B) are both inaccurate; the Bobo doll experiment shows young children modeling behavior not performed by their parents, and teens are most influenced by their peers, not celebrities and athletes. The research does suggest, however, that children are more likely to engage in behavior modeled by individuals who are like themselves; thus, a female child is more likely to imitate behavior by another female."
+    },
+    {
+      "id": "ch6_q10",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 10,
+      "question_text": "A person feels extremely guilty after having an extramarital affair. According to the psychodynamic perspective, which of the following is responsible for this anxiety?",
+      "options": {
+        "A": "The id",
+        "B": "The ego",
+        "C": "The superego",
+        "D": "The libido"
+      },
+      "correct_answer": "C",
+      "explanation": "The superego is responsible for moral guilt when we do not live up to our ideals. While the id and the libido, (A) and (D), may be responsible for the urge to have an affair, the superego is responsible for the anxiety one feels afterward."
+    },
+    {
+      "id": "ch6_q11",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 11,
+      "question_text": "A woman advances through the ranks of a company, eventually becoming the CEO. Which of the following Jungian archetypes reflects this woman’s drive to be successful within the company?",
+      "options": {
+        "A": "The persona",
+        "B": "The anima",
+        "C": "The animus",
+        "D": "The shadow"
+      },
+      "correct_answer": "C",
+      "explanation": "Jung saw the drive for power and success as typically male traits, so Jung would say this woman is exercising her “inner man.” The animus is the archetype that most closely reflects this quality."
+    },
+    {
+      "id": "ch6_q12",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 12,
+      "question_text": "Researchers discover that polymorphisms in the DRD2 gene can be associated with thrill-seeking behavior, and that individuals with certain forms of the gene are more likely to become extreme athletes and have more dangerous hobbies. Which of the following theories is supported by this discovery?\nI. The social cognitive perspective\nII. The behavioral perspective\nIII. The biological perspective",
+      "options": {
+        "A": "I only",
+        "B": "III only",
+        "C": "I and III only",
+        "D": "II and III only"
+      },
+      "correct_answer": "C",
+      "explanation": "This research supports a link between genetic expression and behavior, which is a central tenet of the biological perspective. The social cognitive perspective also holds that people’s behaviors and traits shape their environments, which in turn have an effect on their identity, so the discovery also supports this perspective. Behaviorism is not supported, as the discovery is not related to rewards and punishments."
+    },
+    {
+      "id": "ch6_q13",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 13,
+      "question_text": "A person who works as an EMT identifies as a bit of a rebel, but is highly sociable and is able to keep calm in an emergency. This person would likely score in the lower range of which of the following traits?",
+      "options": {
+        "A": "Psychoticism",
+        "B": "Neuroticism",
+        "C": "Extraversion",
+        "D": "Conscientiousness"
+      },
+      "correct_answer": "B",
+      "explanation": "As a rebel and a sociable person, this individual would score highly on both psychoticism and extraversion, respectively. Neuroticism is associated with high emotional arousal in stressful situations, so being able to keep calm in an emergency is a sign of low neuroticism. Conscientiousness, a trait associated with being hardworking and organized instead of impulsive, is not described by the question stem."
+    },
+    {
+      "id": "ch6_q14",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 14,
+      "question_text": "Stockholm syndrome is a phenomenon in which people who are kidnapped or held hostage may begin to identify with or even feel affection for their captors. A psychoanalyst might explain Stockholm syndrome by citing which of the following defense mechanisms?",
+      "options": {
+        "A": "Reaction formation",
+        "B": "Regression",
+        "C": "Projection",
+        "D": "Displacement"
+      },
+      "correct_answer": "A",
+      "explanation": "Reaction formation is a defense mechanism that converts unwanted feelings into their exact opposite. A psychodynamic theorist would say that the terror and hatred victims feel toward their captors might be unconsciously turned into affection in an effort to reduce the stress of the situation."
+    },
+    {
+      "id": "ch6_q15",
+      "chapter": 6,
+      "chapter_title": "Identity and Personality",
+      "question_number": 15,
+      "question_text": "Having struggled for years through an economic recession, a young professional begins to buy lottery tickets every Friday. “If I won the lottery,” the individual reasons, “I’d finally have the life I’ve always wanted. All my stress would go away and I could live comfortably.” These thoughts regarding winning the lottery are most representative of:",
+      "options": {
+        "A": "a cardinal trait.",
+        "B": "fictional finalism.",
+        "C": "functional autonomy.",
+        "D": "unconditional positive regard."
+      },
+      "correct_answer": "B",
+      "explanation": "Fictional finalism is comprised of internal, idealistic beliefs about the future. The assumption that winning the lottery will solve all of life’s problems is representative of this form of thinking. Cardinal traits, (A), are the traits around which individuals organize their entire life. Functional autonomy, (C), is when a behavior continues after the drive behind the behavior has ceased; for example, if this young professional continued purchasing lottery tickets after winning simply for enjoyment, then this behavior would have gained functional autonomy. Unconditional positive regard, (D), is used in some forms of humanistic therapy in which the therapist believes in the internal good of the client and does not judge the client negatively for any words or actions."
+    },
+    {
+      "id": "ch7_q1",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 1,
+      "question_text": "Which of the following is an example of a negative symptom seen in schizophrenia?",
+      "options": {
+        "A": "Auditory hallucinations",
+        "B": "Disorganized behavior",
+        "C": "Disturbance of affect",
+        "D": "Delusions"
+      },
+      "correct_answer": "C",
+      "explanation": "Negative symptoms are the absence of normal or desired behavior, which include disturbance of affect and avolition. Positive symptoms are the addition of abnormal behavior, including hallucinations, (A), disorganized behavior, (B), and delusions, (D)."
+    },
+    {
+      "id": "ch7_q2",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 2,
+      "question_text": "During an interview with a schizophrenic patient, a psychiatrist notices that the patient keeps repeating what the psychiatrist says. This phenomenon is known as:",
+      "options": {
+        "A": "echolalia.",
+        "B": "echopraxia.",
+        "C": "loosening of associations.",
+        "D": "neologisms."
+      },
+      "correct_answer": "A",
+      "explanation": "Echolalia is an involuntary repetition of others’ words and utterances and may be seen in schizophrenia. Echopraxia, (B), is imitation of others’ actions. Loosening of associations, (C), is a type of disordered thought in which the patient moves between remotely related ideas. Neologisms, (D), are newly invented words."
+    },
+    {
+      "id": "ch7_q3",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 3,
+      "question_text": "A 42-year-old patient has always been extremely neat and tidy. This person works as a secretary and stays long after normal working hours to check the punctuation and spelling of letters prepared during the day. The patient was referred for counseling by a supervisor after repeatedly getting into fights with coworkers. “They don’t take the job to heart,” the patient says. “They just joke around all day.” The most likely preliminary diagnosis for this patient is:",
+      "options": {
+        "A": "obsessive–compulsive personality disorder.",
+        "B": "antisocial personality disorder.",
+        "C": "narcissistic personality disorder.",
+        "D": "borderline personality disorder."
+      },
+      "correct_answer": "A",
+      "explanation": "Focusing on details, loving routine, having a sense that there is only one right way to do things, and lack of humor suggests an obsessive–compulsive personality disorder."
+    },
+    {
+      "id": "ch7_q4",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 4,
+      "question_text": "Which of the following is true with regard to a major depressive episode?",
+      "options": {
+        "A": "It may last less than two weeks.",
+        "B": "It must involve thoughts of suicide or a suicide attempt.",
+        "C": "It may involve a decrease in sleep.",
+        "D": "It must involve feelings of sadness."
+      },
+      "correct_answer": "C",
+      "explanation": "Depression is marked by a period of at least two weeks in which the patient has five of nine cardinal symptoms, one of which must be depressed mood or lack of interest (anhedonia). While decreased need for sleep is commonly seen in manic episodes, it may also appear in depression, as sleep disturbance is one of the nine cardinal symptoms. Not all depressed individuals are suicidal, as in (B). In older individuals, depression may often manifest as anhedonia without feelings of sadness, invalidating (D)."
+    },
+    {
+      "id": "ch7_q5",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 5,
+      "question_text": "A young person moves to a new city to start work on an accelerated degree program. After a few months this individual visits the doctor complaining of stress and isolation and is diagnosed with depression. The doctor ascribes the cause to low levels of serotonin and prescribes an SSRI for treatment. Which of the following best describes the physician’s approach to diagnosis and treatment?",
+      "options": {
+        "A": "Biomedical approach with indirect therapy",
+        "B": "Biomedical approach with direct therapy",
+        "C": "Biopsychosocial approach with indirect therapy",
+        "D": "Biopsychosocial approach with direct therapy"
+      },
+      "correct_answer": "B",
+      "explanation": "The doctor is using the biomedical approach since the focus is on only the biological cause of the patient’s symptoms. Furthermore, since the treatment centers only on the patient, the doctor is using direct therapy. This combination of approach and therapy matches (B) as the correct answer. By contrast, a doctor using the biopsychosocial approach would likely consider the patient’s recent move, stresses associated with the accelerated program, and lack of support structure as potential causes of depression. Additionally, treatment using the biopsychosocial approach includes indirect therapy which focuses on increasing social support."
+    },
+    {
+      "id": "ch7_q6",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 6,
+      "question_text": "A young person of unknown age is brought by the Philadelphia police to the local emergency department for evaluation after being found wandering in a park. The patient carries no identification and is unable to provide a first or last name or any life details, except that the name Phoenix seems familiar. The police in Arizona are contacted and find a missing persons report matching the patient’s description. Based on this information, the most likely diagnosis for this patient is:",
+      "options": {
+        "A": "depersonalization/derealization disorder.",
+        "B": "dissociative identity disorder.",
+        "C": "somatic symptom disorder.",
+        "D": "dissociative amnesia with dissociative fugue."
+      },
+      "correct_answer": "D",
+      "explanation": "Dissociative fugue is characterized by sudden travel or change in normal day-to-day activities and occurs in some cases of dissociative amnesia. Symptoms include an inability to recall one’s past or confusion about one’s identity. Thus, the described patient is most likely to be suffering dissociative amnesia accompanied by dissociative fugue."
+    },
+    {
+      "id": "ch7_q7",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 7,
+      "question_text": "In addition to being a freestanding diagnosis, agoraphobia is most often seen in association with which other psychiatric diagnosis?",
+      "options": {
+        "A": "Obsessive–compulsive disorder",
+        "B": "Avoidant personality disorder",
+        "C": "Generalized anxiety disorder",
+        "D": "Panic disorder"
+      },
+      "correct_answer": "D",
+      "explanation": "Agoraphobia, or a fear of places or situations in which it would be difficult to escape, is commonly seen in panic disorder. Concern about having a panic attack in public may make these individuals fearful of leaving their home."
+    },
+    {
+      "id": "ch7_q8",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 8,
+      "question_text": "A researcher is interested in studying fear responses to a variety of different stimuli. To rule out potential confounding variables, the research excludes individuals with phobias from the study. In a sample of 50 participants, how many will likely be excluded from the study, assuming that the sample is representative of the overall population?",
+      "options": {
+        "A": "45",
+        "B": "15",
+        "C": "10",
+        "D": "5"
+      },
+      "correct_answer": "D",
+      "explanation": "Phobias affect approximately 9% of the population, meaning that on average 9 in 100 individuals will have some sort of phobia. In a sample of 50 people, 4 or 5 people will need to be excluded, assuming that the sample is representative of the larger population. Thus, (D) is correct."
+    },
+    {
+      "id": "ch7_q9",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 9,
+      "question_text": "What two disorders could these symptoms indicate?",
+      "options": {
+        "A": "Major depressive and bipolar disorders",
+        "B": "Dissociative amnesia and depersonalization/derealization disorder",
+        "C": "Alzheimer’s disease and Parkinson’s disease",
+        "D": "Specific phobia and panic disorder"
+      },
+      "correct_answer": "A",
+      "explanation": "The symptoms listed indicate a major depressive episode. However, depressive episodes can be a part of bipolar disorders, which also contain manic episodes. Thus, if manic episodes have not yet been asked about, one cannot distinguish between depression or bipolar disorder as the correct diagnosis yet."
+    },
+    {
+      "id": "ch7_q10",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 10,
+      "question_text": "What should the physician ask about to distinguish between the two possible disorders affecting that patient?",
+      "options": {
+        "A": "Whether the patient has amnesia",
+        "B": "Whether the patient has also had manic episodes",
+        "C": "Whether the patient is irrationally afraid of anything",
+        "D": "Whether the patient has experienced difficulty performing familiar tasks"
+      },
+      "correct_answer": "B",
+      "explanation": "To determine if this patient has major depressive disorder or a bipolar disorder, the presence of manic (or hypomanic) episodes should be confirmed. Bipolar disorders contain manic (or hypomanic) episodes, while major depressive disorder does not."
+    },
+    {
+      "id": "ch7_q11",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 11,
+      "question_text": "All of the following are risk factors or diagnostic criteria for Alzheimer’s disease EXCEPT:",
+      "options": {
+        "A": "Extra copies of the β-amyloid precursor protein gene.",
+        "B": "Decreased abundance of serotonin and norepinephrine.",
+        "C": "Neurofibrillary tangles of hyperphosphorylated tau protein.",
+        "D": "Deficient blood flow to the parietal lobes."
+      },
+      "correct_answer": "B",
+      "explanation": "The correct answer should be a statement that is not relevant to Alzheimer’s disease. Choice (B), a decreased abundance of serotonin and norepinephrine, describes the monoamine theory of depression. These neurochemical changes are not known risk factors or diagnostic criteria for Alzheimer’s disease, making (B) the correct answer. The remaining choices are either risk factors or diagnostic criteria for Alzheimer’s disease. Choice (A) describes the increased risk of Alzheimer’s disease in individuals with Down syndrome, as the gene for β-amyloid precursor is on chromosome 21. Choices (C) and (D) both describe biological markers of Alzheimer’s disease."
+    },
+    {
+      "id": "ch7_q12",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 12,
+      "question_text": "Splitting is a defense mechanism commonly seen with which personality disorder?",
+      "options": {
+        "A": "Antisocial personality disorder",
+        "B": "Borderline personality disorder",
+        "C": "Histrionic personality disorder",
+        "D": "Narcissistic personality disorder"
+      },
+      "correct_answer": "B",
+      "explanation": "Splitting, the consideration of others as either “all good” or “all bad,” is characteristic of borderline personality disorder."
+    },
+    {
+      "id": "ch7_q13",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 13,
+      "question_text": "A patient comes to the doctor with a two-week history of complete paralysis of the left arm. The patient has had no injury to the extremity, and full neurological workup fails to demonstrate any underlying cause. The patient seems surprisingly unconcerned about the paralysis, and seems more worried about an argument that happened one month ago in which the patient hit a family member. Based on this information, the patient’s most likely diagnosis is:",
+      "options": {
+        "A": "conversion disorder.",
+        "B": "generalized anxiety disorder.",
+        "C": "illness anxiety disorder.",
+        "D": "histrionic personality disorder."
+      },
+      "correct_answer": "A",
+      "explanation": "Conversion disorder is marked by a motor or sensory symptom in the absence of an underlying physical or neurological cause. It is associated with an inciting event that, in this case, may have been the argument with the family member. The patient’s lack of concern over the deficit is referred to as la belle indifférence."
+    },
+    {
+      "id": "ch7_q14",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 14,
+      "question_text": "A patient is taken to the doctor after starting to move the fingers in such a way that it looks like rolling something, despite nothing actually being there. The patient also exhibits slowed movement and a shuffling gait. Which neurotransmitter is likely to be present in decreased levels in the patient’s brain?",
+      "options": {
+        "A": "Epinephrine",
+        "B": "Histamine",
+        "C": "Dopamine",
+        "D": "Serotonin"
+      },
+      "correct_answer": "C",
+      "explanation": "The symptoms indicate that the patient likely has Parkinson’s disease. This disease is caused by decreased dopamine production in the substantia nigra."
+    },
+    {
+      "id": "ch7_q15",
+      "chapter": 7,
+      "chapter_title": "Psychological Disorders",
+      "question_number": 15,
+      "question_text": "Which of the following is/are true regarding bipolar disorders?\nI. They have little, if any, genetic heritability.\nII. They are associated with increased levels of serotonin in the brain.\nIII. They all require at least one depressive episode for diagnosis.",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and III only",
+        "D": "II and III only"
+      },
+      "correct_answer": "B",
+      "explanation": "Bipolar disorders have been shown to be highly heritable and are associated with increased levels of norepinephrine and serotonin in the brain. Bipolar I disorder can be diagnosed with a single manic episode and does not require a major depressive episode. Bipolar II disorder requires at least one hypomanic episode and one major depressive episode. Cyclothymic disorder contains at least one hypomanic episode and dysthymia."
+    },
+    {
+      "id": "ch8_q1",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 1,
+      "question_text": "The behavior of the individuals in the Stanford prison experiment is best explained by which of the following terms?\nI. Bystander effect\nII. Deindividuation\nIII. Internalization\nIV. Social loafing",
+      "options": {
+        "A": "I only",
+        "B": "III only",
+        "C": "II and III only",
+        "D": "II and IV only"
+      },
+      "correct_answer": "C",
+      "explanation": "When fulfilling particular roles, an individual’s behavior can be very out of character. The changing of one’s behavior (and internal ideas) to match a group is called internalization conformity. This was a key part of the experiment. The experiment also involved deindividuation, the loss of self-identity in the group setting that can lead to antinormative or violent behavior."
+    },
+    {
+      "id": "ch8_q2",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 2,
+      "question_text": "A jury member who initially feels that a strict penalty should be placed on the defendant votes for an even stricter penalty after deliberation with the other jury members. This behavior is best described by which social phenomenon?",
+      "options": {
+        "A": "Social facilitation",
+        "B": "Group polarization",
+        "C": "Assimilation",
+        "D": "Socialization"
+      },
+      "correct_answer": "B",
+      "explanation": "The fact that individual opinions became more extreme during group discussion is explained by group polarization. The jury member initially felt that a strict penalty should be given, but this opinion became more extreme after conversation with the rest of the group."
+    },
+    {
+      "id": "ch8_q3",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 3,
+      "question_text": "Which of the following would decrease the likelihood of a bystander lending aid to a victim?",
+      "options": {
+        "A": "Increasing the number of people in the room",
+        "B": "Increasing the degree of danger experienced by the victim",
+        "C": "Making the victim an acquaintance instead of a stranger",
+        "D": "Being alone in the room with the victim"
+      },
+      "correct_answer": "A",
+      "explanation": "It has been observed that increasing the number of bystanders decreases the likelihood that any of them will aid a victim. Increasing the degree of danger experienced by the victim, (B), making the victim an acquaintance instead of a stranger, (C), and being alone in the room with the victim, (D), would increase the likelihood that the bystander would help the victim."
+    },
+    {
+      "id": "ch8_q4",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 4,
+      "question_text": "During groupthink, members of the group do all of the following EXCEPT:",
+      "options": {
+        "A": "stereotype members outside of the group.",
+        "B": "withhold opposing views.",
+        "C": "ignore warnings against the ideas of the group.",
+        "D": "create a sense of negativity against risk taking."
+      },
+      "correct_answer": "D",
+      "explanation": "With groupthink, a member would perform all of the actions described by the answer choices except create a sense of negativity against risk taking; in fact, there is optimism and encouragement toward risk taking in groupthink."
+    },
+    {
+      "id": "ch8_q5",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 5,
+      "question_text": "Adult prison systems may attempt to change the behavior of inmates through all of the following mechanisms of socialization EXCEPT:",
+      "options": {
+        "A": "primary socialization.",
+        "B": "secondary socialization.",
+        "C": "anticipatory socialization.",
+        "D": "resocialization."
+      },
+      "correct_answer": "A",
+      "explanation": "Primary socialization is the teaching of acceptable actions and attitudes during childhood, which would occur too early to be part of the adult prison system. Resocialization, (D), is the process by which one changes behaviors by discarding old routines and patterns and transitions to new behaviors necessary for a life change. The prison environment is designed to change unlawful behavior into desired behavior, making this an incorrect choice. When entering prison, an inmate must also undergo secondary socialization, (B), learning the rules of the specific social environment of the prison. Finally, if the inmate is not incarcerated for life, attempts at anticipatory socialization, (C), must be made before releasing the inmate in preparation for life outside of the prison."
+    },
+    {
+      "id": "ch8_q6",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 6,
+      "question_text": "Your neighbors ask you to collect their mail while they are out of town and you agree. Later that day, they ask you to water their plants as well. What technique for compliance are they using in this scenario?",
+      "options": {
+        "A": "Lowball technique",
+        "B": "That’s-not-all technique",
+        "C": "Foot-in-the-door technique",
+        "D": "Door-in-the-face technique"
+      },
+      "correct_answer": "C",
+      "explanation": "This is a prime example of the foot-in-the-door technique. The neighbors first ask for a small favor and, after receiving commitment, ask for a larger favor."
+    },
+    {
+      "id": "ch8_q7",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 7,
+      "question_text": "Which of the following statements represents the affective component of an attitude?",
+      "options": {
+        "A": "“I love action movies.”",
+        "B": "“I’m going to see a new action movie at the theater.”",
+        "C": "“Action movies are much better than comedies.”",
+        "D": "“Tomorrow, I’m going to rent an action movie.”"
+      },
+      "correct_answer": "A",
+      "explanation": "The affective component of attitude consists of feelings and emotions toward something."
+    },
+    {
+      "id": "ch8_q8",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 8,
+      "question_text": "After sitting in a lecture, determining that a professor is a bad teacher based on the professor’s unprofessional attire and monotone speech is an example of which type of processing?",
+      "options": {
+        "A": "Knowledge route processing",
+        "B": "Adaptive route processing",
+        "C": "Central route processing",
+        "D": "Peripheral route processing"
+      },
+      "correct_answer": "D",
+      "explanation": "Peripheral route processing deals with processing information that is not based on content, but instead on superficial parameters such as boring speech patterns or appearance of the speaker. Central route processing, (C), is the processing of information through analysis of its content."
+    },
+    {
+      "id": "ch8_q9",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 9,
+      "question_text": "In the Milgram shock experiment, many subjects were willing to give the maximal voltage shock because they were influenced by which psychological principle?",
+      "options": {
+        "A": "Deviance",
+        "B": "Obedience",
+        "C": "Conformity",
+        "D": "Compliance"
+      },
+      "correct_answer": "B",
+      "explanation": "The Milgram shock experiment showed that individuals would obey orders from authority figures even if they were not comfortable with the task at hand. Conformity and compliance, (C) and (D), also deal with changes in individual behavior, but are not based on the requests of an authority figure."
+    },
+    {
+      "id": "ch8_q10",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 10,
+      "question_text": "Each individual in a group of teenagers is asked to estimate the height of a tree. One individual estimates the height to be 25 feet, but after discussing with the group is convinced that the height is likely closer to 40 feet. Which type of conformity is seen here?",
+      "options": {
+        "A": "Normative",
+        "B": "Identification",
+        "C": "Internalization",
+        "D": "Compliance"
+      },
+      "correct_answer": "C",
+      "explanation": "Internalization refers to the type of conformity in which individuals change their outward opinion to match the group and also personally agree with those ideas."
+    },
+    {
+      "id": "ch8_q11",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 11,
+      "question_text": "Which of the following is NOT a component of the functional attitudes theory?",
+      "options": {
+        "A": "Knowledge",
+        "B": "Acceptance",
+        "C": "Ego defense",
+        "D": "Ego expression"
+      },
+      "correct_answer": "B",
+      "explanation": "The four functional areas of the functional attitudes theory are knowledge, adaptability, ego expression, and ego defense. Acceptance into a group may influence attitudes or opinions; however, this is not a part of the functional attitudes theory."
+    },
+    {
+      "id": "ch8_q12",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 12,
+      "question_text": "The swimming times for all members of a swim team are tracked over a six-month period in team-only practices and at public meets. For 14 of the 16 members, top times were clocked at the meets. What social phenomenon does this evidence support?",
+      "options": {
+        "A": "Social facilitation",
+        "B": "Peer pressure",
+        "C": "Identification",
+        "D": "Group polarization"
+      },
+      "correct_answer": "A",
+      "explanation": "For 14 out of the 16 members, the record times were obtained during public meets. The fact that the team members performed better when in front of a crowd supports the notion of social facilitation."
+    },
+    {
+      "id": "ch8_q13",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 13,
+      "question_text": "An 18-year-old is completing the final months of high school and begins to wake up early each day to run five miles in preparation for joining the Army. What type of socialization is this young person experiencing?",
+      "options": {
+        "A": "Normative socialization",
+        "B": "Informative socialization",
+        "C": "Resocialization",
+        "D": "Anticipatory socialization"
+      },
+      "correct_answer": "D",
+      "explanation": "This young person is preparing to spend time in a new social setting. The process of preparing for future changes in environment is considered anticipatory socialization."
+    },
+    {
+      "id": "ch8_q14",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 14,
+      "question_text": "Which of the following best reflects the difference between social action and social interaction?",
+      "options": {
+        "A": "Social action refers to positive changes one makes in their society; social interaction refers to the route by which these changes occur.",
+        "B": "Social action refers to the effects of a group on an individual’s behavior; social interaction refers to the effects that multiple individuals all have on each other.",
+        "C": "Social action refers to changes in behavior caused by internal factors; social interaction refers to changes in behavior caused by external factors.",
+        "D": "Social action refers to changes in behaviors that benefit only the individual; social interaction refers to changes in behavior that benefit others."
+      },
+      "correct_answer": "B",
+      "explanation": "Social action is best described as the effects that a group has on individual behavior, including social facilitation, deindividuation, the bystander effect, social loafing, and peer pressure. Social interaction describes how two or more individuals influence each other’s behavior, including group polarization and groupthink."
+    },
+    {
+      "id": "ch8_q15",
+      "chapter": 8,
+      "chapter_title": "Social Processes, Attitudes, and Behavior",
+      "question_number": 15,
+      "question_text": "In the group setting, the mentality of “If you aren’t with us, you’re against us” is most representative of which factor of groupthink?",
+      "options": {
+        "A": "Illusion of invulnerability",
+        "B": "Illusion of morality",
+        "C": "Pressure for conformity",
+        "D": "Self-censorship"
+      },
+      "correct_answer": "C",
+      "explanation": "Placing spoken or unspoken expectations on individuals to agree with the ideas of the group is best described as pressure for conformity."
+    },
+    {
+      "id": "ch9_q1",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 1,
+      "question_text": "Which of the following best describes the sociological definition of a status?",
+      "options": {
+        "A": "The emotional state of a social interaction",
+        "B": "Expectations that are associated with a specific title in society",
+        "C": "A position in society used to classify an individual",
+        "D": "A means to describe one’s peers"
+      },
+      "correct_answer": "C",
+      "explanation": "A status is a position in society used to classify a person and exists in relation to other statuses. The specific behaviors associated with this status, (B), best describe a role."
+    },
+    {
+      "id": "ch9_q2",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 2,
+      "question_text": "Becoming a college graduate requires hard work and diligence in academics. As such, being a college graduate could be considered a(n):",
+      "options": {
+        "A": "ascribed status.",
+        "B": "achieved status.",
+        "C": "master status.",
+        "D": "cardinal status."
+      },
+      "correct_answer": "B",
+      "explanation": "An achieved status is one that is acquired through personal efforts. This is in contrast to an ascribed status, (A), in which the status is involuntarily given based on race, ethnicity, gender, family background, and so on. A master status, (C), is one that influences all aspects of an individual’s life. While being a college graduate is an important aspect of day-to-day life, it does not usually pervade every part of one’s life."
+    },
+    {
+      "id": "ch9_q3",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 3,
+      "question_text": "A bureaucracy is a specific example of a(n):",
+      "options": {
+        "A": "immediate network.",
+        "B": "primary group.",
+        "C": "organization.",
+        "D": "reference group."
+      },
+      "correct_answer": "C",
+      "explanation": "A bureaucracy is an example of an organization, specifically one with the goal of performing complex tasks as efficiently as possible. Immediate networks and primary groups, (A) and (B), are characterized by strong, intimate bonds, which are not commonly seen in bureaucracies. Reference groups, (D), are those groups to which we compare ourselves for various characteristics."
+    },
+    {
+      "id": "ch9_q4",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 4,
+      "question_text": "Which of the following is NOT characteristic of a bureaucracy?",
+      "options": {
+        "A": "Rigidly defined work procedures",
+        "B": "Requirement for officials to hold an advanced degree",
+        "C": "Regular salary increases",
+        "D": "Election by constituents"
+      },
+      "correct_answer": "D",
+      "explanation": "Generally, bureaucracies are marked by six characteristics: paid officials on a fixed salary; nonelected officials who are provided rights and privileges as a result of making their career out of holding office; regular salary increases, seniority rights, and promotions upon passing exams or milestones, (C); officials who enter the organization by holding an advanced degree or training, (B); responsibilities, obligations, privileges, and work procedures rigidly defined by the organization, (A); and responsibility for meeting the obligations of the office one holds."
+    },
+    {
+      "id": "ch9_q5",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 5,
+      "question_text": "Which of the following is a form of verbal communication?",
+      "options": {
+        "A": "Facial expressions",
+        "B": "Eye contact",
+        "C": "Written text",
+        "D": "Body language"
+      },
+      "correct_answer": "C",
+      "explanation": "Verbal communication uses words (whether spoken, written, or signed). Nonverbal communication uses other means of signaling emotions or ideas, such as body language, (D), facial expressions, (A), eye contact, (B), prosody, and personal space. Hand gestures and other bodily movements are also often nonverbal communication, but can be verbal when used as part of a sign language."
+    },
+    {
+      "id": "ch9_q6",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 6,
+      "question_text": "Which of the following best describes the impression management strategy of aligning actions?",
+      "options": {
+        "A": "Adhering to the behaviors that are expected for a given role in society",
+        "B": "Relieving tension brought about by holding conflicting views in one’s head",
+        "C": "Providing socially acceptable reasons to explain unexpected behavior",
+        "D": "Dictating that members of a group should follow similar practices to one another"
+      },
+      "correct_answer": "C",
+      "explanation": "Aligning actions is an impression management technique in which one provides socially acceptable reasons for unexpected behavior. This may manifest as providing an excuse for poor performance or laughing off an inappropriate comment as a joke. Tension created from having conflicting thoughts or opinions, as mentioned in (B), refers to cognitive dissonance."
+    },
+    {
+      "id": "ch9_q7",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 7,
+      "question_text": "While on the phone, a friend says: “A good friend would let me borrow the bike.” This friend is using which impression management strategy?",
+      "options": {
+        "A": "Managing appearances",
+        "B": "Alter-casting",
+        "C": "Ingratiation",
+        "D": "Self-disclosure"
+      },
+      "correct_answer": "B",
+      "explanation": "Imposing a role on another person (in this case, “good friend”) is the hallmark of alter-casting. This example is also the opposite of ingratiation, (C), because the implication behind the statement is that not lending the bike makes one a “bad friend”; ingratiation is the use of flattery or conformity to win over someone else."
+    },
+    {
+      "id": "ch9_q8",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 8,
+      "question_text": "Which of the following is an example of a Gesellschaft ?",
+      "options": {
+        "A": "A large corporation",
+        "B": "A small rural neighborhood",
+        "C": "Members of the same family",
+        "D": "An ethnic enclave in a large city"
+      },
+      "correct_answer": "A",
+      "explanation": "A Gesellschaft (society) is one in which individuals are working toward the same goal, such as a company or country. Gemeinschaften (communities), on the other hand, are those that are bonded together by beliefs, ancestry, or geography."
+    },
+    {
+      "id": "ch9_q9",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 9,
+      "question_text": "In some cultures, it is considered taboo for one to show too much sadness at a funeral. In other cultures, wailing and crying loudly is expected. These cultures differ in their:",
+      "options": {
+        "A": "characteristic institutions.",
+        "B": "display rules.",
+        "C": "authentic selves.",
+        "D": "peer groups."
+      },
+      "correct_answer": "B",
+      "explanation": "Display rules are those that dictate cultural expectations of emotion. In some cultures, sadness is considered personal and internal; in others, sadness is shared externally with the community."
+    },
+    {
+      "id": "ch9_q10",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 10,
+      "question_text": "Which of the following is NOT a dimension of the system for multiple level observation of groups (SYMLOG)?",
+      "options": {
+        "A": "Friendliness vs. unfriendliness",
+        "B": "Dominance vs. submission",
+        "C": "Conformity vs. contrast",
+        "D": "Instrumentally controlled vs. emotionally expressive"
+      },
+      "correct_answer": "C",
+      "explanation": "SYMLOG is a method for analyzing group dynamics and considers groups along three dimensions: dominant vs. submissive, friendliness vs. unfriendliness, and instrumentally controlled vs. emotionally expressive."
+    },
+    {
+      "id": "ch9_q11",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 11,
+      "question_text": "Political campaign ads often focus on “exposing” an opposing candidate’s negative characteristics. In the dramaturgical approach, one would describe this as:",
+      "options": {
+        "A": "bringing the front stage self to the back stage.",
+        "B": "bringing the back stage self to the front stage.",
+        "C": "removing the front stage self.",
+        "D": "removing the back stage self."
+      },
+      "correct_answer": "B",
+      "explanation": "If a candidate is “exposed,” then personal characteristics that are usually shielded from public view have been brought in front of the public. This would be pulling aspects of the back stage self to the front stage. It would not be considered removing the front stage self, (C), because the candidate still has a public image, even if it has been tarnished."
+    },
+    {
+      "id": "ch9_q12",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 12,
+      "question_text": "In the context of impression management, which of the following selves is most similar to the ought self?",
+      "options": {
+        "A": "The ideal self",
+        "B": "The tactical self",
+        "C": "The authentic self",
+        "D": "The presented self"
+      },
+      "correct_answer": "B",
+      "explanation": "The ought self is who others think we should be: the expectations imposed by others on us. This is most similar to the tactical self, which is the self we present to others when we adhere to their expectations. The presented self, (D), is a combination of the authentic, ideal, and tactical selves."
+    },
+    {
+      "id": "ch9_q13",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 13,
+      "question_text": "The evolutionary role of emotions has been used as support for which model(s) of emotional expression?",
+      "options": {
+        "A": "The basic model only",
+        "B": "The social construction model only",
+        "C": "Both the basic model and social construction model",
+        "D": "Neither the basic model nor the social construction model"
+      },
+      "correct_answer": "A",
+      "explanation": "The basic model of emotion, as proposed by Charles Darwin, states that emotions serve an evolutionary purpose and thus are similar across cultures. The seven universal emotions have also been used as support for this theory. The social construction model states that emotions are always a product of the current social situation and does not posit any biological basis for emotions, implying a lack of a role for emotions in evolution."
+    },
+    {
+      "id": "ch9_q14",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 14,
+      "question_text": "Which of the following is an example of intraspecific animal communication?",
+      "options": {
+        "A": "A dog who barks when a stranger enters the house",
+        "B": "An anglerfish that uses a bioluminescent appendage to attract prey",
+        "C": "Bats using echolocation to detect the surrounding environment",
+        "D": "A cat who uses scent glands to mark his territory for other cats"
+      },
+      "correct_answer": "D",
+      "explanation": "Intraspecific communication refers to communication between members of the same species. Interspecific communication, on the other hand, refers to communication between members of different species. Echolocation, (C), is not an example of intraspecific communication because the sender of the signal and the recipient are the same organism; this would be considered autocommunication."
+    },
+    {
+      "id": "ch9_q15",
+      "chapter": 9,
+      "chapter_title": "Social Interaction",
+      "question_number": 15,
+      "question_text": "Primary groups differ from secondary groups in that:",
+      "options": {
+        "A": "primary groups are shorter-lived than secondary groups.",
+        "B": "primary groups are larger than secondary groups.",
+        "C": "primary groups are formed of stronger bonds than secondary groups.",
+        "D": "primary groups are assigned while secondary groups are chosen."
+      },
+      "correct_answer": "C",
+      "explanation": "Primary groups have direct and close bonds between members, providing warm, personal, and intimate relationships to its members. Secondary groups, in contrast, form superficial bonds and tend to last for a shorter period of time."
+    },
+    {
+      "id": "ch10_q1",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 1,
+      "question_text": "The tendency to become close friends with neighbors rather than people in other neighborhoods is most strongly related to which of the following factors?",
+      "options": {
+        "A": "Proximity",
+        "B": "Reciprocity",
+        "C": "Self-disclosure",
+        "D": "Similarity"
+      },
+      "correct_answer": "A",
+      "explanation": "Each of the answer choices influences social attraction; however, proximity deals with the tendency to be attracted to those who are physically close by."
+    },
+    {
+      "id": "ch10_q2",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 2,
+      "question_text": "Which of the following would be associated with high levels of aggression?\nI. Increased amygdala activity\nII. Decreased amygdala activity\nIII. Increased prefrontal cortex activity\nIV. Decreased prefrontal cortex activity",
+      "options": {
+        "A": "I and III only",
+        "B": "I and IV only",
+        "C": "II and III only",
+        "D": "II and IV only"
+      },
+      "correct_answer": "B",
+      "explanation": "Aggression is influenced both by the amygdala and prefrontal cortex activity. Activity of the amygdala increases aggression. The prefrontal cortex should control aggression; decreased activity in the prefrontal cortex, therefore, is associated with increased aggression."
+    },
+    {
+      "id": "ch10_q3",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 3,
+      "question_text": "A child who cries when a caregiver departs and smiles and runs to the caregiver upon return is displaying which type of attachment pattern?",
+      "options": {
+        "A": "Avoidant attachment",
+        "B": "Ambivalent attachment",
+        "C": "Disorganized attachment",
+        "D": "Secure attachment"
+      },
+      "correct_answer": "D",
+      "explanation": "This attachment pattern is representative of secure attachment. Secure attachment is seen when a child has a consistent caregiver and is able to go out and explore, knowing there is a secure base to return to. The child will be upset at the departure of the caregiver and will be comforted and resume exploring upon the return of the caregiver."
+    },
+    {
+      "id": "ch10_q4",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 4,
+      "question_text": "Elephant seal males mate with multiple females each mating season, while females only have one mate each. What type of mating system is this?",
+      "options": {
+        "A": "Polyandry",
+        "B": "Polygyny",
+        "C": "Monogamy",
+        "D": "Promiscuity"
+      },
+      "correct_answer": "B",
+      "explanation": "Polygamy involves having exclusive relationships with several partners, several females (polygyny), or several males (polyandry), (A). Monogamy, (C), consists of exclusive mating relationships. Promiscuity, (D), refers to mating with others without exclusivity."
+    },
+    {
+      "id": "ch10_q5",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 5,
+      "question_text": "A person with a ventromedial hypothalamus injury will likely show which behavior?",
+      "options": {
+        "A": "Increased empathy",
+        "B": "Decreased empathy",
+        "C": "Increased food intake",
+        "D": "Decreased food intake"
+      },
+      "correct_answer": "C",
+      "explanation": "A person with a ventromedial hypothalamus injury will never feel satiated when eating and will therefore never feel the sensation to stop eating. A person with a lateral hypothalamus injury will never feel hunger and will have decreased food intake, (D)."
+    },
+    {
+      "id": "ch10_q6",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 6,
+      "question_text": "Female great reed warblers are attracted to males with larger song repertoires because they tend to produce offspring with higher viability. This is an example of which of the following?",
+      "options": {
+        "A": "Runaway selection",
+        "B": "Sensory bias",
+        "C": "Direct phenotypic benefits",
+        "D": "Indirect phenotypic benefits"
+      },
+      "correct_answer": "D",
+      "explanation": "Phenotypic benefits refer to observed traits in an individual that make them more attractive to other members of their species. Benefits associated with increased fitness through direct material advantages are direct benefits, (C), while indirect benefits involve increased genetic fitness for offspring."
+    },
+    {
+      "id": "ch10_q7",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 7,
+      "question_text": "In several species of shrimp, the larger adults will sacrifice themselves to protect the younger, smaller shrimp. How is this behavior best explained?",
+      "options": {
+        "A": "Inclusive fitness",
+        "B": "Direct benefit",
+        "C": "Sensory bias",
+        "D": "Foraging"
+      },
+      "correct_answer": "A",
+      "explanation": "In evolutionary psychology, inclusive fitness is a measure of the number of offspring an individual has, how they support their offspring, and how their offspring can support others. Inclusive fitness promotes the idea that altruistic behavior can improve the fitness and success of a species; the behavior in this scenario can be described as altruism: benefiting another at one’s own expense."
+    },
+    {
+      "id": "ch10_q8",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 8,
+      "question_text": "Which of the following is NOT a component of social perception?",
+      "options": {
+        "A": "The target",
+        "B": "The situation",
+        "C": "The perceiver",
+        "D": "The process"
+      },
+      "correct_answer": "D",
+      "explanation": "There are three primary components of perception: the perceiver, the target, and the situation."
+    },
+    {
+      "id": "ch10_q9",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 9,
+      "question_text": "When you first meet Dustin, he is very rude to you. You run into him twice more and he is very friendly, but you still dislike him because of your first meeting. What impression bias does this describe?",
+      "options": {
+        "A": "Primacy effect",
+        "B": "Recency effect",
+        "C": "Reliance on central traits",
+        "D": "Proximity"
+      },
+      "correct_answer": "A",
+      "explanation": "The impressions we form when meeting others are influenced by a number of perceptual biases. The primacy effect refers to those occasions when first impressions are more important than subsequent impressions."
+    },
+    {
+      "id": "ch10_q10",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 10,
+      "question_text": "Mei brings cookies to work. Although you have not yet tasted them, you say to another coworker, “Mei is such a great person; I’m sure these cookies are fantastic!” What type of bias is this?",
+      "options": {
+        "A": "Reliance on central traits",
+        "B": "Direct benefits",
+        "C": "Halo effect",
+        "D": "Similarity"
+      },
+      "correct_answer": "C",
+      "explanation": "The halo effect is a cognitive bias in which judgments of an individual’s character can be affected by the overall impression of the individual."
+    },
+    {
+      "id": "ch10_q11",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 11,
+      "question_text": "A friend wins a tennis game and says, “I trained so hard—that was a great win!” After losing a subsequent match, the friend says, “My baby brother kept me up all night crying; I was tired for the match.” These statements reflect which of the following principles?",
+      "options": {
+        "A": "Just-world hypothesis",
+        "B": "Fundamental attribution error",
+        "C": "Self-serving bias",
+        "D": "Esteem bias"
+      },
+      "correct_answer": "C",
+      "explanation": "Self-serving bias refers to the fact that individuals will view their own successes as being based on internal factors, while viewing their failures as being based on external factors."
+    },
+    {
+      "id": "ch10_q12",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 12,
+      "question_text": "Carlos is always happy and smiling. Today, you notice he seems down and think something must have happened to upset him. What types of attribution are you making?\nI. Internal\nII. External\nIII. Situational\nIV. Dispositional",
+      "options": {
+        "A": "I and III only",
+        "B": "I and IV only",
+        "C": "II and III only",
+        "D": "II and IV only"
+      },
+      "correct_answer": "C",
+      "explanation": "Types of attribution fall into two main categories: dispositional (internal) and situational (external). Dispositional (internal) causes are related to the features of the person whose behavior is being considered. Situational (external) causes are related to features of the surroundings."
+    },
+    {
+      "id": "ch10_q13",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 13,
+      "question_text": "A group of men and women are going to be rated on their driving abilities. The role of gender is emphasized in the experiment and the women perform worse than the men. In another experiment, the role of gender is not mentioned and the ratings are comparable between the two groups. Which principle do these results support?",
+      "options": {
+        "A": "Institutional discrimination",
+        "B": "Stereotype threat",
+        "C": "Prejudice",
+        "D": "The just-world hypothesis"
+      },
+      "correct_answer": "B",
+      "explanation": "Stereotype threat refers to the phenomenon of people being concerned or anxious about confirming a negative stereotype of their social group. Stereotype threat can hinder performance, creating a self-fulfilling prophecy."
+    },
+    {
+      "id": "ch10_q14",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 14,
+      "question_text": "The behavior that accompanies the negative attitudes a person has toward a group or individual is referred to as:",
+      "options": {
+        "A": "stereotyping.",
+        "B": "cultural relativism.",
+        "C": "prejudice.",
+        "D": "discrimination."
+      },
+      "correct_answer": "D",
+      "explanation": "Discrimination is when prejudicial attitudes cause individuals of a particular group to be treated differently than others. While prejudice is an attitude, discrimination is a behavior."
+    },
+    {
+      "id": "ch10_q15",
+      "chapter": 10,
+      "chapter_title": "Social Thinking",
+      "question_number": 15,
+      "question_text": "Game theory is designed to study:",
+      "options": {
+        "A": "reliance on central traits.",
+        "B": "behavior attribution.",
+        "C": "decision-making behavior.",
+        "D": "self-enhancement."
+      },
+      "correct_answer": "C",
+      "explanation": "Game theory was originally designed to study decision-making behavior in economics and mathematics; it has since been used to describe decision making in politics, biology, philosophy, and other fields."
+    },
+    {
+      "id": "ch11_q1",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 1,
+      "question_text": "Which of the following best describes a manifest function?",
+      "options": {
+        "A": "An intended positive effect on a system",
+        "B": "An intended negative effect on a system",
+        "C": "An unintended positive effect on a system",
+        "D": "An unintended negative effect on a system"
+      },
+      "correct_answer": "A",
+      "explanation": "A manifest function is an intended positive effect on a system. A latent function is an unintended positive effect on a system, (C). A negative effect on a system, (B) and (D), is termed a dysfunction."
+    },
+    {
+      "id": "ch11_q2",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 2,
+      "question_text": "Studying why a nod means “yes” in many cultures is most representative of which of the following sociological concepts?",
+      "options": {
+        "A": "Demographic transition",
+        "B": "Expectancy theory",
+        "C": "Symbolic interactionism",
+        "D": "Demographic shift"
+      },
+      "correct_answer": "C",
+      "explanation": "Symbolic interactionism studies how individuals interact through a shared understanding of words, gestures, and other symbols. A nod is thus a symbol in many cultures that signifies “yes.”"
+    },
+    {
+      "id": "ch11_q3",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 3,
+      "question_text": "Which of the following ethical principles states that physicians should avoid using treatments with greater potential for harm than benefit?",
+      "options": {
+        "A": "Autonomy",
+        "B": "Beneficence",
+        "C": "Justice",
+        "D": "Nonmaleficence"
+      },
+      "correct_answer": "D",
+      "explanation": "The principle of nonmaleficence states that physicians must not only act in their patient’s best interest (beneficence, (B)), but must also avoid treatments where the potential for harm outweighs the potential for benefit."
+    },
+    {
+      "id": "ch11_q4",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 4,
+      "question_text": "A Cuban-American man living in the United States has the dominant physical features of a Black man. He speaks Spanish, prefers Latin foods, and listens to Latin music. His preferences are best defined through which of the following attributes?\nI. Race\nII. Ethnicity\nIII. Culture",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "C",
+      "explanation": "Although one’s dominant physical features are associated with race, this man’s preferences are those of Latino ethnicity and culture. Ethnicity is a social construct that considers language, religion, nationality, and cultural factors. Culture relates to a group’s way of life; the preferences listed in the question are examples of material and symbolic culture."
+    },
+    {
+      "id": "ch11_q5",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 5,
+      "question_text": "A patient who resides in the United States says, “I love you,” and hugs the doctor after every routine visit. This behavior violates:",
+      "options": {
+        "A": "personal beliefs.",
+        "B": "patient autonomy.",
+        "C": "social values.",
+        "D": "social norms."
+      },
+      "correct_answer": "D",
+      "explanation": "In the United States, it is not a common practice to say, “I love you,” and hug one’s physician after each routine checkup; therefore, this behavior could be considered deviant, going against the social norm. Values, (C), are what an individual deems to be important."
+    },
+    {
+      "id": "ch11_q6",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 6,
+      "question_text": "Which of the following demographics can be measured in events per 1000 people per year?\nI. Birth rate\nII. Fertility rate\nIII. Mortality rate",
+      "options": {
+        "A": "I only",
+        "B": "I and III only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "B",
+      "explanation": "Both birth rate and mortality rate can be measured per 1000 people per year. Fertility rate is measured in number of children per woman over a lifetime."
+    },
+    {
+      "id": "ch11_q7",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 7,
+      "question_text": "Because there are more than 500 American Indian tribes, there are several different healing practices among them. Some tribes may have ceremonies that include chanting, singing, body painting, dancing, and even use of mind-altering substances to persuade the spirits to heal the sick person. These ceremonies are examples of:",
+      "options": {
+        "A": "latent functions.",
+        "B": "rituals.",
+        "C": "cultural barriers.",
+        "D": "social movements."
+      },
+      "correct_answer": "B",
+      "explanation": "Rituals are formalized ceremonial behaviors in which members of a group or community regularly engage. Therefore, these activities are examples of rituals performed for healing."
+    },
+    {
+      "id": "ch11_q8",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 8,
+      "question_text": "Over the last few decades, the United States population has become:",
+      "options": {
+        "A": "bigger, older, and more diverse.",
+        "B": "bigger, younger, and more diverse.",
+        "C": "smaller, older, and less diverse.",
+        "D": "smaller, older, and more diverse."
+      },
+      "correct_answer": "A",
+      "explanation": "With a decrease in mortality rate and a higher immigration rate than emigration rate, the United States population continues to grow, with an increasing average age and increasing racial and ethnic diversity."
+    },
+    {
+      "id": "ch11_q9",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 9,
+      "question_text": "Which of the following is NOT an example of material culture?",
+      "options": {
+        "A": "Traditional Kenyan clothing",
+        "B": "Japanese cuisine",
+        "C": "American values",
+        "D": "American Indian sand paintings"
+      },
+      "correct_answer": "C",
+      "explanation": "Material culture includes any cultural artifact—an object to which meaning is assigned. Values are ideas, which are associated with symbolic culture."
+    },
+    {
+      "id": "ch11_q10",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 10,
+      "question_text": "During which stage of demographic transition are both birth rates and mortality rates low?",
+      "options": {
+        "A": "Stage 1",
+        "B": "Stage 2",
+        "C": "Stage 3",
+        "D": "Stage 4"
+      },
+      "correct_answer": "D",
+      "explanation": "During demographic transition, both birth rates and mortality rates are high in stage 1, (A). Mortality rates drop during stage 2, (B), and then birth rates drop during stage 3, (C). In stage 4, both birth rates and mortality rates are low."
+    },
+    {
+      "id": "ch11_q11",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 11,
+      "question_text": "Shortly after a state legalizes gambling in casinos, a formal coalition forms to oppose the building of any casinos in the major cities of the state. This scenario includes:\nI. conflict theory.\nII. social institutions.\nIII. a social movement.",
+      "options": {
+        "A": "I only",
+        "B": "I and III only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "D",
+      "explanation": "In this scenario, a group is fighting for social power, which is an aspect of conflict theory. Further, this group is an example of a reactive social movement because it is running counter to social change. The fact that gambling had been legalized implies the involvement of the government, a social institution."
+    },
+    {
+      "id": "ch11_q12",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 12,
+      "question_text": "A young adult male claims to have had sexual relationships mostly with other men, although he has been attracted to women at times. What would be his most likely score on the Kinsey scale?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "5",
+        "D": "6"
+      },
+      "correct_answer": "C",
+      "explanation": "This man is describing his sexuality as mostly homosexual, although he has also had some heterosexual attractions. The Kinsey scale scores a 6, (D), as exclusively homosexual. A score of 3 would equate to bisexuality. Thus, this man would likely score a 4 or 5."
+    },
+    {
+      "id": "ch11_q13",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 13,
+      "question_text": "Which of the following demographic variables is known to be biologically determined?",
+      "options": {
+        "A": "Gender",
+        "B": "Sex",
+        "C": "Ethnicity",
+        "D": "Sexual orientation"
+      },
+      "correct_answer": "B",
+      "explanation": "Sex is determined by one’s genotype, and therefore is biologically determined. Gender, (A), may or may not match biological sex and therefore is not biologically determined. Ethnicity, (C), is a social construct that sorts people by cultural factors, and therefore is not biologically determined. Sexual orientation, (D), may have some biological component, but the relative role of biology and environment is not yet known."
+    },
+    {
+      "id": "ch11_q14",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 14,
+      "question_text": "Which of the following would contribute to increasing population growth over time?",
+      "options": {
+        "A": "A fertility rate less than 2",
+        "B": "An immigration rate larger than emigration rate",
+        "C": "An increase in mortality rate",
+        "D": "A decrease in birth rate"
+      },
+      "correct_answer": "B",
+      "explanation": "If the immigration rate in a geographic area is larger than the emigration rate, then there is a larger influx than efflux of people. This will increase the population of that area."
+    },
+    {
+      "id": "ch11_q15",
+      "chapter": 11,
+      "chapter_title": "Social Structure and Demographics",
+      "question_number": 15,
+      "question_text": "Urbanization can cause all of the following negative effects EXCEPT:",
+      "options": {
+        "A": "decreased opportunity for social interaction.",
+        "B": "increased transmission of infectious disease.",
+        "C": "decreased air quality and sanitation.",
+        "D": "increased rates of violent crime."
+      },
+      "correct_answer": "A",
+      "explanation": "Urbanization is the migration of people into urban centers to create cities. The increased population density should provide additional opportunities for social interaction, not decreased opportunities."
+    },
+    {
+      "id": "ch12_q1",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 1,
+      "question_text": "Which of the following best describes the component of socioeconomic status attributable to direct individual efforts?",
+      "options": {
+        "A": "Ascribed status",
+        "B": "Meritocratic competition",
+        "C": "Anomic condition",
+        "D": "Achieved status"
+      },
+      "correct_answer": "D",
+      "explanation": "Social stratification based on direct efforts, such as merit, is a form of achieved socioeconomic status. Ascribed socioeconomic status, (A), is based on identifiable external characteristics. Achieved status may be due to meritocratic competition, (B), but other individual efforts can also be associated with achieved status. Anomic conditions, (C), are those that cause a breakdown between the individual and society and erode social solidarity."
+    },
+    {
+      "id": "ch12_q2",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 2,
+      "question_text": "Which of the following displays a correct association?",
+      "options": {
+        "A": "High social networking and low social capital",
+        "B": "High social mobility and low social capital",
+        "C": "Low social class and low social capital",
+        "D": "Low social networking and high social capital"
+      },
+      "correct_answer": "C",
+      "explanation": "Low social class may lead to low social capital. Members of the lower class often have smaller numbers of weak ties in social networks, and therefore have less opportunity to invest in society and reap its benefits."
+    },
+    {
+      "id": "ch12_q3",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 3,
+      "question_text": "Which of the following phenomena are LEAST likely to coincide?",
+      "options": {
+        "A": "Hazardous waste facilities and low-income neighborhoods",
+        "B": "Tuberculosis and poor living conditions",
+        "C": "Environmental pollution and populations of underrepresented groups",
+        "D": "Globalization and global equality"
+      },
+      "correct_answer": "D",
+      "explanation": "Globalization does not typically lead to global equality; rather, globalization tends to create further global inequalities. In regard to environmental justice, higher numbers of hazardous waste facilities tend to be found in low-income neighborhoods, (A). Poor living conditions tend to be associated with greater health problems, including tuberculosis, (B). Finally, environmental pollution is more prevalent in areas with larger populations of underrepresented groups, especially when low-income, (C)."
+    },
+    {
+      "id": "ch12_q4",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 4,
+      "question_text": "Which of the following trends is most likely FALSE?",
+      "options": {
+        "A": "Mortality rates are increased in groups with low income.",
+        "B": "Life expectancy is decreased in groups with high income.",
+        "C": "Birth weights are decreased in children of low-income women.",
+        "D": "Rates of lung cancer are increased in low-income groups."
+      },
+      "correct_answer": "B",
+      "explanation": "Groups with high income tend to have increased life expectancy rates, not decreased. People with low income have higher mortality rates than those with high income, (A). Low-income women tend to have children with lower birth weights, (C). Finally, rates of various diseases, including lung cancer, are increased among low-income groups, (D)."
+    },
+    {
+      "id": "ch12_q5",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 5,
+      "question_text": "What is the prevalence of prostate cancer in the population that can develop the condition at the end of the year?",
+      "options": {
+        "A": "10 ÷ 480",
+        "B": "10 ÷ 1000",
+        "C": "20 ÷ 500",
+        "D": "30 ÷ 500"
+      },
+      "correct_answer": "D",
+      "explanation": "Prevalence is defined as the total number of cases divided by the possibly affected population during a period of time. Here, the period of time is defined as one point: the end of the year. At the end of the year, there are 30 total cases in a population of 1000 individuals, but only 500 of those individuals can develop prostate cancer, meaning the prevalence is 30 ÷ 500."
+    },
+    {
+      "id": "ch12_q6",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 6,
+      "question_text": "What is the incidence of prostate cancer in this population during the year?",
+      "options": {
+        "A": "10 ÷ 480",
+        "B": "10 ÷ 1000",
+        "C": "20 ÷ 500",
+        "D": "30 ÷ 1000"
+      },
+      "correct_answer": "A",
+      "explanation": "Incidence is defined as the total number of new cases divided by the at-risk population during a period of time. Here, the period of time is one year. There were 10 new cases in this year, and the at-risk population will be only the males who do not already have prostate cancer; the 20 males already diagnosed and the 500 females should not be included in the at-risk population. Therefore, the incidence in this population is 10 ÷ 480."
+    },
+    {
+      "id": "ch12_q7",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 7,
+      "question_text": "A low-income single parent works a part-time job and lives in a small apartment in the city. When the single parent’s children grow up, they take similar jobs and live in similar housing. This is an example of:",
+      "options": {
+        "A": "upward social mobility.",
+        "B": "downward social mobility.",
+        "C": "social exclusion.",
+        "D": "social reproduction."
+      },
+      "correct_answer": "D",
+      "explanation": "In this scenario, the children remain in the same socioeconomic class as their parent, indicating a lack of social mobility, (A) and (B). Rather, this is an example of social reproduction, in which social inequality, especially poverty, is passed from one generation to the next."
+    },
+    {
+      "id": "ch12_q8",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 8,
+      "question_text": "Which of the following is true with regard to relative poverty?",
+      "options": {
+        "A": "Individuals in relative poverty have incomes below the poverty line.",
+        "B": "Individuals in relative poverty exhibit downward social mobility.",
+        "C": "Individuals in relative poverty may be in the upper class.",
+        "D": "Individuals in relative poverty exhibit upward social mobility."
+      },
+      "correct_answer": "C",
+      "explanation": "Relative poverty is a comparative term: it describes being poorer than those in the surrounding population. Members of the upper class can live in relative poverty compared to others in their neighborhood if they are not as well-off as their neighbors. Relative poverty is not directly associated with upward or downward social mobility, eliminating (B) and (D); individuals living in relative poverty could exhibit mobility in either direction or no social mobility at all."
+    },
+    {
+      "id": "ch12_q9",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 9,
+      "question_text": "In comparison to urban centers, suburbs tend to have:",
+      "options": {
+        "A": "larger racially and ethnically underrepresented populations.",
+        "B": "higher rates of poverty.",
+        "C": "larger upper- and middle-class populations.",
+        "D": "higher rates of crime and homicide."
+      },
+      "correct_answer": "C",
+      "explanation": "Suburbs tend to have larger upper- and middle-class populations than urban centers; urban centers tend to have larger low-socioeconomic status populations than suburbs. This is due, in part, to the increased mobility seen in upper- and middle-class populations, which permits their migration into the suburbs."
+    },
+    {
+      "id": "ch12_q10",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 10,
+      "question_text": "Which of the following terms refers to the burden or degree of disease associated with a given illness?",
+      "options": {
+        "A": "Morbidity",
+        "B": "Mortality",
+        "C": "Second sickness",
+        "D": "Chronicity"
+      },
+      "correct_answer": "A",
+      "explanation": "Morbidity refers to the burden of illness, or the severity or degree of illness. Mortality, (B), refers to deaths caused by a given illness. Second sickness, (C), is a term used to describe the exacerbation of health outcomes due to social injustice. Chronicity, (D), refers to the duration of a disease, not its severity or significance for the patient."
+    },
+    {
+      "id": "ch12_q11",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 11,
+      "question_text": "Compared to White Americans, which of the following racial or ethnic groups tends to have a better overall health profile?",
+      "options": {
+        "A": "African Americans",
+        "B": "Asian Americans",
+        "C": "Hispanic Americans",
+        "D": "American Indians"
+      },
+      "correct_answer": "B",
+      "explanation": "In comparison to White Americans, Asian Americans tend to have better overall health profiles. African Americans, (A), tend to have worse overall health profiles. Hispanic Americans and American Indians, (C) and (D), both have mixed health profiles in comparison to White Americans: they are better off in some categories and worse off in others. However, Hispanic Americans and American Indians do not have better overall health profiles than White Americans."
+    },
+    {
+      "id": "ch12_q12",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 12,
+      "question_text": "Which of the following best describes the populations targeted by Medicare and Medicaid, respectively?",
+      "options": {
+        "A": "Medicare: mostly patients without employer-guaranteed healthcare; Medicaid: mostly patients who have recently immigrated",
+        "B": "Medicare: mostly patients who have recently immigrated; Medicaid: mostly patients without employer-guaranteed healthcare",
+        "C": "Medicare: mostly patients in older age groups; Medicaid: mostly patients with low socioeconomic status",
+        "D": "Medicare: mostly patients with low socioeconomic status; Medicaid: mostly patients in older age groups"
+      },
+      "correct_answer": "C",
+      "explanation": "Medicare covers patients over the age of 65 (older age groups), those with end-stage renal disease, and those with amyotrophic lateral sclerosis (ALS). Medicaid covers patients below a certain socioeconomic level."
+    },
+    {
+      "id": "ch12_q13",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 13,
+      "question_text": "Morbidity is increased in low-income groups because of all of the following EXCEPT:",
+      "options": {
+        "A": "higher rates of obesity.",
+        "B": "less access to healthcare.",
+        "C": "higher rates of homicide.",
+        "D": "lower rates of physical activity."
+      },
+      "correct_answer": "C",
+      "explanation": "Morbidity refers to the burden or severity of disease. All of the factors listed are true with regard to low-socioeconomic status populations; however, high homicide rates cause increases in mortality, not morbidity."
+    },
+    {
+      "id": "ch12_q14",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 14,
+      "question_text": "Hypertension (high blood pressure) can be diagnosed by having two or more blood pressure readings higher than 140/90 on two different occasions, separated by a week. Suppose that the criteria were changed to include anyone with a reading higher than 130/80 on at least one occasion. How would this change the prevalence of diagnosed hypertension in the population?",
+      "options": {
+        "A": "The prevalence would increase.",
+        "B": "The prevalence would decrease.",
+        "C": "The prevalence would remain the same.",
+        "D": "There is not enough information to determine the change in prevalence."
+      },
+      "correct_answer": "A",
+      "explanation": "If the threshold for hypertension (high blood pressure) were lowered, more individuals would be fit the criteria for the disease. If the number of individuals with the disease increases and the population stays the same overall, there will be an increased prevalence of the disease."
+    },
+    {
+      "id": "ch12_q15",
+      "chapter": 12,
+      "chapter_title": "Social Stratification",
+      "question_number": 15,
+      "question_text": "Which of the following trends regarding healthcare disparities has NOT been documented?",
+      "options": {
+        "A": "Females are more likely to be insured than males.",
+        "B": "Primary care use is more likely among males than females.",
+        "C": "Low-income individuals have more difficulty accessing care than high-income individuals.",
+        "D": "LGBTQ individuals have more barriers to healthcare than other individuals."
+      },
+      "correct_answer": "B",
+      "explanation": "In comparison to females, males visit primary care doctors less frequently. All of the other trends listed here have been documented."
+    }
+  ]
+}

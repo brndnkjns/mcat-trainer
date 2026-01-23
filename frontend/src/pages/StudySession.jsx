@@ -1,0 +1,336 @@
+import { useState, useEffect, useCallback, useRef } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
+import api from '../api';
+
+const QUESTION_TIME_SECONDS = 95;
+const WARNING_THRESHOLD = 30;
+const URGENT_THRESHOLD = 10;
+
+function StudySession({ user }) {
+  const { sessionId } = useParams();
+  const navigate = useNavigate();
+
+  const [session, setSession] = useState(null);
+  const [question, setQuestion] = useState(null);
+  const [loading, setLoading] = useState(true);
+  const [submitting, setSubmitting] = useState(false);
+
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
+  const [result, setResult] = useState(null);
+  const [questionsAnswered, setQuestionsAnswered] = useState(0);
+  const [correctCount, setCorrectCount] = useState(0);
+
+  const [timeLeft, setTimeLeft] = useState(QUESTION_TIME_SECONDS);
+  const [timerActive, setTimerActive] = useState(false);
+  const startTimeRef = useRef(null);
+
+  // Load session and first question
+  useEffect(() => {
+    Promise.all([
+      api.getSession(sessionId),
+      api.getNextQuestion(user.id, sessionId),
+    ])
+      .then(([sessionData, questionData]) => {
+        setSession(sessionData);
+        setQuestion(questionData);
+        setTimerActive(true);
+        startTimeRef.current = Date.now();
+      })
+      .catch(err => {
+        console.error('Failed to load session:', err);
+        navigate('/dashboard');
+      })
+      .finally(() => setLoading(false));
+  }, [sessionId, user.id, navigate]);
+
+  // Timer countdown
+  useEffect(() => {
+    if (!timerActive || result) return;
+
+    const interval = setInterval(() => {
+      setTimeLeft(prev => {
+        if (prev <= 1) {
+          clearInterval(interval);
+          handleTimeout();
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(interval);
+  }, [timerActive, result]);
+
+  const handleTimeout = useCallback(async () => {
+    if (result || submitting) return;
+
+    setTimerActive(false);
+    setSubmitting(true);
+
+    try {
+      const timeTaken = (Date.now() - startTimeRef.current) / 1000;
+      const response = await api.submitAnswer({
+        user_id: user.id,
+        question_id: question.id,
+        session_id: parseInt(sessionId, 10),
+        selected_answer: '',
+        time_taken_seconds: timeTaken,
+        timed_out: true,
+      });
+
+      setResult({ ...response, timedOut: true });
+      setQuestionsAnswered(response.session_progress.answered);
+      setCorrectCount(response.session_progress.correct);
+    } catch (error) {
+      console.error('Failed to submit timeout:', error);
+    } finally {
+      setSubmitting(false);
+    }
+  }, [question, sessionId, user.id, result, submitting]);
+
+  const handleSelectAnswer = (answer) => {
+    if (result || submitting) return;
+    setSelectedAnswer(answer);
+  };
+
+  const handleSubmitAnswer = async () => {
+    if (!selectedAnswer || result || submitting) return;
+
+    setTimerActive(false);
+    setSubmitting(true);
+
+    try {
+      const timeTaken = (Date.now() - startTimeRef.current) / 1000;
+      const response = await api.submitAnswer({
+        user_id: user.id,
+        question_id: question.id,
+        session_id: parseInt(sessionId, 10),
+        selected_answer: selectedAnswer,
+        time_taken_seconds: timeTaken,
+        timed_out: false,
+      });
+
+      setResult(response);
+      setQuestionsAnswered(response.session_progress.answered);
+      setCorrectCount(response.session_progress.correct);
+    } catch (error) {
+      console.error('Failed to submit answer:', error);
+      alert('Failed to submit answer. Please try again.');
+    } finally {
+      setSubmitting(false);
+    }
+  };
+
+  const handleNextQuestion = async () => {
+    // Check if session is complete
+    if (questionsAnswered >= session.total_questions) {
+      navigate(`/study/summary/${sessionId}`);
+      return;
+    }
+
+    setLoading(true);
+    setResult(null);
+    setSelectedAnswer(null);
+
+    try {
+      const subjects = session.mode === 'focused' ? session.subjects : null;
+      const nextQuestion = await api.getNextQuestion(
+        user.id,
+        sessionId,
+        subjects
+      );
+      setQuestion(nextQuestion);
+      setTimeLeft(QUESTION_TIME_SECONDS);
+      startTimeRef.current = Date.now();
+      setTimerActive(true);
+    } catch (error) {
+      console.error('Failed to get next question:', error);
+      // If no more questions available, end session
+      navigate(`/study/summary/${sessionId}`);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleEndSession = () => {
+    navigate(`/study/summary/${sessionId}`);
+  };
+
+  const formatTime = (seconds) => {
+    const mins = Math.floor(seconds / 60);
+    const secs = seconds % 60;
+    return `${mins}:${secs.toString().padStart(2, '0')}`;
+  };
+
+  const getTimerClass = () => {
+    if (timeLeft <= URGENT_THRESHOLD) return 'timer-urgent';
+    if (timeLeft <= WARNING_THRESHOLD) return 'timer-warning';
+    return 'timer-normal';
+  };
+
+  if (loading && !question) {
+    return (
+      <div className="container">
+        <div className="loading-container">
+          <div className="spinner"></div>
+          <p className="text-muted">Loading question...</p>
+        </div>
+      </div>
+    );
+  }
+
+  const progressPercent = session
+    ? (questionsAnswered / session.total_questions) * 100
+    : 0;
+
+  return (
+    <div className="container">
+      {/* Progress Header */}
+      <div className="card">
+        <div className="flex justify-between items-center mb-4">
+          <div>
+            <span className="text-muted">Question</span>{' '}
+            <strong>{questionsAnswered + (result ? 0 : 1)}</strong> of{' '}
+            <strong>{session?.total_questions}</strong>
+          </div>
+          <div>
+            <span className="text-muted">Score:</span>{' '}
+            <strong>{correctCount}</strong>/{questionsAnswered}
+            {questionsAnswered > 0 && (
+              <span className="text-muted">
+                {' '}({((correctCount / questionsAnswered) * 100).toFixed(0)}%)
+              </span>
+            )}
+          </div>
+        </div>
+        <div className="progress-bar">
+          <div className="progress-fill" style={{ width: `${progressPercent}%` }} />
+        </div>
+      </div>
+
+      {/* Timer and Subject */}
+      <div className="card">
+        <div className="flex justify-between items-center">
+          <div>
+            <div className="text-small text-muted">{question?.subject}</div>
+            <div className="text-small">
+              Chapter {question?.chapter}: {question?.chapter_title}
+            </div>
+          </div>
+          {!result && (
+            <div className={`timer ${getTimerClass()}`}>
+              {formatTime(timeLeft)}
+            </div>
+          )}
+          {result && (
+            <div className={`timer ${result.correct ? 'timer-normal' : 'timer-urgent'}`}
+                 style={{ fontSize: '1.5rem' }}>
+              {result.correct ? '✓ Correct!' : '✗ Incorrect'}
+            </div>
+          )}
+        </div>
+      </div>
+
+      {/* Question */}
+      <div className="card">
+        <div className="mb-6" style={{ fontSize: '1.1rem', lineHeight: 1.7 }}>
+          {question?.question_text.split('\n').map((line, i) => (
+            <p key={i} className={i > 0 ? 'mt-2' : ''}>
+              {line}
+            </p>
+          ))}
+        </div>
+
+        {/* Answer Options */}
+        <div className="mt-6">
+          {question?.options && Object.entries(question.options).map(([letter, text]) => {
+            let className = 'option-btn';
+
+            if (result) {
+              if (letter === result.correct_answer) {
+                className += ' correct';
+              } else if (letter === selectedAnswer && !result.correct) {
+                className += ' incorrect';
+              }
+            } else if (selectedAnswer === letter) {
+              className += ' selected';
+            }
+
+            return (
+              <button
+                key={letter}
+                className={className}
+                onClick={() => handleSelectAnswer(letter)}
+                disabled={!!result || submitting}
+              >
+                <span className="option-label">{letter}.</span>
+                {text}
+              </button>
+            );
+          })}
+        </div>
+
+        {/* Submit or Next Button */}
+        {!result ? (
+          <button
+            className="btn btn-primary btn-lg btn-block mt-6"
+            onClick={handleSubmitAnswer}
+            disabled={!selectedAnswer || submitting}
+          >
+            {submitting ? 'Submitting...' : 'Submit Answer'}
+          </button>
+        ) : (
+          <div className="mt-6">
+            {/* Explanation */}
+            <div className={`explanation-box ${result.correct ? 'correct' : 'incorrect'}`}>
+              <h3 className="mb-2">
+                {result.timedOut ? '⏱️ Time\'s Up!' : result.correct ? '✓ Correct!' : '✗ Incorrect'}
+              </h3>
+
+              {result.timedOut && (
+                <p className="mb-4 text-error">
+                  You ran out of time. The correct answer was <strong>{result.correct_answer}</strong>.
+                </p>
+              )}
+
+              {!result.correct && !result.timedOut && (
+                <p className="mb-4">
+                  You selected <strong>{result.selected_answer}</strong>.
+                  The correct answer is <strong>{result.correct_answer}</strong>.
+                </p>
+              )}
+
+              <h4 className="mt-4 mb-2">Explanation:</h4>
+              <p style={{ lineHeight: 1.7 }}>{result.explanation}</p>
+
+              <div className="citation">
+                📚 Source: {result.citation.source}, Chapter {result.citation.chapter}:{' '}
+                {result.citation.chapter_title}, Question {result.citation.question_number}
+              </div>
+            </div>
+
+            <div className="flex gap-4 mt-6">
+              <button
+                className="btn btn-primary btn-lg"
+                style={{ flex: 1 }}
+                onClick={handleNextQuestion}
+              >
+                {questionsAnswered >= session.total_questions
+                  ? 'View Summary'
+                  : 'Next Question →'}
+              </button>
+              <button
+                className="btn btn-secondary"
+                onClick={handleEndSession}
+              >
+                End Session
+              </button>
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+export default StudySession;

@@ -1,0 +1,2710 @@
+{
+  "metadata": {
+    "source": "Kaplan MCAT Physics and Math Review 2026-2027",
+    "subject": "Physics and Math",
+    "total_questions": 180,
+    "chapters": 12
+  },
+  "questions": [
+    {
+      "id": "ch1_q1",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 1,
+      "question_text": "A person walks 30 m east and then 40 m north. What is the difference between the traveled distance and the displacement?",
+      "options": {
+        "A": "0 m",
+        "B": "20 m",
+        "C": "50 m",
+        "D": "70 m"
+      },
+      "correct_answer": "B",
+      "explanation": "Using the Pythagorean theorem, calculate the magnitude of the person’s displacement: x=302+402=50 m The total distance traveled is equal to 30 + 40 = 70 m. Therefore, the difference between these two is 20 m."
+    },
+    {
+      "id": "ch1_q2",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 2,
+      "question_text": "A 1000 kg rocket ship, travelling at 100 ms, is acted upon by an average force of 20 kN applied in the direction of its motion for 8 s. What is the change in velocity of the rocket?",
+      "options": {
+        "A": "160 ms",
+        "B": "260 ms",
+        "C": "160,000 ms",
+        "D": "260,000 ms"
+      },
+      "correct_answer": "A",
+      "explanation": "The average force on the rocket equals its mass times the average acceleration; the average acceleration equals the change in velocity divided by the time over which the change occurs. So, the change in velocity equals the average force times the time divided by the mass: F=ma→a=Fma=ΔvΔt→Δv=aΔt=FΔtm=(20×103 N)(8 s)1000 kg=160 ms (B) represents the new velocity of the rocket, not its change in velocity. (C) and (D) neglect dividing by the mass of the rocket."
+    },
+    {
+      "id": "ch1_q3",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 3,
+      "question_text": "A car is traveling at 40 kmhr and the driver puts on the brakes, bringing the car to rest in a time of 6 s. What is the magnitude of the average acceleration of the car?",
+      "options": {
+        "A": "240 kmhr2",
+        "B": "12,000 kmhr2",
+        "C": "24,000 kmhr2",
+        "D": "30,000 kmhr2"
+      },
+      "correct_answer": "C",
+      "explanation": "The magnitude of the average acceleration is the change in velocity divided by the time. The velocity changes by −40 kmhr because the car comes to rest. The time, in hours, is 6 s×[1 hr3600 s]=1600 hr. The average acceleration is then a¯=ΔvΔt=−40 kmhr1600 hr=−24,000 kmhr2 This question asked for the magnitude of this acceleration, which is 24,000 kmhr2."
+    },
+    {
+      "id": "ch1_q4",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 4,
+      "question_text": "An elevator is designed to carry a maximum weight of 9800 N (including its own weight), and to move upward at a speed of 5 ms after an initial period of acceleration. What is the relationship between the maximum tension in the elevator cable and the maximum weight of the elevator while the elevator is accelerating upward?",
+      "options": {
+        "A": "The tension is greater than 9800 N.",
+        "B": "The tension is less than 9800 N.",
+        "C": "The tension equals 9800 N.",
+        "D": "It cannot be determined from the information given."
+      },
+      "correct_answer": "A",
+      "explanation": "The forces on the elevator are the tension upward and the weight downward, so the net force on the elevator is the difference between the two. For the elevator to accelerate upwards, the tension in the cable will have to be greater than the maximum weight so that there is a net force directed upwards."
+    },
+    {
+      "id": "ch1_q5",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 5,
+      "question_text": "A student must lift a mass of 4 kg a distance of 0.5 m. The ambient temperature is 298 K and the student must lift the mass in 30 seconds. Which of the following values is NOT necessary to calculate power?",
+      "options": {
+        "A": "Mass",
+        "B": "Distance",
+        "C": "Temperature",
+        "D": "Time"
+      },
+      "correct_answer": "C",
+      "explanation": "The unit of power is the Watt, which breaks down to kg∙m2/s2. Because there is no unit of temperature in this formulation, the ambient temperature is extra information, supporting (C) as the correct answer. Note that mass, distance, and time are all used to compute power, eliminating (A), (B), and (D)."
+    },
+    {
+      "id": "ch1_q6",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 6,
+      "question_text": "A firefighter jumps horizontally from a burning building with an initial speed of 1.5ms. At what time is the angle between the firefighter’s velocity and acceleration vectors the greatest?",
+      "options": {
+        "A": "The instant the firefighter jumps",
+        "B": "When the firefighter reaches terminal velocity",
+        "C": "Halfway through the firefighter’s fall",
+        "D": "Right before the firefighter lands on the ground"
+      },
+      "correct_answer": "A",
+      "explanation": "The firefighter’s acceleration is always directed downward, whereas the firefighter’s velocity starts out horizontal and gradually rotates downwards as the downward velocity increases. Therefore, as time progresses, the angle between the velocity and acceleration decreases, which means that the maximum angle occurs at the instant the firefighter jumps."
+    },
+    {
+      "id": "ch1_q7",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 7,
+      "question_text": "A 10 kg wagon rests on an inclined plane. The plane makes an angle of 30° with the horizontal. Approximately how large is the force required to keep the wagon from sliding down the plane (Note: sin 30° = 0.5, cos30° = 0.866)?",
+      "options": {
+        "A": "10 N",
+        "B": "49 N",
+        "C": "85 N",
+        "D": "98 N"
+      },
+      "correct_answer": "B",
+      "explanation": "The static force of friction acts parallel to the plane and is in the opposite direction from the parallel component of gravity in this setup. Because the wagon is in equilibrium, these two forces are equal in magnitude. Remember that gravity is often split into components in inclined plane problems. Rather than splitting into x- and y-components, however, it is more convenient to split the gravity vector into parallel and perpendicular components. The parallel component of gravity is given by the expression mg sin θ. Plugging in the values from the question, both the parallel component of gravity and static force of friction must be equal to (10 kg)(9.8ms2) (sin 30°) = 49 N."
+    },
+    {
+      "id": "ch1_q8",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 8,
+      "question_text": "Which of the following expressions correctly illustrates the SI base units for each of the variables in the formula below? mΔv = FΔt",
+      "options": {
+        "A": "lb × mph = ft × lb × s",
+        "B": "kg×ms=N×s",
+        "C": "kg×ms = kg⋅ms2×s",
+        "D": "g×ms = g⋅ms2×s"
+      },
+      "correct_answer": "C",
+      "explanation": "In SI units, mass is measured in kilograms (kg), velocity in meters per second (ms), and time in seconds (s). The newton is a derived unit, and is not considered to be a base unit of the SI system. A newton is equal to a kg⋅ms2."
+    },
+    {
+      "id": "ch1_q9",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 9,
+      "question_text": "The diagram below shows two vectors.   If a student uses the formula ab ∙ sin (60o), where a and b are the magnitudes of the respective vectors A and B, then which of the following best describes the computed value?",
+      "options": {
+        "A": "Positive scalar",
+        "B": "Negative scalar",
+        "C": "Vector into the page",
+        "D": "Vector out of the page"
+      },
+      "correct_answer": "D",
+      "explanation": "Since the equation uses the sine of the angle, this equation computes a cross product. The output of the cross product is another vector quantity. To find the direction of the resultant vector, use the right hand rule. The thumb of the right hand points in the direction of vector A, the fingers point in the direction of vector B, and the palm reveals the direction of the vector product. In this problem, the right hand rule indicates that the direction of the resulting vector is out of the page, consistent with (D). Note that since the cross product always produces another vector, choices (A) and (B) can be immediately eliminated."
+    },
+    {
+      "id": "ch1_q10",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 10,
+      "question_text": "Which of the following quantities is NOT a vector?",
+      "options": {
+        "A": "Velocity",
+        "B": "Force",
+        "C": "Displacement",
+        "D": "Distance"
+      },
+      "correct_answer": "D",
+      "explanation": "A vector is characterized by both magnitude and direction. From the given answer choices, all are vectors except for distance. Distance is a scalar because it has only a numerical value and lacks direction."
+    },
+    {
+      "id": "ch1_q11",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 11,
+      "question_text": "A 30 kg child sits on a seesaw at a distance of 2 m from the fulcrum. Where must the child’s parent sit to balance the seesaw if the parent has a mass of 90 kg?",
+      "options": {
+        "A": "67 cm from the child",
+        "B": "67 cm from the fulcrum",
+        "C": "133 cm from the child",
+        "D": "267 cm from the fulcrum"
+      },
+      "correct_answer": "B",
+      "explanation": "In order for the seesaw to be balanced, the torque due to the child (τc) must be exactly counteracted by the torque due to the parent (τp). In other words, the magnitudes of these torques must be equal (τc = τp): rcFcsinθc=rpFpsinθprcmcgsin90°=rpmpgsin90°(2 m)(30 kg)=rp(90 kg)0.67 m=rp Because r represents the distance of each person from the fulcrum, the parent must sit 67 cm from the fulcrum."
+    },
+    {
+      "id": "ch1_q12",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 12,
+      "question_text": "A physics major builds a potato launcher and tests it in an open field. The student launches a potato with a velocity of 12 m/s at an angle of 30°. The potato is found 60 meters from the launch site. Which of the following represents the maximum height achieved by the potato? (Note: cos(60°) = 0.86)",
+      "options": {
+        "A": "0.3 m",
+        "B": "1.8 m",
+        "C": "5 m",
+        "D": "18 m"
+      },
+      "correct_answer": "B",
+      "explanation": "The maximum height depends only on the y-component of the velocity, so the horizontal distance can be ignored. The initial y-velocity can be calculated by: vf = 12∙sin(30o) = 6 m/s. To solve for max height, use the equation: vf2 = vi2 + 2ax, where, at the maximum height, the vertical velocity is equal to 0 m/s. Plugging in values yields the equation 0 = 36 - 20x. Solving for x gives x = 1.8 m, matching (B)."
+    },
+    {
+      "id": "ch1_q13",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 13,
+      "question_text": "A rock ( m = 2 kg) is shot up vertically at the same time that a ball ( m = 0.5 kg) is projected horizontally. If both start from the same height:",
+      "options": {
+        "A": "the rock and ball will reach the ground at the same time.",
+        "B": "the rock will reach the ground first.",
+        "C": "the ball will reach the ground first.",
+        "D": "the rock and ball will collide in the air before reaching the ground."
+      },
+      "correct_answer": "C",
+      "explanation": "We only need to analyze the motion in the vertical dimension to answer this question. If both the rock and ball began with no vertical velocity, they would reach the ground at the same time. However, because the rock begins with an upward component of velocity, it will take time to reach a maximum height before falling back toward the ground. Functionally, the rock’s free fall thus starts higher and later than the ball’s. The rock will necessarily hit the ground after the ball."
+    },
+    {
+      "id": "ch1_q14",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 14,
+      "question_text": "Centrifugal force is an apparent outward force during circular motion. It has been described as a reaction force according to Newton’s third law. Which of the following statements is most likely to be correct regarding centrifugal force?",
+      "options": {
+        "A": "Centrifugal force exists only for uniform circular motion, not nonuniform circular motion.",
+        "B": "Centrifugal force exists only when tension or a normal force provides centripetal acceleration.",
+        "C": "Centrifugal force always acts antiparallel to the centripetal force vector.",
+        "D": "Centrifugal force is result of repulsive electrostatic interactions."
+      },
+      "correct_answer": "C",
+      "explanation": "Because the question stem indicates that centrifugal force is reactionary and acts outwardly away from the center of rotation, we can draw the conclusion that it is a reaction to the centripetal force. According to Newton’s third law, these forces must have equal magnitude and opposite directions (antiparallel)."
+    },
+    {
+      "id": "ch1_q15",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 15,
+      "question_text": "Which of the following statements is true of movement on a plane with friction?\nI. Acceleration is a function of applied force only.\nII. More force is needed to accelerate a stationary object than an identical moving object.\nIII. The force of friction is independent of the mass of objects.",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and II only",
+        "D": "I and III only"
+      },
+      "correct_answer": "B",
+      "explanation": "The presence of friction does not change the impact of Newton’s laws. A net force must still be applied to cause motion. This net force is not necessarily equal to an applied force, as friction and gravity also act on the object; thus, statement I is eliminated. Static friction opposes the movement of stationary objects, and is necessarily greater than the force of kinetic friction; thus, statement II is correct. Statement III is false because the normal force is related to mass, and friction is related to the normal force."
+    },
+    {
+      "id": "ch2_q1",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 1,
+      "question_text": "A weightlifter lifts a 275 kg barbell from the ground to a height of 2.4 m. How much work has the weightlifter done in lifting the barbell, and how much work is required to hold the weight at that height?",
+      "options": {
+        "A": "3234 J and 0 J, respectively",
+        "B": "3234 J and 3234 J, respectively",
+        "C": "6468 J and 0 J, respectively",
+        "D": "6468 J and 6468 J, respectively"
+      },
+      "correct_answer": "C",
+      "explanation": "Because the weight of the barbell (force acting downward) is mg=275 kg×10 ms2, or about 2750 N, it follows that the weightlifter must exert an equal and opposite force of 2750 N on the barbell. The work done in lifting the barbell is therefore W = Fd cos θ = (2750 N)(2.4 m)(cos 0) ≈ 7000 J. Using the same equation, it follows that the work done to hold the barbell in place is W = Fd cos θ = (2750 N)(0 m)(cos θ) = 0 J. Because the barbell is held in place and there is no displacement, the work done is zero. This is closest to (C)."
+    },
+    {
+      "id": "ch2_q2",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 2,
+      "question_text": "A tractor pulls a log with a mass of 500 kg along the ground for 100 m. The rope (between the tractor and the log) makes an angle of 30° with the ground and is acted on by a tensile force of 5000 N. How much work does the tractor perform in this scenario? (Note: sin 30° = 0.5, cos 30° = 0.866, tan 30° = 0.577)",
+      "options": {
+        "A": "250 kJ",
+        "B": "289 kJ",
+        "C": "433 kJ",
+        "D": "500 kJ"
+      },
+      "correct_answer": "C",
+      "explanation": "The work done by the tractor can be calculated from the equation W = Fd cos θ = (5000 N)(100 m)(cos 30°) = (5000)(100)(0.866) ≈ 5000 × 90 = 450,000 J = 450 kJ. This is closest to (C). Since we estimated by rounding 0.866 up to 0.9, we can expect the actual answer to be less than the calculated answer."
+    },
+    {
+      "id": "ch2_q3",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 3,
+      "question_text": "A 2000 kg experimental car can accelerate from 0 to 30ms in 6 s. What is the average power of the engine needed to achieve this acceleration?",
+      "options": {
+        "A": "150 W",
+        "B": "150 kW",
+        "C": "900 W",
+        "D": "900 kW"
+      },
+      "correct_answer": "B",
+      "explanation": "The work done by the engine is equal to the change in kinetic energy of the car: W=ΔK=12m(vf2−vi2)=12(2000 kg)(900 m2s2−0)=900,000 J. The average power therefore is P=Wt=900,000 J6 s=150,000 W=150 kW."
+    },
+    {
+      "id": "ch2_q4",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 4,
+      "question_text": "A 40 kg block is resting at a height of 5 m off the ground. If the block is released and falls to the ground, which of the following is closest to its total mechanical energy at a height of 2 m, assuming negligible air resistance?",
+      "options": {
+        "A": "0 J",
+        "B": "400 J",
+        "C": "800 J",
+        "D": "2000 J"
+      },
+      "correct_answer": "D",
+      "explanation": "Assuming negligible air resistance, conservation of energy states that the total mechanical energy of the block is constant as it falls. At the starting height of 5 m, the block only has potential energy equal to U=mgh≈40 kg×10ms2×5 m=2000 J. Because the kinetic energy at this point is 0 J, the total mechanical energy is 2000 J at any point during the block’s descent."
+    },
+    {
+      "id": "ch2_q5",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 5,
+      "question_text": "5 m 3 of a gas are brought from an initial pressure of 1 kPa to a pressure of 3 kPa through an isochoric process. During this process, the work performed by the gas is:",
+      "options": {
+        "A": "–10 kJ",
+        "B": "–10 J",
+        "C": "0 J",
+        "D": "+10 kJ"
+      },
+      "correct_answer": "C",
+      "explanation": "An isochoric process, by definition, is one in which the gas system undergoes no change in volume. If the gas neither expands nor is compressed, then no work is performed. Remember that work in a thermodynamic system is the area under a P–V curve; if the change in volume is 0, then the area under the curve is also 0."
+    },
+    {
+      "id": "ch2_q6",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 6,
+      "question_text": "In the pulley system shown below, which of the following is closest to the tension force in each rope if the mass of the object is 10 kg and the object is accelerating upwards at 2 ms2?",
+      "options": {
+        "A": "50 N",
+        "B": "60 N",
+        "C": "100 N",
+        "D": "120 N"
+      },
+      "correct_answer": "B",
+      "explanation": "To calculate the tension force in each rope, first draw a free body diagram: From the force diagram, notice that there are two tension forces pulling the mass up. The net force for this system (Fnet) is equal to 2T – mg. Now we can use Newton’s second law: Fnet=ma2T−mg=maT=m(a+g)2≈(10 kg)(2 ms2+10 ms2)2=5×12=60 N"
+    },
+    {
+      "id": "ch2_q7",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 7,
+      "question_text": "Which of the following is a conservative force?",
+      "options": {
+        "A": "Air resistance",
+        "B": "Friction",
+        "C": "Gravity",
+        "D": "Convection"
+      },
+      "correct_answer": "C",
+      "explanation": "Gravity is a conservative force because it is pathway independent and it does not dissipate mechanical energy. Air resistance and friction—(A) and (B)—are nonconservative forces that dissipate energy thermally. Convection is not a force, but a method of heat transfer, eliminating (D)."
+    },
+    {
+      "id": "ch2_q8",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 8,
+      "question_text": "During uniform circular motion, which of the following relationships is necessarily true?",
+      "options": {
+        "A": "No work is done.",
+        "B": "The centripetal force does work.",
+        "C": "The velocity does work.",
+        "D": "Potential energy depends on position of the object around the circle."
+      },
+      "correct_answer": "A",
+      "explanation": "In uniform circular motion, the displacement vector and force vector are always perpendicular; therefore, no work is done. Potential energy is constant for an object in uniform circular motion, whether it is the gravitational potential energy of a satellite orbiting the Earth or the electrical potential energy of an electron orbiting the nucleus of an idealized atom. In both cases, potential energy does not change and does not depend on the position of the object around the circle, eliminating (D)."
+    },
+    {
+      "id": "ch2_q9",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 9,
+      "question_text": "Which of the following best characterizes the work–energy theorem?",
+      "options": {
+        "A": "The work done by any force is proportional only to the magnitude of that force.",
+        "B": "The total work done on any object is equal to the change in kinetic energy for that object.",
+        "C": "The work done on an object by any force is proportional to the change in kinetic energy for that object.",
+        "D": "The work done by an applied force on an object is equal to the change in kinetic energy of that object."
+      },
+      "correct_answer": "B",
+      "explanation": "The work–energy theorem relates the total work done on an object by all forces to the change in kinetic energy experienced by the same object. While the work done by a force is indeed proportional to the magnitude of the force, it is also proportional to the displacement of the object, eliminating (A). The change in kinetic energy is equal—not proportional—to the total work done on the object; further, it is the net force, not any force, that relates to the work done on an object, eliminating (C). Finally, the change in kinetic energy of the object is equal to the work done by all of the forces acting on the object combined, not just the applied force, which eliminates (D)."
+    },
+    {
+      "id": "ch2_q10",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 10,
+      "question_text": "A massless spring initially compressed by a displacement of two centimeters is now compressed by four centimeters. How has the potential energy of this system changed?",
+      "options": {
+        "A": "The potential energy has not changed.",
+        "B": "The potential energy has doubled.",
+        "C": "The potential energy has increased by two joules.",
+        "D": "The potential energy has quadrupled."
+      },
+      "correct_answer": "D",
+      "explanation": "Elastic potential energy, like kinetic energy, is related to the square of another variable, as shown by the equation U=12 kx2. Increasing the displacement by a factor of 2 increases the potential energy by a factor of 22 = 4."
+    },
+    {
+      "id": "ch2_q11",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 11,
+      "question_text": "Josh, who has a mass of 80 kg, and Sarah, who has a mass of 50 kg, jump off a 20 m tall building and land on a fire net. The net compresses, and they bounce back up at the same time. Which of the following statements is NOT true?",
+      "options": {
+        "A": "Sarah will bounce higher than Josh.",
+        "B": "For Josh, the change in speed from the start of the jump to contacting the net is 20 ms.",
+        "C": "Josh will experience a greater force upon impact than Sarah.",
+        "D": "The energy in this event is converted from potential to kinetic to elastic to kinetic."
+      },
+      "correct_answer": "A",
+      "explanation": "Sarah will not bounce higher than Josh. Assuming that mechanical energy is conserved, Sarah and Josh will start with a given amount of potential energy, which is converted into kinetic energy, then elastic potential energy, then kinetic energy again with no loss of energy from the system, eliminating (D). By this logic, both individuals should return to the same starting height. Josh starts with U=mgh≈80 kg×10 ms2×20 m=16,000 J of potential energy. At the moment Josh hits the net, all of this potential energy has been converted into kinetic energy. Therefore: K=12mv2→v=2Km=2×16,00080=400=20 ms eliminating (B). Josh will experience a greater force upon impact because the net exerts a force proportional to weight; the higher the weight, the larger the force exerted by the net, eliminating (C)."
+    },
+    {
+      "id": "ch2_q12",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 12,
+      "question_text": "A parachutist jumps from a plane. Beginning at the point when the jumper reaches terminal velocity (constant velocity during freefall), which of the following is/are true?\nI. The jumper is in translational equilibrium.\nII. The jumper is not being acted upon by any forces.\nIII. There is an equal amount of work being done by gravity and air resistance.",
+      "options": {
+        "A": "I only",
+        "B": "I and III only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "B",
+      "explanation": "At terminal velocity, the force of gravity and force of air resistance are equal in magnitude, leading to translational equilibrium. Thus, statement I is true. If these forces have the same magnitude and act over the same displacement, then the work performed is the same as well, making statement III true. Even though the net force is equal to zero, there are still forces acting on the parachutist, making statement II false."
+    },
+    {
+      "id": "ch2_q13",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 13,
+      "question_text": "Mechanical advantage and efficiency are both ratios. Which of the following is true regarding the quantities used in these ratios?",
+      "options": {
+        "A": "Mechanical advantage compares values of work; efficiency compares values of power.",
+        "B": "Mechanical advantage compares values of forces; efficiency compares values of work.",
+        "C": "Mechanical advantage compares values of power; efficiency compares values of energy.",
+        "D": "Mechanical advantage compares values of work; efficiency compares values of forces."
+      },
+      "correct_answer": "B",
+      "explanation": "Mechanical advantage is a ratio of the output force generated given a particular input force. Efficiency is a ratio of the useful work performed by a system compared to the work performed on the system."
+    },
+    {
+      "id": "ch2_q14",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 14,
+      "question_text": "If the gravitational potential energy of an object has doubled in the absence of nonconservative forces, which of the following must be true, assuming the total mechanical energy of the object is constant?",
+      "options": {
+        "A": "The object has been lifted to twice its initial height.",
+        "B": "The kinetic energy of the object has been halved.",
+        "C": "The kinetic energy has decreased by the same quantity as the potential energy has increased.",
+        "D": "The mass of the object has doubled."
+      },
+      "correct_answer": "C",
+      "explanation": "In the absence of nonconservative forces, all changes in potential energy must be met by an equal change in kinetic energy. Note that it is the difference in potential energy that is the same as the difference in kinetic energy, not the proportionality, eliminating (B). Both (A) and (D) could be true statements but do not necessarily have to be—the object’s mass could have been quadrupled while its height was halved."
+    },
+    {
+      "id": "ch2_q15",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 15,
+      "question_text": "A consumer is comparing two new cars. Car A exerts 250 horsepower, while Car B exerts 300 horsepower. The consumer is most concerned about the peak velocity that the car can reach. If nonconservative forces can be ignored, which of the following statements is true? (Note: 1 horsepower = 745.7 W)",
+      "options": {
+        "A": "Car A and Car B both have unlimited velocities.",
+        "B": "Car A will reach its peak velocity more quickly than Car B.",
+        "C": "Car A will dissipate less energy to the surroundings than Car B.",
+        "D": "Car A will have a lower peak velocity than Car B."
+      },
+      "correct_answer": "A",
+      "explanation": "Horsepower is a unit of power, as evidenced by the name and the conversion factor given in the question stem. Power is a rate of energy expenditure over time. Given unlimited time, both cars are capable of unlimited increases in (kinetic) energy, meaning that they have unlimited maximum velocities. The fact that Car B has a higher power rating means that it will reach any given velocity faster than Car A, eliminating (B). There is not enough information to make any judgments on the efficiency of the cars, eliminating (C). While it may take longer for Car A to reach a given velocity, both cars have unlimited maximum velocities, eliminating (D)."
+    },
+    {
+      "id": "ch3_q1",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 1,
+      "question_text": "If an object with an initial temperature of 300 K increases its temperature by 1°C every minute, by how many degrees Fahrenheit will its temperature have increased in 10 minutes?",
+      "options": {
+        "A": "6°F",
+        "B": "10°F",
+        "C": "18°F",
+        "D": "30°C"
+      },
+      "correct_answer": "C",
+      "explanation": "The kelvin unit and Celsius degree are the same size; that is, a change of 10 K is equal to a change of 10°C. One degree Celsius is equal to 1.8 degrees Fahrenheit; therefore, 10°C = 18°F."
+    },
+    {
+      "id": "ch3_q2",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 2,
+      "question_text": "Which of the following choices correctly identifies the following three heat transfer processes?\nI. Heat transferred from the Sun to the Earth\nII. A metal spoon heating up when placed in a pot of hot soup\nIII. A rising plume of smoke from a fire",
+      "options": {
+        "A": "I. Radiation; II. Conduction; III. Convection",
+        "B": "I. Conduction; II. Radiation; III. Convection",
+        "C": "I. Radiation; II. Convection; III. Conduction",
+        "D": "I. Convection; II. Conduction; III. Radiation"
+      },
+      "correct_answer": "A",
+      "explanation": "Because there is essentially only empty space between the Sun and the Earth, the only means of heat transfer is by radiation—electromagnetic waves that propagate across space. When a metal spoon is placed in a pot of hot soup, the molecules in the soup collide with those on the surface of the spoon, thereby transferring heat by conduction. Finally, fire warms the air above it, and the warmed air is less dense than the surrounding air, so it rises. A rising column of warm air means that heat is being transported in the air mass, which is simply the process of convection. The smoke particles ride along with the upward moving air current and create a plume of smoke."
+    },
+    {
+      "id": "ch3_q3",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 3,
+      "question_text": "A 20 m steel rod at 10°C is dangling from the edge of a building and is 2.5 cm from the ground. If the rod is heated to 110°C, will the rod touch the ground? (Note: α = 1.1 × 10 −5 K −1 )",
+      "options": {
+        "A": "Yes, because it expands by 3.2 cm.",
+        "B": "Yes, because it expands by 2.6 cm.",
+        "C": "No, because it expands by 2.2 cm.",
+        "D": "No, because it expands by 1.8 cm."
+      },
+      "correct_answer": "C",
+      "explanation": "The magnitude of one degree Celsius equals the magnitude of one unit kelvin. Therefore, a change of 100°C is equal to a change of 100 K. We can then find the change in length due to thermal expansion: ΔL=αLΔT=(1.1×10−5 K−1)(20 m)(100 K)=0.022 m=2.2 cm Because the rod is originally 2.5 cm above the ground and its length increases by 2.2 cm, we can conclude that it will not touch the ground after the thermal expansion process is completed."
+    },
+    {
+      "id": "ch3_q4",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 4,
+      "question_text": "What is the final temperature of a 3 kg wrought iron fireplace tool that is left in front of an electric heater, absorbing heat energy at a rate of 100 W for 10 minutes? Assume the tool is initially at 20°C and that the specific heat of wrought iron is 500 Jkg⋅K.",
+      "options": {
+        "A": "40°C",
+        "B": "50°C",
+        "C": "60°C",
+        "D": "70°C"
+      },
+      "correct_answer": "C",
+      "explanation": "To answer this question, first remember that watts are equal to joules per second; in other words, power is energy transfer over time. In 10 minutes, the tool absorbs the following amount of energy: E=P×t=(100 W)(10 min)(60 s1 min)=6×104 J Now we can find the final temperature from this equation: q=mcΔT6×104 J=(3 kg)(500 Jkg⋅K)ΔT40°C=ΔT The final temperature is thus 20 + 40 = 60°C."
+    },
+    {
+      "id": "ch3_q5",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 5,
+      "question_text": "How much heat is required to completely melt a pair of gold earrings weighing 500 g, given that their initial temperature is 25°C? (The melting point of gold is 1064°C, its heat of fusion is 6.37×104 Jkg, and its specific heat is 126 Jkg⋅K.)",
+      "options": {
+        "A": "15 kJ",
+        "B": "32 kJ",
+        "C": "66 kJ",
+        "D": "97 kJ"
+      },
+      "correct_answer": "D",
+      "explanation": "First determine how much heat is required to raise the temperature of the gold earrings to the melting point of gold. Then, calculate the heat required to actually melt the earrings (the latent heat). The total heat required to melt the earrings completely will be the sum of the two heats. The heat required to raise the temperature of the earrings from 25°C to 1064°C is q=mcΔT=(0.5 kg)(126 Jkg ⋅ K)(1039 K)≈60×1000=60 kJ Thus, it takes about 60 kJ of heat to bring the earrings to their melting point. The next step is to calculate how much heat is needed to melt the earrings. For this, use the heat of fusion (the latent heat) of gold: q=mL=(0.5 kg)(6.37×104 Jkg)=32 kJ So overall, it requires approximately 60 + 32 = 92 kJ of heat to melt the gold earrings. Notice that we can heavily approximate the numbers used in our calculations because the answer choices are so spread out. The closest answer is (D)."
+    },
+    {
+      "id": "ch3_q6",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 6,
+      "question_text": "Given the cycle shown, what is the total work done by the gas during the cycle?",
+      "options": {
+        "A": "–10 J",
+        "B": "0 J",
+        "C": "7.5 J",
+        "D": "17.5 J"
+      },
+      "correct_answer": "C",
+      "explanation": "The total work done by the cycle is the sum of the work of paths A, B, and C, or the area within the cycle. Because the area bounded by A, B, and C is a triangle with a base of 5 m3 and a height of 3 Pa, we can calculate the area as 12(5 m3)(3 Pa)=7.5 J. Clockwise loops tend to do positive work on the environment, while counterclockwise loops do negative work."
+    },
+    {
+      "id": "ch3_q7",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 7,
+      "question_text": "In an adiabatic compression process, the internal energy of the gas:",
+      "options": {
+        "A": "increases because the work done on the gas is negative.",
+        "B": "increases because the work done on the gas is positive.",
+        "C": "decreases because the work done on the gas is negative.",
+        "D": "decreases because the work done on the gas is positive."
+      },
+      "correct_answer": "B",
+      "explanation": "To answer the question, make sure you understand all the terms. An adiabatic process means that there is no exchange of heat; in other words, Q = 0. When a gas is compressed, positive work is being done on the gas (rather than by the gas), so the value for work done by the gas will be negative (W < 0). Based on this, we can determine how the internal energy of the gas changes by using the first law of thermodynamics (ΔU = Q − W). If Q = 0 and W is negative, then ΔU is positive."
+    },
+    {
+      "id": "ch3_q8",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 8,
+      "question_text": "The entropy of a system can:",
+      "options": {
+        "A": "never decrease.",
+        "B": "decrease when the entropy of the surroundings increases by at least as much.",
+        "C": "decrease when the system is isolated and the process is irreversible.",
+        "D": "decrease during an adiabatic reversible process."
+      },
+      "correct_answer": "B",
+      "explanation": "The entropy of a system can decrease as long as the entropy of its surroundings increases by at least as much. On the other hand, the entropy of an isolated system increases for all real (irreversible) processes. This adheres to the second law of thermodynamics, which says that energy will be dispersed and entropy of the universe will remain constant or increase during all processes."
+    },
+    {
+      "id": "ch3_q9",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 9,
+      "question_text": "A student making a coffee cup calorimeter fails to use a second coffee cup and inadequately seals the lid. What was the student’s initial goal, and what was the result of this mistake?",
+      "options": {
+        "A": "The student was trying to create an isolated system but created an open system instead.",
+        "B": "The student was trying to create an isolated system but created a closed system instead.",
+        "C": "The student was trying to create a closed system but created an open system instead.",
+        "D": "The student was trying to create a closed system but created an isolated system instead."
+      },
+      "correct_answer": "A",
+      "explanation": "Calorimeters are our best approximations of isolated systems, where neither energy nor matter is exchanged with the environment. By failing to use an insulating layer and failing to fully contain the system, heat can be exchanged with the environment and matter may be dispersed, creating an open system."
+    },
+    {
+      "id": "ch3_q10",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 10,
+      "question_text": "A certain substance has a specific heat of 1 Jmol ⋅ K and a melting point of 350 K. If one mole of the substance is currently at a temperature of 349 K, how much energy must be added in order to melt it?",
+      "options": {
+        "A": "More than 1 J",
+        "B": "Exactly 1 J",
+        "C": "Less than 1 J but more than 0 J",
+        "D": "Less than 0 J"
+      },
+      "correct_answer": "A",
+      "explanation": "To find the amount of heat needed to bring the substance to its melting point, you can use the specific heat. To heat one mole of the substance one unit kelvin, it would take 1 J of heat. After the substance reaches its melting point, additional heat is needed to actually induce the phase change. Therefore, the total amount of heat required is greater than 1 J."
+    },
+    {
+      "id": "ch3_q11",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 11,
+      "question_text": "Which of the following is NOT a state function?",
+      "options": {
+        "A": "Internal energy",
+        "B": "Heat",
+        "C": "Temperature",
+        "D": "Entropy"
+      },
+      "correct_answer": "B",
+      "explanation": "State functions are any that are independent of the path taken to achieve a given state and which are not themselves defined as a process, such as pressure, density, temperature, volume, enthalpy, internal energy, Gibbs free energy, and entropy. Heat and work are process functions that are pathway dependent."
+    },
+    {
+      "id": "ch3_q12",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 12,
+      "question_text": "The figure shown depicts a thick metal container with two compartments. Compartment A is full of a hot gas, while compartment B is full of a cold gas. What is the primary mode of heat transfer in this system?",
+      "options": {
+        "A": "Radiation",
+        "B": "Convection",
+        "C": "Conduction",
+        "D": "Enthalpy"
+      },
+      "correct_answer": "C",
+      "explanation": "In this situation, heat will transfer from the warm gas to the metal and then to the cold gas. Convection requires flow of a fluid to cause heat transfer, invalidating (B) as an answer. In this case, the gas is not flowing, but rather is in contact with the metal. (A) is an invalid answer because heat transfer through radiation is also implausible not only because gases are unlikely to emit heat in the form of waves but also because the radiation would be unlikely to penetrate the thick metal container. Enthalpy, (D), is not a form of heat transfer. Conduction, (C), is the most likely option; it happens when two substances make direct contact with one another. Here, gas A makes contact with the metal container, which makes contact with gas B."
+    },
+    {
+      "id": "ch3_q13",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 13,
+      "question_text": "Substances A and B have the same freezing and boiling points. If solid samples of both substances are heated in the exact same way, substance A boils before substance B. Which of the following would NOT explain this phenomenon?",
+      "options": {
+        "A": "Substance B has a higher specific heat.",
+        "B": "Substance B has a higher heat of vaporization.",
+        "C": "Substance B has a higher heat of fusion.",
+        "D": "Substance B has a higher internal energy."
+      },
+      "correct_answer": "D",
+      "explanation": "Saying that substance B has a higher internal energy cannot explain the phenomenon because the internal energy is irrelevant; the heat involved in the process is related only to the specific heat, the heat of fusion, and the heat of vaporization. All of the other choices could explain the phenomenon. The heat required to melt the solid is determined by the heat of fusion, (C). The heat required to bring the liquid to its boiling point is determined by the specific heat, (A). The heat required to boil the liquid is determined by the heat of vaporization, (B)."
+    },
+    {
+      "id": "ch3_q14",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 14,
+      "question_text": "In experiment A, a student mixes ink with water and notices that the two liquids mix evenly. In experiment B, the student mixes oil with water; in this case, the liquids separate into two different layers. The entropy change is:",
+      "options": {
+        "A": "positive in experiment A and negative in experiment B.",
+        "B": "positive in experiment A and zero in experiment B.",
+        "C": "negative in experiment A and positive in experiment B.",
+        "D": "zero in experiment A and negative in experiment B."
+      },
+      "correct_answer": "B",
+      "explanation": "When the ink randomly intersperses throughout the water, the final state is more disordered than the initial state, so the entropy change of the system is positive. When the oil separates from the water, the final state is just as ordered as the initial state (because the oil and the water are still completely separate), so the entropy change is zero. You can also answer this question by noticing the reversibility of the two experiments. Experiment A has a positive entropy change because it is irreversible, while experiment B has no entropy change because the reaction is reversible. According to the second law of thermodynamics, the overall entropy change of a system and its surroundings can never be negative in a thermodynamic process that moves from one equilibrium state to another."
+    },
+    {
+      "id": "ch3_q15",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 15,
+      "question_text": "Which of the following processes is LEAST likely to be accompanied by a change in temperature?",
+      "options": {
+        "A": "The kinetic energy of a gas is increased through a chemical reaction.",
+        "B": "Energy is transferred to a solid via electromagnetic waves.",
+        "C": "A boiling liquid is heated on a hot plate.",
+        "D": "A warm gas is mixed with a cold gas."
+      },
+      "correct_answer": "C",
+      "explanation": "If a substance is undergoing a phase change, any added heat will be used toward overcoming the heat of transformation of the phase change. During the phase change, the temperature will remain constant. Temperature is a measure of the kinetic energy of the molecules in a sample, so a change in kinetic energy, (A), is essentially the same thing as a change in temperature. The heat transfer by radiation described in (B) will definitely change the temperature of the solid as long as it is not in the process of melting. (D) Describes heat transfer by convection, in which the warm gas will transfer heat to the cold gas until they both reach an intermediate temperature."
+    },
+    {
+      "id": "ch4_q1",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 1,
+      "question_text": "Objects A and B are submerged at a depth of 1 m in a liquid with a specific gravity of 0.877. Given that the density of object B is one-third that of object A and that the gauge pressure of object A is 3 atm, what is the gauge pressure of object B? (Note: Assume atmospheric pressure is 1 atm and g=9.8 ms2. )",
+      "options": {
+        "A": "1 atm",
+        "B": "2 atm",
+        "C": "3 atm",
+        "D": "9 atm"
+      },
+      "correct_answer": "C",
+      "explanation": "The absolute and gauge pressures depend only on the density of the fluid, not on that of the object. When the pressure at the surface is equal to atmospheric pressure, the gauge pressure is given by Pgauge = ρgz, where ρ represents the density of the fluid, not the object. These objects are also at the same depth, so they must have the same gauge pressure."
+    },
+    {
+      "id": "ch4_q2",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 2,
+      "question_text": "An anchor made of iron weighs 833 N on the deck of a ship. If the anchor is now suspended in seawater by a massless chain, what is the tension in the chain? (Note: The density of iron is 7800 kgm3 and the density of seawater is 1025 kgm3. )",
+      "options": {
+        "A": "100 N",
+        "B": "724 N",
+        "C": "833 N",
+        "D": "957 N"
+      },
+      "correct_answer": "B",
+      "explanation": "The tension in the chain is the difference between the anchor’s weight and the buoyant force because the object is in translational equilibrium: T = Fg – Fbuoy. The object’s weight is 833 N, and the buoyant force can be found using Archimedes’ principle. The magnitude of the buoyant force is equal to the weight of the seawater that the anchor displaces: Fbuoy = ρwVwg Because the anchor is submerged entirely, the volume of the water displaced is equal to the volume of the anchor, which is equal to its mass divided by its density (VA=mAρA). We are not given the anchor’s mass, but its value must be the magnitude of the weight of the anchor divided by g. Putting all of this together, we can obtain the buoyant force: Fbuoy=ρwVwg=ρwVAg=ρw(mAρA)g=ρw(FgρAg)g=Fg(ρwρA)=833 N(1025 kgm37800 kgm3)≈100 N(actual=109 N) Lastly, we can obtain the tension from the initial equation T = Fg – Fbuoy: T = 833 N − 109 N = 724 N The key to quickly solving this problem on Test Day is recognizing that the answer choices contain an outlier (A), a value slightly less than the weight of the anchor (B), the weight of the anchor (C), and a value slightly higher than the weight of the anchor (D). Since buoyant force is in the same direction as tension and their sum must equal the weight of the anchor, (B) is the most likely answer."
+    },
+    {
+      "id": "ch4_q3",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 3,
+      "question_text": "Two wooden balls of equal volume but different density are held beneath the surface of a container of water. Ball A has a density of 0.5 gm3, and ball B has a density of 0.7 gcm3. When the balls are released, they will accelerate upward to the surface. What is the relationship between the acceleration of ball A and that of ball B?",
+      "options": {
+        "A": "Ball A has the greater acceleration.",
+        "B": "Ball B has the greater acceleration.",
+        "C": "Balls A and B have the same acceleration.",
+        "D": "It cannot be determined from information given."
+      },
+      "correct_answer": "A",
+      "explanation": "Using Newton’s second law, Fnet = ma, we obtain the following equation: Fbuoy − mg = ma a=Fbuoy− mgm=Fbuoym−g Both balls experience the same buoyant force because they are in the same liquid and have the same volume (Fbuoy = ρVg). Thus, the ball with the smaller mass experiences the greater acceleration. Because both balls have the same volume, the ball with the smaller density has the smaller mass (m = ρV), which is ball A."
+    },
+    {
+      "id": "ch4_q4",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 4,
+      "question_text": "Water flows from a pipe of diameter 0.15 m into one of diameter 0.2 m. If the speed in the 0.15 m pipe is 8 ms, what is the speed in the 0.2 m pipe?",
+      "options": {
+        "A": "3 ms",
+        "B": "3.7 ms",
+        "C": "4.5 ms",
+        "D": "6 ms"
+      },
+      "correct_answer": "C",
+      "explanation": "It is known that water flows faster through a narrower pipe. The speed is inversely proportional to the cross-sectional area of the pipe because the same volume of water must pass by each point at each time interval. Let A be the 0.15 m pipe and B the 0.20 m pipe, and use the continuity equation: νAAA = νBAB where ν is the speed and A is the cross-sectional area of the pipe. Because ν is inversely proportional to the cross-sectional area, and the area is proportional to the square of the diameter A=πr2=πd24, we obtain the following: vB=vA(πdA24)(πdB24)=vA(dAdB)2vB=(8)(0.150.20)2=(8)(34)2vB=(8)(916)=92=4.5ms"
+    },
+    {
+      "id": "ch4_q5",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 5,
+      "question_text": "A hydraulic lever is used to lift a heavy hospital bed, requiring an amount of work W . When the same bed with a patient is lifted, the work required is doubled. How can the cross-sectional area of the platform on which the bed is lifted be changed so that the pressure on the hydraulic lever remains constant?",
+      "options": {
+        "A": "The cross-sectional area must be doubled.",
+        "B": "The cross-sectional area must be halved.",
+        "C": "The cross-sectional area must be divided by four.",
+        "D": "The cross-sectional area must remain constant."
+      },
+      "correct_answer": "A",
+      "explanation": "This question tests our understanding of Pascal’s principle, which states that a change in pressure applied to an enclosed fluid is transmitted undiminished to every portion of the fluid and to the walls of the containing vessel. We are told that the work required to lift the bed with the patient is double the work needed to lift just the bed. In other words, the force required doubles when both the bed and the patient have to be lifted. To maintain the same pressure, we must double the cross-sectional area of the platform of the hydraulic lever on which the patient and the bed are lifted."
+    },
+    {
+      "id": "ch4_q6",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 6,
+      "question_text": "The figure shown represents a section through a horizontal pipe of varying diameters into which four open vertical pipes connect. If water is allowed to flow through the pipe in the direction indicated, in which of the vertical pipes will the water level be lowest?",
+      "options": {
+        "A": "Pipe 1",
+        "B": "Pipe 2",
+        "C": "Pipe 3",
+        "D": "Pipe 4"
+      },
+      "correct_answer": "B",
+      "explanation": "It is not necessary to do any calculations to answer this question. The open vertical pipes are exposed to the same atmospheric pressure; therefore, differences in the heights of the columns of water in the vertical pipes are dependent only on the differences in hydrostatic pressures in the horizontal pipe. Because the horizontal pipe has variable cross-sectional area, water will flow the fastest and the hydrostatic pressure will have its lowest value where the horizontal pipe is narrowest; this is called the Venturi effect. As a result, pipe 2 will have the lowest water level."
+    },
+    {
+      "id": "ch4_q7",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 7,
+      "question_text": "The speed of blood in the aorta is much higher than the speed of blood through a capillary bed. How can this fact be explained using the continuity equation, assuming that we are interested in average flow and that there is no net fluid loss?",
+      "options": {
+        "A": "The aorta is located higher than the capillary bed.",
+        "B": "The pressure in the aorta is the same as the pressure in the capillary bed.",
+        "C": "The cross-sectional area of all the capillaries added together is much greater than the cross-sectional area of the aorta.",
+        "D": "The cross-sectional area of a capillary is much smaller than the cross-sectional area of the aorta."
+      },
+      "correct_answer": "C",
+      "explanation": "The continuity equation states that the flow rate of a fluid must remain constant from one cross-section to another. In other words, when an ideal fluid flows from a pipe with a large cross-sectional area to one that is narrower, its speed increases. This can be illustrated through the equation A1ν1 = A2ν2. If blood flows much more slowly through the capillaries, we can infer that the cross-sectional area is larger. This might seem surprising at first glance, but given that each blood vessel divides into thousands of little capillaries, it is not hard to imagine that adding the cross-sectional areas of each capillary from an entire capillary bed results in an area that is larger than the cross-sectional area of the aorta."
+    },
+    {
+      "id": "ch4_q8",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 8,
+      "question_text": "Which of the following data sets is sufficient to determine the linear speed through an area of a rigid pipe?",
+      "options": {
+        "A": "The cross-sectional area in another segment of pipe and the cross-sectional area in the region of interest",
+        "B": "The Reynolds number, viscosity of the fluid, density, and diameter of the pipe",
+        "C": "The radius of the pipe, pressure gradient, viscosity, and length of the pipe",
+        "D": "The absolute pressure and density"
+      },
+      "correct_answer": "C",
+      "explanation": "The data given in (C) are sufficient to determine the flow rate through Poiseuille’s law, which can then be used to determine the linear speed by dividing by the cross-sectional area (which could be determined from the radius, as well). (A) would be sufficient if we also knew the flow rate in the other segment of pipe; one could use the continuity equation to determine the linear speed. The data in (B) could be used to determine the critical speed at which turbulent flow begins, but there is no indication that there is turbulent flow. The data in (D) could be used to determine the depth of an object in a fluid."
+    },
+    {
+      "id": "ch4_q9",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 9,
+      "question_text": "An object with a density of 2 g/cm3 is submerged to a depth of 25 cm in a container of dichloromethane. If the specific gravity of dichloromethane is 1.33, what is the total pressure exerted on the submerged object?",
+      "options": {
+        "A": "3.3 kPa",
+        "B": "104 kPa",
+        "C": "332 kPa",
+        "D": "433 kPa"
+      },
+      "correct_answer": "B",
+      "explanation": "To calculate the total pressure, use the hydrostatic pressure formula: Ptot = Patm + ρgz. The unit of depth in this equation is meters, so first convert 25 cm to 0.25 m. The specific gravity is equal to the density of a medium divided by the density of water, so, with a specific gravity of 1.33, the density of dichloromethane is 1,330 kg/m3. Finally, plug in these values and solve for total pressure: Ptot = 101 kPa + (1,330 kg/m3)(0.25 m)(10 m/s2) = 104 kPa, matching (B)."
+    },
+    {
+      "id": "ch4_q10",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 10,
+      "question_text": "A hydraulic system is designed to allow water levels to change depending on a force applied at the top of the tank as shown. If a force, F 1 , of 4 N is applied to a square, flexible cover where A 1 = 16, and the area A 2 = 64, what force must be applied to A 2 to keep the water levels from changing?",
+      "options": {
+        "A": "4 N",
+        "B": "16 N",
+        "C": "32 N",
+        "D": "No force needs to be applied."
+      },
+      "correct_answer": "B",
+      "explanation": "This is a basic restatement of Pascal’s principle that a force applied to an area will be transmitted through a fluid. This will result in changing fluid levels through the system. The relationship is stated as F2=F1A2A1. Plugging in the numbers gives an answer of 16 N."
+    },
+    {
+      "id": "ch4_q11",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 11,
+      "question_text": "Balls A and B of equal mass (shown below) are fully submerged in a swimming pool. Which ball will produce the greater buoyant force?",
+      "options": {
+        "A": "Ball A",
+        "B": "Ball B",
+        "C": "The forces will be equal.",
+        "D": "It is impossible to know without knowing the exact volume of each ball."
+      },
+      "correct_answer": "A",
+      "explanation": "The buoyant force (Fbuoy) is equal to the weight of water displaced, which is quantitatively expressed as Fbuoy = mfluid displacedg = ρfluidVfluid displacedg The volume of displaced fluid is equal to the volume of the ball. The density of the fluid remains constant. Therefore, because ball A has a larger volume, it will displace more water and experience a larger buoyant force."
+    },
+    {
+      "id": "ch4_q12",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 12,
+      "question_text": "Which of the following correctly describes blood flow through the circulatory system?",
+      "options": {
+        "A": "The flow rate is constant.",
+        "B": "Pressure created by the heart moves blood through venous circulation.",
+        "C": "The volume of blood entering and exiting the heart in a single cycle is equal.",
+        "D": "The resistance of an artery is greater than the resistance of an arteriole."
+      },
+      "correct_answer": "C",
+      "explanation": "The volume of blood entering and exiting the heart is always equal in a single cardiac cycle, supporting (C) as the correct answer. By contrast, the flow rate of blood through the circulatory system is not constant, as some fluids exit the circulation in tissue and is later returned via the lymphatic system, eliminating (A). Furthermore, the contraction of the heart pushing blood through arterial circulation creates an uneven flow rate which can be observed as the pulse, eliminating (B). Finally, as the diameter of the vessels decreases, resistance increases, and therefore arteries have significantly less resistance to blood flow compared to arterioles, eliminating (D)."
+    },
+    {
+      "id": "ch4_q13",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 13,
+      "question_text": "A low-pressure weather system can decrease the atmospheric pressure from 1 atm to 0.99 atm. By what percent will this decrease the force on a rectangular window from the outside? (Note: Assume the window is 6 m by 3 m and the glass is 3 cm thick.)",
+      "options": {
+        "A": "1%",
+        "B": "10%",
+        "C": "13%",
+        "D": "30%"
+      },
+      "correct_answer": "A",
+      "explanation": "This question is a simple application of the definition of pressure, which is force per area. If pressure decreases 1 percent and area does not change, the force will be decreased by 1 percent. Note that the other measurements given do not play a role in our calculations."
+    },
+    {
+      "id": "ch4_q14",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 14,
+      "question_text": "Two fluids, A and B, have densities of x and 2 x , respectively. They are tested independently to assess absolute pressure at varying depths. At what depths will the pressure below the surface of these two fluids be equal?",
+      "options": {
+        "A": "Whenever the depth of fluid A is one-half that of fluid B",
+        "B": "Whenever the depth of fluid A equals that of fluid B",
+        "C": "Whenever the depth of fluid A is 2 times that of fluid B",
+        "D": "Whenever the depth of fluid A is 4 times that of fluid B"
+      },
+      "correct_answer": "C",
+      "explanation": "The equation for absolute (hydrostatic) pressure is P = P0 + ρgz, where P0 is the pressure at the surface, ρ is the density of the fluid, g is acceleration due to gravity, and z is the depth in the fluid. If the density of fluid B is twice that of fluid A, then the depth in fluid A will have to be twice that in fluid B to obtain the same absolute pressure: P0+ρAgzA=P0+ρBgzB(x)gzA=(2x)gzBzA=2zB"
+    },
+    {
+      "id": "ch4_q15",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 15,
+      "question_text": "A water tower operator is interested in increasing the pressure of a column of water that is applied to a piston. The operator hopes that increasing the pressure will increase the force being applied to the piston. The only way to increase the pressure is to alter the speed of the water as it flows through the pipe to the piston. How should the speed of the water be changed to increase the pressure and force?",
+      "options": {
+        "A": "Increase the speed",
+        "B": "Decrease the speed",
+        "C": "Release water intermittently against the pipe",
+        "D": "The speed of water will not change pressure at the piston."
+      },
+      "correct_answer": "B",
+      "explanation": "This is a basic interpretation of Bernoulli’s equation that states, at equal heights, speed and pressure of a fluid are inversely related (the Venturi effect). Decreasing the speed of the water will therefore increase its pressure. An increase in pressure over a given area will result in increased force being transmitted to the piston."
+    },
+    {
+      "id": "ch5_q1",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 1,
+      "question_text": "In the figure, the magnitude of the electric force on R due to S is:",
+      "options": {
+        "A": "F2.",
+        "B": "F.",
+        "C": "2F.",
+        "D": "4F."
+      },
+      "correct_answer": "B",
+      "explanation": "According to Newton’s third law, if R exerts a force on S, then S exerts a force with equal magnitude but opposite direction back on R. Therefore, the magnitude of the force on R due to S is F."
+    },
+    {
+      "id": "ch5_q2",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 2,
+      "question_text": "If the distance between the centers of the spheres is halved, the magnitude of the force on S due to R will be:",
+      "options": {
+        "A": "F2.",
+        "B": "F4.",
+        "C": "2F.",
+        "D": "4F."
+      },
+      "correct_answer": "D",
+      "explanation": "The force is inversely proportional to r2. Cutting the distance in half will therefore multiply the force by 22, making it four times its original value: Fold∝1r2Fnew∝1(r2)2=4r2=4×Fold"
+    },
+    {
+      "id": "ch5_q3",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 3,
+      "question_text": "Assume the direction of F is the same direction as the electric field between R and S . If an electron were placed midway between R and S , the resultant electric force on the electron would be:",
+      "options": {
+        "A": "toward R.",
+        "B": "toward S.",
+        "C": "upward in the plane of the page.",
+        "D": "downward in the plane of the page."
+      },
+      "correct_answer": "B",
+      "explanation": "An electric field’s direction at a given point is defined as the direction of the force that would be exerted on a positive test charge in that position. Because electrons are negatively charged particles, they will therefore feel a force in the opposite direction of the electric field’s vector. In this case, because the force points to the left (toward R), an electron will feel a force pointing to the right (toward S) if E is in the same direction as F."
+    },
+    {
+      "id": "ch5_q4",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 4,
+      "question_text": "If the electric field at a distance r away from charge Q is 36 NC, what is the ratio of the electric fields at r , 2 r , and 3 r ?",
+      "options": {
+        "A": "9:3:1",
+        "B": "36:9:4",
+        "C": "36:18:9",
+        "D": "36:18:12"
+      },
+      "correct_answer": "B",
+      "explanation": "The first step in answering this question is to remember that the magnitude of the electric field is inversely proportional to the square of the distance: E=kQr2→E∝1r2 Therefore, if the electric field at radius r, Er, is 36 NC, then the electric field at radius 2r will be E2r∝1(2r)2=14r2=Er4=(36 NC)4=9 NC Similarly, the electric field at radius 3r is equal to E3r∝1(3r)2=19r2=Er9=(36 NC)9=4 NC Therefore, the ratio of Er:E2r:E3r is 36:9:4."
+    },
+    {
+      "id": "ch5_q5",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 5,
+      "question_text": "A positive charge of + Q is fixed at point R a distance d away from another positive charge of +2 Q fixed at point S. Point A is located midway between the charges, and point B is a distance d2 from +2 Q , as shown below. In which direction will a positive charge move if placed at point A and point B, respectively?",
+      "options": {
+        "A": "Toward the +Q charge for both",
+        "B": "Toward the +2Q charge for both",
+        "C": "Toward the +Q charge at point A, and toward the right at point B",
+        "D": "Toward the +2Q charge at point A, and toward the right at point B"
+      },
+      "correct_answer": "C",
+      "explanation": "A positive charge placed at A will experience two forces: a force to the left due to +2Q and a force to the right due to +Q. Because point A is the same distance from +Q and +2Q, the force due to +2Q will be larger than that due to +Q, and there will be a net force to the left (toward +Q). At point B, the forces from both +Q and +2Q will point to the right, so there will be a net force to the right."
+    },
+    {
+      "id": "ch5_q6",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 6,
+      "question_text": "Two parallel conducting plates are separated by a distance d . One plate carries a charge + Q and the other carries a charge − Q . The voltage between the plates is 12 V. If a +2 μ C charge is released from rest at the positive plate, how much kinetic energy does it have when it reaches the negative plate?",
+      "options": {
+        "A": "2.4 × 10–6 J",
+        "B": "4.8 × 10–6 J",
+        "C": "2.4 × 10–5 J",
+        "D": "4.8 × 10–5 J"
+      },
+      "correct_answer": "C",
+      "explanation": "Recall that the change in potential energy, ΔU, and the change in potential, ΔV, are related by W = ΔU = qΔV. Therefore, ΔU = (2 × 10–6 C) × (–12 V) = –2.4 × 10–5 J. The positive charge is moving from the positive to the negative plate, and is therefore decreasing in potential energy; this is reflected by the fact that the voltage is –12 V rather than +12 V. The potential energy that is lost is converted into kinetic energy, so the charge must gain 2.4 × 10–5 J of kinetic energy."
+    },
+    {
+      "id": "ch5_q7",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 7,
+      "question_text": "The negative charge in the figure below (−1 μ C) moves from y = −5 to y = +5 and is made to follow the dashed line. What is the work required to move the negative charge along this dashed line?",
+      "options": {
+        "A": "–10 J",
+        "B": "−5 J",
+        "C": "0 J",
+        "D": "10 J"
+      },
+      "correct_answer": "C",
+      "explanation": "There will be work done in moving the negative charge from its initial position to y = 0. However, in moving the negative charge from y = 0 to the final position, the same amount of work is done but with the opposite sign. This is because the force changes direction as the electron crosses y = 0. Therefore, the two quantities of work cancel each other out. This argument depends crucially on the symmetry of the initial and final positions."
+    },
+    {
+      "id": "ch5_q8",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 8,
+      "question_text": "If the magnetic field a distance r away from a current-carrying wire is 10 T, what will be the net magnetic field at r if another wire is placed a distance 2 r from the original wire (with r in the middle) and has a current twice as strong flowing in the opposite direction?",
+      "options": {
+        "A": "0 T",
+        "B": "15 T",
+        "C": "20 T",
+        "D": "30 T"
+      },
+      "correct_answer": "D",
+      "explanation": "The safest way to answer this question is to quickly draw a diagram: Notice right away that between the two wires, the direction of the magnetic field is the same: into the page. Therefore, because the vector direction is the same, we can just focus on the magnitudes of the two magnetic fields. We know that B1 = 10 T at a distance r. Consider the relationships in the equation B=μ0I2πr. Magnetic field and current are directly proportional, whereas magnetic field and distance are inversely proportional. Therefore, doubling the current will result in double the magnetic field of the first wire, or 20 T. The overall magnitude of the magnetic field is 10 T + 20 T = 30 T into the page."
+    },
+    {
+      "id": "ch5_q9",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 9,
+      "question_text": "Given an electric dipole, the electric potential is zero:",
+      "options": {
+        "A": "only at the midpoint of the dipole axis.",
+        "B": "anywhere on the perpendicular bisector of the dipole axis and at infinity.",
+        "C": "anywhere on the dipole axis.",
+        "D": "only for points at infinity."
+      },
+      "correct_answer": "B",
+      "explanation": "Potential is a scalar quantity. The total potential is the sum of the potentials of the positive and negative charges: VT=V++V−=+kqr++(−kqr−) where r+ and r– represent the distances from the positive and negative charge, respectively. The sum of these terms will be zero at any point where r+ = r–. This will be at any point along the perpendicular bisector of the dipole axis, as well as at infinity."
+    },
+    {
+      "id": "ch5_q10",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 10,
+      "question_text": "An electron is accelerated over a distance d by an electric potential V . The electric potential applied to this electron is then increased by a factor of 4 and the electron is accelerated over the same distance d . The speed of the electron at the end of the second trial will be larger than at the end of the first trial by a factor of:",
+      "options": {
+        "A": "16.",
+        "B": "8.",
+        "C": "4.",
+        "D": "2."
+      },
+      "correct_answer": "D",
+      "explanation": "The electric potential (V) is equal to the amount of work done (W) divided by the test charge (q). This means that the potential is directly proportional to the amount of work done, which is equal to the amount of energy gained by the particle; therefore, the overall amount of energy increases by a factor of 4. Because energy is directly proportional to the square of the speed (according to 12mv2), the speed must increase by a factor of 2."
+    },
+    {
+      "id": "ch5_q11",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 11,
+      "question_text": "Which of the following accurately depicts the field lines created by a proton that is moving toward the right on this page?",
+      "options": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+      },
+      "correct_answer": "D",
+      "explanation": "You should know that the field lines for a positively charged particle will always point away from the particle in a radial pattern, regardless of the direction in which the particle is moving. This is because field lines point in the direction a positive test charge would move in that field (that is, the direction that a force would be exerted on a positive test charge in that field)."
+    },
+    {
+      "id": "ch5_q12",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 12,
+      "question_text": "A certain 9 V battery is used as a power source to move a 2 C charge. How much work is done by the battery?",
+      "options": {
+        "A": "4.5 J",
+        "B": "9 J",
+        "C": "18 J",
+        "D": "36 J"
+      },
+      "correct_answer": "C",
+      "explanation": "Voltage (ΔV) is equal to the quotient of the amount of work done (W) divided by the charge of the particle on which the work is done (q), according to the equation V=ΔUq=Wq. Because the voltage equals 9 V and the charge equals 2 C, the work done must equal 9 V × 2 C = 18 J."
+    },
+    {
+      "id": "ch5_q13",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 13,
+      "question_text": "To increase the capacitance of a given capacitor, a dielectric is inserted between the two plates. Dielectrics are materials that block the flow of charge. Which of the following materials would be the best dielectric?",
+      "options": {
+        "A": "Salt water",
+        "B": "Steel, an alloy primarily composed of iron",
+        "C": "Glass, an oxide of silica",
+        "D": "Copper"
+      },
+      "correct_answer": "C",
+      "explanation": "To prevent the flow of charge between the two plates, the dielectric should be an insulative material. Insulative materials contain atoms that tightly bind to their electrons, often nonmetals. Glass is composed of two nonmetals, silicon and oxygen, and would be the best insulator, supporting choice (C). On the other hand, while pure water itself can be an insulator, the presence of ions greatly increases the conductivity of salt water, eliminating (A)."
+    },
+    {
+      "id": "ch5_q14",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 14,
+      "question_text": "A moving negative charge placed in an external magnetic field circulates counterclockwise in the plane of the paper. In which direction is the magnetic field pointing?",
+      "options": {
+        "A": "Into the page",
+        "B": "Out of the page",
+        "C": "Toward the center of the circle",
+        "D": "Tangent to the circle"
+      },
+      "correct_answer": "B",
+      "explanation": "This problem is an application of the right-hand rule. The velocity vector v is always tangent to the circle. The magnetic force must always point radially toward the center of the circle. Consider when the negative charge is at the “12 o’clock” position in its circle and apply the right-hand rule. Your thumb points to the left, tangent to the circle at this point. The back of your hand, which represents the force on a negative charge, points down the page, radially toward the center of the circle. Your fingers must point out of the page to get your hand into this position. Therefore, the direction of the magnetic field must be out of the page."
+    },
+    {
+      "id": "ch5_q15",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 15,
+      "question_text": "Many kinases have divalent cation cofactors to stabilize their interaction with ATP. If the electric potential energy of the cation and ATP is –3.3 × 10 –19 J, how would the electric potential energy change if the distance between the cation and ATP were doubled?",
+      "options": {
+        "A": "Increase by a factor of 2",
+        "B": "Increase by a factor of 4",
+        "C": "Decrease by a factor of 2",
+        "D": "Decrease by a factor of 4"
+      },
+      "correct_answer": "A",
+      "explanation": "Often, with potential energy, it can be easier to think in terms of common sense, rather than in terms of rigorous mathematical formulas: opposite charges attract. When oppositely charged species like ATP and a cation are moved apart, their potential energy will increase, reflecting the fact that these oppositely charged species would like to move back to a closer distance. Furthermore, the formula for electric potential energy is U = kQq/r. From this formula, observe that the relationship between U and r is given by U ∝ 1/r, meaning that if r is changed by a factor of 2, then U will also change by a factor of 2, and not by a factor of 4. These observations together are enough to justify (A) as the correct answer. For a more mathematically rigorous explanation, consider that the opposite charges of ATP and the cation will cause the output of the formula U = kQq/r to be negative. Then, when the distance between these two charges is doubled, this expression becomes U = kQq/2r, which is half as large in magnitude. However, because U is negative for oppositely charged species, a smaller negative value actually means that U has increased! (Consider: though the magnitude is smaller, a temperature of -5oC is actually warmer than a temperature of -25oC. Similarly, a U with a smaller negative magnitude actually means higher energy.) In short, doubling the radius means that the energy is also doubled when the charged species have opposite charges."
+    },
+    {
+      "id": "ch6_q1",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 1,
+      "question_text": "If a defibrillator passes 15 A of current through a patient’s body for 0.1 seconds, how much charge goes through the patient’s skin?",
+      "options": {
+        "A": "0.15 C",
+        "B": "1.5 C",
+        "C": "15 C",
+        "D": "150 C"
+      },
+      "correct_answer": "B",
+      "explanation": "Electrical current is defined as charge flow, or in mathematical terms, charge transferred per time: I=QΔt. A 15 A current that acts for 0.1 s will transfer 15 A × 0.1 s = 1.5 C of charge."
+    },
+    {
+      "id": "ch6_q2",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 2,
+      "question_text": "A student places an ammeter with negligible resistance in parallel with a resistor to determine the amount of current that passes through the resistor. Does the student obtain an accurate reading?",
+      "options": {
+        "A": "Yes, because the student used an ammeter with negligible resistance.",
+        "B": "Yes, because the current going through parallel paths is equal.",
+        "C": "No, because the ammeter should have infinite resistance.",
+        "D": "No, because an ammeter in parallel changes the current through the resistor."
+      },
+      "correct_answer": "D",
+      "explanation": "To measure the current at any point in a circuit, an ammeter should be placed in series. If placed in parallel, a new path for current would be created, so the measured value would not be reflective of actual current in the circuit. This observation matches (D). Note that an ideal ammeter should have zero resistance so that it has no effect on the current of the circuit."
+    },
+    {
+      "id": "ch6_q3",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 3,
+      "question_text": "The resistance of two conductors of equal cross-sectional area and equal lengths are compared, and are found to be in the ratio 1:2. The resistivities of the materials from which they are constructed must therefore be in what ratio?",
+      "options": {
+        "A": "1:1",
+        "B": "1:2",
+        "C": "2:1",
+        "D": "4:1"
+      },
+      "correct_answer": "B",
+      "explanation": "The resistance of a resistor is given by the formula R=ρLA Thus, there is a direct proportionality between resistance and resistivity. Because the other variables are equal between the two resistors, we can determine that if R1:R2 is a 1:2 ratio, then ρ1: ρ2 is also a 1:2 ratio."
+    },
+    {
+      "id": "ch6_q4",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 4,
+      "question_text": "A voltaic cell provides a current of 0.5 A when in a circuit with a 3 Ω resistor. If the internal resistance of the cell is 0.1 Ω, what is the voltage across the terminals of the battery when there is no current flowing?",
+      "options": {
+        "A": "0.05 V",
+        "B": "1.5 V",
+        "C": "1.505 V",
+        "D": "1.55 V"
+      },
+      "correct_answer": "D",
+      "explanation": "This question tests our understanding of batteries in a circuit. The voltage across the terminals of the battery when there is no current flowing is referred to as the electromotive force (emf or ε of the battery). However, when a current is flowing through the circuit, the voltage across the terminals of the battery is decreased by an amount equal to the current multiplied by the internal resistance of the battery. Mathematically, this is given by the equation V = ε – irint To determine the emf of the battery, first calculate the voltage across the battery when the current is flowing. For this, we can use Ohm’s law: V=IR=(0.5 A)(3 Ω)=1.5 V Because we know the internal resistance of the battery, the current, and the voltage, we can calculate the emf: ε=V+irint=1.5 V+(0.5 A)(0.1 Ω)=1.5+0.05=1.55 V The answer makes sense in the context of a real battery because its internal resistance is supposed to be very small so that the voltage provided to the circuit is as close as possible to the emf of the cell when there is no current running."
+    },
+    {
+      "id": "ch6_q5",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 5,
+      "question_text": "A transformer is a device that takes an input voltage and produces an output voltage that can be either larger or smaller than the input voltage, depending on the transformer design. Although the voltage is changed by the transformer, energy is not, so the input power equals the output power. A particular transformer produces an output voltage that is 300 percent of the input voltage. What is the ratio of the output current to the input current?",
+      "options": {
+        "A": "1:3",
+        "B": "3:1",
+        "C": "1:300",
+        "D": "300:1"
+      },
+      "correct_answer": "A",
+      "explanation": "We are told that transformers conserve energy so that the output power equals the input power. Thus, Pout = Pin, or IoutVout = IinVin. There is therefore an inverse proportionality between current and voltage. If the output voltage is 300% of the input voltage (3 times its amount), then the output current must be 13 of the input voltage. This can be represented as a 1:3 ratio."
+    },
+    {
+      "id": "ch6_q6",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 6,
+      "question_text": "Given that R 1 = 20 Ω, R 2 = 4 Ω, R 3 = R 4 = 32 Ω, R 5 = 15 Ω, and R 6 = 5 Ω, what is the total resistance in the setup shown below?",
+      "options": {
+        "A": "0.15 Ω",
+        "B": "6.67 Ω",
+        "C": "16.7 Ω",
+        "D": "60 Ω"
+      },
+      "correct_answer": "B",
+      "explanation": "The fastest way to tackle these kinds of questions is to simplify the circuit bit by bit. For example, notice that R3 and R4 are in parallel with each other and are in series with R2; similarly, R5 and R6 are in series. If we determine the total resistance in each branch, we will be left with three branches in parallel. To start, find the total resistance in the middle branch: 1R3 + 4=1R3+1R4=132Ω+132Ω→R3 + 4=16ΩR2 + 3 + 4=R2+R3 + 4=4Ω+16Ω=20Ω Next, take a look at the total resistance in the bottom branch: R5+6 = R5 + R6 = 15 Ω + 5 Ω = 20 Ω The circuit can now be viewed as three resistors in parallel, each providing a resistance of 20 Ω. The total resistance in the circuit is thus 1Rtot=1R1+1R2 + 3 + 4+1R5 + 6=120 Ω+120 Ω+120 Ω→203 Ω=6.67 Ω"
+    },
+    {
+      "id": "ch6_q7",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 7,
+      "question_text": "How many moles of electrons pass through a circuit containing a 100 V battery and a 2 Ω resistor over a period of 10 seconds? (Note: F=9.65×104Cmol e−. )",
+      "options": {
+        "A": "5.18 × 10–3 moles",
+        "B": "500 moles",
+        "C": "5.18 × 103 moles",
+        "D": "5.2 × 106 moles"
+      },
+      "correct_answer": "A",
+      "explanation": "To determine the moles of charge that pass through the circuit over a period of 10 s, we will have to calculate the amount of charge running through the circuit. Charge is simply current multiplied by time, and the current can be calculated using Ohm’s law: V=IRandI=QΔt→Q=VΔtRQ=(100 V)(10 s)2 Ω=500 C Then, calculate the number of moles of charge that this represents by using the Faraday constant and approximating F as 105Cmol e−: (500 C) [mol e−105 C]=5×10−3 mol e− This is closest to (A)."
+    },
+    {
+      "id": "ch6_q8",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 8,
+      "question_text": "In the circuit below, what is the voltage drop across the 23 Ω resistor?",
+      "options": {
+        "A": "12 V",
+        "B": "23 V",
+        "C": "5 V",
+        "D": "7.5 V"
+      },
+      "correct_answer": "C",
+      "explanation": "To determine the voltage drop across the 23Ω resistor, start by calculating the total resistance in the circuit. For the resistors in parallel, the equivalent resistance is 1Rp = 12 Ω+32 Ω→Rp =12Ω The total resistance in the circuit is the sum of the remaining resistor and the equivalent resistance of the other two: Rs = 12Ω+12Ω = 1 Ω Now that we know the equivalent resistance, we can calculate the total current using Ohm’s law: I=VR=10 V1 Ω=10 A Finally, we can determine the voltage drop across the parallel resistors. The voltage drop across the 12Ω resistor must be (10 A)(12 Ω)=5 V. Therefore, there must be a 5 V drop across both the 23 Ω resistor and 2 Ω resistor, according to Kirchhoff’s loop rule. Each of these resistors forms a complete loop in combination with the 12 Ω resistor and 10 V voltage source, and the net potential difference around any closed loop must be 0 V."
+    },
+    {
+      "id": "ch6_q9",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 9,
+      "question_text": "If the area of a capacitor’s plates is doubled while the distance between them is halved, how will the final capacitance ( C f ) compare to the original capacitance ( C i )?",
+      "options": {
+        "A": "Cf = Ci",
+        "B": "Cf=12Ci",
+        "C": "Cf = 2Ci",
+        "D": "Cf = 4Ci"
+      },
+      "correct_answer": "D",
+      "explanation": "This question should bring to mind the equation C=ε0(Ad), where ε0 is the permittivity of free space, A is the area of the plates, and d is the distance between the plates. From this equation, we can infer that doubling the area will double the capacitance, and halving the distance will also double the capacitance. Therefore, the new capacitance is four times larger than the initial capacitance."
+    },
+    {
+      "id": "ch6_q10",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 10,
+      "question_text": "The energy stored in a fully charged capacitor is given by U=12 CV2 . In a typical cardiac defibrillator, a capacitor charged to 7500 V has a stored energy of 400 J. Based on this information, what is the charge on the capacitor in the cardiac defibrillator?",
+      "options": {
+        "A": "1.1 × 10−5 C",
+        "B": "5 × 10−2 C",
+        "C": "1.1 × 10−1 C",
+        "D": "3.1 × 106 C"
+      },
+      "correct_answer": "C",
+      "explanation": "Because the question is asking us to calculate the charge on the capacitor, use the formula Q = CV. We are given V = 7500 V and can calculate C from the formula for energy, U=12 CV2: U=12 CV2=12(QV)V2=QV2Q=2 UV=2(400 J)7500 V≈8008000=0.1 C Thus, the charge is close to 0.1 C, which is closest to (C)."
+    },
+    {
+      "id": "ch6_q11",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 11,
+      "question_text": "A 10 Ω resistor carries a current that varies as a function of time as shown. How much energy has been dissipated by the resistor after 5 s?",
+      "options": {
+        "A": "40 J",
+        "B": "50 J",
+        "C": "120 J",
+        "D": "160 J"
+      },
+      "correct_answer": "C",
+      "explanation": "Power is energy dissipated per unit time; therefore, the energy dissipated is E = PΔt. In the five-second interval during which the resistor is active, it has a 2 A current for three of those seconds. The power dissipated by a resistor R carrying a current I is P = I2R. Therefore, the energy dissipated is E = I2RΔt = (2 A)2(10 Ω)(3 s) = 4 × 10 × 3 = 120 J"
+    },
+    {
+      "id": "ch6_q12",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 12,
+      "question_text": "In the figure below, six currents meet at point P . What is the magnitude and direction of the current between points P and x ?",
+      "options": {
+        "A": "2 A, toward x",
+        "B": "2 A, toward P",
+        "C": "10 A, toward x",
+        "D": "10 A, toward P"
+      },
+      "correct_answer": "A",
+      "explanation": "Kirchhoff’s junction rule states that the sum of all currents directed into a point is always equal to the sum of all currents directed out of the point. The currents directed into point P are 8 A, 2 A, and 3 A, so the sum is 13 A. The currents directed out of point P are 5 A and 6 A, so the total is 11 A. Because the two numbers must always be equal, an additional current of 2 A must be directed away from point P toward point x."
+    },
+    {
+      "id": "ch6_q13",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 13,
+      "question_text": "Which of the following will most likely increase the electric field between the plates of a parallel plate capacitor?",
+      "options": {
+        "A": "Adding a resistor that is connected to the capacitor in series",
+        "B": "Adding a resistor that is connected to the capacitor in parallel",
+        "C": "Increasing the distance between the plates",
+        "D": "Adding an extra battery to the system"
+      },
+      "correct_answer": "D",
+      "explanation": "The electric field between two plates of a parallel plate capacitor is related to the potential difference between the plates of the capacitor and the distance between the plates, as shown in the formula E=Vd. The addition of another battery will increase the total voltage applied to the circuit, which, consequently, will increase the electric field. The addition of a resistor in series will increase the resistance and decrease the voltage applied to the capacitor, eliminating (A). Adding a resistor in parallel will not change the voltage drop across the capacitor and should not change the electric field, eliminating (B). Increasing the distance between the plates, (C), would decrease the electric field, not increase it."
+    },
+    {
+      "id": "ch6_q14",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 14,
+      "question_text": "Each of the resistors shown carries an individual resistance of 4 Ω. Assuming negligible resistance in the wire, what is the overall resistance of the circuit?",
+      "options": {
+        "A": "16 Ω",
+        "B": "8 Ω",
+        "C": "4 Ω",
+        "D": "3 Ω"
+      },
+      "correct_answer": "D",
+      "explanation": "The resistance of the three resistors wired in series is equal to the sum of the individual resistances (12 Ω). This means that the circuit functionally contains a 12 Ω resistor and a 4 Ω resistor in parallel. To determine the overall resistance of this system, use the formula 1Rp=1R1+1R2=112 Ω+14 Ω=1 + 312 Ω→Rp=3 Ω"
+    },
+    {
+      "id": "ch6_q15",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 15,
+      "question_text": "Which of the following best characterizes ideal voltmeters and ammeters?",
+      "options": {
+        "A": "Ideal voltmeters and ammeters have infinite resistance.",
+        "B": "Ideal voltmeters and ammeters have no resistance.",
+        "C": "Ideal voltmeters have infinite resistance, and ideal ammeters have no resistance.",
+        "D": "Ideal voltmeters have no resistance, and ideal ammeters have infinite resistance."
+      },
+      "correct_answer": "C",
+      "explanation": "While this is primarily a recall question, it should also be intuitive. Voltmeters are attempting to determine a change in potential from one point to another. To do this, they should not provide an alternate route for charge flow and should therefore have infinite resistance. Ammeters attempt to determine the flow of charge at a single point and should not contribute to the resistance of a series circuit; therefore, they should have no resistance."
+    },
+    {
+      "id": "ch7_q1",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 1,
+      "question_text": "An opera singer has two precisely identical glasses. The singer produces as pure a tone as possible and shatters the first glass at a frequency of 808 Hz. The singer then sings a frequency of 838 Hz in the presence of the second glass. The second glass will likely:",
+      "options": {
+        "A": "shatter after a longer amount of time because the applied frequency is higher.",
+        "B": "shatter after a shorter amount of time because the applied frequency is higher.",
+        "C": "not shatter because the applied frequency is not equal to the natural frequency of the glass.",
+        "D": "not shatter because higher-frequency sounds are associated with more attenuation."
+      },
+      "correct_answer": "C",
+      "explanation": "If these two glasses are perfectly identical, then the fact that the first glass shattered at 808 Hz tells us that this is very close (if not identical) to the natural (resonant) frequency of the glass. If the singer produces a frequency that is not equal (or very close) to the natural frequency, then the applied frequency will not cause the glass to resonate, and there will not be the increase in wave amplitude associated with resonating objects. Attenuation will increase with increased frequency because there is more motion over which nonconservative forces can damp the sound wave; however, even if sound level was matched to that which shattered the first glass when accounting for attenuation, the glass would still not shatter for the reasons described above, eliminating (D)."
+    },
+    {
+      "id": "ch7_q2",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 2,
+      "question_text": "A child is practicing the first overtone on a flute. If the child’s sibling covers one end of the flute for a brief second, how will the sound change, assuming that the new pitch represents the first overtone in the new setup?",
+      "options": {
+        "A": "The pitch of the sound will go up.",
+        "B": "The pitch of the sound will go down.",
+        "C": "The pitch of the sound will not change.",
+        "D": "The change in the pitch depends on the starting pitch."
+      },
+      "correct_answer": "B",
+      "explanation": "This question is testing our understanding of pipes open at one or both ends. To begin, remember that high-frequency sounds have a high pitch and low-frequency sounds have a low pitch. The pipe in this example begins as one that is open on both ends, and then one end is closed off. Our task, therefore, is to determine how the frequency of the second harmonic differs between a pipe that is open at both ends from one of equal length that is open at only one end. For a pipe of length L open at both ends, the wavelength for the second harmonic (first overtone) is equal to L: λ=2Ln=2L2=L In contrast, for a pipe open at one end and closed at the other, the wavelength is equal to 4L3: Keep in mind that the first overtone for a closed pipe corresponds to the third harmonic, not the second. Thus, when the sibling covers one end of the flute, the wavelength increases. Given that the wavelength and the frequency of a sound are inversely proportional, an increase in wavelength corresponds to a decrease in frequency. Therefore, when the sibling covers one end of the flute, the sound produced by the instrument will be slightly lower in pitch than the original sound."
+    },
+    {
+      "id": "ch7_q3",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 3,
+      "question_text": "Which of the following is necessarily true regarding frequency, angular frequency, and period of a given wave?",
+      "options": {
+        "A": "The magnitude of the angular frequency is larger than the magnitude of the period.",
+        "B": "The product of the frequency and period is equal to the angular frequency.",
+        "C": "The magnitude of the angular frequency is larger than the magnitude of the frequency.",
+        "D": "The product of the angular frequency and period is 1."
+      },
+      "correct_answer": "C",
+      "explanation": "The angular frequency is related to the frequency through the equation ω = 2πf. Therefore, the magnitude of the angular frequency will always be larger than the magnitude of the frequency. The magnitude of the angular frequency may or may not be larger than the magnitude of period; these variables are inversely proportional, eliminating (A). The product of the frequency and the period is always 1 because these two are inverses of each other, eliminating (B). Finally, the product of the angular frequency and period will always be 2π because ω=2πf=2πT, eliminating (D)."
+    },
+    {
+      "id": "ch7_q4",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 4,
+      "question_text": "Ultrasound machines calculate distance based upon:",
+      "options": {
+        "A": "intensity of the reflected sound.",
+        "B": "travel time of the reflected sound.",
+        "C": "angle of incidence of the sound.",
+        "D": "the detected frequency of the sound."
+      },
+      "correct_answer": "B",
+      "explanation": "Although intensity, (A), could be used to measure distance, time of travel is an easier indication and most commonly used by ultrasound machines. Apparent frequency, (D), is only used in Doppler ultrasound, but is not used to calculate distance. Angle of incidence, (C), can be used to position various structures on the screen of an ultrasound, but is not used to calculate distance."
+    },
+    {
+      "id": "ch7_q5",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 5,
+      "question_text": "The period for a certain wave is 34 ms. If there is a Doppler shift that doubles the perceived frequency, which of the following must be true?\nI. The detector is moving toward the source at a velocity equal to the speed of sound.\nII. The source is moving toward the detector at a velocity equal to half the speed of sound.\nIII. The perceived period is 17 ms.\nIV. The perceived period is 68 ms.",
+      "options": {
+        "A": "III only",
+        "B": "I and IV only",
+        "C": "II and III only",
+        "D": "I, II, and IV only"
+      },
+      "correct_answer": "A",
+      "explanation": "Period is inversely related to frequency. Because the perceived frequency is doubled, the perceived period must be halved, from 34 ms to 17 ms. While either condition I or II would cause a doubling of the perceived frequency, neither condition must necessarily be true because the opposite could be true instead."
+    },
+    {
+      "id": "ch7_q6",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 6,
+      "question_text": "If the speed of a wave is 3ms and its wavelength is 10 cm, what is its period?",
+      "options": {
+        "A": "0.01 s",
+        "B": "0.03 s",
+        "C": "0.1 s",
+        "D": "0.3 s"
+      },
+      "correct_answer": "B",
+      "explanation": "This question is testing our understanding of traveling waves. We know that frequency and wavelength are related through the equation ν = fλ. Frequency and period are inverses of each other, so this equation could be rearranged to solve for period: v=(1T)λ→T=λv=(0.1 m)(3 ms)=0.03 s"
+    },
+    {
+      "id": "ch7_q7",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 7,
+      "question_text": "What is the angular frequency of the third harmonic in a pipe of length 1.5 m with one closed end? (Note: The speed of the sound is approximately 340ms. )",
+      "options": {
+        "A": "170 radians per second",
+        "B": "170π radians per second",
+        "C": "340 radians per second",
+        "D": "340π radians per second"
+      },
+      "correct_answer": "D",
+      "explanation": "The angular frequency is related to the frequency of a wave through the formula ω = 2πf. Thus, our initial task is to calculate the frequency of the wave. Knowing its speed, we determine the frequency of the wave by first calculating wavelength (ν = fλ). For the third harmonic of a standing wave in a pipe with one closed end, the wavelength is λ=4Ln=4 (1.5 m)3=2 m The frequency of the wave is therefore f=vλ=340 ms2m=170 Hz Finally, obtain the angular frequency by multiplying the frequency of the wave by 2π: ω = 2πf = 340π radians per second"
+    },
+    {
+      "id": "ch7_q8",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 8,
+      "question_text": "A certain sound level is increased by 20 dB. By what factor does its intensity increase?",
+      "options": {
+        "A": "2",
+        "B": "20",
+        "C": "100",
+        "D": "log 2"
+      },
+      "correct_answer": "C",
+      "explanation": "Let Ii be the intensity before the increase and If be the intensity after the increase. Using the equation that relates sound level to intensity, obtain the ratio of Ii to If: βf=βi+10 log IfIi→βf−βi=10 log IfIi20dB=10 log IfIi 2=log IfIi 100=IfIi"
+    },
+    {
+      "id": "ch7_q9",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 9,
+      "question_text": "In some forms of otosclerosis, the stapedial foot plate, which transmits vibrations from the bones of the middle ear to the fluid within the cochlea, can become fixed in position. This limits the displacement of the stapedial foot plate during vibration. Based on this mechanism, which of the following symptoms would most likely be seen in an individual with otosclerosis?",
+      "options": {
+        "A": "An increase in the perceived volume of sounds",
+        "B": "A decrease in the perceived volume of sounds",
+        "C": "An increase in the perceived pitch of sounds",
+        "D": "A decrease in the perceived pitch of sounds"
+      },
+      "correct_answer": "B",
+      "explanation": "Saying that the stapedial footplate has limited displacement during vibration is another way of stating that the amplitude of the vibration has been decreased. Because amplitude is related to intensity, and intensity is related to sound level, the perceived sound level (volume) will be decreased as well. Pitch, described in (C) and (D), is related to the frequency of a sound, not its amplitude."
+    },
+    {
+      "id": "ch7_q10",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 10,
+      "question_text": "If two waves with the same frequency are 180° out of phase, what is the amplitude of the resultant wave if the amplitudes of the original waves are 5 cm and 3 cm?",
+      "options": {
+        "A": "2 cm",
+        "B": "3 cm",
+        "C": "5 cm",
+        "D": "8 cm"
+      },
+      "correct_answer": "A",
+      "explanation": "When two waves are out of phase by 180°, the resultant amplitude is the difference between the two waves’ amplitudes. In this case, the resulting wave will have an amplitude of 5 cm – 3 cm = 2 cm."
+    },
+    {
+      "id": "ch7_q11",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 11,
+      "question_text": "A student is measuring sound frequencies from the side of a road while walking east. For which of the following situations could the student determine that the difference between the perceived frequency and the actual emitted frequency is zero?",
+      "options": {
+        "A": "A plane flying directly above the student from east to west",
+        "B": "A police car passing the student with its siren on",
+        "C": "A person playing piano in a house on the street",
+        "D": "A dog barking in a car that moves east"
+      },
+      "correct_answer": "D",
+      "explanation": "This question is testing you on your understanding of the Doppler effect. A difference of zero between the perceived and the emitted frequencies implies that the source of the sound is not moving relative to the student. If the car in (D) is moving at the same speed as the student, then the relative motion between them could be 0. In all of the other cases, the student and the sound source are necessarily moving relative to each other."
+    },
+    {
+      "id": "ch7_q12",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 12,
+      "question_text": "In which of the following media does sound travel the fastest?",
+      "options": {
+        "A": "Vacuum",
+        "B": "Air",
+        "C": "Water",
+        "D": "Glass"
+      },
+      "correct_answer": "D",
+      "explanation": "Sound is a mechanical disturbance propagated through a deformable medium; it is transmitted by the oscillation of particles parallel to the direction of the sound wave’s propagation. As such, sound needs matter to travel through, eliminating (A). The speed of propagation is fastest in solid materials, followed by liquids, and slowest in gases."
+    },
+    {
+      "id": "ch7_q13",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 13,
+      "question_text": "Shock waves have the greatest impact when the source is traveling:",
+      "options": {
+        "A": "just below the speed of sound.",
+        "B": "exactly at the speed of sound.",
+        "C": "just above the speed of sound.",
+        "D": "well above the speed of sound."
+      },
+      "correct_answer": "B",
+      "explanation": "Shock waves are the buildup of wave fronts as the distance between those wave fronts decreases. This occurs maximally when an object is traveling at exactly the same speed as the wave is traveling (the speed of sound). Once an object moves faster than the speed of sound, some of the effects of the shock wave are mitigated because all of the wave fronts will trail behind the object, destructively interfering with each other."
+    },
+    {
+      "id": "ch7_q14",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 14,
+      "question_text": "As a teacher approaches a student who is studying with the radio playing loudly nearby, the teacher experiences the Doppler effect. Which of the following statements remains true while the teacher moves closer to the student?\nI. The apparent frequency of the music is increased.\nII. The same apparent frequency would be produced if the teacher were stationary and the student approached at the same speed.\nIII. The apparent velocity of the wave is decreased.",
+      "options": {
+        "A": "I only",
+        "B": "II only",
+        "C": "I and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "A",
+      "explanation": "Here, an observer is moving closer to a stationary source. The applicable version of the Doppler effect equation is f′=f(ν+νD)v where ν is the speed of the sound. Because the numerator is greater than the denominator, f′ will be greater than f; therefore, statement I is true. The scenario described in statement II will produce a similar, but not identical, frequency for the teacher: the frequency formula would be f′=fv(v−vS). The apparent frequency will increase, but the increase will not be exactly the same as if the teacher had been moving. Statement III is false because we already know the frequency increases for the teacher—a decrease in velocity would be associated with a decrease in frequency."
+    },
+    {
+      "id": "ch7_q15",
+      "chapter": 7,
+      "chapter_title": "Waves and Sound",
+      "question_number": 15,
+      "question_text": "Ignoring attenuation, how does the intensity of a sound change as the distance from the source doubles?",
+      "options": {
+        "A": "It is four times as intense.",
+        "B": "It is twice as intense.",
+        "C": "It is half as intense.",
+        "D": "It is one-quarter as intense."
+      },
+      "correct_answer": "D",
+      "explanation": "Intensity is equal to power divided by area. In this case, area refers to the surface area of concentric spheres emanating out from the source of the sound. This surface area is given by 4πr2, so as distance (r) doubles, the intensity will decrease by a factor of four."
+    },
+    {
+      "id": "ch8_q1",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 1,
+      "question_text": "If a light ray has a frequency of 5.0 × 10 14 Hz, in which region of the electromagnetic spectrum is it located?",
+      "options": {
+        "A": "X-ray",
+        "B": "UV",
+        "C": "Visible",
+        "D": "Infrared"
+      },
+      "correct_answer": "C",
+      "explanation": "It is unnecessary to memorize the entire electromagnetic spectrum for Test Day; however, it is important to know that the visible spectrum runs from 400–700 nm. We can calculate the wavelength of this light ray: c=fλλ=cf=3×108ms5×1014 Hz=6×10−7 m=600 nm This wavelength falls within the visible spectrum and has a yellow-orange color."
+    },
+    {
+      "id": "ch8_q2",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 2,
+      "question_text": "During the fall, the leaves of some trees change in color from green to red because chlorophyll breaks down, leaving the secondary anthocyanin pigments. Which of the following best describes the light reflected by anthocyanin?",
+      "options": {
+        "A": "Has a wavelength of 700 m",
+        "B": "Has a wavelength of 580 nm",
+        "C": "Has a frequency of 4.2 × 106 Hz",
+        "D": "Has a frequency of 4.2 × 1013 Hz"
+      },
+      "correct_answer": "D",
+      "explanation": "The color of an object is determined by the wavelength of light reflected by that object. Since anthocyanin pigment appears red, it must reflect red light. The frequency of light can be calculated using the equation c = fλ. Red light has a wavelength of 700 nm, which can be converted to 700 × 10-9 m. Plugging in values yields: f = (3 × 108) / (700 × 10-9) = 4.2 × 1013 Hz, matching (D). Note that a close eye for units would enable the immediate elimination of (A)."
+    },
+    {
+      "id": "ch8_q3",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 3,
+      "question_text": "An object is placed at the center of curvature of a concave mirror. Which of the following is true about the image?",
+      "options": {
+        "A": "It is real and inverted.",
+        "B": "It is virtual and inverted.",
+        "C": "It is real and upright.",
+        "D": "It is virtual and upright."
+      },
+      "correct_answer": "A",
+      "explanation": "One could solve this question with a ray diagram, but be wary about using ray diagrams on Test Day. It is easy to make small mistakes that cause the light rays not to intersect. Therefore, solve the question using the sign convention. If the object is at the center of curvature, its distance is 2f. We can plug into the optics equation: 1f=1o+1i→1i=1f−1o=1f−12f=12f i=2f=r Because i is positive, the image is real. For single mirrors or lenses, all real images are inverted."
+    },
+    {
+      "id": "ch8_q4",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 4,
+      "question_text": "In a double slit experiment, what wavelength of light must be used for the second dark fringe to be at an angle of 30° given that the distance between the two slits is 0.3 mm?",
+      "options": {
+        "A": "1 × 10–5 m",
+        "B": "6 × 10–5 m",
+        "C": "3.6 × 10–2 m",
+        "D": "6 × 10–2 m"
+      },
+      "correct_answer": "B",
+      "explanation": "To calculate the wavelength, use the formula: d sin(θ) = (n + 1/2)λ. Rearrange the formula to solve for wavelength: λ = d sin (θ) / (n + 1/2). Since the distance is given in millimeters, first convert to meters; d = 3 × 10–4 m. Since the question asks for the second dark fringe, we have n = 2. Plugging in the given values yields: λ = (3 × 10–4)sin (30o) / (2 + 1/2) = 6 × 10–5 m, matching choice (B)."
+    },
+    {
+      "id": "ch8_q5",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 5,
+      "question_text": "A ray of light ( f = 5 × 10 14 Hz) travels from air into crystal into chromium. If the indices of refraction of air, crystal, and chromium are 1, 2, and 3, respectively, and the incident angle is 30°, then which of the following describes the frequency and the angle of refraction in the chromium?",
+      "options": {
+        "A": "5 × 1014 Hz; 9.6°",
+        "B": "5 × 1014 Hz; 57°",
+        "C": "1.0 × 1010 Hz; 9.6°",
+        "D": "1.0 × 1010 Hz; 57°"
+      },
+      "correct_answer": "A",
+      "explanation": "This question contains two parts—we have to determine the frequency and the angle of refraction of the light ray. The first part, however, is straightforward because the frequency of a light ray traveling from one medium to another does not change. Because the frequency must be 5 × 1014 Hz, we can eliminate (C) and (D). For the angle of refraction, we can either calculate it or determine it using logic. First, the light ray goes from air into crystal; that is, from a low index of refraction to a higher one. According to Snell’s law, the angle of refraction will be smaller than the incident angle (closer to the normal). When the light ray moves from crystal to chromium, it again goes from a lower index of refraction into a higher one, thus making the angle of refraction even smaller, eliminating (B). This question could also be answered by calculation using Snell’s law, but the calculations are time consuming and unnecessary."
+    },
+    {
+      "id": "ch8_q6",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 6,
+      "question_text": "A source of light ( f = 6.0 × 10 14 Hz) passes through three plane polarizers. The first two polarizers are in the same direction, while the third is rotated 90° with respect to the second polarizer. What is the frequency of the light that comes out of the third polarizer?",
+      "options": {
+        "A": "3.0 × 1014 Hz",
+        "B": "6.0 × 1014 Hz",
+        "C": "9.0 × 1014 Hz",
+        "D": "Light will not pass through the third polarizer"
+      },
+      "correct_answer": "D",
+      "explanation": "Plane-polarized light is light in which the electric fields of all the waves are oriented in the same direction. Light passing through the first two polarizers will only contain rays with their electric field vectors in the same direction. When it reaches the third polarizer, however, the light will not be able to pass through because all the light rays will be oriented in the direction dictated by the first and second polarizers."
+    },
+    {
+      "id": "ch8_q7",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 7,
+      "question_text": "As part of an organic chemistry lab, a student must determine the specific rotation of a chiral product. The student uses a plane polarizer, but accidentally inserts a second polarizer at a 90° angle to the first. What is true of the resulting light if it passes through both polarizers?",
+      "options": {
+        "A": "It is circularly polarized.",
+        "B": "It is twice as plane polarized.",
+        "C": "There is no light.",
+        "D": "It is the same as when passed through a single polarizer."
+      },
+      "correct_answer": "C",
+      "explanation": "Plane polarizers only allow one specific orientation of the electric field of light to pass through. When plane polarizers are perpendicular to each other, no light can pass through the second polarizer, which supports (C) as the correct answer. Note that if two polarizers are aligned, all of the light that passes through the first will also pass through the second; there is no \"twice as plane polarized,\" eliminating (B)."
+    },
+    {
+      "id": "ch8_q8",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 8,
+      "question_text": "Which of the following describes the image formed by an object placed in front of a convex lens at a distance smaller than the focal length?",
+      "options": {
+        "A": "Virtual and inverted",
+        "B": "Virtual and upright",
+        "C": "Real and upright",
+        "D": "Real and inverted"
+      },
+      "correct_answer": "B",
+      "explanation": "The image produced by a convex lens can be either real or virtual. It is real if the object is placed at a distance greater than the focal point, and virtual if the object is placed at a distance less than the focal point (between the focal point and the lens). Remember that for a single mirror or lens, an image that is real must be inverted and one that is virtual must be upright. In this question, the object is placed in front of the focal point, so the image must be virtual and, therefore, upright. We could also determine this from the optics equation. If f > o, then 1f−1o is negative, and i is therefore negative (virtual)."
+    },
+    {
+      "id": "ch8_q9",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 9,
+      "question_text": "A submarine is inspecting the surface of the water with a laser that points from the submarine to the surface of the water and through the air. At what angle will the laser not penetrate the surface of the water but rather reflect entirely back into the water? (Assume n water = 1.33 and n air = 1.)",
+      "options": {
+        "A": "19°",
+        "B": "29°",
+        "C": "39°",
+        "D": "49°"
+      },
+      "correct_answer": "D",
+      "explanation": "This question is testing our understanding of total internal reflection. As the laser beam travels from water to air—that is, from a higher to a lower index of refraction—the angle of refraction increases. At the critical angle (θc), the angle of refraction becomes 90°; at this point, the refracted ray is parallel to the surface of the water. When the incident angle is greater than the critical angle, all the light is reflected back into the water. The question is asking for the critical angle: θc=sin−1n2n1=sin−111.33=sin−10.75 The inverse sine of 0.75 must be slightly higher than 45°(sin45°=22=0.707). 48.59° is the exact answer."
+    },
+    {
+      "id": "ch8_q10",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 10,
+      "question_text": "A student is analyzing the behavior of a light ray that is passed through a small opening and a lens and allowed to project on a screen a distance away. What happens to the central maximum (the brightest spot on the screen) when the slit becomes narrower?",
+      "options": {
+        "A": "The central maximum remains the same.",
+        "B": "The central maximum becomes narrower.",
+        "C": "The central maximum becomes wider.",
+        "D": "The central maximum divides into smaller light fringes."
+      },
+      "correct_answer": "C",
+      "explanation": "This question is testing our understanding of diffraction. When light passes through a narrow opening, the light waves spread out; as the slit narrows, the light waves spread out even more. When a lens is placed between the narrow slit and the screen, a pattern consisting of alternating bright and dark fringes can be observed on the screen. As the slit becomes narrower, the central maximum (the brightest and most central fringe) becomes wider. This can also be seen in the equation for the position of dark fringes in a slit–lens setup (a sin θ = nλ). As a, the width of the slit, decreases, sin θ must increase because nλ is constant for a given fringe. If sin θ increases, θ necessarily increases, implying that the fringes are spreading farther apart."
+    },
+    {
+      "id": "ch8_q11",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 11,
+      "question_text": "Which of the following are able to produce a virtual image?\nI. Convex lens\nII. Concave lens\nIII. Plane mirror",
+      "options": {
+        "A": "I only",
+        "B": "III only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "D",
+      "explanation": "All images produced by plane mirrors will be virtual, so statement III is true. The same goes for diverging species (convex mirrors and concave lenses), so statement II is true. Converging species (concave mirrors and convex lenses) can produce real or virtual images, depending on how far the object is from the species, so statement I is also true."
+    },
+    {
+      "id": "ch8_q12",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 12,
+      "question_text": "Monochromatic red light is allowed to pass between two different media. If the incident angle in medium 1 is 30° and the incident angle in medium 2 is 45°, what is the relationship between the speed of the light in medium 2 compared to that in medium 1?",
+      "options": {
+        "A": "ν2=ν12",
+        "B": "ν22=ν1",
+        "C": "ν2=ν13",
+        "D": "ν23=ν1"
+      },
+      "correct_answer": "A",
+      "explanation": "First, the color of the light is irrelevant here; the ratio would be the same even if the specific color were not mentioned. Second, recall Snell’s Law: n1 sin θ1 = n2 sin θ2. Although we don’t know the value of n for either medium, you do know the simple relationship n=cv. Replacing n in Snell’s law, and canceling out c from both sides, we get: cv1 sin θ1=cv2 sin θ2 sin30°v1=sin45°v2 12v1=22v2 v2=v12"
+    },
+    {
+      "id": "ch8_q13",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 13,
+      "question_text": "A scientist looks through a microscope with two thin lenses with m 1 = 10 and m 2 = 40. What is the overall magnification of this microscope?",
+      "options": {
+        "A": "0.25",
+        "B": "30",
+        "C": "50",
+        "D": "400"
+      },
+      "correct_answer": "D",
+      "explanation": "The overall magnification of a system of multiple lenses is simply the product of each lens’s magnification. In this case, that is 10 × 40 = 400."
+    },
+    {
+      "id": "ch8_q14",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 14,
+      "question_text": "Imagine that a beam of monochromatic light originates in air and is allowed to shine upon the flat surface of a piece of glass at an angle of 60° with the normal. The reflected and refracted beams are perpendicular to each other. What is the index of refraction of the glass?",
+      "options": {
+        "A": "33",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correct_answer": "D",
+      "explanation": "Drawing a diagram is best here. Because the angle given is with respect to the normal, you know that the incident angle must equal 60°. You know that the reflected beam will have an angle of 60° relative to the normal. Therefore, the reflected beam will make an angle of 30° with the plane of the glass. If the reflected and refracted beams are perpendicular to each other, the refracted beam will make a 60° angle with the plane of the glass. θrefracted is therefore 30° relative to the normal. Using n1 sin θ1 = n2 sin θ2, we have 1 sin 60°=n2 sin 30° 32=n2(12) 3=n2"
+    },
+    {
+      "id": "ch8_q15",
+      "chapter": 8,
+      "chapter_title": "Light and Optics",
+      "question_number": 15,
+      "question_text": "Which of the following will not result in the splitting of white light into its component colors?",
+      "options": {
+        "A": "Dispersion through a prism",
+        "B": "Diffraction through a grating",
+        "C": "Refraction within a thin film",
+        "D": "Reflection from an ideal convex mirror"
+      },
+      "correct_answer": "D",
+      "explanation": "Light can be split into its component colors by dispersion, such as that through a prism, eliminating (A). Diffraction by a diffraction grating will also separate colors by their wavelengths, eliminating (B). The refraction of light within a thin film also leads to light dispersion as the different colors are refracted at slightly different angles in the film, eliminating (C). A mirror with significant aberration could lead to a separation of light into its component colors, but we are told that this is an ideal mirror. Thus, (D) is the correct answer."
+    },
+    {
+      "id": "ch9_q1",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 1,
+      "question_text": "If the work function of a metal is 6.622 × 10 –20 J and a ray of electromagnetic radiation with a frequency of 1.0 × 10 14 Hz is incident on the metal, what will be the speed of the electrons ejected from the metal? (Note: h = 6.626 × 10 −34 J · s and m e− = 9.1 × 10 −31 kg)",
+      "options": {
+        "A": "2.62×10−6ms",
+        "B": "1.07×10−4ms",
+        "C": "9.38×103ms",
+        "D": "3.81×105ms"
+      },
+      "correct_answer": "C",
+      "explanation": "To determine the speed of the electrons ejected, we must first calculate their kinetic energy: K=hf−W=(6.626×10−34 J⋅s)(1.0×1014 Hz)−6.622 × 10-20J =(6.626−6.622)×10-20=0.004 × 10-20= 4 × 10-23J Now with a value for kinetic energy, we can calculate the speed of the ejected electrons: K=12mv2→v=2 Km=2(4×10−23J)9.1×10−31kg≈8×10−239×10−31≈108=104 ms Notice the wide range in the exponents for the answer choices. While the math in this question may seem complex, this allows us to round significantly."
+    },
+    {
+      "id": "ch9_q2",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 2,
+      "question_text": "What is the wavelength of a photon that causes an electron to be emitted from a metal with a kinetic energy of 50 J? (Note: The work function of the metal is 16 J, and h = 6.626 × 10 −34 J · s)",
+      "options": {
+        "A": "1.0 × 10−34 m",
+        "B": "3.0 × 10−27 m",
+        "C": "3.0 × 10−26 m",
+        "D": "1.0 × 1035 m"
+      },
+      "correct_answer": "B",
+      "explanation": "To determine the wavelength of the light ray, first calculate its frequency from the photoelectric effect equation: K=hf−W→f=K+Wh=50J+16J6.626×10−34 J⋅s≈6.6×1016.6×10−34=1035 Hz In this case, estimation of Planck’s constant makes our calculation much simpler without leading us to a nonviable answer. It is worth attempting an estimation first to avoid doing more work than necessary. Now we can determine the wavelength of the incident ray of light by relating the frequency to the speed of light: c=fλ→λ=cf=3.00×108 ms1035 Hz=3×10−27 m"
+    },
+    {
+      "id": "ch9_q3",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 3,
+      "question_text": "Which of the following statements is inconsistent with the Bohr model of the atom?",
+      "options": {
+        "A": "Energy levels of the electron are stable and discrete.",
+        "B": "An electron emits or absorbs radiation only when making a transition from one energy level to another.",
+        "C": "To jump from a lower energy to a higher energy orbit, an electron must absorb a photon of precisely the right frequency such that the photon’s energy equals the energy difference between the two orbits.",
+        "D": "To jump from a higher energy to a lower energy orbit, an electron absorbs a photon of a frequency such that the photon’s energy is exactly the energy difference between the two orbits."
+      },
+      "correct_answer": "D",
+      "explanation": "The Bohr model is based on a set of postulates originally put forward to discuss the behavior of electrons in hydrogen. In summary, these postulates state that the energy levels of the electron are stable and discrete, and they correspond to specific orbits, eliminating (A). They also state that an electron emits or absorbs radiation only when making a transition from one energy level to another, eliminating (B). Specifically, when an electron jumps from a lower-energy orbit to a higher-energy one, it must absorb a photon of light of precisely the right frequency such that the photon’s energy equals the energy difference between the two orbits, eliminating (C). When falling from a higher-energy orbit to a lower-energy one, an electron emits a photon of light with a frequency that corresponds to the energy difference between the two orbits, This is the opposite of (D), which makes it the right answer."
+    },
+    {
+      "id": "ch9_q4",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 4,
+      "question_text": "When a hydrogen atom electron falls to the ground state from the n = 2 state, 10.2 eV of energy is emitted. What is the wavelength of this radiation? (Note: 1 eV = 1.60 × 10 −19 J, and h = 6.626 × 10 −34 J · s)",
+      "options": {
+        "A": "5.76 × 10−9 m",
+        "B": "1.22 × 10−7 m",
+        "C": "3.45 × 10−7 m",
+        "D": "2.5 × 1015 m"
+      },
+      "correct_answer": "B",
+      "explanation": "To solve this question correctly, one must be careful with the units. First, convert 10.2 eV to joules: 10.2 eV (1.60×10−19 JeV)≈1.6×10−18 J Next, to determine the wavelength of the radiation, we can combine the formulas E = hf and c = f λ: E=hf=hcλ→λ=hcE=6.626×10−34J⋅s3.00×108 ms(1.6×10−18 J)≈(4)(3)(10-26)10-18=12×10-8=1.2×10-7 m"
+    },
+    {
+      "id": "ch9_q5",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 5,
+      "question_text": "The figure below illustrates an electron with initial energy of –10 eV moving from point A to point B. What change accompanies the movement of the electron?",
+      "options": {
+        "A": "Absorption of a photon",
+        "B": "Emission of a photon",
+        "C": "Decrease in the atom’s work function",
+        "D": "Increase in the atom’s total energy"
+      },
+      "correct_answer": "B",
+      "explanation": "The electron moves from a higher energy level to a lower energy level; this can only occur if the extra energy is dissipated through the emission of a photon. If the electron moved from B to A, it would absorb a photon and increase the atom’s total energy; however, the opposite is occurring, so (A) and (D) can be eliminated. The work function is the amount of energy required to eject an electron from a material; when moving from A to B, the electrical potential energy of the atom decreases, meaning that more energy will be required to free the electron from the atom, eliminating (C)."
+    },
+    {
+      "id": "ch9_q6",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 6,
+      "question_text": "Which of the following four fundamental forces is primarily responsible for holding the nucleons together?",
+      "options": {
+        "A": "Binding energy",
+        "B": "Strong nuclear force",
+        "C": "Electrostatic force",
+        "D": "Gravitational force"
+      },
+      "correct_answer": "B",
+      "explanation": "The strong nuclear force is the attractive force that holds protons and neutrons together in the nucleus, supporting choice (B). This force is greater than the electrostatic repulsion between protons. Note that binding energy, (A), is not one of the four fundamental forces."
+    },
+    {
+      "id": "ch9_q7",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 7,
+      "question_text": "All of the following statements about the photoelectric effect are true EXCEPT:",
+      "options": {
+        "A": "the intensity of the light beam does not affect the photocurrent.",
+        "B": "the kinetic energies of the emitted electrons do not depend on the light intensity.",
+        "C": "a weak beam of light of frequency greater than the threshold frequency yields more current than an intense beam of light of frequency lower than the threshold frequency.",
+        "D": "for light of a given frequency, the kinetic energy of emitted electrons increases as the value of the work function decreases."
+      },
+      "correct_answer": "A",
+      "explanation": "The greater the intensity, the greater the number of incident photons and, therefore, the greater the number of electrons that will be ejected from the metal surface (provided that the frequency of the light remains above the threshold). This means a larger current. Remember that the frequency of the light (assuming it is above the threshold frequency) will determine the kinetic energy of the ejected electrons; the intensity of the light determines the number of electrons ejected per time (the current)."
+    },
+    {
+      "id": "ch9_q8",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 8,
+      "question_text": "What is the binding energy of the argon-40 isotope in MeV? (Note: m proton = 1.0073 amu, m neutron = 1.0087 amu, m Ar-40 nucleus = 39.9132 amu, c2=932MeVamu )",
+      "options": {
+        "A": "0.4096 MeV",
+        "B": "40.3228 MeV",
+        "C": "381.7 MeV",
+        "D": "643.8 MeV"
+      },
+      "correct_answer": "C",
+      "explanation": "To determine the binding energy, we must first determine the mass defect. The mass defect is simply the masses of each of the protons and neutrons in the unbound state added together minus the mass of the formed argon-40 nucleus (which contains 18 protons and 40 − 18 = 22 neutrons): mass defect=(18×1.0073 amu)+(22×1.0087 amu) −39.9132 amu≈(18×1.007)+(22×1.009)-39.9132=18.126+22.198−39.9132=40.324−39.9132≈0.4 (actual=0.4096 amu) This math was difficult without a calculator, but by rounding one value down (proton) and one value up (neutron) by similar amounts we ended up very near the actual value. Calculating 18 x 7 = 126 and 22 x 9 = 198 for the decimal values is more manageable than the exact numbers and the spacing of the answer choices allows for our estimation. The binding energy can then be determined from this mass defect: E=mc2=0.4096 amu×932MeVamu≈0.4×900=360 MeV The closest answer is (C)."
+    },
+    {
+      "id": "ch9_q9",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 9,
+      "question_text": "Which of the following correctly identifies the following process? G3167a+e−→Z3067n",
+      "options": {
+        "A": "β− decay",
+        "B": "β+ decay",
+        "C": "e− capture",
+        "D": "γ decay"
+      },
+      "correct_answer": "C",
+      "explanation": "This process can be described as electron capture. Certain unstable radionuclides are capable of capturing an inner electron that combines with a proton to form a neutron. The atomic number becomes one less than the original, but the mass number remains the same. Electron capture is a relatively rare process and can be thought of as the reverse of β− decay. Notice that the equation is similar to that of β+ decay but not identical because a particle is absorbed, not emitted."
+    },
+    {
+      "id": "ch9_q10",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 10,
+      "question_text": "Consider the following fission reaction. n011.0087+B51010.0129→L37i7.0160+H24e4.0026  The masses of the species involved are given in atomic mass units below each species, and 1 amu can create 932 MeV of energy. What is the energy liberated due to transformation of mass into energy during this reaction?",
+      "options": {
+        "A": "0.003 MeV",
+        "B": "1.4 MeV",
+        "C": "2.8 MeV",
+        "D": "5.6 MeV"
+      },
+      "correct_answer": "C",
+      "explanation": "This problem presents a reaction and asks for the energy liberated due to the transformation of mass into energy. To convert mass into energy, we are told that 1 amu can be converted into 932 MeV of energy. All we need to do now is calculate how much mass, in amu, is converted in the reaction. Because we are given the atomic mass for each of the elements in the reaction, this is simply a matter of balancing the equation: mass defect=(1.0087 amu+10.0129 amu) –(7.0160 amu+4.0026 amu)=11.0216−11.0186=0.0030 amu Given both the small magnitude of this value and the small difference of the answer choices, it is best to not round at this point of the calculation. This is the amount of mass that has been converted into energy. To obtain energy from mass, we have to multiply by the conversion factor (1 amu = 932 MeV): E = 0.003 × 932 ≈ 0.003 × 900 = 2.7 MeV At this point we were able to round for an easier calculation that keeps us very near the correct answer choice."
+    },
+    {
+      "id": "ch9_q11",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 11,
+      "question_text": "Element X is radioactive and decays via α decay with a half-life of four days. If 12.5 percent of an original sample of element X remains after n days, what is the value of n ?",
+      "options": {
+        "A": "4",
+        "B": "8",
+        "C": "12",
+        "D": "16"
+      },
+      "correct_answer": "C",
+      "explanation": "Because the half-life of element X is four days, 50% of an original sample remains after four days, 25% remains after eight days, and 12.5% remains after 12 days. Therefore, n = 12 days. Another approach is to set (12)x=0.125, where x is the number of half-lives that have elapsed. Solving for x gives x = 3. Thus, 3 half-lives have elapsed, and because each half-life is four days, we know that n = 12 days."
+    },
+    {
+      "id": "ch9_q12",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 12,
+      "question_text": "A graph of an exponential decay process is created. The y -axis is the natural logarithm of the ratio of the number of intact nuclei at a given time to the number of intact nuclei at time t = 0. The x -axis is time. What does the slope of such a graph represent?",
+      "options": {
+        "A": "λ",
+        "B": "− λ",
+        "C": "e−λt",
+        "D": "nn0"
+      },
+      "correct_answer": "B",
+      "explanation": "The expression n = n0e−λt is equivalent to nn0=e−λt. Taking the natural logarithm of both sides, we get: ln(nn0)=−λt From this expression, it is clear that plotting ln(nn0) vs. t will give a straight line with a slope of −λ."
+    },
+    {
+      "id": "ch9_q13",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 13,
+      "question_text": "A certain carbon nucleus dissociates completely into α -particles. How many particles are formed?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correct_answer": "C",
+      "explanation": "A typical carbon nucleus contains 6 protons and 6 neutrons. An α-particle contains 2 protons and 2 neutrons. Therefore, one carbon nucleus can dissociate into 62=3 α-particles."
+    },
+    {
+      "id": "ch9_q14",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 14,
+      "question_text": "The half-life of carbon-14 is approximately 5,730 years, while the half-life of carbon-12 is essentially infinite. If the ratio of carbon-14 to carbon-12 in a certain sample is 25% less than the normal ratio in nature, how old is the sample?",
+      "options": {
+        "A": "Less than 5,730 years",
+        "B": "Approximately 5,730 years",
+        "C": "Significantly greater than 5,730 years, but less than 11,460 years",
+        "D": "Approximately 11,460 years"
+      },
+      "correct_answer": "A",
+      "explanation": "Because the half-life of carbon-12 is essentially infinite, a 25% decrease in the ratio of carbon-14 to carbon-12 means the same as a 25% decrease in the amount of carbon-14. If less than half of the carbon-14 has deteriorated, then less than one half-life has elapsed. Therefore, the sample is less than 5,730 years old. Be careful with the wording here—the question states that the ratio is 25% less than the ratio in nature, not 25% of the ratio in nature, which would correspond to (D)."
+    },
+    {
+      "id": "ch9_q15",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 15,
+      "question_text": "A nuclide undergoes two alpha decays, two positron decays, and two gamma decays. What is the difference between the atomic number of the parent nuclide and the atomic number of the daughter nuclide?",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "4",
+        "D": "6"
+      },
+      "correct_answer": "D",
+      "explanation": "In alpha decay, an element loses two protons. In positron decay, a proton is converted into a neutron. Gamma decay has no impact on the atomic number of the nuclide. Therefore, two alpha decays and two positron decays will yield a daughter nuclide with six fewer protons than the parent nuclide."
+    },
+    {
+      "id": "ch10_q1",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 1,
+      "question_text": "How would the number 17,060 be written in scientific notation?",
+      "options": {
+        "A": "1706 × 101",
+        "B": "1.706 × 104",
+        "C": "1.7060 × 104",
+        "D": "0.17060 × 105"
+      },
+      "correct_answer": "B",
+      "explanation": "This question, while overtly testing the ability to use scientific notation, is also checking on the appropriate use of significant digits. Because there is no decimal point, the last zero is not significant and should not be used in scientific notation. The significand in scientific notation should always be between one and ten."
+    },
+    {
+      "id": "ch10_q2",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 2,
+      "question_text": "How does the number of significant digits differ between 14,320,010 and 3.618000?",
+      "options": {
+        "A": "14,320,010 has more significant digits than 3.618000",
+        "B": "14,320,010 has fewer significant digits than 3.618000",
+        "C": "14,320,010 has the same number of significant digits as 3.618000",
+        "D": "A comparison cannot be made because the numbers are not both in scientific notation."
+      },
+      "correct_answer": "C",
+      "explanation": "Significant digits include all nonzero digits, all zeroes that are between nonzero digits, and trailing zeroes in any number with a decimal point. In 14,320,010 there is no decimal point; thus, the last zero is insignificant and there are seven significant digits. In 3.618000, all of the digits are significant; thus there are also seven significant digits."
+    },
+    {
+      "id": "ch10_q3",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 3,
+      "question_text": "Using the appropriate number of significant digits, what is the answer to the following math problem? (Note: Assume all numbers are the results of measurements.) 3.060 × 4.10 + 200 =",
+      "options": {
+        "A": "210",
+        "B": "213",
+        "C": "212.5",
+        "D": "212.55"
+      },
+      "correct_answer": "B",
+      "explanation": "While all digits are preserved during calculations, the final determination of the number of digits is made by both significant figures and decimal places. During multiplication, the answer is maintained to the smallest number of significant digits. During addition, it is maintained to the smallest number of decimal places. By following the order of operations, addition is the last operation; thus we cannot have a decimal in our answer choice. Because multiplication occurred earlier, the result of that multiplication may be shortened according to the two significant figures in 4.10, but not the entire answer."
+    },
+    {
+      "id": "ch10_q4",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 4,
+      "question_text": "Which of the following would be the most appropriate setup for estimating the value 3.6 × 4.85 for questions in which answer choices differ by a small margin?",
+      "options": {
+        "A": "3.5 × 5",
+        "B": "3.5 × 4.5",
+        "C": "4 × 4",
+        "D": "4 × 5"
+      },
+      "correct_answer": "A",
+      "explanation": "When estimating the product of two numbers, it is best to round one up while rounding the other down, as in (A). (B) and (D) each round both numbers in the same direction, which would increase the amount of error in the answer. (C) rounds the numbers in opposite directions, but the degree of rounding is significantly larger than in (A) and too extreme for answer choices that differ by small amounts."
+    },
+    {
+      "id": "ch10_q5",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 5,
+      "question_text": "The value of 200 0.25 is closest to:",
+      "options": {
+        "A": "4",
+        "B": "14",
+        "C": "50",
+        "D": "800"
+      },
+      "correct_answer": "A",
+      "explanation": "The fourth root of a number, or a number raised to the one-quarter power, is the square root of the square root of that number: 2000.25=20012×12=200=2004 The square root of 200 should be a bit larger than 14 (142 = 196); therefore, the fourth root of 200 should be a bit less than 4."
+    },
+    {
+      "id": "ch10_q6",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 6,
+      "question_text": "If A and B are real numbers, which of the following equations is INCORRECT?",
+      "options": {
+        "A": "A3 × B3 = (AB)3",
+        "B": "A5 ÷ A7 = A−2",
+        "C": "(A0.5)4 + A2 = 2A2",
+        "D": "(A3)2 = A9"
+      },
+      "correct_answer": "D",
+      "explanation": "Raising an exponent to another exponent requires multiplying the exponents. Thus, (A3)2 = A6."
+    },
+    {
+      "id": "ch10_q7",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 7,
+      "question_text": "How can the value of a natural logarithm be converted to the value of a common logarithm?",
+      "options": {
+        "A": "The natural logarithm is divided by a constant.",
+        "B": "A constant is added to or subtracted from the natural logarithm.",
+        "C": "The natural logarithm is raised to an exponent.",
+        "D": "The inverse of the natural logarithm is taken."
+      },
+      "correct_answer": "A",
+      "explanation": "The relationship between the natural logarithm of a number and the common logarithm of a number is logx=lnx2.303. Therefore, the natural logarithm of a number must be divided by the constant 2.303 to obtain the common logarithm of the same number."
+    },
+    {
+      "id": "ch10_q8",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 8,
+      "question_text": "What is the minimum value of 2 cos θ − 1?",
+      "options": {
+        "A": "−3",
+        "B": "−2",
+        "C": "−1",
+        "D": "0"
+      },
+      "correct_answer": "A",
+      "explanation": "The minimum value of the cosine function is −1 (cos 180° = −1). Therefore, the minimum value of 2 cos θ – 1 is 2 × (−1) −1 = −3."
+    },
+    {
+      "id": "ch10_q9",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 9,
+      "question_text": "Which of the following relationships is INCORRECT?",
+      "options": {
+        "A": "|sin θ × cos θ| < |sin θ| + |cos θ|",
+        "B": "sin θ ÷ cos θ = tan θ",
+        "C": "tan 90° is undefined",
+        "D": "sin θ = sin (90° − θ)"
+      },
+      "correct_answer": "D",
+      "explanation": "sin θ ≠ sin (90° − θ), although sin θ = cos (90° − θ). The other statements must all be true. Because sine and cosine values are always between −1 and 1, the product of sine and cosine will always have a magnitude less than 1. The sum of the absolute value of sine and the absolute value of cosine, on the other hand, will always be greater than 1. Therefore, (A) can be eliminated. Because sine is the ratio of opposite to hypotenuse and cosine is the ratio of adjacent to hypotenuse, the quotient between the two is the ratio of opposite to adjacent, or the tangent of the angle. Therefore, (B) can be eliminated. By the same logic, because sin 90° = 1 and cos 90° = 0, tan 90° is undefined, eliminating (C)."
+    },
+    {
+      "id": "ch10_q10",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 10,
+      "question_text": "What is the approximate pH of a solution with a p K a of 3.6, [HA] = 100 m M , and [A − ] = 0.1 M ? (Note: pH=pKa+log [A−][HA] )",
+      "options": {
+        "A": "1.6",
+        "B": "3.6",
+        "C": "5.6",
+        "D": "7.6"
+      },
+      "correct_answer": "B",
+      "explanation": "This question involves both a unit conversion between millimolar values and molar values, and calculation of a logarithm. The relationship between pH and pKa is described by the Henderson–Hasselbalch equation given in the question stem. 100 mM = 0.1 M, so pH=pKa+log[A−][HA]=3.6+log(1)=3.6"
+    },
+    {
+      "id": "ch10_q11",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 11,
+      "question_text": "At what temperature do the Fahrenheit and Celsius scales give equal values?",
+      "options": {
+        "A": "0 K",
+        "B": "233 K",
+        "C": "313 K",
+        "D": "273 K"
+      },
+      "correct_answer": "B",
+      "explanation": "This question requires not only unit conversions, but algebra as well. Given that F=95 C+32, the temperature T can be calculated as: T = 95 T + 32 →−45 T = 32 → T =−54(32) =−40 However, the answers are given in kelvin. −40°C + 273 = 233 K."
+    },
+    {
+      "id": "ch10_q12",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 12,
+      "question_text": "In a certain rigid container, pressure and temperature are directly proportional. If the pressure is changed from 540 torr to 180 torr via a temperature change, by what factor has the temperature changed?",
+      "options": {
+        "A": "360",
+        "B": "3",
+        "C": "1",
+        "D": "13"
+      },
+      "correct_answer": "D",
+      "explanation": "In a direct relationship, a change in one of the variables will be associated with a proportional change in the other. Because the pressure was multiplied by 13, the temperature must also be multiplied by 13. Note that the fractional relationships can only be used with temperatures in kelvin."
+    },
+    {
+      "id": "ch10_q13",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 13,
+      "question_text": "A 150-pound adult must be given a drug that is dosed at 1.5mg drugkg body mass. Approximately how many milligrams of the drug should be administered per dose? (Note: 1 lb = 4.45 N)",
+      "options": {
+        "A": "33 mg",
+        "B": "67 mg",
+        "C": "100 mg",
+        "D": "225 mg"
+      },
+      "correct_answer": "C",
+      "explanation": "Because grams are a unit of mass and pounds are a unit of force, we must first convert pounds to newtons, and then divide by the acceleration due to gravity to find kilograms. The weight of the person in newtons is 150 lb×4.45Nlb≈150×4.4=600+60=660 (actual = 667.5 N). This corresponds to a mass of 667.5N9.8 ms2=667.5 kg⋅ms29.8 ms2≈67kg. Now, we can determine the dose: 67kg (1.5 mg drugkg body mass)≈100 mg."
+    },
+    {
+      "id": "ch10_q14",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 14,
+      "question_text": "The rate of a reaction is calculated as a change in concentration per time. What are the units of the rate constant, k , in a reaction that is second order overall with respect to one species? (Note: A second-order reaction of this type has a rate law with the form rate = k [A] 2 , where [A] is the concentration of the species.)",
+      "options": {
+        "A": "1s",
+        "B": "Ms",
+        "C": "Lmol⋅s",
+        "D": "L2mol2⋅s"
+      },
+      "correct_answer": "C",
+      "explanation": "According to the question stem, the rate of a reaction is measured as a change in concentration over time, and thus has the units Ms, where M (molarity) is measured in moles per liter. However, the rate of the reaction is equal to a rate constant times the concentrations of certain reactants squared. In this case, we know the units of everything except the rate constant and must solve for its units: rate=k[A]2Ms=k[M]2→k=1M⋅s=Lmol⋅s"
+    },
+    {
+      "id": "ch10_q15",
+      "chapter": 10,
+      "chapter_title": "Mathematics",
+      "question_number": 15,
+      "question_text": "One group of people requires a base level of 900 Calories per day plus an additional 12 Calories per kilogram of body mass per day. A second group requires a base level of 500 Calories per day, plus 15 Calories per kilogram of body mass per day. At what mass does the first group and the second group have the same caloric needs?",
+      "options": {
+        "A": "26 kg",
+        "B": "67 kg",
+        "C": "133 kg",
+        "D": "266 kg"
+      },
+      "correct_answer": "C",
+      "explanation": "This is a system of equations couched in data. From this information, we can construct two equations: C=900+12mC=500+15m These equations can be solved by setting them equal: 900+12m=500+15m400=3m133 kg=m"
+    },
+    {
+      "id": "ch11_q1",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 1,
+      "question_text": "An experimenter is attempting to investigate the effect of a new antibiotic on E. coli . The experimenter plates cells and administers one milliliter of the antibiotic. Which of the following is an appropriate negative control in this experiment?",
+      "options": {
+        "A": "A plate with no cells that was coated with one milliliter of antibiotic",
+        "B": "A plate with E. coli and no additional treatment",
+        "C": "A plate with E. coli and one milliliter of isotonic saline",
+        "D": "A plate of epithelial cells treated with one milliliter of antibiotic"
+      },
+      "correct_answer": "C",
+      "explanation": "The purpose of a control is to keep the conditions of two experiments as close as possible to establish causality. In this case, the one milliliter volume addition might have impacted the growth of E. coli; thus, we must control for this by administering an equal volume of a theoretically inert compound to a plate of E. coli."
+    },
+    {
+      "id": "ch11_q2",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 2,
+      "question_text": "Which of the following would best establish a causal link?",
+      "options": {
+        "A": "A cross-sectional study using survey data for hand-washing and colds",
+        "B": "A case–control study of an exposure during childhood and development of a certain disease later in life",
+        "C": "A randomized clinical controlled trial of a new antipyretic drug",
+        "D": "An IQ test where the results are later separated by gender"
+      },
+      "correct_answer": "C",
+      "explanation": "An experiment will always establish a clearer causal link than an observational study. (A), (B), and (D) are all examples of observational data."
+    },
+    {
+      "id": "ch11_q3",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 3,
+      "question_text": "An experimenter is attempting to determine the internal energy of a well-known compound. The experimenter cleans the glassware, completes the synthesis, calibrates a bomb calorimeter, and then uses it to measure the appropriate thermodynamic values. One error here is that the experimenter:",
+      "options": {
+        "A": "did not determine if the compound was novel or if the information has already been determined.",
+        "B": "did not have a specific goal at the beginning of the research.",
+        "C": "should not be involved in both the synthesis of the compound and later testing.",
+        "D": "should have calibrated the calorimeter before the synthesis of the compound."
+      },
+      "correct_answer": "A",
+      "explanation": "The experimenter has not completed the initial phases of research. There was no data acquisition or refinement, and there was no indication that the question required an experiment to be answered. Were the experimenter doubtful of the validity of the reported value, an experiment could be appropriate—but there is no information to indicate that this is so. Based on the question stem, it is clear that the experimenter had a clear goal, eliminating (B). In human subjects research, tasks may be divided to facilitate blinding, but this is generally unnecessary in basic sciences research, eliminating (C). As long as the calorimeter was calibrated prior to its use, it does not matter when this calibration occurred relative to the synthesis of the compound, eliminating (D)."
+    },
+    {
+      "id": "ch11_q4",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 4,
+      "question_text": "A researcher wishes to generate a parameter for the mean weight of residents of the United States. Which of the following is the most significant concern?",
+      "options": {
+        "A": "Measuring a person’s weight may have psychological consequences and is unethical.",
+        "B": "Gathering all of the necessary study participants would be prohibitive.",
+        "C": "Knowing the average weight of US residents does not provide any useful information.",
+        "D": "Enough studies have already been conducted on this topic to render it unnecessary."
+      },
+      "correct_answer": "B",
+      "explanation": "A parameter is a population measure, so to calculate it, every single member must be measured. Identifying, measuring, and recording data for a population that large—over 300 million—is essentially impossible. Common biometric measures, if not misused, generally neither cause significant psychological harm nor are unethical, eliminating (A). Knowing a mean weight could have major ramifications, including public health measures, medical recommendations, and shifting of body image, eliminating (C). While a number of studies on weight have been performed, there is not yet a parameter describing the entire population, eliminating (D)."
+    },
+    {
+      "id": "ch11_q5",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 5,
+      "question_text": "A cross-sectional study in which current smoking status and cancer history are assessed simultaneously cannot satisfy which of Hill’s criteria?",
+      "options": {
+        "A": "Strength",
+        "B": "Coherence",
+        "C": "Plausibility",
+        "D": "Temporality"
+      },
+      "correct_answer": "D",
+      "explanation": "Because both the exposure and outcome are measured at the same time, we cannot make any conclusions about temporality. The cancer patient may have only begun smoking after diagnosis, and this type of study doesn’t examine that possibility."
+    },
+    {
+      "id": "ch11_q6",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 6,
+      "question_text": "After randomization, it is discovered that one group in a study has almost twice as many women as the other. Which of the following is an appropriate response?",
+      "options": {
+        "A": "Move men and women between groups manually so that they have the same gender profile.",
+        "B": "Check the randomization algorithm; if it is fair, continue with the research.",
+        "C": "Eliminate all of these subjects because of potential bias and randomize a new cohort.",
+        "D": "Keep the current cohort and continue randomizing subjects until the gender profiles are equal."
+      },
+      "correct_answer": "B",
+      "explanation": "Randomization is based on the idea that the results will only vary as a result of random chance as long as the assignment is proper. The appropriate response to a fair algorithm that assigns groups in an unexpected way is to proceed with the research. Participants should never be assigned by the researcher, nor should one continue randomizing samples to achieve a desired outcome—these are likely to introduce more error than leaving unequal groups, eliminating (A) and (D). It is unnecessary to drop this entire cohort, assuming the randomization algorithm was fair, eliminating (C)."
+    },
+    {
+      "id": "ch11_q7",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 7,
+      "question_text": "An experimenter is attempting to determine the effects of smoking on very low birth weight (VLBW) and of VLBW on IQ. Which of the following statements is correct?\nI. Smoking is an independent variable.\nII. Smoking is a dependent variable.\nIII. VLBW is an independent variable.\nIV. VLBW is a dependent variable.",
+      "options": {
+        "A": "I only",
+        "B": "II and IV only",
+        "C": "I, III, and IV only",
+        "D": "II, III, and IV only"
+      },
+      "correct_answer": "C",
+      "explanation": "Two relationships are being assessed. In the relationship between smoking and very low birth weight (VLBW), smoking is the independent variable and VLBW is the dependent variable. In the second relationship, VLBW is being compared to IQ. VLBW is the independent variable here, while IQ is the dependent variable."
+    },
+    {
+      "id": "ch11_q8",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 8,
+      "question_text": "A study is performed on a new medication. Subjects in the experimental group are told about the potential side effects of the medication, while subjects in the placebo group are not. The subjects have no contact with each other and do not know in which group they are placed. The side effects end up being significantly more severe in the treatment group, when seen by the same assessor physician. This is most likely caused by which of the following?",
+      "options": {
+        "A": "Physician unblinding only",
+        "B": "Patient unblinding only",
+        "C": "Both physician and patient unblinding",
+        "D": "Both physician and patient blinding"
+      },
+      "correct_answer": "A",
+      "explanation": "Because the same physician sees both the control groups and the experimental groups, there is the potential for the physician to realize which of the groups is receiving which treatment—especially if the subject mentions expected side effects. In this study, patients were not told which group they were in, but if they were assigned to the medication group, they were told about its side effects. If the patients talked to each other they could experience patient unblinding, but we are told they have no communication with each other."
+    },
+    {
+      "id": "ch11_q9",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 9,
+      "question_text": "As part of a graduate program entrance exam, a student must submit a grant proposal for a scientific investigation. While the student’s hypothesis is well formulated and the student has some preliminary data, the student’s proposal is rejected, with the committee reviewing the proposal citing several articles that support the hypothesis. What mistake did the student make in drafting the proposal?",
+      "options": {
+        "A": "The student did not formulate a testable hypothesis.",
+        "B": "The student did not spend sufficient time reviewing existing studies.",
+        "C": "The proposed study did not adequately test the hypothesis.",
+        "D": "The student did not have enough preliminary data."
+      },
+      "correct_answer": "B",
+      "explanation": "As part of the scientific method, after formulating a testable question, one must search through journals and databases to review the available information. This student likely did not spend sufficient time reviewing existing studies because the review committee was able to cite several studies that had already tested and affirmed the student’s hypothesis, meaning that the hypothesis is not scientifically interesting. This observation is consistent with (B). On the other hand, the question stem indicates that the hypothesis was well formulated and that the student had some preliminary data, which eliminates (A) and (D). There is no stated criticism of the student’s research methods, which eliminates (C)."
+    },
+    {
+      "id": "ch11_q10",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 10,
+      "question_text": "A new study of a weight loss drug uses a radio advertisement to generate study participation. What type of error is most likely to result?",
+      "options": {
+        "A": "Hawthorne effect",
+        "B": "Selection bias",
+        "C": "Confounding",
+        "D": "Detection bias"
+      },
+      "correct_answer": "B",
+      "explanation": "Requiring subjects to volunteer for a study and to seek the study out will introduce selection bias. The people who end up volunteering listen to the radio, which the general population may not, and are interested in the topic and willing to volunteer. Most studies suffer from selection bias and it is the most common impediment to generalizability."
+    },
+    {
+      "id": "ch11_q11",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 11,
+      "question_text": "A researcher designing a study has paid for it to be professionally translated into several languages. The researcher discusses the potential risks and benefits with each participant and allows them to bring documentation home for review before committing to the study. This researcher has put special focus on:",
+      "options": {
+        "A": "justice by explaining potential risks.",
+        "B": "beneficence by describing the potential benefits of the study.",
+        "C": "respect for persons by acknowledging the subject’s perspective and rights.",
+        "D": "selection bias, by making the recruitment documents inclusive."
+      },
+      "correct_answer": "C",
+      "explanation": "The behaviors described in the question stem (informing the patient, providing time to make a decision) are consistent with informed consent and autonomy, which are both part of respect for persons."
+    },
+    {
+      "id": "ch11_q12",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 12,
+      "question_text": "Which of the following methods would be most appropriate for an initial assessment of hemoglobin saturation during an experiment about breath holding?",
+      "options": {
+        "A": "A pulse oximeter, which uses a small light on an adhesive bandage",
+        "B": "An arterial cannula, which permits repeated blood draws with a single puncture",
+        "C": "Repeated venipuncture, because a single puncture would cause data overlap",
+        "D": "A Swan–Ganz catheter inserted through the femoral artery, which can measure saturation nearest the heart"
+      },
+      "correct_answer": "A",
+      "explanation": "While it may appear that this question is asking to determine which method is the most accurate or reliable, this is an ethics question. All of these methods (with the exception of venipuncture, (C)) measure oxygen saturation. According to the principle of beneficence, we must minimize potential harms associated with our investigations; thus, the noninvasive pulse oximeter should be greatly favored over other measurements for an initial assessment."
+    },
+    {
+      "id": "ch11_q13",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 13,
+      "question_text": "A medical student attempting to impress an attending physician refers to a recent article that says that there is a statistically significant difference in pregnancy length with a new therapy. Which of the following is most likely to be a valid criticism of the article?",
+      "options": {
+        "A": "Medical students usually reference articles in the newest journals, which may be unreliable.",
+        "B": "The effect didn’t change patient outcomes, only a secondary measure.",
+        "C": "There is a lack of internal validity in the results, despite significance.",
+        "D": "Selection bias is inherent in the scientific process."
+      },
+      "correct_answer": "B",
+      "explanation": "Statistical significance is not the same as clinical significance. There are medications that increase the length of pregnancy in preterm labor, but some only do so for a few hours. Because this may not impact patient outcomes, it should not inform treatment decisions."
+    },
+    {
+      "id": "ch11_q14",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 14,
+      "question_text": "Which sample would be the most appropriate participants for a study on hormone replacement therapy for postmenopausal symptoms?",
+      "options": {
+        "A": "Prepubescent girls",
+        "B": "Premenopausal adult women",
+        "C": "Pregnant women",
+        "D": "Postmenopausal women"
+      },
+      "correct_answer": "D",
+      "explanation": "Samples should always be taken from the target population or population of interest. Given that the target population is postmenopausal women, this group should be used for the sample. Both prepubescent girls and pregnant women are populations with special precautions against coercion, and are not appropriate for this study, eliminating (A) and (C). Premenopausal women are unlikely to require hormone replacement therapy unless they have a condition that specifically necessitates it, eliminating (B)."
+    },
+    {
+      "id": "ch11_q15",
+      "chapter": 11,
+      "chapter_title": "Reasoning about the Design and Execution of Research",
+      "question_number": 15,
+      "question_text": "Use of a colorimetric assay to determine protein concentration may be subject to all of the following EXCEPT:",
+      "options": {
+        "A": "the use of standards.",
+        "B": "measurement error.",
+        "C": "the Hawthorne effect.",
+        "D": "systematic error."
+      },
+      "correct_answer": "C",
+      "explanation": "The Hawthorne effect—a change in behavior as a result of the knowledge that one is being observed—is only present with human subjects. Basic science research generally does not suffer from the Hawthorne effect."
+    },
+    {
+      "id": "ch12_q1",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 1,
+      "question_text": "The inclusion of an outlier in statistical analysis will most greatly affect which of the following measurements?",
+      "options": {
+        "A": "Median",
+        "B": "Mode",
+        "C": "Mean",
+        "D": "All three are equally affected"
+      },
+      "correct_answer": "C",
+      "explanation": "The mean is computed by taking the sum of all of the data points and dividing by the total number of data points. If a very large data point was included, the sum would be significantly larger, inflating the mean. This observation justifies (C). On the other hand, since the median is the middle number and the mode is the most common value, the inclusion of outliers would have minimal effect on these measures."
+    },
+    {
+      "id": "ch12_q2",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 2,
+      "question_text": "In a sample of hospital patients, the mean age is found to be significantly lower than the median. Which of the following best describes this distribution?",
+      "options": {
+        "A": "Skewed right",
+        "B": "Skewed left",
+        "C": "Normal",
+        "D": "Bimodal"
+      },
+      "correct_answer": "B",
+      "explanation": "The mean is to the left of the median, which implies that the tail of the distribution is on the left side; therefore, this distribution is skewed left. It would be expected that there would be a low plateau on the left side of the distribution, which accounts for the shift in the mean."
+    },
+    {
+      "id": "ch12_q3",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 3,
+      "question_text": "What is the median of the following data set? 7, 17, 53, 23, 4, 2, 4",
+      "options": {
+        "A": "4",
+        "B": "7",
+        "C": "15.7",
+        "D": "23"
+      },
+      "correct_answer": "B",
+      "explanation": "The median is the central data point in an ordered list. Because this data set has seven numbers, the central point will be in the fourth position. Reordered, the list reads: 2, 4, 4, 7, 17, 23, 53. Thus, the median is 7. (A), 4, is the mode while (C), 15.7, is the mean."
+    },
+    {
+      "id": "ch12_q4",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 4,
+      "question_text": "On Santa Cruz island, the available food sources led to disruptive selection in the beak sizes of finches, in which large and small beak sizes were favored over intermediate sized beaks. As a result, few finches have an intermediate sized beak. If a sample of finches were analyzed, what distribution would best describe the distribution of beak size?",
+      "options": {
+        "A": "Normal",
+        "B": "Bimodal",
+        "C": "Skewed left",
+        "D": "Skewed right"
+      },
+      "correct_answer": "B",
+      "explanation": "Based on the population description in the question stem, we would expect to see a large number of finches with small beaks, a very small number of finches with intermediate beaks, and a large number of finches with large beaks. This pattern is consistent with a bimodal distribution, choice (B)."
+    },
+    {
+      "id": "ch12_q5",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 5,
+      "question_text": "A 95% confidence interval will fall within what distance from the mean?",
+      "options": {
+        "A": "±σ",
+        "B": "±2σ",
+        "C": "±3σ",
+        "D": "±4σ"
+      },
+      "correct_answer": "B",
+      "explanation": "Approximately 95% of values fall within two standard deviations (±2σ) of the mean for a normal distribution. A confidence interval is constructed using the same values. Approximately 68% of the values are within one standard deviation, and 99% are within three standard deviations, eliminating the other answer choices."
+    },
+    {
+      "id": "ch12_q6",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 6,
+      "question_text": "Approximately 20% of people who live in the United States eat fast food at least once per week. A new study conducted by the National Heart Association showed that 48% of US residents have some form of cardiovascular disease. Which of the following hypothetical findings could be used to show that cardiovascular disease is independent of weekly fast food consumption?",
+      "options": {
+        "A": "Individuals who do not consume fast food do not have cardiovascular disease.",
+        "B": "Of the 48% of those who had cardiovascular disease, only half of them ate fast food on a weekly basis.",
+        "C": "9.6% of US residents have cardiovascular disease and consume fast food on a weekly basis.",
+        "D": "None of the individuals who consume fast food on a weekly basis develop cardiovascular disease."
+      },
+      "correct_answer": "C",
+      "explanation": "When two events are independent of each other, the probability of them occurring simultaneously is equal to the product of the probability of each occurring separately. Thus, for weekly fast food consumption and prevalence of cardiovascular disease to be independent, the probability of both occurring must be (20%)(48%) = 9.6%, supporting (C). While (D) is a tempting answer choice, a lack of cardiovascular disease among people who eat fast food would not imply independence of these factors, rather it would imply that fast food consumption actually decreases or eliminates the likelihood of cardiovascular disease."
+    },
+    {
+      "id": "ch12_q7",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 7,
+      "question_text": "Which of the following outliers would most likely be the easiest to correct?",
+      "options": {
+        "A": "A typographical error in data transfer",
+        "B": "A measurement error in instrument calibration",
+        "C": "A heavily skewed distribution",
+        "D": "A correctly measured anomalous result"
+      },
+      "correct_answer": "A",
+      "explanation": "Because the error is in data transfer, the original source of data can be consulted to allow for the inclusion of the correct data point. An error in instrument calibration may introduce bias; while this should not affect the standard deviation of a sample, it would certainly affect the mean. The instrument would have to be recalibrated, and the relevant data points would have to be measured again to correct for this type of outlier, eliminating choice (B). A skewed distribution is one that has a long tail. In this case, it may be more challenging to determine if a particular value is an outlier or simply a value in the long tail of the distribution. Repeated sampling or a large sample size is usually required to determine if a sample is truly skewed, eliminating choice (C). An anomalous result is challenging to interpret, and how to correct for the result may be unclear. In some cases, the result should be inflated or weighted more heavily to reflect its significance; in other cases, it should be interpreted as a regular value. In still other cases, it is appropriate to drop the anomalous result. This decision should ideally be made before the study even begins, but this still certainly requires more consideration than simply checking a result from one’s original data set, eliminating choice (D) and making choice (A) correct."
+    },
+    {
+      "id": "ch12_q8",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 8,
+      "question_text": "Assume that blonde hair and blue eyes are independent recessive traits. If one parent is a carrier for each gene while the other parent is homozygous recessive for both genes, what is the probability that the first two offspring will both have blonde hair and blue eyes?",
+      "options": {
+        "A": "6.25%",
+        "B": "25%",
+        "C": "43.75%",
+        "D": "50%"
+      },
+      "correct_answer": "A",
+      "explanation": "Because one parent is homozygous for both traits, we are only concerned with the other parent. This parent has a 50% chance of transmitting each independent trait, and thus a 25% chance of transmitting both (12×12=14). This probability is the same for both pregnancies because they are independent events; thus, the probability that both children exhibit both traits is: 14×14=116=0.0625=6.25%."
+    },
+    {
+      "id": "ch12_q9",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 9,
+      "question_text": "Based on the county-level map below, which of the following statements best represents the data about individuals older than 65 in the continental United States? (Note: The darker the shade of green, the higher the percentage of persons over 65 in the county.)",
+      "options": {
+        "A": "Most of the people over 65 in the United States live in the center of the country.",
+        "B": "Most of the people living in the center of the United States are over 65.",
+        "C": "The center of the United States tends to have a larger proportion of people over 65.",
+        "D": "There are more people over 65 moving to the center of the country than elsewhere."
+      },
+      "correct_answer": "C",
+      "explanation": "With data about percentages, we can only draw conclusions about percentages. Thus any information about number of people, as in (A), is incorrect. This map shows us that a higher percentage of the residents in the middle of the country are over 65 in comparison to other parts of the country. There are, of course, exceptions to this rule, including Florida, the Pacific Coast, and parts of Appalachia, which are all in the top category. Even so, there appears to be a clustering of counties with a high percentage of individuals over 65 in the middle of the country. We also cannot say that most of the population is over 65 in any place on this map because we are not given actual values for the percentages. There may be a plurality, but there is insufficient information to posit a majority, eliminating (B). The map gives no indication of migration patterns, so we can also eliminate (D)."
+    },
+    {
+      "id": "ch12_q10",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 10,
+      "question_text": "As the confidence level increases, a confidence interval:",
+      "options": {
+        "A": "becomes wider.",
+        "B": "becomes thinner.",
+        "C": "shifts to higher values.",
+        "D": "shifts to lower values."
+      },
+      "correct_answer": "A",
+      "explanation": "To increase the confidence level, one must increase the size of the confidence interval to make it more likely that the true value of the mean is within the range. Therefore, the confidence interval must become wider."
+    },
+    {
+      "id": "ch12_q11",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 11,
+      "question_text": "Which of the following measures of distribution is most useful for determining probabilities?",
+      "options": {
+        "A": "Range",
+        "B": "Average distance from mean",
+        "C": "Interquartile range",
+        "D": "Standard deviation"
+      },
+      "correct_answer": "D",
+      "explanation": "Standard deviation is the most common measure of distribution. It is the most closely linked to the mean of a distribution and can be used to calculate p-values, which are probabilities (specifically, p-values are the probability that an observed difference between two populations is due to chance)."
+    },
+    {
+      "id": "ch12_q12",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 12,
+      "question_text": "Are there any outliers on the following box plot?",
+      "options": {
+        "A": "Yes; 1575 is an outlier.",
+        "B": "Yes; 2600 is an outlier.",
+        "C": "Yes; both 1575 and 2600 are outliers.",
+        "D": "No; there are no outliers."
+      },
+      "correct_answer": "C",
+      "explanation": "Outliers can be determined with respect to the interquartile range, Q3-Q1. The interquartile range for this box plot is 2280 - 2075, or 205. Values that are 1.5 times IQR below Q1 or above Q3 are considered outliers. 2075 - 1.5 times 205 is approximately 2075 - 300, or 1775 (actual = 1767.5). Therefore, 1575 is an outlier. 2280 + 1.5 times 205 is approximately 2580 (actual = 2587.5). Therefore, 2600 is also an outlier."
+    },
+    {
+      "id": "ch12_q13",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 13,
+      "question_text": "A gas station attendant notices that there are more assaults near the station on the days that a lot of ice cream is sold and hypothesizes that the ingestion of excess glucose leads to an increase in violent behavior. The attendant begins to tally how much ice cream is sold on a daily basis and checks the daily crime statistics to generate the graph below.   The attendant analyzes the data and concludes that the hypothesis is true. Are there any flaws in this conclusion?",
+      "options": {
+        "A": "No, the number of assaults increases as the pints of ice cream sold increase.",
+        "B": "No, the study is appropriately controlled.",
+        "C": "Yes, the study is missing a positive control.",
+        "D": "Yes, the attendant has proved correlation, but not a causal link."
+      },
+      "correct_answer": "D",
+      "explanation": "The attendant hypothesized that glucose in ice cream was the cause of the increase in violent behavior and designed an observational study. While there was an increase in assaults with an increase in ice cream sales, this relationship is a correlation. Correlation does not prove causation. Thus, the conclusion that glucose was the cause is a significant flaw, making (D) the correct answer."
+    },
+    {
+      "id": "ch12_q14",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 14,
+      "question_text": "The following histogram:\nI. contains a bimodal distribution.\nII. should be analyzed as two separate distributions.\nIII. contains one mode.",
+      "options": {
+        "A": "II only",
+        "B": "I and II only",
+        "C": "I and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "D",
+      "explanation": "Because the histogram contains two peaks with a valley in between, it is a bimodal distribution. The color separation of two distinct populations provides evidence that there is a qualitative difference in the data between the two peaks, thus the data should be analyzed according to gender. There is indeed only one mode, at 5’6\". This is the measurement with the largest number of corresponding data points."
+    },
+    {
+      "id": "ch12_q15",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 15,
+      "question_text": "A cardiologist is investigating a new drug therapy for the treatment of hypertension. The cardiologist measures the baseline blood pressure of several patients, then treats them with the drug for ten weeks, measuring their blood pressure again after this time.   Based on these data, should the doctor advocate for making this drug the standard treatment for hypertension?",
+      "options": {
+        "A": "Yes, there is a statistically significant decrease in blood pressure.",
+        "B": "Yes, the drug is effective at decreasing blood pressure.",
+        "C": "No, while statistically significant, the results are not clinically significant.",
+        "D": "No, the data is not statistically significant."
+      },
+      "correct_answer": "C",
+      "explanation": "When considering whether the findings of a study merit policy change, both the statistical and clinical significance must be evaluated. In comparing the difference in both the systolic and diastolic blood pressure before and after treatment, the effect of the drug is minimal. While the results are statistically significant, it is very unlikely that this small reduction would lead to a significant clinical improvement. Thus, the doctor should not advocate, making (C) the correct answer."
+    }
+  ]
+}
