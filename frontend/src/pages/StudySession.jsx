@@ -300,8 +300,32 @@ function StudySession({ user }) {
                 </p>
               )}
 
-              <h4 className="mt-4 mb-2">Explanation:</h4>
-              <p style={{ lineHeight: 1.7 }}>{result.explanation}</p>
+              {/* Quick Memory Tip */}
+              {result.short_reason && (
+                <div className="memory-tip">
+                  <h4 className="memory-tip-header">💡 Quick Tip</h4>
+                  <p>{result.short_reason}</p>
+                </div>
+              )}
+
+              {/* Wrong Answer Explanations */}
+              {result.wrong_answer_explanations && Object.keys(result.wrong_answer_explanations).length > 0 && (
+                <div className="wrong-answers-section">
+                  <h4 className="mt-4 mb-2">Why Other Answers Are Wrong:</h4>
+                  {Object.entries(result.wrong_answer_explanations).map(([letter, explanation]) => (
+                    <div key={letter} className="wrong-answer-item">
+                      <span className="wrong-answer-letter">{letter}.</span>
+                      <span className="wrong-answer-text">{explanation}</span>
+                    </div>
+                  ))}
+                </div>
+              )}
+
+              {/* Book Explanation */}
+              <div className="book-explanation">
+                <h4 className="mt-4 mb-2">📖 Full Explanation:</h4>
+                <p style={{ lineHeight: 1.7 }}>{result.explanation}</p>
+              </div>
 
               <div className="citation">
                 📚 Source: {result.citation.source}, Chapter {result.citation.chapter}:{' '}

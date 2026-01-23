@@ -328,12 +328,14 @@ async def submit_answer(request: AnswerRequest):
         "question_number": question['question_number']
     }
 
-    # Build response
+    # Build response with enhanced explanations
     return {
         "correct": correct,
         "correct_answer": question['correct_answer'],
         "selected_answer": request.selected_answer,
         "explanation": question['explanation'],
+        "short_reason": question.get('short_reason', ''),
+        "wrong_answer_explanations": question.get('wrong_answer_explanations', {}),
         "citation": citation,
         "session_progress": {
             "answered": len(attempts),
