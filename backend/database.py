@@ -62,7 +62,9 @@ def init_db():
                 question_text TEXT NOT NULL,
                 options TEXT NOT NULL,
                 correct_answer TEXT NOT NULL,
-                explanation TEXT NOT NULL
+                explanation TEXT NOT NULL,
+                short_reason TEXT,
+                wrong_answer_explanations TEXT
             )
         """)
 
@@ -142,8 +144,9 @@ def load_questions_from_json():
                 cursor.execute("""
                     INSERT OR REPLACE INTO questions
                     (id, subject, chapter, chapter_title, question_number,
-                     question_text, options, correct_answer, explanation)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                     question_text, options, correct_answer, explanation,
+                     short_reason, wrong_answer_explanations)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (
                     question_id,
                     subject,
@@ -153,7 +156,9 @@ def load_questions_from_json():
                     q['question_text'],
                     json.dumps(q['options']),
                     q['correct_answer'],
-                    q['explanation']
+                    q['explanation'],
+                    q.get('short_reason', ''),
+                    json.dumps(q.get('wrong_answer_explanations', {}))
                 ))
 
         # Get count
@@ -199,6 +204,14 @@ def get_question_by_id(question_id: str) -> Optional[Dict[str, Any]]:
         if row:
             q = dict(row)
             q['options'] = json.loads(q['options'])
+            # Parse wrong_answer_explanations JSON if present
+            if q.get('wrong_answer_explanations'):
+                try:
+                    q['wrong_answer_explanations'] = json.loads(q['wrong_answer_explanations'])
+                except (json.JSONDecodeError, TypeError):
+                    q['wrong_answer_explanations'] = {}
+            else:
+                q['wrong_answer_explanations'] = {}
             return q
         return None
 
@@ -215,6 +228,14 @@ def get_all_questions(subject: Optional[str] = None) -> List[Dict[str, Any]]:
         for row in cursor.fetchall():
             q = dict(row)
             q['options'] = json.loads(q['options'])
+            # Parse wrong_answer_explanations JSON if present
+            if q.get('wrong_answer_explanations'):
+                try:
+                    q['wrong_answer_explanations'] = json.loads(q['wrong_answer_explanations'])
+                except (json.JSONDecodeError, TypeError):
+                    q['wrong_answer_explanations'] = {}
+            else:
+                q['wrong_answer_explanations'] = {}
             questions.append(q)
         return questions
 
