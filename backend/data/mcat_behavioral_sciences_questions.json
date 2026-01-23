@@ -253,7 +253,7 @@
       "explanation": "William James studied how the mind adapts to the environment and formed the foundation of functionalism. Thus, (A) is correct. The remaining wrong answer choices can be ascribed to other scientists. Answer (B) describes phrenology, the theory of Franz Gall. Answer (C) describes the conclusions of Paul Broca. Answer (D) describes one of the conclusions of Sir Charles Sherrington (although we now know that his conclusion was false).",
       "short_reason": "William JAMES = FUNCTIONALISM = How does the mind FUNCTION to help us adapt? He asked 'What's it FOR?' Think: 'James asked what the mind's JOB is!'",
       "wrong_answer_explanations": {
-        "A": "Skull bumps revealing personality is phrenology - that's Franz Gall's debunked theory.",
+        "B": "Skull bumps revealing personality is phrenology - that's Franz Gall's debunked theory.",
         "C": "Linking lesions to functional impairments was Paul Broca's work with aphasia patients.",
         "D": "Electrical synaptic transmission was studied by Sherrington (though we now know it's mainly chemical)."
       }
@@ -1954,8 +1954,8 @@
       "explanation": "Focusing on details, loving routine, having a sense that there is only one right way to do things, and lack of humor suggests an obsessive–compulsive personality disorder.",
       "short_reason": "Obsessively organized + no humor + rigid rules = OCPD (Obsessive-Compulsive PERSONALITY Disorder)! Different from OCD. Think: 'OCPD = Order, Control, Perfectionism, Disagreeable!'",
       "wrong_answer_explanations": {
-        "A": "Antisocial PD involves disregard for others' rights, law-breaking - not orderliness.",
-        "B": "Narcissistic PD involves grandiosity and need for admiration - not perfectionism about tasks.",
+        "B": "Antisocial PD involves disregard for others' rights, law-breaking - not orderliness.",
+        "C": "Narcissistic PD involves grandiosity and need for admiration - not perfectionism about tasks.",
         "D": "Borderline PD involves emotional instability and relationship issues - not rigid orderliness."
       }
     },
@@ -2080,9 +2080,9 @@
       "explanation": "The symptoms listed indicate a major depressive episode. However, depressive episodes can be a part of bipolar disorders, which also contain manic episodes. Thus, if manic episodes have not yet been asked about, one cannot distinguish between depression or bipolar disorder as the correct diagnosis yet.",
       "short_reason": "Depressive episode symptoms appear in BOTH major depression AND bipolar disorders! Can't distinguish without asking about mania. Think: 'Depression appears in both - need to check for mania!'",
       "wrong_answer_explanations": {
-        "B": "Amnesia isn't a distinguishing feature between depression and bipolar disorder.",
-        "C": "Phobias are anxiety disorders - not relevant to depression vs. bipolar distinction.",
-        "D": "Task difficulty relates to dementia, not depression vs. bipolar differential."
+        "B": "Dissociative disorders involve disruptions in identity, memory, or consciousness - unrelated to the mood symptoms described here.",
+        "C": "Alzheimer's and Parkinson's are neurodegenerative diseases with cognitive and motor symptoms - not mood disorders.",
+        "D": "Phobias and panic disorder are anxiety disorders - distinct from the depressive symptoms presented in this question."
       }
     },
     {
@@ -2689,7 +2689,7 @@
       "explanation": "A Gesellschaft (society) is one in which individuals are working toward the same goal, such as a company or country. Gemeinschaften (communities), on the other hand, are those that are bonded together by beliefs, ancestry, or geography.",
       "short_reason": "Large corporation = GESELLSCHAFT (society)! People united by common GOAL (profit), not bonds. Think: 'Gesellschaft = Goal-oriented group!'",
       "wrong_answer_explanations": {
-        "A": "Rural neighborhood is Gemeinschaft - bonded by location and tradition.",
+        "B": "Rural neighborhood is Gemeinschaft - bonded by location and tradition.",
         "C": "Family is Gemeinschaft - bonded by kinship and shared history.",
         "D": "Ethnic enclave is Gemeinschaft - bonded by shared heritage and culture."
       }

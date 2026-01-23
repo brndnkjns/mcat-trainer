@@ -1219,7 +1219,7 @@
       "explanation": "This question is a simple application of the definition of pressure, which is force per area. If pressure decreases 1 percent and area does not change, the force will be decreased by 1 percent. Note that the other measurements given do not play a role in our calculations.",
       "short_reason": "Pressure = Force/Area. If pressure drops 1%, and area is constant, force drops 1%. Simple proportionality! Window dimensions are distractors.",
       "wrong_answer_explanations": {
-        "A": "Correct! Pressure and force are directly proportional when area is constant.",
+        "C": "13% has no basis in the calculation - the window dimensions are distractors and don't affect the percentage change.",
         "B": "10% would require pressure to drop 10% - it only dropped 1%.",
         "D": "30% has no basis in the given information - pure distractor."
       }

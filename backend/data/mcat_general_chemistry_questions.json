@@ -1177,9 +1177,9 @@
       "explanation": "In the unbalanced reaction given in the question stem, zinc is already balanced. Next check carbon. There are 4 carbon atoms in the reactants and 1 in the product, so add a coefficient of 4 to carbon dioxide on the product side. Next, check hydrogen. There are 10 hydrogen atoms in the reactants and 2 in the products, so add a coefficient of 5 to water on the product side. Finally, check oxygen. There are 2 oxygen atoms in the reactants and 14 in the products, so add a coefficient of 7 to molecular oxygen on the reactant side. These alterations yield the balanced reaction Zn(C 2 H 5 ) 2 + 7 O 2 → ZnO + 4 CO 2 + 5 H 2 O Because of the coefficient of 4 in front of the CO2 molecule on the product side, the answer is (A).",
       "short_reason": "'Balance oxygen last!' Start with carbons (4 CO2), then hydrogens (5 H2O), then count oxygens: 4(2) + 5(1) + 1 = 14 oxygens needed = 7 O2.",
       "wrong_answer_explanations": {
-        "A": "4 CO2 is correct for balancing 4 carbons from Zn(C2H5)2.",
         "B": "5 would mean 10 carbons on product side - way too many.",
-        "C": "6 would give 12 carbons - also incorrect."
+        "C": "6 would give 12 carbons - also incorrect.",
+        "D": "7 would give 14 carbons - there are only 4 carbons in Zn(C2H5)2."
       }
     },
     {

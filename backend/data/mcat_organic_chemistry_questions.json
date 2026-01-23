@@ -2417,8 +2417,8 @@
       "short_reason": "Alpha-H is acidic (resonance stabilization) but NOT as acidic as the carboxyl -OH. The carboxyl oxygen shares negative charge between TWO oxygens - super stable!",
       "wrong_answer_explanations": {
         "A": "The hydroxyl H is MORE acidic than alpha-H due to better resonance stabilization.",
-        "C": "Alpha-H is less acidic than hydroxyl but still relatively acidic for organic compounds.",
-        "D": "Both I and III cannot be correct together."
+        "B": "Statement II alone is incomplete - III is also true since alpha-H IS relatively acidic for organic compounds.",
+        "C": "Alpha-H is less acidic than hydroxyl but still relatively acidic for organic compounds."
       }
     },
     {
@@ -3130,7 +3130,6 @@
       "explanation": "As DNA is synthesized, it forms phosphodiester bonds, releasing pyrophosphate, PPi. Pyrophosphate is an inorganic phosphate-containing molecule, but it is not the single phosphate group commonly referred to as inorganic phosphate, (B). The DNA molecule itself is referred to as an organic phosphate, (D).",
       "short_reason": "DNA synthesis releases PPi (pyrophosphate)! When dNTP joins the chain, the alpha phosphate stays attached and beta + gamma phosphates leave as pyrophosphate.",
       "wrong_answer_explanations": {
-        "A": "Pyrophosphate is correct.",
         "B": "Inorganic phosphate (Pi) is a single phosphate - PPi has two.",
         "C": "ATP is a substrate, not a product of DNA synthesis.",
         "D": "Organic phosphate usually refers to phosphate attached to carbon - DNA backbone is this."
