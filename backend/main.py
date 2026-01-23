@@ -7,7 +7,9 @@ import os
 from typing import List, Optional
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
+from pathlib import Path
 from datetime import datetime
 
 import database as db
@@ -38,6 +40,11 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Mount static files for images
+static_path = Path(__file__).parent / "static"
+if static_path.exists():
+    app.mount("/static", StaticFiles(directory=str(static_path)), name="static")
 
 
 # Pydantic models for request/response
@@ -264,7 +271,8 @@ async def get_next_question(
         "chapter_title": question['chapter_title'],
         "question_number": question['question_number'],
         "question_text": question['question_text'],
-        "options": question['options']
+        "options": question['options'],
+        "image_url": f"/static/images/{question['image_filename']}" if question.get('image_filename') else None
     }
 
 
@@ -284,9 +292,12 @@ async def get_question(question_id: str, include_answer: bool = False):
             "chapter_title": question['chapter_title'],
             "question_number": question['question_number'],
             "question_text": question['question_text'],
-            "options": question['options']
+            "options": question['options'],
+            "image_url": f"/static/images/{question['image_filename']}" if question.get('image_filename') else None
         }
 
+    # Include image_url in full response too
+    question['image_url'] = f"/static/images/{question['image_filename']}" if question.get('image_filename') else None
     return question
 
 

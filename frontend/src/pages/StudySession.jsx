@@ -241,6 +241,17 @@ function StudySession({ user }) {
           ))}
         </div>
 
+        {/* Question Image (if any) */}
+        {question?.image_url && (
+          <div className="question-image-container mb-6">
+            <img
+              src={`${import.meta.env.VITE_API_URL}${question.image_url}`}
+              alt="Question diagram"
+              className="question-image"
+            />
+          </div>
+        )}
+
         {/* Answer Options */}
         <div className="mt-6">
           {question?.options && Object.entries(question.options).map(([letter, text]) => {

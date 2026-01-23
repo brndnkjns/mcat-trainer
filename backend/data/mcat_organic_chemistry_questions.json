@@ -403,7 +403,8 @@
         "A": "5 is too few - look more carefully at ring junction carbons.",
         "B": "7 is close but misses one stereocenter.",
         "D": "9 overcounts - some carbons don't have 4 different groups attached."
-      }
+      },
+      "image_filename": "organic_chemistry_ch2_q4.png"
     },
     {
       "id": "ch2_q5",
@@ -2650,7 +2651,8 @@
         "A": "Acid would protonate the carboxylate but not drive cyclization as effectively.",
         "B": "Base would deprotonate and might cause other reactions.",
         "D": "Oxidation adds oxygen - anhydride formation is condensation (removes water)."
-      }
+      },
+      "image_filename": "organic_chemistry_ch9_q6.png"
     },
     {
       "id": "ch9_q7",
@@ -2965,7 +2967,8 @@
         "A": "2-Propanone (acetone) is a ketone, not an aldehyde - wrong starting material.",
         "B": "Propanal would give alanine (methyl side chain), not valine.",
         "D": "Butanal would give a straight-chain R group, not branched like valine."
-      }
+      },
+      "image_filename": "organic_chemistry_ch10_q6.png"
     },
     {
       "id": "ch10_q7",
@@ -3595,7 +3598,8 @@
         "B": "This would be intermediate polarity - not the most polar compound III.",
         "C": "This would be more polar than B but less than A.",
         "D": "This has lowest Rf, which in reverse-phase would be least polar (compound II)."
-      }
+      },
+      "image_filename": "organic_chemistry_ch12_q6.png"
     },
     {
       "id": "ch12_q7",

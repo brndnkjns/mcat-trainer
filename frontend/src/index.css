@@ -545,6 +545,28 @@ h3 { font-size: 1.25rem; }
   gap: var(--space-4);
 }
 
+/* Question Image Styles */
+.question-image-container {
+  text-align: center;
+  padding: var(--space-4);
+  background: #f8fafc;
+  border: 1px solid var(--gray-200);
+  border-radius: var(--radius-md);
+}
+
+.question-image {
+  max-width: 100%;
+  max-height: 400px;
+  height: auto;
+  border-radius: var(--radius-sm);
+}
+
+@media (max-width: 640px) {
+  .question-image {
+    max-height: 300px;
+  }
+}
+
 /* Enhanced Explanation Styles */
 .memory-tip {
   background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);

@@ -64,7 +64,8 @@ def init_db():
                 correct_answer TEXT NOT NULL,
                 explanation TEXT NOT NULL,
                 short_reason TEXT,
-                wrong_answer_explanations TEXT
+                wrong_answer_explanations TEXT,
+                image_filename TEXT
             )
         """)
 
@@ -145,8 +146,8 @@ def load_questions_from_json():
                     INSERT OR REPLACE INTO questions
                     (id, subject, chapter, chapter_title, question_number,
                      question_text, options, correct_answer, explanation,
-                     short_reason, wrong_answer_explanations)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                     short_reason, wrong_answer_explanations, image_filename)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (
                     question_id,
                     subject,
@@ -158,7 +159,8 @@ def load_questions_from_json():
                     q['correct_answer'],
                     q['explanation'],
                     q.get('short_reason', ''),
-                    json.dumps(q.get('wrong_answer_explanations', {}))
+                    json.dumps(q.get('wrong_answer_explanations', {})),
+                    q.get('image_filename', '')
                 ))
 
         # Get count

@@ -12,7 +12,7 @@
       "chapter": 1,
       "chapter_title": "The Cell",
       "question_number": 1,
-      "question_text": "Hyperbaric oxygen may be used as a treatment for certain types of bacterial infections. In this therapy, the patient is placed in a chamber in which the partial pressure of oxygen is significantly increased, increasing the partial pressure of oxygen in the patient\u2019s tissues. This treatment is most likely used for infections with:",
+      "question_text": "Hyperbaric oxygen may be used as a treatment for certain types of bacterial infections. In this therapy, the patient is placed in a chamber in which the partial pressure of oxygen is significantly increased, increasing the partial pressure of oxygen in the patient’s tissues. This treatment is most likely used for infections with:",
       "options": {
         "A": "obligate aerobic bacteria.",
         "B": "facultative anaerobic bacteria.",
@@ -62,7 +62,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "D",
-      "explanation": "In a virus, the nucleic acid can be either DNA or RNA and\u2014in both cases\u2014can be either single- or double-stranded. Therefore, all of the types of nucleic acids listed here could be used for a viral genome, making (D) the correct answer.",
+      "explanation": "In a virus, the nucleic acid can be either DNA or RNA and—in both cases—can be either single- or double-stranded. Therefore, all of the types of nucleic acids listed here could be used for a viral genome, making (D) the correct answer.",
       "short_reason": "Viruses are genetic rebels - they can use ANY nucleic acid configuration. Remember 'Viruses break all the rules' - ssRNA, dsRNA, ssDNA, or dsDNA all work.",
       "wrong_answer_explanations": {
         "A": "Too restrictive - while ssRNA viruses exist (like influenza), this ignores DNA viruses entirely.",
@@ -230,7 +230,7 @@
         "D": "The herpes simplex virus contains a tail sheath and tail fibers."
       },
       "correct_answer": "C",
-      "explanation": "Viruses can exist in either the lytic or lysogenic cycle; they may even switch between them. During the lytic cycle, the virus\u2019s DNA takes control of the host cell\u2019s genetic machinery, manufacturing numerous progeny. In the end, the host cell bursts (lyses) and releases new virions, each capable of infecting other cells. In the lysogenic cycle, viral DNA is added to the host cell\u2019s genome, where it can remain dormant for days or years. Either spontaneously or as a result of environmental circumstances, the provirus can reactivate and enter a lytic cycle. Thus, (A) and (B) are incorrect because the terms are reversed. (D) describes features of bacteriophages, which are viruses that infect bacteria\u2014not the human nervous system. (C) accurately describes how HSV operates during the lysogenic cycle, making it the correct answer.",
+      "explanation": "Viruses can exist in either the lytic or lysogenic cycle; they may even switch between them. During the lytic cycle, the virus’s DNA takes control of the host cell’s genetic machinery, manufacturing numerous progeny. In the end, the host cell bursts (lyses) and releases new virions, each capable of infecting other cells. In the lysogenic cycle, viral DNA is added to the host cell’s genome, where it can remain dormant for days or years. Either spontaneously or as a result of environmental circumstances, the provirus can reactivate and enter a lytic cycle. Thus, (A) and (B) are incorrect because the terms are reversed. (D) describes features of bacteriophages, which are viruses that infect bacteria—not the human nervous system. (C) accurately describes how HSV operates during the lysogenic cycle, making it the correct answer.",
       "short_reason": "HSV hides by integrating into host DNA (lysogenic cycle), then reactivates later (lytic cycle). Remember: Lysogenic = Lying low, Lytic = Lysing cells.",
       "wrong_answer_explanations": {
         "A": "During dormancy, the virus is in the LYSOGENIC cycle (hiding in host DNA), not lytic.",
@@ -243,7 +243,7 @@
       "chapter": 1,
       "chapter_title": "The Cell",
       "question_number": 12,
-      "question_text": "Resistance to antibiotics is a well-recognized medical problem. Which mechanisms can account for a bacterium\u2019s ability to increase its genetic variability and thus adapt itself to resist different antibiotics?\nI. Binary fission\nII. Conjugation\nIII. Transduction",
+      "question_text": "Resistance to antibiotics is a well-recognized medical problem. Which mechanisms can account for a bacterium’s ability to increase its genetic variability and thus adapt itself to resist different antibiotics?\nI. Binary fission\nII. Conjugation\nIII. Transduction",
       "options": {
         "A": "I and II only",
         "B": "I and III only",
@@ -285,7 +285,7 @@
       "chapter": 1,
       "chapter_title": "The Cell",
       "question_number": 14,
-      "question_text": "In Alzheimer\u2019s disease, a protein called the amyloid precursor protein (APP) is cleaved to form a protein called \u03b2 -amyloid. This protein has a \u03b2 -pleated sheet structure and precipitates to form plaques in the brain. This mechanism of disease is most similar to which of the following pathogens?",
+      "question_text": "In Alzheimer’s disease, a protein called the amyloid precursor protein (APP) is cleaved to form a protein called β -amyloid. This protein has a β -pleated sheet structure and precipitates to form plaques in the brain. This mechanism of disease is most similar to which of the following pathogens?",
       "options": {
         "A": "Bacteria",
         "B": "Viruses",
@@ -293,7 +293,7 @@
         "D": "Viroids"
       },
       "correct_answer": "C",
-      "explanation": "Prions are infectious proteins that cause misfolding of other proteins. Prions generally cause a shift toward \u03b2-pleated sheet conformations, causing decreased solubility and increased resistance to degradation. This ultimately leads to disease. This mechanism is very similar to the one described here for Alzheimer\u2019s disease, making (C) the correct answer.",
+      "explanation": "Prions are infectious proteins that cause misfolding of other proteins. Prions generally cause a shift toward β-pleated sheet conformations, causing decreased solubility and increased resistance to degradation. This ultimately leads to disease. This mechanism is very similar to the one described here for Alzheimer’s disease, making (C) the correct answer.",
       "short_reason": "Prions cause protein MISFOLDING into beta-pleated sheets, just like beta-amyloid in Alzheimer's. Remember: Prions = Proteins that make other proteins fold wrong.",
       "wrong_answer_explanations": {
         "A": "Bacteria are living organisms with their own metabolism - they don't cause disease through protein misfolding.",
@@ -329,10 +329,10 @@
       "question_number": 1,
       "question_text": "Which of the following is the correct sequence of the development of a mature sperm cell?",
       "options": {
-        "A": "Spermatid\u2192 1\u00b0 spermatocyte\u2192spermatogonium\u21922\u00b0 spermatocyte\u2192spermatozoan",
-        "B": "Spermatogonium\u21921\u00b0 spermatocyte\u21922\u00b0 spermatocyte\u2192spermatid\u2192spermatozoan",
-        "C": "Spermatozoan\u21921\u00b0 spermatocyte\u21922\u00b0 spermatocyte\u2192spermatogonium\u2192spermatid",
-        "D": "Spermatogonium\u21921\u00b0 spermatocyte\u21922\u00b0 spermatocyte\u2192spermatozoan\u2192spermatid"
+        "A": "Spermatid→ 1° spermatocyte→spermatogonium→2° spermatocyte→spermatozoan",
+        "B": "Spermatogonium→1° spermatocyte→2° spermatocyte→spermatid→spermatozoan",
+        "C": "Spermatozoan→1° spermatocyte→2° spermatocyte→spermatogonium→spermatid",
+        "D": "Spermatogonium→1° spermatocyte→2° spermatocyte→spermatozoan→spermatid"
       },
       "correct_answer": "B",
       "explanation": "Diploid cells called spermatogonia differentiate into primary spermatocytes, which undergo the first meiotic division to yield two haploid secondary spermatocytes. These undergo a second meiotic division to become immature spermatids. The spermatids then undergo a series of changes leading to the production of mature sperm, or spermatozoa.",
@@ -350,10 +350,10 @@
       "question_number": 2,
       "question_text": "Which of the following correctly pairs the stage of development of an egg cell with the relevant point in the life cycle?",
       "options": {
-        "A": "From birth to menarche\u2014prophase II",
-        "B": "At ovulation\u2014metaphase I",
-        "C": "At ovulation\u2014metaphase II",
-        "D": "At fertilization\u2014prophase II"
+        "A": "From birth to menarche—prophase II",
+        "B": "At ovulation—metaphase I",
+        "C": "At ovulation—metaphase II",
+        "D": "At fertilization—prophase II"
       },
       "correct_answer": "C",
       "explanation": "From the time of birth until shortly before ovulation, all egg cells are arrested at the prophase stage of meiosis I. These cells are referred to as primary oocytes. At ovulation, the egg cell has completed meiosis I and is now arrested in metaphase II as a haploid cell called a secondary oocyte. When a sperm penetrates the outer layers of the secondary oocyte, it completes meiosis II to become a mature ovum .",
@@ -369,7 +369,7 @@
       "chapter": 2,
       "chapter_title": "Reproduction",
       "question_number": 3,
-      "question_text": "Some studies suggest that, in patients who have Alzheimer\u2019s disease, there is a defect in the way the spindle apparatus attaches to the kinetochore fibers. At which stage of mitotic division would one first expect to be able to visualize this problem?",
+      "question_text": "Some studies suggest that, in patients who have Alzheimer’s disease, there is a defect in the way the spindle apparatus attaches to the kinetochore fibers. At which stage of mitotic division would one first expect to be able to visualize this problem?",
       "options": {
         "A": "Prophase",
         "B": "Metaphase",
@@ -476,10 +476,10 @@
       "question_number": 8,
       "question_text": "Which of the following INCORRECTLY pairs a structure of the male reproductive system with a feature of the structure?",
       "options": {
-        "A": "Seminal vesicles\u2014produce alkaline fructose-containing secretions",
-        "B": "Prostate gland\u2014surrounded by muscle to raise and lower the testes",
-        "C": "Vas deferens\u2014tube connecting the epididymis to the ejaculatory duct",
-        "D": "Cowper\u2019s glands\u2014produce a fluid to clear traces of urine in the urethra"
+        "A": "Seminal vesicles—produce alkaline fructose-containing secretions",
+        "B": "Prostate gland—surrounded by muscle to raise and lower the testes",
+        "C": "Vas deferens—tube connecting the epididymis to the ejaculatory duct",
+        "D": "Cowper’s glands—produce a fluid to clear traces of urine in the urethra"
       },
       "correct_answer": "B",
       "explanation": "The prostate gland, along with the seminal vesicles and the bulbourethral gland, secretes seminal fluid that combines with sperm to produce semen. It is the cremaster muscle which surrounds the testes that raises and lowers the testes in response to changes in temperature.",
@@ -665,10 +665,10 @@
       "question_number": 2,
       "question_text": "Which of the following associations of a primary germ layer and an adult organ is correct?",
       "options": {
-        "A": "Endoderm\u2014cardiac muscle",
-        "B": "Endoderm\u2014lens of the eye",
-        "C": "Ectoderm\u2014fingernails",
-        "D": "Mesoderm\u2014lining of digestive tract"
+        "A": "Endoderm—cardiac muscle",
+        "B": "Endoderm—lens of the eye",
+        "C": "Ectoderm—fingernails",
+        "D": "Mesoderm—lining of digestive tract"
       },
       "correct_answer": "C",
       "explanation": "To answer this question, it could be useful to review quickly the embryonic layers. The ectoderm gives rise to the integument (the epidermis, hair, nails, and the epithelia of the nose, mouth, and anal canal), the lens of the eye, and the nervous system (including the adrenal medulla). The endoderm gives rise to the epithelial linings of the digestive and respiratory tracts and parts of the liver, pancreas, thyroid, and bladder. Finally, the mesoderm gives rise to the musculoskeletal system, the circulatory system, the excretory system, the gonads, and the adrenal cortex. Therefore, the only correct association can be found in (C) because the fingernails are derived from ectoderm.",
@@ -734,7 +734,7 @@
         "D": "Carbon dioxide exhaled from fetal lungs"
       },
       "correct_answer": "C",
-      "explanation": "During pregnancy, the placenta produces estrogen and progesterone to maintain the endometrium. These hormones are necessary for proper gestation of the fetus and should be measurable in maternal blood because they act on maternal organs. Prior to birth, the fetus is immunologically na\u00efve and does not yet produce immunoglobulins, eliminating (A). It is worth noting, though, that maternal immunoglobulins cross the placenta to enter fetal blood. Fetal hemoglobin is a large protein and, thus, cannot easily cross the placenta. Further, red blood cells are much too large to cross the barrier themselves, eliminating (B). Carbon dioxide from fetal metabolism can be found in maternal blood, but the fetal lungs are nonfunctional prior to birth as the fetus is suspended in amniotic fluid. Carbon dioxide is transferred across the placenta directly from the fetal bloodstream, eliminating (D).",
+      "explanation": "During pregnancy, the placenta produces estrogen and progesterone to maintain the endometrium. These hormones are necessary for proper gestation of the fetus and should be measurable in maternal blood because they act on maternal organs. Prior to birth, the fetus is immunologically naïve and does not yet produce immunoglobulins, eliminating (A). It is worth noting, though, that maternal immunoglobulins cross the placenta to enter fetal blood. Fetal hemoglobin is a large protein and, thus, cannot easily cross the placenta. Further, red blood cells are much too large to cross the barrier themselves, eliminating (B). Carbon dioxide from fetal metabolism can be found in maternal blood, but the fetal lungs are nonfunctional prior to birth as the fetus is suspended in amniotic fluid. Carbon dioxide is transferred across the placenta directly from the fetal bloodstream, eliminating (D).",
       "short_reason": "The placenta produces progesterone and estrogen, which enter maternal blood. The placenta is part of the mother-fetus interface, so its hormones are in maternal circulation.",
       "wrong_answer_explanations": {
         "A": "The fetus is immunologically naive - it doesn't produce antibodies yet. Mother's antibodies cross TO the fetus, not from it.",
@@ -747,7 +747,7 @@
       "chapter": 3,
       "chapter_title": "Embryogenesis and Development",
       "question_number": 6,
-      "question_text": "A cell releases a substance that diffuses through the environment, resulting in differentiation of a nearby cell. This is an example of what type of cell\u2013cell communication?",
+      "question_text": "A cell releases a substance that diffuses through the environment, resulting in differentiation of a nearby cell. This is an example of what type of cell–cell communication?",
       "options": {
         "A": "Autocrine",
         "B": "Juxtacrine",
@@ -815,10 +815,10 @@
         "A": "They retain inherent pluripotency if harvested from selected organs.",
         "B": "They are less controversial than embryonic stem cells.",
         "C": "They require treatment with various transcription factors.",
-        "D": "There is a reduced risk of rejection if the patient\u2019s own stem cells are used."
+        "D": "There is a reduced risk of rejection if the patient’s own stem cells are used."
       },
       "correct_answer": "A",
-      "explanation": "Embryonic stem cells are controversial because they require termination of an embryo to harvest, eliminating (B). Adult stem cells are significantly less controversial, but require treatment with various transcription factors in order to increase the level of potency, eliminating (C). Rejection is a concern when foreign cells are introduced into an individual; using one\u2019s own stem cells should remove this risk, eliminating (D). Adult stem cells are not naturally pluripotent, unless pluripotency has been induced by strategic use of transcription factors. Therefore, (A) is the correct answer.",
+      "explanation": "Embryonic stem cells are controversial because they require termination of an embryo to harvest, eliminating (B). Adult stem cells are significantly less controversial, but require treatment with various transcription factors in order to increase the level of potency, eliminating (C). Rejection is a concern when foreign cells are introduced into an individual; using one’s own stem cells should remove this risk, eliminating (D). Adult stem cells are not naturally pluripotent, unless pluripotency has been induced by strategic use of transcription factors. Therefore, (A) is the correct answer.",
       "short_reason": "Adult stem cells are NOT inherently pluripotent - they're usually multipotent. They need to be INDUCED (iPSCs) with transcription factors to become pluripotent.",
       "wrong_answer_explanations": {
         "B": "Adult stem cells ARE less controversial than embryonic - no embryo destruction required.",
@@ -873,7 +873,7 @@
       "chapter": 3,
       "chapter_title": "Embryogenesis and Development",
       "question_number": 12,
-      "question_text": "Neurofibromatosis type I, or von Recklinghausen\u2019s disease, is a disorder that causes formation of tumors in multiple nervous system structures as well as the skin. While all cells carry the same mutation on chromosome 17, selective transcription of the genome appears to cause the most significant tumorigenesis in which of the following primary germ tissue layers?",
+      "question_text": "Neurofibromatosis type I, or von Recklinghausen’s disease, is a disorder that causes formation of tumors in multiple nervous system structures as well as the skin. While all cells carry the same mutation on chromosome 17, selective transcription of the genome appears to cause the most significant tumorigenesis in which of the following primary germ tissue layers?",
       "options": {
         "A": "Ectoderm",
         "B": "Mesoderm",
@@ -896,10 +896,10 @@
       "question_number": 13,
       "question_text": "Which of the following shows the correct order of early developmental milestones during embryogenesis?",
       "options": {
-        "A": "Blastula \u2192 gastrula \u2192 morula",
-        "B": "Morula \u2192 gastrula \u2192 blastula",
-        "C": "Morula \u2192 blastula \u2192 gastrula",
-        "D": "Gastrula \u2192 blastula \u2192 morula"
+        "A": "Blastula → gastrula → morula",
+        "B": "Morula → gastrula → blastula",
+        "C": "Morula → blastula → gastrula",
+        "D": "Gastrula → blastula → morula"
       },
       "correct_answer": "C",
       "explanation": "After the first cell divisions occur, the embryo consists of a solid ball of cells known as a morula. Then a hollow center forms, creating the blastula. Finally, as the cells begin to differentiate into the three germ layers, the embryo is considered a gastrula. (C) is therefore the correct answer.",
@@ -986,7 +986,7 @@
         "D": "saltatory conduction of action potentials."
       },
       "correct_answer": "C",
-      "explanation": "Myelin is a white lipid-containing material surrounding the axons of many neurons in the central and peripheral nervous systems. It is arranged on the axon discontinuously; the gaps between the segments of myelin are called nodes of Ranvier, eliminating (B). Myelin increases the conduction velocity by insulating segments of the axon so that the membrane is permeable to ions only at the nodes of Ranvier, eliminating (A). The action potential jumps from node to node, a process known as saltatory conduction, eliminating (D). Action potentials are often described as being \u201call-or-nothing\u201d; the magnitude of the potential difference of an action potential is fixed, regardless of the intensity of the stimulus. Thus, myelin does not affect the magnitude of the potential difference in an action potential, making (C) the correct answer.",
+      "explanation": "Myelin is a white lipid-containing material surrounding the axons of many neurons in the central and peripheral nervous systems. It is arranged on the axon discontinuously; the gaps between the segments of myelin are called nodes of Ranvier, eliminating (B). Myelin increases the conduction velocity by insulating segments of the axon so that the membrane is permeable to ions only at the nodes of Ranvier, eliminating (A). The action potential jumps from node to node, a process known as saltatory conduction, eliminating (D). Action potentials are often described as being “all-or-nothing”; the magnitude of the potential difference of an action potential is fixed, regardless of the intensity of the stimulus. Thus, myelin does not affect the magnitude of the potential difference in an action potential, making (C) the correct answer.",
       "short_reason": "Myelin speeds conduction and enables saltatory conduction via nodes of Ranvier, but action potentials are ALL-OR-NOTHING - their magnitude is fixed regardless of stimulus or myelination!",
       "wrong_answer_explanations": {
         "A": "Faster conduction IS associated with myelin - it insulates the axon, allowing signals to jump between nodes.",
@@ -1133,7 +1133,7 @@
         "D": "Decreasing heart rate and blood pressure"
       },
       "correct_answer": "D",
-      "explanation": "The parasympathetic nervous system governs the \u201crest-and-digest\u201d response. The parasympathetic nervous system slows the heart rate, decreases blood pressure, promotes bloodflow to the GI tract, and constricts the pupils, among other functions. The sympathetic nervous system governs the fight-or-flight response, including increased heart rate and blood pressure, decreased bloodflow to the digestive tract, and increased bloodflow to the muscles. (D) is the only answer choice that represents a function of the parasympathetic nervous system.",
+      "explanation": "The parasympathetic nervous system governs the “rest-and-digest” response. The parasympathetic nervous system slows the heart rate, decreases blood pressure, promotes bloodflow to the GI tract, and constricts the pupils, among other functions. The sympathetic nervous system governs the fight-or-flight response, including increased heart rate and blood pressure, decreased bloodflow to the digestive tract, and increased bloodflow to the muscles. (D) is the only answer choice that represents a function of the parasympathetic nervous system.",
       "short_reason": "Parasympathetic = REST and DIGEST. It slows heart rate, lowers BP, promotes digestion. Think 'Para = Peaceful.' Sympathetic is fight-or-flight (opposite effects).",
       "wrong_answer_explanations": {
         "A": "Increasing blood sugar during stress is a SYMPATHETIC function (mobilizes glucose for fight-or-flight).",
@@ -1274,13 +1274,13 @@
       "question_number": 1,
       "question_text": "Which of the following associations between a hormone and its category is INCORRECT?",
       "options": {
-        "A": "Aldosterone\u2014mineralocorticoid",
-        "B": "Testosterone\u2014cortical sex hormone",
-        "C": "ADH\u2014mineralocorticoid",
-        "D": "Cortisone\u2014glucocorticoid"
+        "A": "Aldosterone—mineralocorticoid",
+        "B": "Testosterone—cortical sex hormone",
+        "C": "ADH—mineralocorticoid",
+        "D": "Cortisone—glucocorticoid"
       },
       "correct_answer": "C",
-      "explanation": "Unlike the other hormones listed here, ADH is not secreted by the adrenal cortex and is therefore not a \u2013corticoid. Rather, ADH is a peptide hormone produced by the hypothalamus and released by the posterior pituitary that promotes water reabsorption. The other associations are all correct.",
+      "explanation": "Unlike the other hormones listed here, ADH is not secreted by the adrenal cortex and is therefore not a –corticoid. Rather, ADH is a peptide hormone produced by the hypothalamus and released by the posterior pituitary that promotes water reabsorption. The other associations are all correct.",
       "short_reason": "ADH is NOT a corticoid - it's a peptide hormone from the hypothalamus/posterior pituitary. Remember: '-corticoid' means from adrenal CORTEX. ADH = Antidiuretic Hormone, not Adrenal-anything!",
       "wrong_answer_explanations": {
         "A": "Aldosterone IS correctly classified as a mineralocorticoid - it regulates minerals (Na+, K+) and comes from the adrenal cortex.",
@@ -1385,7 +1385,7 @@
         "D": "Cancerous growth of parafollicular cells in the thyroid, destroying other cell types in the organ"
       },
       "correct_answer": "C",
-      "explanation": "The hypothalamic\u2013pituitary\u2013thyroid axis includes the secretion of thyroid-releasing hormone (TRH) from the hypothalamus triggering the secretion of thyroid-stimulating hormone (TSH) from the anterior pituitary, which stimulates the secretion of triiodothyronine (T3) and thyroxine (T4) from the thyroid. Overproduction of TRH would promote overproduction of TSH, eliminating (B). Destruction of the follicular cells that produce T3 and T4 would remove negative feedback, allowing TSH levels to rise, eliminating (A) and (D). High levels of T4 would cause too much negative feedback and lower TSH levels, making (C) the correct answer.",
+      "explanation": "The hypothalamic–pituitary–thyroid axis includes the secretion of thyroid-releasing hormone (TRH) from the hypothalamus triggering the secretion of thyroid-stimulating hormone (TSH) from the anterior pituitary, which stimulates the secretion of triiodothyronine (T3) and thyroxine (T4) from the thyroid. Overproduction of TRH would promote overproduction of TSH, eliminating (B). Destruction of the follicular cells that produce T3 and T4 would remove negative feedback, allowing TSH levels to rise, eliminating (A) and (D). High levels of T4 would cause too much negative feedback and lower TSH levels, making (C) the correct answer.",
       "short_reason": "High T4 from medications provides NEGATIVE FEEDBACK that SUPPRESSES TSH. The pituitary thinks 'we have enough thyroid hormone, stop making TSH!' Other options would all INCREASE TSH by removing negative feedback.",
       "wrong_answer_explanations": {
         "A": "Autoimmune destruction of T3/T4-producing cells removes negative feedback, causing TSH to RISE as the pituitary tries to stimulate more production.",
@@ -1427,7 +1427,7 @@
         "D": "It stimulates insulin and glucagon secretion."
       },
       "correct_answer": "B",
-      "explanation": "Pancreatic somatostatin secretion is increased by high blood glucose or amino acid levels, leading to decreased insulin and glucagon secretion, eliminating (A) and (D). Somatostatin is thus always an inhibitory hormone, confirming (B). The stimuli for somatostatin release include high blood glucose or amino acids, as mentioned above, as well as high levels of certain gastrointestinal hormones, as discussed in Chapter 9 of MCAT Biology Review\u2014but not cortisol, eliminating (C).",
+      "explanation": "Pancreatic somatostatin secretion is increased by high blood glucose or amino acid levels, leading to decreased insulin and glucagon secretion, eliminating (A) and (D). Somatostatin is thus always an inhibitory hormone, confirming (B). The stimuli for somatostatin release include high blood glucose or amino acids, as mentioned above, as well as high levels of certain gastrointestinal hormones, as discussed in Chapter 9 of MCAT Biology Review—but not cortisol, eliminating (C).",
       "short_reason": "Somatostatin is the 'stop signal' - it INHIBITS both insulin AND glucagon release. It's secreted by delta cells when blood glucose/amino acids are HIGH. Think 'Somatostatin Stops Stuff!'",
       "wrong_answer_explanations": {
         "A": "Somatostatin is increased by HIGH blood glucose, not low. It helps prevent overshooting of insulin response.",
@@ -1440,7 +1440,7 @@
       "chapter": 5,
       "chapter_title": "The Endocrine System",
       "question_number": 9,
-      "question_text": "Destruction of all \u03b2 -cells in the pancreas would cause:",
+      "question_text": "Destruction of all β -cells in the pancreas would cause:",
       "options": {
         "A": "glucagon secretion to stop and an increase in blood glucose concentration.",
         "B": "glucagon secretion to stop and a decrease in blood glucose concentration.",
@@ -1448,7 +1448,7 @@
         "D": "insulin secretion to stop and a decrease in blood glucose concentration."
       },
       "correct_answer": "C",
-      "explanation": "\u03b2-cells are responsible for insulin production. The function of insulin is to lower blood glucose levels by promoting the influx of glucose into cells and by stimulating anabolic processes, such as glycogenesis or fat and protein synthesis. Thus, destruction of the \u03b2-cells would result in a cessation of insulin production, which would lead to hyperglycemia, or high blood glucose concentration.",
+      "explanation": "β-cells are responsible for insulin production. The function of insulin is to lower blood glucose levels by promoting the influx of glucose into cells and by stimulating anabolic processes, such as glycogenesis or fat and protein synthesis. Thus, destruction of the β-cells would result in a cessation of insulin production, which would lead to hyperglycemia, or high blood glucose concentration.",
       "short_reason": "Beta cells make INSULIN, which LOWERS blood glucose. No beta cells = no insulin = glucose can't enter cells = hyperglycemia (high blood sugar). This is Type 1 diabetes!",
       "wrong_answer_explanations": {
         "A": "Alpha cells make glucagon, not beta cells. Destroying beta cells wouldn't stop glucagon secretion.",
@@ -1469,7 +1469,7 @@
         "D": "A decrease in blood oxygen concentrations stimulates renin production."
       },
       "correct_answer": "D",
-      "explanation": "The stimulus for renin production is low blood pressure, which causes the juxtaglomerular cells of the kidney to produce renin, an enzyme that converts the plasma protein angiotensinogen to angiotensin I. Angiotensin I is then converted to angiotensin II by an enzyme in the lungs; angiotensin II then stimulates the adrenal cortex to secrete aldosterone. Aldosterone helps to restore blood volume by increasing sodium reabsorption in the kidney, leading to an increase in water reabsorption. This removes the initial stimulus for renin production. Thus, (A), (B), and (C) correctly describe the renin\u2013angiotensin\u2013aldosterone system, while (D) describes the stimulus for erythropoietin secretion.",
+      "explanation": "The stimulus for renin production is low blood pressure, which causes the juxtaglomerular cells of the kidney to produce renin, an enzyme that converts the plasma protein angiotensinogen to angiotensin I. Angiotensin I is then converted to angiotensin II by an enzyme in the lungs; angiotensin II then stimulates the adrenal cortex to secrete aldosterone. Aldosterone helps to restore blood volume by increasing sodium reabsorption in the kidney, leading to an increase in water reabsorption. This removes the initial stimulus for renin production. Thus, (A), (B), and (C) correctly describe the renin–angiotensin–aldosterone system, while (D) describes the stimulus for erythropoietin secretion.",
       "short_reason": "LOW BLOOD PRESSURE (not oxygen) triggers renin release. Renin starts the RAAS cascade: Angiotensinogen -> Angiotensin I -> Angiotensin II -> Aldosterone. Low O2 triggers EPO, not renin!",
       "wrong_answer_explanations": {
         "A": "This is TRUE - renin converts angiotensinogen to angiotensin I. This is correct, so not the answer.",
@@ -1484,7 +1484,7 @@
       "question_number": 11,
       "question_text": "A scientist discovers a new hormone that is relatively large in size and triggers the conversion of ATP to cAMP. Which of the following best describes the type of hormone that was discovered?",
       "options": {
-        "A": "Amino acid\u2013derivative hormone",
+        "A": "Amino acid–derivative hormone",
         "B": "Peptide hormone",
         "C": "Steroid hormone",
         "D": "Tropic hormone"
@@ -1532,7 +1532,7 @@
         "D": "steroid hormones produced by the hypothalamus and released by the pituitary."
       },
       "correct_answer": "C",
-      "explanation": "Both oxytocin and vasopressin (another name for antidiuretic hormone) end with the suffix \u2013in; this should hint that they are peptide or amino acid\u2013derivative hormones. These two hormones are both synthesized by the hypothalamus, but released by the posterior pituitary. Remember that the posterior pituitary does not actually synthesize any hormones itself; rather, it contains the axons that originate in cells in the hypothalamus and is the site of release for these hormones.",
+      "explanation": "Both oxytocin and vasopressin (another name for antidiuretic hormone) end with the suffix –in; this should hint that they are peptide or amino acid–derivative hormones. These two hormones are both synthesized by the hypothalamus, but released by the posterior pituitary. Remember that the posterior pituitary does not actually synthesize any hormones itself; rather, it contains the axons that originate in cells in the hypothalamus and is the site of release for these hormones.",
       "short_reason": "Oxytocin and ADH are PEPTIDE hormones (end in '-in') MADE in hypothalamus but RELEASED from posterior pituitary. The posterior pituitary is just a storage/release site - it doesn't synthesize hormones!",
       "wrong_answer_explanations": {
         "A": "The pituitary doesn't PRODUCE these hormones - they're made in the hypothalamus and just stored/released by the posterior pituitary.",
@@ -1574,7 +1574,7 @@
         "D": "Adrenal cortex"
       },
       "correct_answer": "D",
-      "explanation": "The question stem states that an infant who is genotypically female is born with ambiguous genitalia, meaning that the genitalia do not appear to be specifically female or specifically male. In a genotypic female, this indicates that the infant was exposed to androgens during the fetal period. In addition, the infant is also losing sodium, causing hyponatremia. This indicates two issues: excess androgens and a lack of aldosterone, a hormone required for proper reuptake of sodium in the kidneys. Both of these hormones are synthesized in the adrenal cortex, making (D) the correct answer. Note that neither of these hormones is regulated by the hypothalamic\u2013pituitary\u2013adrenal axis, eliminating (A) and (B).",
+      "explanation": "The question stem states that an infant who is genotypically female is born with ambiguous genitalia, meaning that the genitalia do not appear to be specifically female or specifically male. In a genotypic female, this indicates that the infant was exposed to androgens during the fetal period. In addition, the infant is also losing sodium, causing hyponatremia. This indicates two issues: excess androgens and a lack of aldosterone, a hormone required for proper reuptake of sodium in the kidneys. Both of these hormones are synthesized in the adrenal cortex, making (D) the correct answer. Note that neither of these hormones is regulated by the hypothalamic–pituitary–adrenal axis, eliminating (A) and (B).",
       "short_reason": "Ambiguous genitalia (excess androgens) + hyponatremia (low sodium from lack of aldosterone) = ADRENAL CORTEX problem. This sounds like congenital adrenal hyperplasia - the cortex makes too many androgens and not enough aldosterone.",
       "wrong_answer_explanations": {
         "A": "The hypothalamus doesn't directly produce androgens or aldosterone - these come from the adrenal cortex.",
@@ -1610,10 +1610,10 @@
       "question_number": 2,
       "question_text": "Which of the following associations correctly pairs a stage of respiration with the muscle actions occurring during that stage?",
       "options": {
-        "A": "Inhalation\u2014diaphragm relaxes",
-        "B": "Inhalation\u2014internal intercostal muscles contract",
-        "C": "Exhalation\u2014diaphragm contracts",
-        "D": "Exhalation\u2014external intercostal muscles relax"
+        "A": "Inhalation—diaphragm relaxes",
+        "B": "Inhalation—internal intercostal muscles contract",
+        "C": "Exhalation—diaphragm contracts",
+        "D": "Exhalation—external intercostal muscles relax"
       },
       "correct_answer": "D",
       "explanation": "The muscles involved in ventilation are the diaphragm, which separates the thoracic cavity from the abdominal cavity, and the intercostal muscles. During inhalation, the diaphragm contracts and flattens, while the external intercostal muscles contract, pulling the rib cage up and out. These actions cause an overall increase in the volume of the thoracic cavity. During exhalation, both the diaphragm and the external intercostals relax, causing a decrease in the volume of the thoracic cavity because of the recoil of these tissues. In forced exhalation, the internal intercostals and abdominal muscles may contract to force out air. Thus, the only correct association from the given answers is (D).",
@@ -1658,7 +1658,7 @@
         "D": "exhalation, because the compression of the chest cavity causes expansion of the intrapleural space, decreasing its pressure."
       },
       "correct_answer": "B",
-      "explanation": "During inhalation, the chest cavity expands, causing expansion of the intrapleural space. According to Boyle\u2019s law, an increase in volume at a constant temperature is accompanied by a decrease in pressure. When the intrapleural pressure (and, by extension, the alveolar pressure) is less than atmospheric pressure, air enters the lungs. During exhalation, these pressure gradients reverse; thus, during exhalation, intrapleural pressure is higher than atmospheric pressure, not lower.",
+      "explanation": "During inhalation, the chest cavity expands, causing expansion of the intrapleural space. According to Boyle’s law, an increase in volume at a constant temperature is accompanied by a decrease in pressure. When the intrapleural pressure (and, by extension, the alveolar pressure) is less than atmospheric pressure, air enters the lungs. During exhalation, these pressure gradients reverse; thus, during exhalation, intrapleural pressure is higher than atmospheric pressure, not lower.",
       "short_reason": "During INHALATION, chest EXPANDS which EXPANDS the intrapleural space, DECREASING its pressure (Boyle's Law: V up = P down). This negative pressure pulls air into the lungs.",
       "wrong_answer_explanations": {
         "A": "The intrapleural space EXPANDS during inhalation (not compresses) as the chest wall pulls away from the lungs.",
@@ -1715,10 +1715,10 @@
       "question_number": 7,
       "question_text": "Which of the following is a correct sequence of passageways through which air travels during inhalation?",
       "options": {
-        "A": "Pharynx \u2192 trachea \u2192 bronchioles \u2192 bronchi \u2192 alveoli",
-        "B": "Pharynx \u2192 trachea \u2192 larynx \u2192 bronchi \u2192 alveoli",
-        "C": "Larynx \u2192 pharynx \u2192 trachea \u2192 bronchi \u2192 alveoli",
-        "D": "Pharynx \u2192 larynx \u2192 trachea \u2192 bronchi \u2192 alveoli"
+        "A": "Pharynx → trachea → bronchioles → bronchi → alveoli",
+        "B": "Pharynx → trachea → larynx → bronchi → alveoli",
+        "C": "Larynx → pharynx → trachea → bronchi → alveoli",
+        "D": "Pharynx → larynx → trachea → bronchi → alveoli"
       },
       "correct_answer": "D",
       "explanation": "Air enters the respiratory tract through the external nares (nostrils) and travels through the nasal cavities. It then passes through the pharynx and into the larynx. Ingested food also passes through the pharynx on its way to the esophagus; to ensure that food does not accidentally enter the larynx, the epiglottis covers the larynx during swallowing. After the larynx, air goes to the trachea, which eventually divides into two bronchi, one for each lung. The bronchi branch into smaller bronchioles, which terminate in clusters of alveoli. From the given sequences, only (D) correctly describes the sequence of the passages through which air travels.",
@@ -1742,7 +1742,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "B",
-      "explanation": "In a patient with IPF, the increased stiffness of the lungs would likely decrease the volume of air the individual could inhale, which would decrease both the total lung capacity and inspiratory reserve volume. However, spirometry cannot measure the total lung capacity accurately because it cannot determine the residual volume\u2014the volume of air left in the lungs when an individual has maximally exhaled. Because the residual volume makes up a portion of the total lung capacity (total lung capacity = vital capacity + residual volume), a spirometer cannot be used to determine the total lung capacity. Therefore, while Statement I is a true statement about individuals with IPF, it cannot appear in the answer choice. Finally, increased stiffness of the lungs would be expected to decrease the residual volume, not increase it; further, residual volume, as described above, cannot be measured with a spirometer.",
+      "explanation": "In a patient with IPF, the increased stiffness of the lungs would likely decrease the volume of air the individual could inhale, which would decrease both the total lung capacity and inspiratory reserve volume. However, spirometry cannot measure the total lung capacity accurately because it cannot determine the residual volume—the volume of air left in the lungs when an individual has maximally exhaled. Because the residual volume makes up a portion of the total lung capacity (total lung capacity = vital capacity + residual volume), a spirometer cannot be used to determine the total lung capacity. Therefore, while Statement I is a true statement about individuals with IPF, it cannot appear in the answer choice. Finally, increased stiffness of the lungs would be expected to decrease the residual volume, not increase it; further, residual volume, as described above, cannot be measured with a spirometer.",
       "short_reason": "Spirometry CANNOT measure residual volume (air left after max exhale) because you can't exhale it! So it can't calculate TLC. Stiff lungs from fibrosis would decrease IRV (harder to inhale deeply).",
       "wrong_answer_explanations": {
         "A": "TLC would decrease in IPF, but spirometry can't MEASURE it because it includes residual volume, which can't be measured by spirometry.",
@@ -1819,13 +1819,13 @@
       "question_number": 12,
       "question_text": "A patient presents to the emergency room with an asthma attack. The patient has been hyperventilating for the past hour and has a blood pH of 7.52. The patient is given treatment and does not appear to respond, but a subsequent blood pH reading is 7.41. Why might this normal blood pH NOT be a reassuring sign?",
       "options": {
-        "A": "The patient\u2019s kidneys may have compensated for the alkalemia.",
+        "A": "The patient’s kidneys may have compensated for the alkalemia.",
         "B": "The normal blood pH reading is likely inaccurate.",
         "C": "The patient may be descending into respiratory failure.",
-        "D": "The patient\u2019s blood should ideally become acidemic for some time to compensate for the alkalemia."
+        "D": "The patient’s blood should ideally become acidemic for some time to compensate for the alkalemia."
       },
       "correct_answer": "C",
-      "explanation": "When a patient who has an asthma attack does not respond to treatment and has been hyperventilating for over an hour, the patient may become fatigued and may not be able to maintain hyperventilation. In this case, the patient\u2019s breathing rate starts to decrease, and the patient fails to receive adequate oxygen. By extension, carbon dioxide is trapped in the blood, and the pH begins to drop. Despite the fact that this pH is normal at the moment, this patient is crashing and may start demonstrating acidemia in the near future. While the kidneys should compensate for alkalemia, this is a slow process and would not normalize the blood pH within an hour; further, adequate compensation by the kidneys would actually be a reassuring sign, eliminating (A). There is no evidence to suggest that the measurement was inaccurate, eliminating (B). Finally, after treatment, the patient should return to a normal blood pH with adequate ventilation and would not be expected to overcompensate by becoming acidemic, eliminating (D).",
+      "explanation": "When a patient who has an asthma attack does not respond to treatment and has been hyperventilating for over an hour, the patient may become fatigued and may not be able to maintain hyperventilation. In this case, the patient’s breathing rate starts to decrease, and the patient fails to receive adequate oxygen. By extension, carbon dioxide is trapped in the blood, and the pH begins to drop. Despite the fact that this pH is normal at the moment, this patient is crashing and may start demonstrating acidemia in the near future. While the kidneys should compensate for alkalemia, this is a slow process and would not normalize the blood pH within an hour; further, adequate compensation by the kidneys would actually be a reassuring sign, eliminating (A). There is no evidence to suggest that the measurement was inaccurate, eliminating (B). Finally, after treatment, the patient should return to a normal blood pH with adequate ventilation and would not be expected to overcompensate by becoming acidemic, eliminating (D).",
       "short_reason": "The asthmatic is getting TIRED and can't maintain hyperventilation. As breathing slows, CO2 builds up, lowering pH toward normal. But this 'normal' pH signals RESPIRATORY FAILURE, not recovery!",
       "wrong_answer_explanations": {
         "A": "Kidney compensation takes DAYS, not one hour. This rapid change isn't renal compensation.",
@@ -1924,10 +1924,10 @@
       "question_number": 2,
       "question_text": "Which of the following is the correct sequence of a cardiac impulse?",
       "options": {
-        "A": "SA node \u2192 AV node \u2192 Purkinje fibers \u2192 bundle of His \u2192 ventricles",
-        "B": "AV node \u2192 bundle of His \u2192 Purkinje fibers \u2192 ventricles \u2192 atria",
-        "C": "SA node \u2192 atria \u2192 AV node \u2192 bundle of His \u2192 Purkinje fibers \u2192 ventricles",
-        "D": "SA node \u2192 AV node \u2192 atria \u2192 bundle of His \u2192 Purkinje fibers \u2192 ventricles"
+        "A": "SA node → AV node → Purkinje fibers → bundle of His → ventricles",
+        "B": "AV node → bundle of His → Purkinje fibers → ventricles → atria",
+        "C": "SA node → atria → AV node → bundle of His → Purkinje fibers → ventricles",
+        "D": "SA node → AV node → atria → bundle of His → Purkinje fibers → ventricles"
       },
       "correct_answer": "C",
       "explanation": "An ordinary cardiac contraction originates in, and is regulated by, the sinoatrial (SA) node. The impulse travels through both atria, stimulating them to contract simultaneously. The impulse then arrives at the atrioventricular (AV) node, which momentarily slows conduction, allowing for completion of atrial contraction and ventricular filling. The impulse is then carried by the bundle of His and its branches through the Purkinje fibers in the walls of both ventricles, generating a strong contraction.",
@@ -1943,7 +1943,7 @@
       "chapter": 7,
       "chapter_title": "The Cardiovascular System",
       "question_number": 3,
-      "question_text": "Hemoglobin\u2019s affinity for O 2 :",
+      "question_text": "Hemoglobin’s affinity for O 2 :",
       "options": {
         "A": "increases in exercising muscle tissue.",
         "B": "decreases as blood PaCO2 decreases.",
@@ -1951,7 +1951,7 @@
         "D": "is higher in maternal blood than in fetal blood."
       },
       "correct_answer": "C",
-      "explanation": "According to the Bohr effect, decreasing the pH in the blood decreases hemoglobin\u2019s affinity for O2. This makes (C) the correct answer. The affinity is generally lowered in exercising muscle to facilitate unloading of oxygen to tissues, eliminating (A). A decrease in the PaCO2 would cause a decrease in [H+] or increased pH\u2014which increases hemoglobin\u2019s affinity for O2, eliminating (B). Finally, (D) is incorrect because hemoglobin\u2019s affinity for O2 is higher in fetal blood than in adult blood.",
+      "explanation": "According to the Bohr effect, decreasing the pH in the blood decreases hemoglobin’s affinity for O2. This makes (C) the correct answer. The affinity is generally lowered in exercising muscle to facilitate unloading of oxygen to tissues, eliminating (A). A decrease in the PaCO2 would cause a decrease in [H+] or increased pH—which increases hemoglobin’s affinity for O2, eliminating (B). Finally, (D) is incorrect because hemoglobin’s affinity for O2 is higher in fetal blood than in adult blood.",
       "short_reason": "Bohr effect: LOW pH (more acidic) = LOWER hemoglobin affinity for O2 = MORE oxygen released to tissues. Active tissues produce acid and CO2, so they get more oxygen. 'When it's Acid, oxygen is Released!'",
       "wrong_answer_explanations": {
         "A": "Exercising muscle is acidic with high CO2 - this DECREASES affinity, helping oxygen unload.",
@@ -1966,10 +1966,10 @@
       "question_number": 4,
       "question_text": "Which of the following correctly traces the circulatory pathway?",
       "options": {
-        "A": "Superior vena cava \u2192 right atrium \u2192 right ventricle \u2192 pulmonary artery \u2192 lungs \u2192 pulmonary veins \u2192 left atrium \u2192 left ventricle \u2192 aorta",
-        "B": "Superior vena cava \u2192 left atrium \u2192 left ventricle \u2192 pulmonary artery \u2192 lungs \u2192 pulmonary veins \u2192 right atrium \u2192 right ventricle \u2192 aorta",
-        "C": "Aorta \u2192 right atrium \u2192 right ventricle \u2192 pulmonary artery \u2192 lungs \u2192 pulmonary veins \u2192 left atrium \u2192 left ventricle \u2192 superior vena cava",
-        "D": "Superior vena cava \u2192 right atrium \u2192 right ventricle \u2192 pulmonary veins \u2192 lungs \u2192 pulmonary artery \u2192 left atrium \u2192 left ventricle \u2192 aorta"
+        "A": "Superior vena cava → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta",
+        "B": "Superior vena cava → left atrium → left ventricle → pulmonary artery → lungs → pulmonary veins → right atrium → right ventricle → aorta",
+        "C": "Aorta → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → superior vena cava",
+        "D": "Superior vena cava → right atrium → right ventricle → pulmonary veins → lungs → pulmonary artery → left atrium → left ventricle → aorta"
       },
       "correct_answer": "A",
       "explanation": "Blood drains from the superior and inferior venae cavae into the right atrium. It passes through the tricuspid valve and into the right ventricle, and then through the pulmonary valve into the pulmonary artery, which leads to the lungs. Oxygenated blood returns to the left atrium via the pulmonary veins. It flows through the mitral valve into the left ventricle. From the left ventricle, it is pumped through the aortic valve into the aorta for distribution throughout the body.",
@@ -2006,7 +2006,7 @@
       "chapter": 7,
       "chapter_title": "The Cardiovascular System",
       "question_number": 6,
-      "question_text": "A patient\u2019s chart indicates a cardiac output of 7500 mL per minute and a stroke volume of 50 mL. What is the patient\u2019s pulse, in beats per minute?",
+      "question_text": "A patient’s chart indicates a cardiac output of 7500 mL per minute and a stroke volume of 50 mL. What is the patient’s pulse, in beats per minute?",
       "options": {
         "A": "50",
         "B": "100",
@@ -2014,7 +2014,7 @@
         "D": "400"
       },
       "correct_answer": "C",
-      "explanation": "The first step in solving this problem is to define cardiac output: cardiac output = heart rate \u00d7 stroke volume. We can therefore divide the cardiac output by the stroke volume to determine heart rate: Note that this heart rate is actually pathologically fast; a normal heart rate is considered to be between 60 and 100 beats per minute.",
+      "explanation": "The first step in solving this problem is to define cardiac output: cardiac output = heart rate × stroke volume. We can therefore divide the cardiac output by the stroke volume to determine heart rate: Note that this heart rate is actually pathologically fast; a normal heart rate is considered to be between 60 and 100 beats per minute.",
       "short_reason": "Cardiac Output = Heart Rate x Stroke Volume. So: Heart Rate = CO/SV = 7500/50 = 150 bpm. This is tachycardia (abnormally fast heart rate, normal is 60-100 bpm).",
       "wrong_answer_explanations": {
         "A": "50 bpm would require: 7500 = 50 x SV, so SV = 150 mL. That's not the given stroke volume of 50 mL.",
@@ -2027,15 +2027,15 @@
       "chapter": 7,
       "chapter_title": "The Cardiovascular System",
       "question_number": 7,
-      "question_text": "An unconscious patient is rushed into the emergency room and needs an immediate blood transfusion. Because there is no time to check the patient\u2019s medical history or determine blood type, which type of blood should the patient receive?",
+      "question_text": "An unconscious patient is rushed into the emergency room and needs an immediate blood transfusion. Because there is no time to check the patient’s medical history or determine blood type, which type of blood should the patient receive?",
       "options": {
         "A": "AB+",
-        "B": "AB\u2013",
+        "B": "AB–",
         "C": "O+",
-        "D": "O\u2013"
+        "D": "O–"
       },
       "correct_answer": "D",
-      "explanation": "Without knowing a patient\u2019s blood type, the only type of transfusion that we can safely give is O\u2013. People with O\u2013 blood are considered universal donors because their blood cells contain no surface antigens. Therefore, O\u2013 blood can be given to anyone without potentially life-threatening consequences from ABO or Rh incompatibility.",
+      "explanation": "Without knowing a patient’s blood type, the only type of transfusion that we can safely give is O–. People with O– blood are considered universal donors because their blood cells contain no surface antigens. Therefore, O– blood can be given to anyone without potentially life-threatening consequences from ABO or Rh incompatibility.",
       "short_reason": "O negative (O-) is the universal DONOR - no A, B antigens and no Rh factor means no immune reaction in ANY recipient. In emergencies, O- is always safe. 'O- is the Hero!'",
       "wrong_answer_explanations": {
         "A": "AB+ is the universal RECIPIENT, not donor. AB+ blood has all antigens, so it would trigger reactions in non-AB+ patients.",
@@ -2056,7 +2056,7 @@
         "D": "Arteries facilitate blood transport by using skeletal muscle contractions, whereas veins make use of the pumping of the heart to push blood."
       },
       "correct_answer": "C",
-      "explanation": "The only answer choice that correctly describes arteries and veins is (C); the pressure in the aorta usually ranges between 120 and 80 mmHg, depending on whether the heart is in systole or diastole, whereas the pressure in the superior vena cava is near zero. (A) is incorrect because arteries are thick-walled and veins are thin-walled. (B) is also incorrect; this relationship is reversed in pulmonary and umbilical circulation. (D) is reversed as well; arteries make use of the pumping of the heart and the \u201csnapping back\u201d of their elastic walls to transport blood, whereas venous blood is propelled along by skeletal muscle contractions.",
+      "explanation": "The only answer choice that correctly describes arteries and veins is (C); the pressure in the aorta usually ranges between 120 and 80 mmHg, depending on whether the heart is in systole or diastole, whereas the pressure in the superior vena cava is near zero. (A) is incorrect because arteries are thick-walled and veins are thin-walled. (B) is also incorrect; this relationship is reversed in pulmonary and umbilical circulation. (D) is reversed as well; arteries make use of the pumping of the heart and the “snapping back” of their elastic walls to transport blood, whereas venous blood is propelled along by skeletal muscle contractions.",
       "short_reason": "The aorta (just left the powerful left ventricle) ALWAYS has higher pressure than the vena cava (returning blood with minimal pressure). This pressure gradient drives circulation!",
       "wrong_answer_explanations": {
         "A": "REVERSED: Arteries are THICK-walled and muscular; veins are THIN-walled.",
@@ -2090,7 +2090,7 @@
       "chapter": 7,
       "chapter_title": "The Cardiovascular System",
       "question_number": 10,
-      "question_text": "Which of the following is involved in the body\u2019s primary blood-buffering mechanism?",
+      "question_text": "Which of the following is involved in the body’s primary blood-buffering mechanism?",
       "options": {
         "A": "Fluid intake",
         "B": "Absorption of nutrients in the gastrointestinal system",
@@ -2098,7 +2098,7 @@
         "D": "Hormones released by the kidneys"
       },
       "correct_answer": "C",
-      "explanation": "Carbon dioxide is a byproduct of metabolism in cells that later combines with water to form bicarbonate in a reaction catalyzed by carbonic anhydrase. This system is blood plasma\u2019s most important buffer system. Food and fluid absorption are not significant sources of buffering, eliminating (A) and (B). While the kidneys can be involved in acid\u2013base balance, they carry out this function through their filtration, secretion, and reabsorption mechanisms, not through hormone release, eliminating (D).",
+      "explanation": "Carbon dioxide is a byproduct of metabolism in cells that later combines with water to form bicarbonate in a reaction catalyzed by carbonic anhydrase. This system is blood plasma’s most important buffer system. Food and fluid absorption are not significant sources of buffering, eliminating (A) and (B). While the kidneys can be involved in acid–base balance, they carry out this function through their filtration, secretion, and reabsorption mechanisms, not through hormone release, eliminating (D).",
       "short_reason": "CO2 from metabolism combines with H2O to form carbonic acid (H2CO3), which dissociates into H+ and HCO3-. This bicarbonate buffer system is the blood's PRIMARY pH buffering mechanism!",
       "wrong_answer_explanations": {
         "A": "Fluid intake affects blood volume, not buffering capacity directly.",
@@ -2161,7 +2161,7 @@
         "D": "Decreased pH"
       },
       "correct_answer": "D",
-      "explanation": "Holding one\u2019s breath for a prolonged period would result in a drop in oxygenation and an increase in PaCO2. The increased carbon dioxide would associate with water to form carbonic acid, which would dissociate into a proton and a bicarbonate anion. Further, the low oxygen saturation would eventually lead to anaerobic metabolism in some tissues, causing an increase in lactic acid. These would all lead to a decreased pH.",
+      "explanation": "Holding one’s breath for a prolonged period would result in a drop in oxygenation and an increase in PaCO2. The increased carbon dioxide would associate with water to form carbonic acid, which would dissociate into a proton and a bicarbonate anion. Further, the low oxygen saturation would eventually lead to anaerobic metabolism in some tissues, causing an increase in lactic acid. These would all lead to a decreased pH.",
       "short_reason": "Breath-holding causes CO2 buildup, which forms carbonic acid, LOWERING pH (acidosis). Also, low O2 leads to anaerobic metabolism producing lactic acid. More acid = lower pH!",
       "wrong_answer_explanations": {
         "A": "Low O2 and high CO2 would DECREASE hemoglobin's affinity (Bohr effect), not increase it.",
@@ -2224,7 +2224,7 @@
         "D": "Fungi"
       },
       "correct_answer": "A",
-      "explanation": "T-lymphocytes, which mature in the thymus, are the only specific defense against intracellular pathogens. While some bacteria, fungi, and parasites can live intracellularly, viruses\u2014by definition\u2014must replicate within cells. The absence of T-cells would leave an individual unable to fight viral infections with specific defenses.",
+      "explanation": "T-lymphocytes, which mature in the thymus, are the only specific defense against intracellular pathogens. While some bacteria, fungi, and parasites can live intracellularly, viruses—by definition—must replicate within cells. The absence of T-cells would leave an individual unable to fight viral infections with specific defenses.",
       "short_reason": "No thymus = no T-cell maturation = no cell-mediated immunity against INTRACELLULAR pathogens. Viruses MUST replicate inside cells, so they require T-cells for defense. 'T-cells Target what's hiding inside!'",
       "wrong_answer_explanations": {
         "B": "Many bacteria are EXTRACELLULAR and can be fought with antibodies (B-cells don't need thymus).",
@@ -2371,7 +2371,7 @@
         "D": "Thymus"
       },
       "correct_answer": "D",
-      "explanation": "T-cells mature in the thymus, where they are \u201ceducated.\u201d This education involves the elimination of T-cells with improper binding to MHC\u2013antigen complexes (positive selection) and self-reactive T-cells (negative selection). Thus, self-reactive T-cells are eliminated in the thymus.",
+      "explanation": "T-cells mature in the thymus, where they are “educated.” This education involves the elimination of T-cells with improper binding to MHC–antigen complexes (positive selection) and self-reactive T-cells (negative selection). Thus, self-reactive T-cells are eliminated in the thymus.",
       "short_reason": "T-cells mature in the THYMUS where they undergo selection. Self-reactive T-cells are eliminated in the thymus through NEGATIVE SELECTION. 'T-cells are Trained and Tested in Thymus!'",
       "wrong_answer_explanations": {
         "A": "The spleen filters blood and is where B-cells mature, not where T-cells are selected.",
@@ -2533,10 +2533,10 @@
       "question_number": 1,
       "question_text": "Which of the following associations correctly matches a gastric cell with a compound it secretes?",
       "options": {
-        "A": "G-cells\u2014HCl",
-        "B": "Chief cells\u2014pepsinogen",
-        "C": "Parietal cells\u2014alkaline mucus",
-        "D": "Mucous cells\u2014intrinsic factor"
+        "A": "G-cells—HCl",
+        "B": "Chief cells—pepsinogen",
+        "C": "Parietal cells—alkaline mucus",
+        "D": "Mucous cells—intrinsic factor"
       },
       "correct_answer": "B",
       "explanation": "Chief cells secrete pepsinogen, a protease secreted as a zymogen that is activated by the acidic environment of the stomach. G-cells secrete gastrin, parietal cells secrete hydrochloric acid and intrinsic factor, and mucous cells secrete alkaline mucus, eliminating the other answer choices.",
@@ -2596,13 +2596,13 @@
       "question_number": 4,
       "question_text": "Which of the following INCORRECTLY pairs a digestive enzyme with its function?",
       "options": {
-        "A": "Trypsin\u2014hydrolyzes specific peptide bonds",
-        "B": "Lactase\u2014hydrolyzes lactose to glucose and galactose",
-        "C": "Pancreatic amylase\u2014hydrolyzes starch to maltose",
-        "D": "Lipase\u2014emulsifies fats"
+        "A": "Trypsin—hydrolyzes specific peptide bonds",
+        "B": "Lactase—hydrolyzes lactose to glucose and galactose",
+        "C": "Pancreatic amylase—hydrolyzes starch to maltose",
+        "D": "Lipase—emulsifies fats"
       },
       "correct_answer": "D",
-      "explanation": "Lipase is involved in the digestion of fats, but its function is not to emulsify fats\u2014this is the job of bile. Rather, lipase chemically digests fats in the duodenum, allowing them to be brought into duodenal cells and packaged into chylomicrons. The other associations given here are all correct.",
+      "explanation": "Lipase is involved in the digestion of fats, but its function is not to emulsify fats—this is the job of bile. Rather, lipase chemically digests fats in the duodenum, allowing them to be brought into duodenal cells and packaged into chylomicrons. The other associations given here are all correct.",
       "short_reason": "Remember: Lipase DIGESTS fat (breaks bonds), but BILE EMULSIFIES fat (physical breakdown into droplets). Emulsification is not enzymatic digestion.",
       "wrong_answer_explanations": {
         "A": "Trypsin correctly hydrolyzes peptide bonds - it's a protease that cleaves at specific amino acids.",
@@ -2638,10 +2638,10 @@
       "question_number": 6,
       "question_text": "Which of the following choices INCORRECTLY pairs a digestive enzyme with its site of secretion?",
       "options": {
-        "A": "Sucrase\u2014salivary glands",
-        "B": "Carboxypeptidase\u2014pancreas",
-        "C": "Trypsin\u2014pancreas",
-        "D": "Lactase\u2014duodenum"
+        "A": "Sucrase—salivary glands",
+        "B": "Carboxypeptidase—pancreas",
+        "C": "Trypsin—pancreas",
+        "D": "Lactase—duodenum"
       },
       "correct_answer": "A",
       "explanation": "Sucrase is a brush-border enzyme found on duodenal cells and is not secreted by the salivary glands. This enzyme hydrolyzes sucrose (a disaccharide) to form glucose and fructose (monosaccharides). The other associations are all correct.",
@@ -2657,7 +2657,7 @@
       "chapter": 9,
       "chapter_title": "The Digestive System",
       "question_number": 7,
-      "question_text": "A two-week-old infant is brought to the emergency room. The infant\u2019s caregiver reports that the infant has been unable to keep any milk down; shortly after nursing, the infant has sudden projectile vomiting. During exam, an olive-shaped mass can be felt in the infant\u2019s upper abdomen. It is determined that there is a constriction in the digestive system that prevents food from reaching the small intestine from the stomach. Which structure is most likely the site of the problem?",
+      "question_text": "A two-week-old infant is brought to the emergency room. The infant’s caregiver reports that the infant has been unable to keep any milk down; shortly after nursing, the infant has sudden projectile vomiting. During exam, an olive-shaped mass can be felt in the infant’s upper abdomen. It is determined that there is a constriction in the digestive system that prevents food from reaching the small intestine from the stomach. Which structure is most likely the site of the problem?",
       "options": {
         "A": "Cardiac sphincter",
         "B": "Pyloric sphincter",
@@ -2701,10 +2701,10 @@
       "question_number": 9,
       "question_text": "The two graphs below show the relative activities of two enzymes in solutions of varying pH. Which of the following choices correctly identifies the two enzymes?",
       "options": {
-        "A": "1\u2014chymotrypsin; 2\u2014pepsin",
-        "B": "1\u2014pepsin; 2\u2014carboxypeptidase B",
-        "C": "1\u2014lactase; 2\u2014aminopeptidase",
-        "D": "1\u2014enteropeptidase; 2\u2014amylase"
+        "A": "1—chymotrypsin; 2—pepsin",
+        "B": "1—pepsin; 2—carboxypeptidase B",
+        "C": "1—lactase; 2—aminopeptidase",
+        "D": "1—enteropeptidase; 2—amylase"
       },
       "correct_answer": "B",
       "explanation": "The first graph shows maximal activity at a very acidic pH, implying that this is an enzyme acting in the stomach. The second graph shows maximal activity around pH 8.5, implying that this is an enzyme acting in the duodenum. The only choice that matches the first graph with a stomach enzyme (pepsin) and the second with a duodenal enzyme (carboxypeptidase B) is (B).",
@@ -2724,11 +2724,11 @@
       "options": {
         "A": "Cholangiocarcinoma, a cancer of the bile ducts that can ultimately lead to full occlusion of the duct lumen",
         "B": "Autoimmune hemolytic anemia, a disease in which the red blood cells are attacked by antibodies and are lysed",
-        "C": "M\u00e9n\u00e9trier\u2019s disease, in which rugae thicken and overlying glands lose secretory ability",
+        "C": "Ménétrier’s disease, in which rugae thicken and overlying glands lose secretory ability",
         "D": "Acetaminophen (Tylenol) overdose, in which the accumulation of toxic metabolites can cause rapid liver failure"
       },
       "correct_answer": "C",
-      "explanation": "Elevated bilirubin implies a blockage to bile flow, increased production of bilirubin (from massive hemoglobin release), or an inability of the liver to produce bile. If the bile duct were occluded, as in (A), then bile would not be able to flow into the digestive tract and would build up, increasing bilirubin levels in the blood. If many red blood cells were lysed, as in (B), then bilirubin levels would rise in accordance with the increased hemoglobin release. If liver failure occurred, as in (D), then the liver would be unable to produce bile, and bilirubin would again build up. (C) refers to a pathology in the stomach\u2014the key word given here is rugae, which are the folds in the stomach wall. Lack of gastric function would have no effect on bilirubin levels, making this the correct choice.",
+      "explanation": "Elevated bilirubin implies a blockage to bile flow, increased production of bilirubin (from massive hemoglobin release), or an inability of the liver to produce bile. If the bile duct were occluded, as in (A), then bile would not be able to flow into the digestive tract and would build up, increasing bilirubin levels in the blood. If many red blood cells were lysed, as in (B), then bilirubin levels would rise in accordance with the increased hemoglobin release. If liver failure occurred, as in (D), then the liver would be unable to produce bile, and bilirubin would again build up. (C) refers to a pathology in the stomach—the key word given here is rugae, which are the folds in the stomach wall. Lack of gastric function would have no effect on bilirubin levels, making this the correct choice.",
       "short_reason": "Rugae are stomach folds - Menetrier's is a STOMACH disease. Bilirubin comes from hemoglobin/liver/bile pathways, not stomach! Stomach problems won't affect bilirubin.",
       "wrong_answer_explanations": {
         "A": "Bile duct cancer WOULD increase bilirubin by blocking bile flow, causing backup into the blood.",
@@ -2743,10 +2743,10 @@
       "question_number": 11,
       "question_text": "Which of the following correctly pairs the molecule with its primary site of absorption?",
       "options": {
-        "A": "Chylomicrons\u2014lacteals",
-        "B": "Amino acids\u2014large intestine",
-        "C": "Vitamins A and E\u2014stomach",
-        "D": "Cholesterol\u2014ascending colon"
+        "A": "Chylomicrons—lacteals",
+        "B": "Amino acids—large intestine",
+        "C": "Vitamins A and E—stomach",
+        "D": "Cholesterol—ascending colon"
       },
       "correct_answer": "A",
       "explanation": "Chylomicrons contain triacylglycerols, cholesteryl esters, and fat-soluble vitamins and are secreted by intestinal cells into lacteals. Amino acids, fat-soluble vitamins (like vitamins A and E), and cholesterol are all absorbed in the small intestine.",
@@ -2797,7 +2797,8 @@
         "B": "Threonine (amino acid) is water-soluble and drains via blood capillaries to portal vein to liver first.",
         "C": "Fructose (sugar) is water-soluble and drains via blood capillaries to portal vein to liver first.",
         "D": "Pantothenic acid (vitamin B5) is water-soluble and drains via blood capillaries to portal vein to liver first."
-      }
+      },
+      "image_filename": "biology_ch9_q13.jpg"
     },
     {
       "id": "ch9_q14",
@@ -2812,7 +2813,7 @@
         "D": "Gastrin"
       },
       "correct_answer": "C",
-      "explanation": "Ghrelin promotes a sensation of hunger, increasing feeding behavior. Both leptin and cholecystokinin promote satiety, decreasing feeding behavior\u2014eliminating (A) and (B). Gastrin increases acid production and gastric motility, but does not have any significant relationship with feeding behavior, eliminating (D).",
+      "explanation": "Ghrelin promotes a sensation of hunger, increasing feeding behavior. Both leptin and cholecystokinin promote satiety, decreasing feeding behavior—eliminating (A) and (B). Gastrin increases acid production and gastric motility, but does not have any significant relationship with feeding behavior, eliminating (D).",
       "short_reason": "Ghrelin = 'Growling stomach' = HUNGRY. Remember 'Ghrelin makes you Greedy for food.' Leptin and CCK signal fullness (satiety).",
       "wrong_answer_explanations": {
         "A": "Leptin signals SATIETY (fullness), decreasing feeding behavior. It's released by fat cells.",
@@ -2846,7 +2847,7 @@
       "chapter": 10,
       "chapter_title": "Homeostasis",
       "question_number": 1,
-      "question_text": "Which of the following would most likely be filtered through the glomerulus into Bowman\u2019s space?",
+      "question_text": "Which of the following would most likely be filtered through the glomerulus into Bowman’s space?",
       "options": {
         "A": "Erythrocytes",
         "B": "Monosaccharides",
@@ -2875,7 +2876,7 @@
         "D": "Thick portion of the ascending limb of the loop of Henle"
       },
       "correct_answer": "B",
-      "explanation": "Sodium is actively transported out of the nephron in the proximal and distal convoluted tubules, where the concentration of sodium outside of the nephron is higher than inside; thus, energy is required to transport the sodium molecules against their concentration gradient, eliminating (A) and (C). In the inner medulla, however, sodium and other ions (such as chloride) diffuse passively down their concentration gradients at the thin ascending limb of the loop of Henle, making (B) the correct answer. The thick ascending limb of the loop of Henle is thick because its cells contain many mitochondria\u2014which produce the ATP needed for active transport of sodium and chloride out of the filtrate, eliminating (D).",
+      "explanation": "Sodium is actively transported out of the nephron in the proximal and distal convoluted tubules, where the concentration of sodium outside of the nephron is higher than inside; thus, energy is required to transport the sodium molecules against their concentration gradient, eliminating (A) and (C). In the inner medulla, however, sodium and other ions (such as chloride) diffuse passively down their concentration gradients at the thin ascending limb of the loop of Henle, making (B) the correct answer. The thick ascending limb of the loop of Henle is thick because its cells contain many mitochondria—which produce the ATP needed for active transport of sodium and chloride out of the filtrate, eliminating (D).",
       "short_reason": "THIN ascending limb = PASSIVE diffusion (no pumps). THICK ascending limb = ACTIVE transport (many mitochondria for ATP). 'Thin is passive, thick is active.'",
       "wrong_answer_explanations": {
         "A": "The PCT DOES actively transport sodium - it reabsorbs most filtered sodium using Na+/K+-ATPase.",
@@ -2911,10 +2912,10 @@
       "question_number": 4,
       "question_text": "Which of the following sequences correctly shows the passage of blood through the vessels of the kidney?",
       "options": {
-        "A": "Renal artery \u2192 afferent arterioles \u2192 glomerulus \u2192 efferent arterioles \u2192 vasa recta \u2192 renal vein",
-        "B": "Afferent arterioles \u2192 renal artery \u2192 glomerulus \u2192 vasa recta \u2192 renal vein \u2192 efferent arterioles",
-        "C": "Glomerulus \u2192 renal artery \u2192 afferent arterioles \u2192 efferent arterioles \u2192 renal vein \u2192 vasa recta",
-        "D": "Renal vein \u2192 efferent arterioles \u2192 glomerulus \u2192 afferent arterioles \u2192 vasa recta \u2192 renal artery"
+        "A": "Renal artery → afferent arterioles → glomerulus → efferent arterioles → vasa recta → renal vein",
+        "B": "Afferent arterioles → renal artery → glomerulus → vasa recta → renal vein → efferent arterioles",
+        "C": "Glomerulus → renal artery → afferent arterioles → efferent arterioles → renal vein → vasa recta",
+        "D": "Renal vein → efferent arterioles → glomerulus → afferent arterioles → vasa recta → renal artery"
       },
       "correct_answer": "A",
       "explanation": "Blood enters the kidney through the renal artery, which divides into many afferent arterioles that run through the medulla and into the cortex. Each afferent arteriole branches into a convoluted network of capillaries called a glomerulus. Rather than converging directly into a vein, the capillaries converge into an efferent arteriole, which divides into a fine capillary network known as the vasa recta. The vasa recta capillaries envelop the nephron tubule, where they reabsorb various ions, and then converge into the renal vein. The arrangement of tandem capillary beds is known as a portal system.",
@@ -2972,7 +2973,7 @@
       "chapter": 10,
       "chapter_title": "Homeostasis",
       "question_number": 7,
-      "question_text": "On a very cold day, a person waits for over an hour at the bus stop. Which of the following structures helps the person\u2019s body set and maintain a normal temperature?",
+      "question_text": "On a very cold day, a person waits for over an hour at the bus stop. Which of the following structures helps the person’s body set and maintain a normal temperature?",
       "options": {
         "A": "Hypothalamus",
         "B": "Kidneys",
@@ -2980,7 +2981,7 @@
         "D": "Brainstem"
       },
       "correct_answer": "A",
-      "explanation": "The hypothalamus functions as a thermostat that regulates body temperature. When it\u2019s cold outside, nervous stimulation to the blood vessels in the skin is increased, causing the vessels to constrict. This constriction diminishes blood flow to the skin surface and prevents heat loss. Sweat glands are turned off to prevent heat loss through evaporation. Skeletal muscles are stimulated to shiver (rapidly contract), which increases the metabolic rate and produces heat. The hypothalamus is also involved in other processes, including the release of endocrine hormones, regulation of appetite, and circadian rhythms.",
+      "explanation": "The hypothalamus functions as a thermostat that regulates body temperature. When it’s cold outside, nervous stimulation to the blood vessels in the skin is increased, causing the vessels to constrict. This constriction diminishes blood flow to the skin surface and prevents heat loss. Sweat glands are turned off to prevent heat loss through evaporation. Skeletal muscles are stimulated to shiver (rapidly contract), which increases the metabolic rate and produces heat. The hypothalamus is also involved in other processes, including the release of endocrine hormones, regulation of appetite, and circadian rhythms.",
       "short_reason": "Hypothalamus = body's thermostat! It controls shivering, vasoconstriction/vasodilation, and sweating to regulate temperature. Think 'Hypo-thermostat.'",
       "wrong_answer_explanations": {
         "B": "Kidneys filter blood and maintain fluid/electrolyte balance, not body temperature regulation.",
@@ -3001,7 +3002,7 @@
         "D": "collecting duct."
       },
       "correct_answer": "C",
-      "explanation": "The filtrate enters Bowman\u2019s capsule and then flows into the proximal convoluted tubule, where virtually all glucose, amino acids, and other important organic molecules are reabsorbed via active transport.",
+      "explanation": "The filtrate enters Bowman’s capsule and then flows into the proximal convoluted tubule, where virtually all glucose, amino acids, and other important organic molecules are reabsorbed via active transport.",
       "short_reason": "PCT is the workhorse for reabsorption! Glucose, amino acids, and most sodium are reabsorbed here. Remember: PCT = Primary Collector of Treasures.",
       "wrong_answer_explanations": {
         "A": "Loop of Henle concentrates urine via countercurrent multiplication - doesn't reabsorb glucose.",
@@ -3247,13 +3248,13 @@
       "question_number": 5,
       "question_text": "Which of the following cells is correctly coupled with its definition?",
       "options": {
-        "A": "Osteoblasts\u2014bone cells involved in the secretion of bone matrix",
-        "B": "Osteoclasts\u2014immature bone cells",
-        "C": "Osteocytes\u2014polynucleated cells actively involved in bone resorption",
-        "D": "Chondrocytes\u2014undifferentiated bone marrow cells"
+        "A": "Osteoblasts—bone cells involved in the secretion of bone matrix",
+        "B": "Osteoclasts—immature bone cells",
+        "C": "Osteocytes—polynucleated cells actively involved in bone resorption",
+        "D": "Chondrocytes—undifferentiated bone marrow cells"
       },
       "correct_answer": "A",
-      "explanation": "Let\u2019s quickly define each one of the four cells discussed in the answer choices. Osteoblasts are bone cells involved in the secretion of bone matrix, as (A) states. Osteoclasts are large, polynucleated cells involved in bone resorption. Osteocytes are mature bone cells that eventually become surrounded by their matrix; their primary role is bone maintenance. Finally, chondrocytes are cells that secrete chondrin, an elastic matrix that makes up cartilage.",
+      "explanation": "Let’s quickly define each one of the four cells discussed in the answer choices. Osteoblasts are bone cells involved in the secretion of bone matrix, as (A) states. Osteoclasts are large, polynucleated cells involved in bone resorption. Osteocytes are mature bone cells that eventually become surrounded by their matrix; their primary role is bone maintenance. Finally, chondrocytes are cells that secrete chondrin, an elastic matrix that makes up cartilage.",
       "short_reason": "OsteoBlasts Build bone matrix - correct! Remember: Blasts Build, Clasts Cleave (destroy), Cytes maintain (mature cells).",
       "wrong_answer_explanations": {
         "B": "Osteoclasts are NOT immature - they're large, multinucleated cells that RESORB (break down) bone.",
@@ -3274,7 +3275,7 @@
         "D": "Periosteum"
       },
       "correct_answer": "C",
-      "explanation": "This question is essentially asking where longitudinal growth occurs in bones. The most likely site of abnormalities in this child\u2019s femur is the epiphyseal plate, a disc of cartilaginous cells at the internal border of the epiphysis, because the epiphyseal plate is the site of longitudinal growth. Damage to the epiphysis (with or without metaphysis involvement) can imply damage to the epiphyseal plate.",
+      "explanation": "This question is essentially asking where longitudinal growth occurs in bones. The most likely site of abnormalities in this child’s femur is the epiphyseal plate, a disc of cartilaginous cells at the internal border of the epiphysis, because the epiphyseal plate is the site of longitudinal growth. Damage to the epiphysis (with or without metaphysis involvement) can imply damage to the epiphyseal plate.",
       "short_reason": "Epiphysis contains the growth plate (epiphyseal plate) where LONGITUDINAL growth occurs. Damage here = shortened bone. Remember: Epi-physis = growth at the ends.",
       "wrong_answer_explanations": {
         "A": "Diaphysis is the shaft - contributes to width growth via appositional growth, not length.",
@@ -3289,10 +3290,10 @@
       "question_number": 7,
       "question_text": "Which of the following INCORRECTLY pairs a type of muscle fiber with a characteristic of that fiber?",
       "options": {
-        "A": "Red fibers\u2014rich in mitochondria",
-        "B": "Red fibers\u2014high levels of myoglobin",
-        "C": "White fibers\u2014fast-twitching",
-        "D": "White fibers\u2014predominantly use aerobic respiration"
+        "A": "Red fibers—rich in mitochondria",
+        "B": "Red fibers—high levels of myoglobin",
+        "C": "White fibers—fast-twitching",
+        "D": "White fibers—predominantly use aerobic respiration"
       },
       "correct_answer": "D",
       "explanation": "Red fibers are slow-twitching fibers that have high levels of myoglobin and many mitochondria. They derive their energy from aerobic respiration and are capable of sustained vigorous activity. This eliminates (A) and (B). White fibers, on the other hand, are fast-twitching fibers and contain lower levels of myoglobin and fewer mitochondria. Because of their composition, they derive more of their energy anaerobically and fatigue more easily. This eliminates (C) and makes (D) the correct answer.",
@@ -3434,7 +3435,7 @@
       "chapter": 11,
       "chapter_title": "The Musculoskeletal System",
       "question_number": 14,
-      "question_text": "To facilitate the process of birth, an infant\u2019s head is somewhat flexible. This flexibility is due in part to the two fontanelles, which are soft spots of connective tissue in the infant\u2019s skull. With time, the fontanelles will close through a process known as:",
+      "question_text": "To facilitate the process of birth, an infant’s head is somewhat flexible. This flexibility is due in part to the two fontanelles, which are soft spots of connective tissue in the infant’s skull. With time, the fontanelles will close through a process known as:",
       "options": {
         "A": "endochondral ossification.",
         "B": "intramembranous ossification.",
@@ -3455,7 +3456,7 @@
       "chapter": 11,
       "chapter_title": "The Musculoskeletal System",
       "question_number": 15,
-      "question_text": "A young patient presents to the emergency room with a broken hip. The patient denies any recent history of trauma to the joint. Blood tests reveal a calcium concentration of 11.5 mg dL (normal: 8.4\u201310.2). Which tissue is likely responsible for these findings?",
+      "question_text": "A young patient presents to the emergency room with a broken hip. The patient denies any recent history of trauma to the joint. Blood tests reveal a calcium concentration of 11.5 mg dL (normal: 8.4–10.2). Which tissue is likely responsible for these findings?",
       "options": {
         "A": "Thyroid",
         "B": "Cartilage",
@@ -3463,7 +3464,7 @@
         "D": "Smooth muscle"
       },
       "correct_answer": "C",
-      "explanation": "An unprovoked fracture of the hip is not a normal finding in a person who is younger. Given that the patient has a high calcium level, it is likely that the patient has an increased level of bone resorption that is causing the bones to be more fragile. Parathyroid hormone causes calcium release from bones. If this patient had an overactive parathyroid gland\u2014or even cancer in this gland\u2014then it is likely that calcium could still be resorbed from the bones even though blood calcium levels are already high.",
+      "explanation": "An unprovoked fracture of the hip is not a normal finding in a person who is younger. Given that the patient has a high calcium level, it is likely that the patient has an increased level of bone resorption that is causing the bones to be more fragile. Parathyroid hormone causes calcium release from bones. If this patient had an overactive parathyroid gland—or even cancer in this gland—then it is likely that calcium could still be resorbed from the bones even though blood calcium levels are already high.",
       "short_reason": "High Ca2+ + fragile bones = HYPERPARATHYROIDISM! PTH increases bone resorption (osteoclast activity), releasing Ca2+ into blood and weakening bones.",
       "wrong_answer_explanations": {
         "A": "Thyroid makes calcitonin (lowers Ca2+) and T3/T4 - it doesn't cause hypercalcemia and bone fragility.",
@@ -3484,7 +3485,7 @@
         "D": "PNMO"
       },
       "correct_answer": "B",
-      "explanation": "This is a gene-mapping problem. Because there is a correlation between the frequency of recombination and the distance between genes on a chromosome, if we are given the frequencies, we can determine gene order. Remember that one map unit equals 1 percent recombination frequency. The easiest way to begin is to determine the two genes that are farthest apart; in this case, N and O recombine with a frequency of 18%, so they are 18 map units apart on the chromosome: N and P recombine with 1% frequency, and P and O recombine with 17% frequency, so P must be between N and O: N \u2194 1 % P \u2194 17 % O Finally, M and P recombine with 5% frequency, and M and O recombine with 12% frequency, so M must be between P and O: N \u2194 1 % P \u2194 5 % M \u2194 12 % O",
+      "explanation": "This is a gene-mapping problem. Because there is a correlation between the frequency of recombination and the distance between genes on a chromosome, if we are given the frequencies, we can determine gene order. Remember that one map unit equals 1 percent recombination frequency. The easiest way to begin is to determine the two genes that are farthest apart; in this case, N and O recombine with a frequency of 18%, so they are 18 map units apart on the chromosome: N and P recombine with 1% frequency, and P and O recombine with 17% frequency, so P must be between N and O: N ↔ 1 % P ↔ 17 % O Finally, M and P recombine with 5% frequency, and M and O recombine with 12% frequency, so M must be between P and O: N ↔ 1 % P ↔ 5 % M ↔ 12 % O",
       "short_reason": "Gene mapping: Higher recombination % = farther apart. N-O is 18% (farthest). Build the map: N-1%-P-5%-M-12%-O. Order is NPMO!",
       "wrong_answer_explanations": {
         "A": "MOPN doesn't match the recombination distances - M and O should be 12% apart, not adjacent to each other at start.",
@@ -3505,7 +3506,7 @@
         "D": "BbCc"
       },
       "correct_answer": "D",
-      "explanation": "In this dihybrid problem, a doubly recessive individual is crossed with an individual of unknown genotype; this is known as a test cross. The straight- and brown-haired organism has the genotype bbcc and can thus only produce gametes carrying bc. Looking at the F1 offspring, there is a 1:1:1:1 phenotypic ratio. The fact that both the dominant and recessive traits are present in the offspring means that the unknown parental genotype must contain both dominant and recessive alleles for each trait. The unknown parental genotype must therefore be BbCc. If you want to double-check the answer, you can work out the Punnett square for the cross BbCc \u00d7 bbcc:",
+      "explanation": "In this dihybrid problem, a doubly recessive individual is crossed with an individual of unknown genotype; this is known as a test cross. The straight- and brown-haired organism has the genotype bbcc and can thus only produce gametes carrying bc. Looking at the F1 offspring, there is a 1:1:1:1 phenotypic ratio. The fact that both the dominant and recessive traits are present in the offspring means that the unknown parental genotype must contain both dominant and recessive alleles for each trait. The unknown parental genotype must therefore be BbCc. If you want to double-check the answer, you can work out the Punnett square for the cross BbCc × bbcc:",
       "short_reason": "Test cross with bbcc gives 1:1:1:1 ratio = unknown parent is HETEROZYGOUS for BOTH traits (BbCc). Each trait independently segregates.",
       "wrong_answer_explanations": {
         "A": "BbCC would give all curly offspring (no straight), but we see 50% straight hair in offspring.",
@@ -3562,10 +3563,10 @@
       "question_number": 5,
       "question_text": "Which of the following definitions is FALSE?",
       "options": {
-        "A": "Penetrance\u2014the percentage of individuals in the population carrying the allele who actually express the phenotype associated with it",
-        "B": "Expressivity\u2014the percentage of individuals in the population carrying the allele who do not express the phenotype associated with it",
-        "C": "Incomplete dominance\u2014occurs when the phenotype of the heterozygote is an intermediate of the phenotypes of the homozygotes",
-        "D": "Codominance\u2014occurs when multiple alleles exist for a given gene and more than one of them is dominant"
+        "A": "Penetrance—the percentage of individuals in the population carrying the allele who actually express the phenotype associated with it",
+        "B": "Expressivity—the percentage of individuals in the population carrying the allele who do not express the phenotype associated with it",
+        "C": "Incomplete dominance—occurs when the phenotype of the heterozygote is an intermediate of the phenotypes of the homozygotes",
+        "D": "Codominance—occurs when multiple alleles exist for a given gene and more than one of them is dominant"
       },
       "correct_answer": "B",
       "explanation": "The definition given here for expressivity is a much better match for defining penetrance (or, really, one minus the penetrance). Expressivity refers to the variable manifestations of a given genotype as different phenotypes; the degree to which various phenotypes are expressed. All of the other definitions given are accurate.",
@@ -3605,7 +3606,7 @@
       "question_text": "Which of the following statements is INCORRECT regarding inheritance of traits according to the modern synthesis model?",
       "options": {
         "A": "A mutation due to excessive amounts of ultraviolet light occurs in an unfertilized egg; this will affect the child who is born from that egg.",
-        "B": "The muscular strength gained by a weight lifter over a lifetime is inherited by the weight lifter\u2019s children.",
+        "B": "The muscular strength gained by a weight lifter over a lifetime is inherited by the weight lifter’s children.",
         "C": "A green-feathered bird that survived all of the predators in the forest will pass on the green feather genes to its offspring.",
         "D": "A flower with a tasty nectar eaten by a butterfly is more likely to pass on its genes through the pollen spread by the butterfly than a flower with less desirable nectar."
       },
@@ -3623,7 +3624,7 @@
       "chapter": 12,
       "chapter_title": "Genetics and Evolution",
       "question_number": 8,
-      "question_text": "Which of the following statements is FALSE based on Darwin\u2019s theory of natural selection?",
+      "question_text": "Which of the following statements is FALSE based on Darwin’s theory of natural selection?",
       "options": {
         "A": "Natural selection is the driving force for evolution.",
         "B": "Favorable genetic variations become more and more common in individuals throughout their lives.",
@@ -3631,7 +3632,7 @@
         "D": "Fitness is measured by reproductive success."
       },
       "correct_answer": "B",
-      "explanation": "Darwin\u2019s theory of natural selection argues that chance variations between organisms can help certain organisms survive to reproductive age and produce many offspring, transmitting their variations to the next generation. Thus, natural selection would drive the process of evolution forward, enabling the persistence of characteristics that impart an advantage in the environment, eliminating (A). In Darwin\u2019s theory, fitness is measured in terms of reproductive success, as (D) states. Through natural selection, organisms may be separated into groups depending on environmental pressures, and these groups can eventually separate to the point of becoming distinct species, eliminating (C). (B) is the correct answer because the theory of natural selection applies to a population of organisms, not to a particular individual. As such, favorable genetic variations become more and more common from generation to generation, not during the lifetime of an individual.",
+      "explanation": "Darwin’s theory of natural selection argues that chance variations between organisms can help certain organisms survive to reproductive age and produce many offspring, transmitting their variations to the next generation. Thus, natural selection would drive the process of evolution forward, enabling the persistence of characteristics that impart an advantage in the environment, eliminating (A). In Darwin’s theory, fitness is measured in terms of reproductive success, as (D) states. Through natural selection, organisms may be separated into groups depending on environmental pressures, and these groups can eventually separate to the point of becoming distinct species, eliminating (C). (B) is the correct answer because the theory of natural selection applies to a population of organisms, not to a particular individual. As such, favorable genetic variations become more and more common from generation to generation, not during the lifetime of an individual.",
       "short_reason": "Natural selection acts on POPULATIONS over GENERATIONS, not individuals during their lifetime. An individual's traits don't change - population frequencies do!",
       "wrong_answer_explanations": {
         "A": "TRUE - natural selection IS the driving force for evolution according to Darwin.",
@@ -3644,7 +3645,7 @@
       "chapter": 12,
       "chapter_title": "Genetics and Evolution",
       "question_number": 9,
-      "question_text": "Which of the following is NOT a necessary condition for Hardy\u2013Weinberg equilibrium?",
+      "question_text": "Which of the following is NOT a necessary condition for Hardy–Weinberg equilibrium?",
       "options": {
         "A": "Large population size",
         "B": "No mutations",
@@ -3652,7 +3653,7 @@
         "D": "No migration into or out of the population"
       },
       "correct_answer": "C",
-      "explanation": "Hardy\u2013Weinberg equilibrium exists under certain ideal conditions that, when satisfied, allow one to calculate the gene frequencies within a population. The Hardy\u2013Weinberg equation can be applied only under these five conditions: (1) the population is very large; (2) there are no mutations that affect the gene pool; (3) mating between individuals in the population is random; (4) there is no migration of individuals into or out of the population; (5) the genes in the population are all equally successful at being reproduced. Thus, from the given choices, only (C) is false: monogamy is not a necessary condition for Hardy\u2013Weinberg equilibrium.",
+      "explanation": "Hardy–Weinberg equilibrium exists under certain ideal conditions that, when satisfied, allow one to calculate the gene frequencies within a population. The Hardy–Weinberg equation can be applied only under these five conditions: (1) the population is very large; (2) there are no mutations that affect the gene pool; (3) mating between individuals in the population is random; (4) there is no migration of individuals into or out of the population; (5) the genes in the population are all equally successful at being reproduced. Thus, from the given choices, only (C) is false: monogamy is not a necessary condition for Hardy–Weinberg equilibrium.",
       "short_reason": "H-W requires RANDOM mating, not monogamy! The 5 conditions: large population, no mutation, random mating, no migration, no selection.",
       "wrong_answer_explanations": {
         "A": "Large population IS required - small populations have genetic drift.",
@@ -3715,7 +3716,7 @@
         "D": "9% RR, 42% Rr, 49% rr"
       },
       "correct_answer": "D",
-      "explanation": "Let\u2019s use the information provided by the question stem to set up our equations. We are told that the frequency of R equals 30%, and as such, p = 0.30. The frequency of the recessive gene is r = 100% \u2013 30% = 70%; thus, q = 0.70. The frequency of the genotypes, according to the Hardy\u2013Weinberg equilibrium, are given by p2 = RR, 2pq = Rr, and q2 = rr. Therefore, the frequency of the genotypes are (0.3)2 = 0.09 = 9% RR, 2 \u00d7 0.3 \u00d7 0.7 = 0.42 = 42% Rr, and (0.7)2 = 0.49 = 49% rr.",
+      "explanation": "Let’s use the information provided by the question stem to set up our equations. We are told that the frequency of R equals 30%, and as such, p = 0.30. The frequency of the recessive gene is r = 100% – 30% = 70%; thus, q = 0.70. The frequency of the genotypes, according to the Hardy–Weinberg equilibrium, are given by p2 = RR, 2pq = Rr, and q2 = rr. Therefore, the frequency of the genotypes are (0.3)2 = 0.09 = 9% RR, 2 × 0.3 × 0.7 = 0.42 = 42% Rr, and (0.7)2 = 0.49 = 49% rr.",
       "short_reason": "H-W equation: p=0.3, q=0.7. Genotypes: RR=p^2=0.09=9%, Rr=2pq=0.42=42%, rr=q^2=0.49=49%. Remember: p^2 + 2pq + q^2 = 1!",
       "wrong_answer_explanations": {
         "A": "49% RR is wrong - that would be q^2 (0.7^2), but RR should be p^2 (0.3^2) = 9%.",
@@ -3728,7 +3729,7 @@
       "chapter": 12,
       "chapter_title": "Genetics and Evolution",
       "question_number": 13,
-      "question_text": "In a particular Hardy\u2013Weinberg population, there are only two eye colors: brown and blue. Of the population, 36% have blue eyes, the recessive trait. What percentage of the population is heterozygous?",
+      "question_text": "In a particular Hardy–Weinberg population, there are only two eye colors: brown and blue. Of the population, 36% have blue eyes, the recessive trait. What percentage of the population is heterozygous?",
       "options": {
         "A": "24%",
         "B": "48%",
@@ -3736,7 +3737,7 @@
         "D": "64%"
       },
       "correct_answer": "B",
-      "explanation": "Using the information given in the question stem, we can determine that the percentage of the population with blue eyes (genotype bb) = 36% = 0.36 = q2; therefore, q = 0.6. Because this is a Hardy\u2013Weinberg population, we can assume that p + q = 1, so p = 1 \u2013 0.6 = 0.4. The frequency of heterozygous brown eyes is therefore 2pq = 2 \u00d7 0.4 \u00d7 0.6 = 0.48 = 48%.",
+      "explanation": "Using the information given in the question stem, we can determine that the percentage of the population with blue eyes (genotype bb) = 36% = 0.36 = q2; therefore, q = 0.6. Because this is a Hardy–Weinberg population, we can assume that p + q = 1, so p = 1 – 0.6 = 0.4. The frequency of heterozygous brown eyes is therefore 2pq = 2 × 0.4 × 0.6 = 0.48 = 48%.",
       "short_reason": "36% blue (bb) = q^2 = 0.36, so q = 0.6. Then p = 0.4. Heterozygotes (Bb) = 2pq = 2(0.4)(0.6) = 0.48 = 48%!",
       "wrong_answer_explanations": {
         "A": "24% would be 2(0.4)(0.3) - wrong value for q. q = sqrt(0.36) = 0.6, not 0.3.",
@@ -3778,7 +3779,7 @@
         "D": "Inversion"
       },
       "correct_answer": "C",
-      "explanation": "This scenario\u2014a deletion of some DNA and a duplication of other DNA\u2014would be consistent with a translocation between chromosomes 4 and 21 during development of an egg or sperm. If part of chromosome 21 was swapped with part of chromosome 4, then a gamete resulting from meiosis in this cell would result in a daughter cell with two copies of some of the DNA from 21 and no copies of some of the DNA from 4. Therefore, after fertilization, there would be partial trisomy 21 and partial monosomy 4. While a deletion or insertion could explain one of the findings, it cannot explain both, eliminating (A) and (B). An inversion should not lead to partial trisomy or partial monosomy because the DNA is simply reversed, eliminating (D).",
+      "explanation": "This scenario—a deletion of some DNA and a duplication of other DNA—would be consistent with a translocation between chromosomes 4 and 21 during development of an egg or sperm. If part of chromosome 21 was swapped with part of chromosome 4, then a gamete resulting from meiosis in this cell would result in a daughter cell with two copies of some of the DNA from 21 and no copies of some of the DNA from 4. Therefore, after fertilization, there would be partial trisomy 21 and partial monosomy 4. While a deletion or insertion could explain one of the findings, it cannot explain both, eliminating (A) and (B). An inversion should not lead to partial trisomy or partial monosomy because the DNA is simply reversed, eliminating (D).",
       "short_reason": "TRANSLOCATION exchanges DNA between non-homologous chromosomes. This can cause partial trisomy of one chromosome AND partial monosomy of another - both findings explained!",
       "wrong_answer_explanations": {
         "A": "Deletion could cause monosomy 4 but cannot explain trisomy 21 - only removes DNA, doesn't add it.",

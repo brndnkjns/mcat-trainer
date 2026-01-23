@@ -193,7 +193,8 @@
         "A": "Cross products NEVER produce scalars - they always produce vectors.",
         "B": "Cross products NEVER produce scalars - the sine formula indicates a cross product, not dot product.",
         "C": "Direction is out of page, not into - verify with right-hand rule: A to B sweeps counterclockwise."
-      }
+      },
+      "image_filename": "physics_and_math_ch1_q9.png"
     },
     {
       "id": "ch1_q10",
@@ -445,7 +446,8 @@
         "A": "50 N assumes no acceleration (T = mg/2) - but object IS accelerating upward.",
         "C": "100 N is the full weight - this ignores that TWO ropes share the load.",
         "D": "120 N is the total upward force (2T) - each rope only carries half of this."
-      }
+      },
+      "image_filename": "physics_and_math_ch2_q6.png"
     },
     {
       "id": "ch2_q7",
@@ -886,7 +888,8 @@
         "A": "Radiation would need direct line-of-sight or transparent medium - thick metal blocks it.",
         "B": "Convection requires fluid FLOW - the gases are separated and stationary.",
         "D": "Enthalpy is a thermodynamic property, not a heat transfer mechanism!"
-      }
+      },
+      "image_filename": "physics_and_math_ch3_q12.png"
     },
     {
       "id": "ch3_q13",
@@ -1075,7 +1078,8 @@
         "A": "Pipe 1 is wider, so flow is slower and pressure is higher - water level is higher.",
         "C": "Pipe 3 is wider than pipe 2, so pressure is higher there - higher water level.",
         "D": "Pipe 4 is the widest, so slowest flow and highest pressure - highest water level."
-      }
+      },
+      "image_filename": "physics_and_math_ch4_q6.png"
     },
     {
       "id": "ch4_q7",
@@ -1180,7 +1184,8 @@
         "B": "Ball B is denser, so for equal mass, it has SMALLER volume and less buoyancy.",
         "C": "Different volumes mean different buoyant forces - they can't be equal.",
         "D": "We can determine this! Equal mass + different density = different volumes = different buoyancy."
-      }
+      },
+      "image_filename": "physics_and_math_ch4_q11.png"
     },
     {
       "id": "ch4_q12",
@@ -1285,7 +1290,8 @@
         "A": "F/2 would violate Newton's 3rd Law - action-reaction forces are always equal.",
         "C": "2F would violate Newton's 3rd Law - the forces must be equal in magnitude.",
         "D": "4F would violate Newton's 3rd Law - no scaling factor applies to action-reaction pairs."
-      }
+      },
+      "image_filename": "physics_and_math_ch5_q1.png"
     },
     {
       "id": "ch5_q2",
@@ -1369,7 +1375,8 @@
         "A": "At point B, both forces point right (away from each positive charge) - not toward +Q.",
         "B": "At point A, +2Q pushes harder because it's the same distance but has more charge.",
         "D": "Reversed at A - the larger charge (+2Q) dominates at equal distances."
-      }
+      },
+      "image_filename": "physics_and_math_ch5_q5.png"
     },
     {
       "id": "ch5_q6",
@@ -1411,7 +1418,8 @@
         "A": "-10 J ignores the symmetry - the second half undoes the first half's work.",
         "B": "-5 J is half of what might be done to center - but it's all cancelled out.",
         "D": "10 J would require net energy input - but symmetric path returns same energy."
-      }
+      },
+      "image_filename": "physics_and_math_ch5_q7.png"
     },
     {
       "id": "ch5_q8",
@@ -1705,7 +1713,8 @@
         "A": "0.15 ohms is 1/R_total, not R_total - don't forget the final inversion for parallel!",
         "C": "16.7 ohms might come from incomplete simplification - finish all parallel combinations.",
         "D": "60 ohms adds all in series - but there ARE parallel branches here."
-      }
+      },
+      "image_filename": "physics_and_math_ch6_q6.png"
     },
     {
       "id": "ch6_q7",
@@ -1831,7 +1840,8 @@
         "B": "2A toward P would add to input, making 15A in vs 11A out - unbalanced!",
         "C": "10A toward x comes from wrong arithmetic - recheck: 13-11 = 2A.",
         "D": "10A toward P would be massively unbalanced - junction rule requires balance."
-      }
+      },
+      "image_filename": "physics_and_math_ch6_q12.png"
     },
     {
       "id": "ch6_q13",
@@ -2629,7 +2639,8 @@
         "A": "Absorption would INCREASE electron energy - this electron is losing energy.",
         "C": "Work function is material property - electron movement doesn't change it.",
         "D": "Total energy DECREASES when photon is emitted - energy leaves the atom."
-      }
+      },
+      "image_filename": "physics_and_math_ch9_q5.png"
     },
     {
       "id": "ch9_q6",
@@ -3744,7 +3755,8 @@
         "A": "Correlation exists but doesn't prove the causal mechanism (glucose).",
         "B": "Observational study isn't controlled - no random assignment to ice cream consumption.",
         "C": "Missing controls is a problem, but main issue is claiming causation from correlation."
-      }
+      },
+      "image_filename": "physics_and_math_ch12_q13.png"
     },
     {
       "id": "ch12_q14",
