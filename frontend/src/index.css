@@ -716,6 +716,7 @@ h3 { font-size: 1.25rem; }
   min-height: 350px;
   transition: transform 0.6s;
   transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
 }
 
 .flashcard.flipped .flashcard-inner {
@@ -728,6 +729,7 @@ h3 { font-size: 1.25rem; }
   width: 100%;
   min-height: 350px;
   backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
   background: white;
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow-lg);
@@ -738,6 +740,15 @@ h3 { font-size: 1.25rem; }
 
 .flashcard-back {
   transform: rotateY(180deg);
+  visibility: hidden;
+}
+
+.flashcard.flipped .flashcard-back {
+  visibility: visible;
+}
+
+.flashcard.flipped .flashcard-front {
+  visibility: hidden;
 }
 
 .flashcard-label {
