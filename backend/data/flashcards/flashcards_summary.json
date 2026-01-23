@@ -1,29 +1,30 @@
 {
-  "total_flashcards": 6215,
+  "total_flashcards": 1748,
+  "original_total": 6215,
   "subjects": {
+    "Behavioral Sciences": {
+      "total": 300,
+      "original": 1588
+    },
     "Biology": {
-      "total": 1395,
-      "file": "flashcards_bio.json"
+      "total": 300,
+      "original": 1395
     },
     "Biochemistry": {
-      "total": 1049,
-      "file": "flashcards_biochem.json"
+      "total": 300,
+      "original": 1049
     },
     "General Chemistry": {
-      "total": 778,
-      "file": "flashcards_genchem.json"
+      "total": 290,
+      "original": 778
     },
     "Organic Chemistry": {
-      "total": 453,
-      "file": "flashcards_orgchem.json"
+      "total": 258,
+      "original": 453
     },
     "Physics and Math": {
-      "total": 952,
-      "file": "flashcards_physics.json"
-    },
-    "Behavioral Sciences": {
-      "total": 1588,
-      "file": "flashcards_behav.json"
+      "total": 300,
+      "original": 952
     }
   }
 }
