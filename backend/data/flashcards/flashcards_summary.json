@@ -1,0 +1,29 @@
+{
+  "total_flashcards": 6215,
+  "subjects": {
+    "Biology": {
+      "total": 1395,
+      "file": "flashcards_bio.json"
+    },
+    "Biochemistry": {
+      "total": 1049,
+      "file": "flashcards_biochem.json"
+    },
+    "General Chemistry": {
+      "total": 778,
+      "file": "flashcards_genchem.json"
+    },
+    "Organic Chemistry": {
+      "total": 453,
+      "file": "flashcards_orgchem.json"
+    },
+    "Physics and Math": {
+      "total": 952,
+      "file": "flashcards_physics.json"
+    },
+    "Behavioral Sciences": {
+      "total": 1588,
+      "file": "flashcards_behav.json"
+    }
+  }
+}

@@ -72,6 +72,41 @@ export const api = {
     fetchAPI(`/api/users/${userId}/analytics/topics`),
   getTrendAnalytics: (userId, days = 30) =>
     fetchAPI(`/api/users/${userId}/analytics/trends?days=${days}`),
+
+  // Flashcards
+  getFlashcardSubjects: () => fetchAPI('/api/flashcards/subjects'),
+  getFlashcardChapters: (subject) =>
+    fetchAPI(`/api/flashcards/chapters/${encodeURIComponent(subject)}`),
+  getFlashcards: (subject = null, chapter = null, limit = 50, offset = 0) => {
+    let url = `/api/flashcards?limit=${limit}&offset=${offset}`;
+    if (subject) url += `&subject=${encodeURIComponent(subject)}`;
+    if (chapter) url += `&chapter=${chapter}`;
+    return fetchAPI(url);
+  },
+  getFlashcard: (flashcardId) => fetchAPI(`/api/flashcards/${flashcardId}`),
+  getDueFlashcards: (userId, subject = null, limit = 20) => {
+    let url = `/api/flashcards/due/${userId}?limit=${limit}`;
+    if (subject) url += `&subject=${encodeURIComponent(subject)}`;
+    return fetchAPI(url);
+  },
+  createFlashcardSession: (data) =>
+    fetchAPI('/api/flashcard-sessions', {
+      method: 'POST',
+      body: JSON.stringify(data),
+    }),
+  getFlashcardSession: (sessionId) =>
+    fetchAPI(`/api/flashcard-sessions/${sessionId}`),
+  endFlashcardSession: (sessionId) =>
+    fetchAPI(`/api/flashcard-sessions/${sessionId}/end`, { method: 'POST' }),
+  submitFlashcardReview: (data) =>
+    fetchAPI('/api/flashcard-review', {
+      method: 'POST',
+      body: JSON.stringify(data),
+    }),
+  getUserFlashcardStats: (userId) =>
+    fetchAPI(`/api/users/${userId}/flashcard-stats`),
+  getUserFlashcardSessions: (userId, limit = 20) =>
+    fetchAPI(`/api/users/${userId}/flashcard-sessions?limit=${limit}`),
 };
 
 export default api;

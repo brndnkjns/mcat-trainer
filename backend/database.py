@@ -108,6 +108,59 @@ def init_db():
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_attempts_session ON attempts(session_id)")
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_questions_subject ON questions(subject)")
 
+        # Flashcards table
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS flashcards (
+                id TEXT PRIMARY KEY,
+                subject TEXT NOT NULL,
+                chapter INTEGER NOT NULL,
+                chapter_title TEXT NOT NULL,
+                term TEXT NOT NULL,
+                definition TEXT NOT NULL,
+                mnemonic TEXT,
+                category TEXT
+            )
+        """)
+
+        # Flashcard sessions table
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS flashcard_sessions (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_id INTEGER NOT NULL,
+                started_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                ended_at TIMESTAMP,
+                total_cards INTEGER DEFAULT 0,
+                correct_count INTEGER DEFAULT 0,
+                subjects TEXT,
+                FOREIGN KEY (user_id) REFERENCES users(id)
+            )
+        """)
+
+        # Flashcard reviews table (spaced repetition tracking)
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS flashcard_reviews (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_id INTEGER NOT NULL,
+                flashcard_id TEXT NOT NULL,
+                session_id INTEGER,
+                correct BOOLEAN NOT NULL,
+                time_taken_seconds REAL,
+                reviewed_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                ease_factor REAL DEFAULT 2.5,
+                interval_days INTEGER DEFAULT 1,
+                next_review_date DATE,
+                FOREIGN KEY (user_id) REFERENCES users(id),
+                FOREIGN KEY (flashcard_id) REFERENCES flashcards(id),
+                FOREIGN KEY (session_id) REFERENCES flashcard_sessions(id)
+            )
+        """)
+
+        # Create flashcard indexes
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_flashcards_subject ON flashcards(subject)")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_flashcard_reviews_user ON flashcard_reviews(user_id)")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_flashcard_reviews_flashcard ON flashcard_reviews(flashcard_id)")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_flashcard_reviews_next ON flashcard_reviews(user_id, next_review_date)")
+
         # Create default users (Brandon and Porter)
         cursor.execute("INSERT OR IGNORE INTO users (name) VALUES (?)", ("Brandon",))
         cursor.execute("INSERT OR IGNORE INTO users (name) VALUES (?)", ("Porter",))
@@ -457,9 +510,361 @@ def get_recent_question_ids(user_id: int, limit: int = 50) -> List[str]:
         return [row[0] for row in cursor.fetchall()]
 
 
+def load_flashcards_from_json():
+    """Load flashcards from JSON files into the database."""
+    data_dir = Path(__file__).parent / "data" / "flashcards"
+
+    if not data_dir.exists():
+        print(f"Warning: Flashcards directory not found at {data_dir}")
+        return
+
+    flashcard_files = list(data_dir.glob("flashcards_*.json"))
+
+    with get_connection() as conn:
+        cursor = conn.cursor()
+
+        total_loaded = 0
+        for filepath in flashcard_files:
+            if filepath.name == "flashcards_summary.json":
+                continue
+
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+
+                for fc in data.get("flashcards", []):
+                    cursor.execute("""
+                        INSERT OR REPLACE INTO flashcards
+                        (id, subject, chapter, chapter_title, term, definition, mnemonic, category)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                    """, (
+                        fc['id'],
+                        fc['subject'],
+                        fc['chapter'],
+                        fc['chapter_title'],
+                        fc['term'],
+                        fc['definition'],
+                        fc.get('mnemonic', ''),
+                        fc.get('category', 'general')
+                    ))
+                    total_loaded += 1
+
+                print(f"Loaded {len(data.get('flashcards', []))} flashcards from {filepath.name}")
+            except Exception as e:
+                print(f"Error loading {filepath}: {e}")
+
+        print(f"Total flashcards loaded: {total_loaded}")
+
+
+# Flashcard operations
+def get_flashcard_by_id(flashcard_id: str) -> Optional[Dict[str, Any]]:
+    """Get a flashcard by ID."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM flashcards WHERE id = ?", (flashcard_id,))
+        row = cursor.fetchone()
+        return dict(row) if row else None
+
+
+def get_all_flashcards(subject: Optional[str] = None, chapter: Optional[int] = None) -> List[Dict[str, Any]]:
+    """Get all flashcards, optionally filtered by subject and/or chapter."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        query = "SELECT * FROM flashcards WHERE 1=1"
+        params = []
+
+        if subject:
+            query += " AND subject = ?"
+            params.append(subject)
+        if chapter:
+            query += " AND chapter = ?"
+            params.append(chapter)
+
+        query += " ORDER BY subject, chapter, id"
+        cursor.execute(query, params)
+        return [dict(row) for row in cursor.fetchall()]
+
+
+def get_flashcard_subjects() -> List[str]:
+    """Get list of all flashcard subjects."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("SELECT DISTINCT subject FROM flashcards ORDER BY subject")
+        return [row[0] for row in cursor.fetchall()]
+
+
+def get_flashcard_chapters(subject: str) -> List[Dict[str, Any]]:
+    """Get chapters available for a subject with flashcard counts."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT chapter, chapter_title, COUNT(*) as count
+            FROM flashcards
+            WHERE subject = ?
+            GROUP BY chapter
+            ORDER BY chapter
+        """, (subject,))
+        return [dict(row) for row in cursor.fetchall()]
+
+
+def get_flashcard_count(subject: Optional[str] = None, chapter: Optional[int] = None) -> int:
+    """Get count of flashcards."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        query = "SELECT COUNT(*) FROM flashcards WHERE 1=1"
+        params = []
+
+        if subject:
+            query += " AND subject = ?"
+            params.append(subject)
+        if chapter:
+            query += " AND chapter = ?"
+            params.append(chapter)
+
+        cursor.execute(query, params)
+        return cursor.fetchone()[0]
+
+
+# Flashcard session operations
+def create_flashcard_session(user_id: int, subjects: List[str], total_cards: int) -> int:
+    """Create a new flashcard study session."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            INSERT INTO flashcard_sessions (user_id, subjects, total_cards)
+            VALUES (?, ?, ?)
+        """, (user_id, json.dumps(subjects), total_cards))
+        return cursor.lastrowid
+
+
+def get_flashcard_session(session_id: int) -> Optional[Dict[str, Any]]:
+    """Get a flashcard session by ID."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("SELECT * FROM flashcard_sessions WHERE id = ?", (session_id,))
+        row = cursor.fetchone()
+        if row:
+            s = dict(row)
+            s['subjects'] = json.loads(s['subjects']) if s['subjects'] else []
+            return s
+        return None
+
+
+def update_flashcard_session(session_id: int, correct_count: int, ended: bool = False):
+    """Update flashcard session statistics."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        if ended:
+            cursor.execute("""
+                UPDATE flashcard_sessions
+                SET correct_count = ?, ended_at = CURRENT_TIMESTAMP
+                WHERE id = ?
+            """, (correct_count, session_id))
+        else:
+            cursor.execute("""
+                UPDATE flashcard_sessions SET correct_count = ? WHERE id = ?
+            """, (correct_count, session_id))
+
+
+# Flashcard review operations (spaced repetition)
+def record_flashcard_review(user_id: int, flashcard_id: str, session_id: int,
+                            correct: bool, time_taken_seconds: float):
+    """Record a flashcard review with spaced repetition calculations."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+
+        # Get the last review for this flashcard to calculate new interval
+        cursor.execute("""
+            SELECT ease_factor, interval_days
+            FROM flashcard_reviews
+            WHERE user_id = ? AND flashcard_id = ?
+            ORDER BY reviewed_at DESC
+            LIMIT 1
+        """, (user_id, flashcard_id))
+        last_review = cursor.fetchone()
+
+        if last_review:
+            ease_factor = last_review['ease_factor']
+            interval = last_review['interval_days']
+        else:
+            ease_factor = 2.5
+            interval = 1
+
+        # SM-2 algorithm for spaced repetition
+        if correct:
+            if interval == 1:
+                interval = 6
+            else:
+                interval = int(interval * ease_factor)
+            ease_factor = max(1.3, ease_factor + 0.1)
+        else:
+            interval = 1
+            ease_factor = max(1.3, ease_factor - 0.2)
+
+        # Calculate next review date
+        next_review = f"DATE('now', '+{interval} days')"
+
+        cursor.execute(f"""
+            INSERT INTO flashcard_reviews
+            (user_id, flashcard_id, session_id, correct, time_taken_seconds,
+             ease_factor, interval_days, next_review_date)
+            VALUES (?, ?, ?, ?, ?, ?, ?, {next_review})
+        """, (user_id, flashcard_id, session_id, correct, time_taken_seconds,
+              ease_factor, interval))
+
+
+def get_due_flashcards(user_id: int, subject: Optional[str] = None,
+                       limit: int = 20) -> List[Dict[str, Any]]:
+    """Get flashcards that are due for review (spaced repetition)."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+
+        # First get cards due for review
+        query = """
+            SELECT DISTINCT f.*, fr.next_review_date, fr.ease_factor, fr.interval_days
+            FROM flashcards f
+            LEFT JOIN (
+                SELECT flashcard_id, next_review_date, ease_factor, interval_days,
+                       ROW_NUMBER() OVER (PARTITION BY flashcard_id ORDER BY reviewed_at DESC) as rn
+                FROM flashcard_reviews
+                WHERE user_id = ?
+            ) fr ON f.id = fr.flashcard_id AND fr.rn = 1
+            WHERE (fr.next_review_date IS NULL OR fr.next_review_date <= DATE('now'))
+        """
+        params = [user_id]
+
+        if subject:
+            query += " AND f.subject = ?"
+            params.append(subject)
+
+        # Order: due cards first (by date), then new cards
+        query += " ORDER BY fr.next_review_date IS NULL, fr.next_review_date LIMIT ?"
+        params.append(limit)
+
+        cursor.execute(query, params)
+        return [dict(row) for row in cursor.fetchall()]
+
+
+def get_flashcard_stats(user_id: int) -> Dict[str, Any]:
+    """Get flashcard statistics for a user."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+
+        # Overall stats
+        cursor.execute("""
+            SELECT
+                COUNT(*) as total_reviews,
+                SUM(CASE WHEN correct THEN 1 ELSE 0 END) as correct_reviews,
+                AVG(time_taken_seconds) as avg_time
+            FROM flashcard_reviews
+            WHERE user_id = ?
+        """, (user_id,))
+        overall = dict(cursor.fetchone())
+
+        # Cards mastered (interval >= 21 days)
+        cursor.execute("""
+            SELECT COUNT(DISTINCT flashcard_id) as mastered
+            FROM flashcard_reviews
+            WHERE user_id = ? AND interval_days >= 21
+        """, (user_id,))
+        mastered = cursor.fetchone()['mastered']
+
+        # Cards in learning
+        cursor.execute("""
+            SELECT COUNT(DISTINCT flashcard_id) as learning
+            FROM flashcard_reviews
+            WHERE user_id = ? AND interval_days < 21
+        """, (user_id,))
+        learning = cursor.fetchone()['learning']
+
+        # Total cards available
+        cursor.execute("SELECT COUNT(*) FROM flashcards")
+        total_cards = cursor.fetchone()[0]
+
+        # Cards due today
+        cursor.execute("""
+            SELECT COUNT(DISTINCT fr.flashcard_id) as due_count
+            FROM flashcard_reviews fr
+            INNER JOIN (
+                SELECT flashcard_id, MAX(reviewed_at) as max_review
+                FROM flashcard_reviews
+                WHERE user_id = ?
+                GROUP BY flashcard_id
+            ) latest ON fr.flashcard_id = latest.flashcard_id
+                     AND fr.reviewed_at = latest.max_review
+            WHERE fr.user_id = ?
+              AND fr.next_review_date <= DATE('now')
+        """, (user_id, user_id))
+        due_today = cursor.fetchone()['due_count']
+
+        # New cards (never reviewed)
+        cursor.execute("""
+            SELECT COUNT(*) as new_cards
+            FROM flashcards f
+            WHERE NOT EXISTS (
+                SELECT 1 FROM flashcard_reviews fr
+                WHERE fr.flashcard_id = f.id AND fr.user_id = ?
+            )
+        """, (user_id,))
+        new_cards = cursor.fetchone()['new_cards']
+
+        # Stats by subject
+        cursor.execute("""
+            SELECT
+                f.subject,
+                COUNT(DISTINCT fr.flashcard_id) as reviewed,
+                SUM(CASE WHEN fr.correct THEN 1 ELSE 0 END) as correct,
+                COUNT(*) as total_reviews
+            FROM flashcard_reviews fr
+            JOIN flashcards f ON fr.flashcard_id = f.id
+            WHERE fr.user_id = ?
+            GROUP BY f.subject
+        """, (user_id,))
+        by_subject = {row['subject']: {
+            "reviewed": row['reviewed'],
+            "correct": row['correct'],
+            "total_reviews": row['total_reviews'],
+            "accuracy": row['correct'] / row['total_reviews'] if row['total_reviews'] > 0 else 0
+        } for row in cursor.fetchall()}
+
+        return {
+            "total_reviews": overall['total_reviews'] or 0,
+            "correct_reviews": overall['correct_reviews'] or 0,
+            "accuracy": (overall['correct_reviews'] / overall['total_reviews'] * 100)
+                        if overall['total_reviews'] else 0,
+            "avg_time_seconds": overall['avg_time'] or 0,
+            "total_cards": total_cards,
+            "mastered": mastered,
+            "learning": learning,
+            "new_cards": new_cards,
+            "due_today": due_today,
+            "by_subject": by_subject
+        }
+
+
+def get_user_flashcard_sessions(user_id: int, limit: int = 20) -> List[Dict[str, Any]]:
+    """Get recent flashcard sessions for a user."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT * FROM flashcard_sessions
+            WHERE user_id = ?
+            ORDER BY started_at DESC
+            LIMIT ?
+        """, (user_id, limit))
+        sessions = []
+        for row in cursor.fetchall():
+            s = dict(row)
+            s['subjects'] = json.loads(s['subjects']) if s['subjects'] else []
+            sessions.append(s)
+        return sessions
+
+
 if __name__ == "__main__":
     print("Initializing database...")
     init_db()
     print("Loading questions from JSON files...")
     load_questions_from_json()
+    print("Loading flashcards from JSON files...")
+    load_flashcards_from_json()
     print("Database setup complete!")

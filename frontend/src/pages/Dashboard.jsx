@@ -45,10 +45,13 @@ function Dashboard({ user }) {
       <div className="card">
         <div className="flex gap-4 flex-wrap">
           <Link to="/study/setup" className="btn btn-primary btn-lg">
-            Start Practice Session
+            📝 Practice Questions
+          </Link>
+          <Link to="/flashcards/setup" className="btn btn-primary btn-lg">
+            🗂️ Study Flashcards
           </Link>
           <Link to="/analytics" className="btn btn-secondary btn-lg">
-            View Analytics
+            📊 View Analytics
           </Link>
         </div>
       </div>

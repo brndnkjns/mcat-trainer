@@ -6,6 +6,9 @@ import SessionSetup from './pages/SessionSetup';
 import StudySession from './pages/StudySession';
 import SessionSummary from './pages/SessionSummary';
 import Analytics from './pages/Analytics';
+import FlashcardSetup from './pages/FlashcardSetup';
+import FlashcardSession from './pages/FlashcardSession';
+import FlashcardSummary from './pages/FlashcardSummary';
 
 function App() {
   const [currentUser, setCurrentUser] = useState(null);
@@ -106,6 +109,36 @@ function App() {
           element={
             currentUser ? (
               <Analytics user={currentUser} />
+            ) : (
+              <Navigate to="/" replace />
+            )
+          }
+        />
+        <Route
+          path="/flashcards/setup"
+          element={
+            currentUser ? (
+              <FlashcardSetup user={currentUser} />
+            ) : (
+              <Navigate to="/" replace />
+            )
+          }
+        />
+        <Route
+          path="/flashcards/session/:sessionId"
+          element={
+            currentUser ? (
+              <FlashcardSession user={currentUser} />
+            ) : (
+              <Navigate to="/" replace />
+            )
+          }
+        />
+        <Route
+          path="/flashcards/summary/:sessionId"
+          element={
+            currentUser ? (
+              <FlashcardSummary user={currentUser} />
             ) : (
               <Navigate to="/" replace />
             )

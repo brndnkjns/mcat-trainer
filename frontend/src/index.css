@@ -647,3 +647,323 @@ h3 { font-size: 1.25rem; }
   color: #0c4a6e;
   margin: 0;
 }
+
+/* ============================================
+   FLASHCARD STYLES
+   ============================================ */
+
+.flashcard-container {
+  max-width: 700px;
+}
+
+/* Flashcard Progress */
+.flashcard-progress {
+  margin-bottom: var(--space-4);
+}
+
+.flashcard-progress .progress-bar {
+  height: 8px;
+  background: var(--gray-200);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.flashcard-progress .progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary), var(--primary-dark));
+  transition: width 0.3s ease;
+}
+
+.flashcard-progress .progress-text {
+  display: flex;
+  justify-content: space-between;
+  margin-top: var(--space-2);
+  font-size: 0.875rem;
+  color: var(--gray-600);
+}
+
+/* Flashcard Meta */
+.flashcard-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+
+.badge {
+  display: inline-block;
+  padding: var(--space-1) var(--space-3);
+  background: var(--primary);
+  color: white;
+  border-radius: var(--radius-sm);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.badge-secondary {
+  background: var(--gray-500);
+}
+
+/* Flashcard */
+.flashcard {
+  perspective: 1000px;
+  margin-bottom: var(--space-6);
+}
+
+.flashcard-inner {
+  position: relative;
+  min-height: 350px;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+}
+
+.flashcard.flipped .flashcard-inner {
+  transform: rotateY(180deg);
+}
+
+.flashcard-front,
+.flashcard-back {
+  position: absolute;
+  width: 100%;
+  min-height: 350px;
+  backface-visibility: hidden;
+  background: white;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+  padding: var(--space-6);
+  display: flex;
+  flex-direction: column;
+}
+
+.flashcard-back {
+  transform: rotateY(180deg);
+}
+
+.flashcard-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--gray-500);
+  font-weight: 600;
+  margin-bottom: var(--space-4);
+}
+
+.flashcard-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.flashcard-text {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: var(--gray-800);
+}
+
+.flashcard-term {
+  font-size: 2rem;
+  color: var(--primary-dark);
+  margin-bottom: var(--space-3);
+}
+
+.flashcard-hint {
+  margin-top: auto;
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--gray-200);
+  text-align: center;
+}
+
+/* Mnemonic */
+.flashcard-mnemonic {
+  margin-top: var(--space-4);
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--gray-200);
+  width: 100%;
+}
+
+.mnemonic-content {
+  margin-top: var(--space-3);
+  padding: var(--space-3);
+  background: #fef9c3;
+  border-radius: var(--radius-md);
+  font-size: 0.95rem;
+  color: #854d0e;
+  text-align: left;
+}
+
+.mnemonic-icon {
+  margin-right: var(--space-2);
+}
+
+/* Flashcard Actions */
+.flashcard-actions {
+  text-align: center;
+}
+
+.response-buttons {
+  display: flex;
+  gap: var(--space-4);
+  justify-content: center;
+}
+
+.btn-response {
+  flex: 1;
+  max-width: 200px;
+  padding: var(--space-4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-2);
+  border-radius: var(--radius-lg);
+  font-weight: 600;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.btn-response:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.btn-hard {
+  background: linear-gradient(135deg, #fecaca, #f87171);
+  color: #991b1b;
+  border: 2px solid #ef4444;
+}
+
+.btn-hard:hover {
+  background: linear-gradient(135deg, #f87171, #ef4444);
+  color: white;
+}
+
+.btn-easy {
+  background: linear-gradient(135deg, #bbf7d0, #4ade80);
+  color: #166534;
+  border: 2px solid #22c55e;
+}
+
+.btn-easy:hover {
+  background: linear-gradient(135deg, #4ade80, #22c55e);
+  color: white;
+}
+
+.response-icon {
+  font-size: 1.5rem;
+}
+
+.response-key {
+  font-size: 0.75rem;
+  opacity: 0.8;
+}
+
+/* Chapter grid for flashcard setup */
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: var(--space-3);
+}
+
+.chapter-checkbox {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+  padding: var(--space-3);
+  background: var(--gray-50);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.chapter-checkbox:hover {
+  background: var(--gray-100);
+}
+
+.chapter-checkbox input[type="checkbox"] {
+  margin-top: 2px;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.chapter-label {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+}
+
+/* Progress bar for flashcard summary */
+.progress-bar-lg {
+  position: relative;
+  height: 24px;
+  background: var(--gray-200);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.progress-fill-mastered {
+  position: absolute;
+  height: 100%;
+  background: linear-gradient(90deg, #22c55e, #16a34a);
+  transition: width 0.3s ease;
+}
+
+.progress-fill-learning {
+  position: absolute;
+  height: 100%;
+  background: linear-gradient(90deg, #fbbf24, #f59e0b);
+  transition: width 0.3s ease, left 0.3s ease;
+}
+
+.progress-label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: var(--space-2);
+  font-weight: 600;
+}
+
+.progress-legend {
+  display: flex;
+  gap: var(--space-4);
+  font-size: 0.875rem;
+}
+
+.legend-dot {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-right: var(--space-1);
+}
+
+.legend-dot.mastered {
+  background: #22c55e;
+}
+
+.legend-dot.learning {
+  background: #fbbf24;
+}
+
+.legend-dot.new {
+  background: var(--gray-300);
+}
+
+/* Small spinner for buttons */
+.spinner-small {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  border: 2px solid currentColor;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+  margin-right: var(--space-2);
+}
+
+/* Btn sm */
+.btn-sm {
+  padding: var(--space-1) var(--space-2);
+  font-size: 0.875rem;
+}

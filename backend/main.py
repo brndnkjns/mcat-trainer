@@ -101,6 +101,21 @@ class AnswerResultResponse(BaseModel):
     session_progress: dict
 
 
+# Pydantic models for flashcards
+class StartFlashcardSessionRequest(BaseModel):
+    user_id: int
+    subjects: List[str]
+    total_cards: int
+
+
+class FlashcardReviewRequest(BaseModel):
+    user_id: int
+    flashcard_id: str
+    session_id: int
+    correct: bool
+    time_taken_seconds: float
+
+
 # Startup event
 @app.on_event("startup")
 async def startup_event():
@@ -108,6 +123,7 @@ async def startup_event():
     print("Initializing database...")
     db.init_db()
     db.load_questions_from_json()
+    db.load_flashcards_from_json()
     print("Database ready!")
 
 
@@ -421,6 +437,163 @@ async def get_trend_analytics(user_id: int, days: int = 30):
             })
 
         return results
+
+
+# ============== FLASHCARD ENDPOINTS ==============
+
+@app.get("/api/flashcards/subjects")
+async def get_flashcard_subjects():
+    """Get list of all flashcard subjects with counts."""
+    subjects = db.get_flashcard_subjects()
+    result = []
+    for subject in subjects:
+        count = db.get_flashcard_count(subject=subject)
+        chapters = db.get_flashcard_chapters(subject)
+        result.append({
+            "subject": subject,
+            "total_cards": count,
+            "chapters": chapters
+        })
+    return result
+
+
+@app.get("/api/flashcards/chapters/{subject}")
+async def get_flashcard_chapters(subject: str):
+    """Get chapters for a subject with card counts."""
+    chapters = db.get_flashcard_chapters(subject)
+    if not chapters:
+        raise HTTPException(status_code=404, detail="Subject not found")
+    return chapters
+
+
+@app.get("/api/flashcards")
+async def get_flashcards(
+    subject: Optional[str] = None,
+    chapter: Optional[int] = None,
+    limit: int = 50,
+    offset: int = 0
+):
+    """Get flashcards with optional filtering."""
+    all_cards = db.get_all_flashcards(subject=subject, chapter=chapter)
+    total = len(all_cards)
+    cards = all_cards[offset:offset + limit]
+    return {
+        "total": total,
+        "offset": offset,
+        "limit": limit,
+        "flashcards": cards
+    }
+
+
+@app.get("/api/flashcards/{flashcard_id}")
+async def get_flashcard(flashcard_id: str):
+    """Get a specific flashcard."""
+    flashcard = db.get_flashcard_by_id(flashcard_id)
+    if not flashcard:
+        raise HTTPException(status_code=404, detail="Flashcard not found")
+    return flashcard
+
+
+@app.get("/api/flashcards/due/{user_id}")
+async def get_due_flashcards(
+    user_id: int,
+    subject: Optional[str] = None,
+    limit: int = 20
+):
+    """Get flashcards due for review (spaced repetition)."""
+    user = db.get_user_by_id(user_id)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    cards = db.get_due_flashcards(user_id, subject=subject, limit=limit)
+    return {
+        "total_due": len(cards),
+        "flashcards": cards
+    }
+
+
+@app.post("/api/flashcard-sessions")
+async def create_flashcard_session(request: StartFlashcardSessionRequest):
+    """Start a new flashcard study session."""
+    session_id = db.create_flashcard_session(
+        user_id=request.user_id,
+        subjects=request.subjects,
+        total_cards=request.total_cards
+    )
+    session = db.get_flashcard_session(session_id)
+    return session
+
+
+@app.get("/api/flashcard-sessions/{session_id}")
+async def get_flashcard_session(session_id: int):
+    """Get flashcard session details."""
+    session = db.get_flashcard_session(session_id)
+    if not session:
+        raise HTTPException(status_code=404, detail="Session not found")
+    return session
+
+
+@app.post("/api/flashcard-sessions/{session_id}/end")
+async def end_flashcard_session(session_id: int):
+    """End a flashcard session and get summary."""
+    session = db.get_flashcard_session(session_id)
+    if not session:
+        raise HTTPException(status_code=404, detail="Session not found")
+
+    db.update_flashcard_session(session_id, session['correct_count'], ended=True)
+
+    return {
+        "session_id": session_id,
+        "total_cards": session['total_cards'],
+        "correct_count": session['correct_count'],
+        "accuracy": (session['correct_count'] / session['total_cards'] * 100)
+                    if session['total_cards'] > 0 else 0,
+        "ended_at": datetime.now().isoformat()
+    }
+
+
+@app.post("/api/flashcard-review")
+async def submit_flashcard_review(request: FlashcardReviewRequest):
+    """Submit a flashcard review result."""
+    flashcard = db.get_flashcard_by_id(request.flashcard_id)
+    if not flashcard:
+        raise HTTPException(status_code=404, detail="Flashcard not found")
+
+    # Record the review
+    db.record_flashcard_review(
+        user_id=request.user_id,
+        flashcard_id=request.flashcard_id,
+        session_id=request.session_id,
+        correct=request.correct,
+        time_taken_seconds=request.time_taken_seconds
+    )
+
+    # Update session stats
+    session = db.get_flashcard_session(request.session_id)
+    if session:
+        new_correct = session['correct_count'] + (1 if request.correct else 0)
+        db.update_flashcard_session(request.session_id, new_correct)
+
+    return {
+        "recorded": True,
+        "flashcard_id": request.flashcard_id,
+        "correct": request.correct
+    }
+
+
+@app.get("/api/users/{user_id}/flashcard-stats")
+async def get_user_flashcard_stats(user_id: int):
+    """Get flashcard statistics for a user."""
+    user = db.get_user_by_id(user_id)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+    return db.get_flashcard_stats(user_id)
+
+
+@app.get("/api/users/{user_id}/flashcard-sessions")
+async def get_user_flashcard_sessions(user_id: int, limit: int = 20):
+    """Get recent flashcard sessions for a user."""
+    return db.get_user_flashcard_sessions(user_id, limit)
 
 
 if __name__ == "__main__":
