@@ -1742,7 +1742,7 @@
       "chapter": 6,
       "chapter_title": "Circuits",
       "question_number": 8,
-      "question_text": "In the circuit below, what is the voltage drop across the 23 Ω resistor?",
+      "question_text": "In the circuit below, what is the voltage drop across the 2/3 Ω resistor?",
       "options": {
         "A": "12 V",
         "B": "23 V",
@@ -1756,7 +1756,8 @@
         "A": "12 V is the total source voltage - must account for voltage drop across other resistors.",
         "B": "23 V exceeds source voltage - impossible in this circuit!",
         "D": "7.5 V doesn't match circuit analysis - check the series-parallel combination."
-      }
+      },
+      "image_filename": "phys_ch6_q8_circuit.png"
     },
     {
       "id": "ch6_q9",

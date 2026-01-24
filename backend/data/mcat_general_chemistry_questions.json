@@ -1034,7 +1034,8 @@
         "A": "Benzene is C6H6 = CH ratio, simplifies perfectly to the empirical formula CH.",
         "B": "Ethyne (acetylene) is C2H2 = CH ratio, also simplifies to CH.",
         "D": "If this is a compound with CH ratio, it would work - the question shows C3H4 structure doesn't fit."
-      }
+      },
+      "image_filename": "gc_ch4_q4_gc_ch04_figure_text_un142-01.png"
     },
     {
       "id": "ch4_q5",
@@ -1540,7 +1541,8 @@
         "A": "Reactants are at point A - the starting position on the left.",
         "B": "Products are at point E - the final position on the right.",
         "C": "Transition states are at peaks (points B and D), not valleys."
-      }
+      },
+      "image_filename": "gc_ch5_q13_reaction_profile.png"
     },
     {
       "id": "ch5_q14",
@@ -1737,7 +1739,7 @@
       "chapter": 6,
       "chapter_title": "Equilibrium",
       "question_number": 8,
-      "question_text": "If this reaction were exothermic, what effect would decreasing the temperature have on the equilibrium?",
+      "question_text": "Consider the reaction: FeI (aq) + I₂ (g) → FeI₃ (aq). If this reaction were exothermic, what effect would decreasing the temperature have on the equilibrium?",
       "options": {
         "A": "The forward reaction rate and the reverse reaction rate both increase.",
         "B": "The forward reaction rate decreases while the reverse reaction rate increases.",

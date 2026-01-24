@@ -1077,7 +1077,8 @@
         "A": "Wrong carbon - check that the methoxy group is attached to the anomeric carbon (C1).",
         "C": "Wrong position - the methoxy group should be on C1, the anomeric carbon.",
         "D": "Too many carbons or wrong attachment point - glycoside forms specifically at the anomeric position."
-      }
+      },
+      "image_filename": "bc_ch4_q6_bc_ch04_figure_text_un127-01.png"
     },
     {
       "id": "ch4_q7",
@@ -1203,7 +1204,8 @@
         "A": "The reaction shows ring OPENING from hemiacetal, not aldehyde formation from scratch.",
         "B": "Hemiketals form from ketones - glucose has an aldehyde, forming hemiacetal.",
         "D": "No glycosidic bond exists here - this is a monosaccharide undergoing ring opening/closing."
-      }
+      },
+      "image_filename": "bc_ch4_q12_bc_ch04_figure_text_un128-06.png"
     },
     {
       "id": "ch4_q13",
