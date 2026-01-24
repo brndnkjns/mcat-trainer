@@ -99,13 +99,13 @@
       "question_number": 5,
       "question_text": "The IUPAC name for the following structure ends in what suffix?",
       "options": {
-        "A": "–ol",
-        "B": "–one",
-        "C": "–oic acid",
-        "D": "–yne"
+        "A": "\u2013ol",
+        "B": "\u2013one",
+        "C": "\u2013oic acid",
+        "D": "\u2013yne"
       },
       "correct_answer": "C",
-      "explanation": "Among the functional groups presented, carboxylic acids have the highest priority, and their compounds end with an –oic acid suffix. (A) denotes an alcohol, (B) a ketone, and (D) an alkyne, all of which have lower priorities than carboxylic acids. The MCAT does not test nomenclature of halides or ethers, but note that these must have lower priority than a carboxylic acid because they are less oxidized groups.",
+      "explanation": "Among the functional groups presented, carboxylic acids have the highest priority, and their compounds end with an \u2013oic acid suffix. (A) denotes an alcohol, (B) a ketone, and (D) an alkyne, all of which have lower priorities than carboxylic acids. The MCAT does not test nomenclature of halides or ethers, but note that these must have lower priority than a carboxylic acid because they are less oxidized groups.",
       "short_reason": "Carboxylic acids are KING of functional group priority! Remember: -oic acid suffix means COOH is present and takes charge.",
       "wrong_answer_explanations": {
         "A": "-ol denotes alcohols, which have lower priority than carboxylic acids in naming.",
@@ -149,7 +149,7 @@
         "D": ""
       },
       "correct_answer": "B",
-      "explanation": "We know from the IUPAC name that we have a butanedioic acid backbone—in other words, a four-carbon backbone with carboxylic acids at either end. Adding the hydroxyl groups at carbons 2 and 3 then yields the correct structure.",
+      "explanation": "We know from the IUPAC name that we have a butanedioic acid backbone\u2014in other words, a four-carbon backbone with carboxylic acids at either end. Adding the hydroxyl groups at carbons 2 and 3 then yields the correct structure.",
       "short_reason": "Decode the name piece by piece: butane = 4 carbons, dioic acid = COOH on BOTH ends, 2,3-dihydroxy = OH on carbons 2 and 3.",
       "wrong_answer_explanations": {
         "A": "Check if this structure has 4 carbons with carboxylic acids at positions 1 and 4, plus hydroxyls at 2 and 3.",
@@ -164,13 +164,13 @@
       "question_number": 8,
       "question_text": "The common names for the aldehydes and carboxylic acids that contain only one carbon start with which prefix?",
       "options": {
-        "A": "Para–",
-        "B": "Form–",
-        "C": "Meth–",
-        "D": "Acet–"
+        "A": "Para\u2013",
+        "B": "Form\u2013",
+        "C": "Meth\u2013",
+        "D": "Acet\u2013"
       },
       "correct_answer": "B",
-      "explanation": "Form– is a prefix shared by the common names of methanoic acid (formic acid) and methanal (formaldehyde).",
+      "explanation": "Form\u2013 is a prefix shared by the common names of methanoic acid (formic acid) and methanal (formaldehyde).",
       "short_reason": "FORM- = 1 carbon (like FORMic acid from FORMica ants). ACET- = 2 carbons (like vinegar/ACETic acid). METH- is IUPAC, not common!",
       "wrong_answer_explanations": {
         "A": "Para- describes substitution patterns on benzene rings, not carbon chain length.",
@@ -191,7 +191,7 @@
         "D": "5-ethyl-2-methylhexane"
       },
       "correct_answer": "A",
-      "explanation": "The first task in naming a compound is identifying the longest carbon chain. In this case, the longest chain has seven carbons, so the parent alkane ends in –heptane. (B) and (D) can therefore be eliminated. Then, we must make sure that the carbons are numbered so that the substituents’ position numbers are as small as possible. This compound has two methyl groups; minimizing their position numbers requires us to number the chain from right to left. These methyl groups are attached to carbons 2 and 5, so the correct IUPAC name is 2,5-dimethylheptane. (C) is incorrect because the position numbers of the substituents are not minimized.",
+      "explanation": "The first task in naming a compound is identifying the longest carbon chain. In this case, the longest chain has seven carbons, so the parent alkane ends in \u2013heptane. (B) and (D) can therefore be eliminated. Then, we must make sure that the carbons are numbered so that the substituents\u2019 position numbers are as small as possible. This compound has two methyl groups; minimizing their position numbers requires us to number the chain from right to left. These methyl groups are attached to carbons 2 and 5, so the correct IUPAC name is 2,5-dimethylheptane. (C) is incorrect because the position numbers of the substituents are not minimized.",
       "short_reason": "Step 1: Find LONGEST chain (7 carbons = heptane). Step 2: Number to give LOWEST substituent positions (2,5 < 3,6). Alphabetize substituents in name!",
       "wrong_answer_explanations": {
         "B": "This creates a 6-carbon chain with ethyl substituent when a 7-carbon chain exists - not the longest chain!",
@@ -213,7 +213,7 @@
         "D": "3-ethyl-2,2,5-trimethylhexane"
       },
       "correct_answer": "D",
-      "explanation": "We begin by finding the longest carbon chain; because there are no non-alkyl groups, we don’t need to worry about any other groups’ priorities. We then number our carbons such that the lowest possible combination of numbers is given to the various substituents. Then substituents are organized alphabetically, not numerically—eliminating (C).",
+      "explanation": "We begin by finding the longest carbon chain; because there are no non-alkyl groups, we don\u2019t need to worry about any other groups\u2019 priorities. We then number our carbons such that the lowest possible combination of numbers is given to the various substituents. Then substituents are organized alphabetically, not numerically\u2014eliminating (C).",
       "short_reason": "Alphabetize substituents (Ethyl before Methyl), then number for lowest positions. Ignore 'iso' and 'di/tri' prefixes when alphabetizing!",
       "wrong_answer_explanations": {
         "A": "Isopropyl groups should be broken into their component methyl and ethyl substituents for correct naming.",
@@ -257,7 +257,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "C",
-      "explanation": "The suffix –amide in nicotinamide indicates that this compound contains an amide functional group. The prefix diphospho– indicates that there are two phosphate groups as well. Even if we did not know the prefix phospho– from this chapter, we should recognize that nucleotides, mentioned in the name of the compound, contain a sugar, a phosphate group, and a nitrogenous base. The structure of NAD+, the oxidized form of NADH, is shown below.",
+      "explanation": "The suffix \u2013amide in nicotinamide indicates that this compound contains an amide functional group. The prefix diphospho\u2013 indicates that there are two phosphate groups as well. Even if we did not know the prefix phospho\u2013 from this chapter, we should recognize that nucleotides, mentioned in the name of the compound, contain a sugar, a phosphate group, and a nitrogenous base. The structure of NAD+, the oxidized form of NADH, is shown below.",
       "short_reason": "Read the name like a code: NicotinAMIDE = amide group, DiPHOSPHO = phosphate groups. Nucleotide = sugar + phosphate + base. No anhydride linkage here!",
       "wrong_answer_explanations": {
         "A": "NADH has more than just phosphate - the nicotinamide part clearly indicates an amide functional group.",
@@ -278,7 +278,7 @@
         "D": ""
       },
       "correct_answer": "A",
-      "explanation": "We can use the name acetylformic acid to figure out what our functional groups are. The prefix acet– refers to a two-carbon unit with one carbon in a carbonyl group—think of acetic acid, acetic anhydride, or acetaldehyde. The carbonyl carbon is the point of attachment to another functional group. Formic acid is a single-carbon carboxylic acid. Therefore, acetylformic acid is an acetyl group directly attached to formic acid, as shown in (A). (B) shows acetic acid, or vinegar; (C) shows glucose; and (D) shows formic acid.",
+      "explanation": "We can use the name acetylformic acid to figure out what our functional groups are. The prefix acet\u2013 refers to a two-carbon unit with one carbon in a carbonyl group\u2014think of acetic acid, acetic anhydride, or acetaldehyde. The carbonyl carbon is the point of attachment to another functional group. Formic acid is a single-carbon carboxylic acid. Therefore, acetylformic acid is an acetyl group directly attached to formic acid, as shown in (A). (B) shows acetic acid, or vinegar; (C) shows glucose; and (D) shows formic acid.",
       "short_reason": "ACETYL = 2C with carbonyl (CH3-C=O-), FORMIC = 1C carboxylic acid. Combine them: acetyl-formic acid = CH3-CO-COOH = pyruvic acid!",
       "wrong_answer_explanations": {
         "B": "Acetic acid (CH3COOH) is just the acetyl group with -OH, missing the formic acid portion.",
@@ -299,7 +299,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "B",
-      "explanation": "Acetic anhydride is the common name for ethanoic anhydride. Methyl formate is the common name for methyl methanoate; we can infer this from the common root form– and the ester suffix –oate (which is sometimes shortened to –ate for pronunciation purposes). Formic acid is the common name for methanoic acid, but this is a carboxylic acid—not a derivative.",
+      "explanation": "Acetic anhydride is the common name for ethanoic anhydride. Methyl formate is the common name for methyl methanoate; we can infer this from the common root form\u2013 and the ester suffix \u2013oate (which is sometimes shortened to \u2013ate for pronunciation purposes). Formic acid is the common name for methanoic acid, but this is a carboxylic acid\u2014not a derivative.",
       "short_reason": "Derivatives are MODIFIED carboxylic acids! Anhydrides and esters (methyl formate) come FROM acids. The parent acid itself (formic acid) is NOT a derivative.",
       "wrong_answer_explanations": {
         "A": "Formic acid is the PARENT carboxylic acid, not a derivative of one.",
@@ -383,7 +383,7 @@
         "D": ""
       },
       "correct_answer": "C",
-      "explanation": "This answer choice is an example of a meso compound—a compound that contains chiral centers but has an internal plane of symmetry: Owing to this internal plane of symmetry, the molecule is achiral and, hence, optically inactive. (A) and (B) are enantiomers of each other and will certainly show optical activity on their own. (D), because it contains a chiral carbon and no internal plane of symmetry, is optically active as well.",
+      "explanation": "This answer choice is an example of a meso compound\u2014a compound that contains chiral centers but has an internal plane of symmetry: Owing to this internal plane of symmetry, the molecule is achiral and, hence, optically inactive. (A) and (B) are enantiomers of each other and will certainly show optical activity on their own. (D), because it contains a chiral carbon and no internal plane of symmetry, is optically active as well.",
       "short_reason": "MESO = chiral centers BUT internal mirror plane = optically INACTIVE! The molecule's own halves cancel each other's rotation.",
       "wrong_answer_explanations": {
         "A": "This structure has chiral centers without an internal plane of symmetry - it will be optically active.",
@@ -471,7 +471,7 @@
         "D": "structural isomers."
       },
       "correct_answer": "A",
-      "explanation": "These compounds are nonsuperimposable mirror images. To make analysis a bit easier, we can rotate structure II 180° to look like structure III. Structures I and III more clearly have opposite stereochemistry at every chiral center, meaning that they are enantiomers. (B) is incorrect because diastereomers are stereoisomers that are not mirror images of each other. (C) is incorrect because meso compounds must contain a plane of symmetry, which neither of these molecules has. (D) is incorrect because structural isomers are compounds with the same molecular formula but different atomic connections. The connectivity in these two molecules is the same, which means that they are stereoisomers, not structural isomers.",
+      "explanation": "These compounds are nonsuperimposable mirror images. To make analysis a bit easier, we can rotate structure II 180\u00b0 to look like structure III. Structures I and III more clearly have opposite stereochemistry at every chiral center, meaning that they are enantiomers. (B) is incorrect because diastereomers are stereoisomers that are not mirror images of each other. (C) is incorrect because meso compounds must contain a plane of symmetry, which neither of these molecules has. (D) is incorrect because structural isomers are compounds with the same molecular formula but different atomic connections. The connectivity in these two molecules is the same, which means that they are stereoisomers, not structural isomers.",
       "short_reason": "Mirror images with OPPOSITE stereochemistry at ALL chiral centers = ENANTIOMERS. Different at SOME but not all = diastereomers.",
       "wrong_answer_explanations": {
         "B": "Diastereomers differ at SOME chiral centers but not all - these differ at ALL centers.",
@@ -485,7 +485,7 @@
       "chapter": 2,
       "chapter_title": "Isomers",
       "question_number": 8,
-      "question_text": "(+)-Glyceraldehyde and (–)-glyceraldehyde refer to the (R) and (S) forms of 2,3-dihydroxypropanal, respectively. These molecules are considered:",
+      "question_text": "(+)-Glyceraldehyde and (\u2013)-glyceraldehyde refer to the (R) and (S) forms of 2,3-dihydroxypropanal, respectively. These molecules are considered:",
       "options": {
         "A": "enantiomers.",
         "B": "diastereomers.",
@@ -493,7 +493,7 @@
         "D": "structural isomers."
       },
       "correct_answer": "A",
-      "explanation": "(+)-Glyceraldehyde and (–)-glyceraldehyde, or (R)- and (S)-2,3-dihydroxypropanal, are enantiomers. Enantiomers are nonsuperimposable mirror images. Each has only one chiral center (C-2), which has opposite absolute configuration in these two molecules.",
+      "explanation": "(+)-Glyceraldehyde and (\u2013)-glyceraldehyde, or (R)- and (S)-2,3-dihydroxypropanal, are enantiomers. Enantiomers are nonsuperimposable mirror images. Each has only one chiral center (C-2), which has opposite absolute configuration in these two molecules.",
       "short_reason": "Same molecule, opposite rotations (+/-), opposite configurations (R/S) = ENANTIOMERS! Mirror images that can't be superimposed.",
       "wrong_answer_explanations": {
         "B": "Diastereomers have some but not all opposite configurations - glyceraldehyde has only ONE chiral center.",
@@ -506,7 +506,7 @@
       "chapter": 2,
       "chapter_title": "Isomers",
       "question_number": 9,
-      "question_text": "Consider (E)-2-butene and (Z)-2-butene. This is a pair of what type(s) of isomers?\nI. Cis–trans isomers\nII. Diastereomers\nIII. Enantiomers",
+      "question_text": "Consider (E)-2-butene and (Z)-2-butene. This is a pair of what type(s) of isomers?\nI. Cis\u2013trans isomers\nII. Diastereomers\nIII. Enantiomers",
       "options": {
         "A": "I only",
         "B": "II only",
@@ -514,7 +514,7 @@
         "D": "I and III only"
       },
       "correct_answer": "C",
-      "explanation": "(E)-2-butene can also be called trans-2-butene; (Z)-2-butene can also be called cis-2-butene. As such, they are cis–trans isomers. Remember that cis–trans isomers are a subtype of diastereomers in which the position of substituents differs about an immovable bond. Diastereomers are molecules that are non-mirror-image stereoisomers (molecules with the same atomic connectivity). These are not enantiomers because they are not mirror images of each other.",
+      "explanation": "(E)-2-butene can also be called trans-2-butene; (Z)-2-butene can also be called cis-2-butene. As such, they are cis\u2013trans isomers. Remember that cis\u2013trans isomers are a subtype of diastereomers in which the position of substituents differs about an immovable bond. Diastereomers are molecules that are non-mirror-image stereoisomers (molecules with the same atomic connectivity). These are not enantiomers because they are not mirror images of each other.",
       "short_reason": "E/Z = cis/trans = GEOMETRIC isomers = a TYPE of diastereomer! Same formula, same connections, different spatial arrangement around a double bond.",
       "wrong_answer_explanations": {
         "A": "Cis-trans isomers are actually a SUBSET of diastereomers - both I and II apply.",
@@ -569,15 +569,15 @@
       "chapter": 2,
       "chapter_title": "Isomers",
       "question_number": 12,
-      "question_text": "A scientist takes a solution of an unknown pure dextrorotatory organic molecule and places it in a test tube with a diameter of 1 cm. He observes that a plane of polarized light is rotated 12° under these conditions. What is the specific rotation of this molecule?",
+      "question_text": "A scientist takes a solution of an unknown pure dextrorotatory organic molecule and places it in a test tube with a diameter of 1 cm. He observes that a plane of polarized light is rotated 12\u00b0 under these conditions. What is the specific rotation of this molecule?",
       "options": {
-        "A": "–240°",
-        "B": "–24°",
-        "C": "+24°",
-        "D": "+240°"
+        "A": "\u2013240\u00b0",
+        "B": "\u201324\u00b0",
+        "C": "+24\u00b0",
+        "D": "+240\u00b0"
       },
       "correct_answer": "D",
-      "explanation": "Remember that the equation for specific rotation is . In this example, αobs is +12° (remember that dextrorotatory, or clockwise, rotation is considered positive), Remember that path length is always measured in decimeters when calculating specific rotation. Therefore, the specific rotation can be calculated as:",
+      "explanation": "Remember that the equation for specific rotation is . In this example, \u03b1obs is +12\u00b0 (remember that dextrorotatory, or clockwise, rotation is considered positive), Remember that path length is always measured in decimeters when calculating specific rotation. Therefore, the specific rotation can be calculated as:",
       "short_reason": "Specific rotation formula: [alpha] = observed rotation / (path length in dm x concentration). Remember: dextrorotatory = positive (+)!",
       "wrong_answer_explanations": {
         "A": "-240 would indicate levorotatory, but dextrorotatory means positive rotation.",
@@ -632,7 +632,7 @@
       "chapter": 2,
       "chapter_title": "Isomers",
       "question_number": 15,
-      "question_text": "If the methyl groups of butane are 120° apart, as seen in a Newman projection, this molecule is in its:",
+      "question_text": "If the methyl groups of butane are 120\u00b0 apart, as seen in a Newman projection, this molecule is in its:",
       "options": {
         "A": "highest-energy gauche form.",
         "B": "lowest-energy staggered form.",
@@ -640,7 +640,7 @@
         "D": "highest-energy eclipsed form."
       },
       "correct_answer": "C",
-      "explanation": "In butane, the position at which the two methyl groups are 120° apart is an eclipsed conformation. This has a moderate amount of energy, although not as high as a totally eclipsed conformation in which the two methyl groups are 0° apart.",
+      "explanation": "In butane, the position at which the two methyl groups are 120\u00b0 apart is an eclipsed conformation. This has a moderate amount of energy, although not as high as a totally eclipsed conformation in which the two methyl groups are 0\u00b0 apart.",
       "short_reason": "Newman projection at 120 degrees = GAUCHE (staggered but not anti). Eclipsed = 0, 60, 120 degrees where groups overlap. Gauche is medium energy.",
       "wrong_answer_explanations": {
         "A": "Gauche is staggered (groups between each other), not the highest energy gauche form.",
@@ -674,15 +674,15 @@
       "chapter": 3,
       "chapter_title": "Bonding",
       "question_number": 2,
-      "question_text": "Which of the following compounds possesses at least one σ bond?",
+      "question_text": "Which of the following compounds possesses at least one \u03c3 bond?",
       "options": {
         "A": "CH4",
         "B": "C2H2",
         "C": "C2H4",
-        "D": "All of the above contain at least one σ bond."
+        "D": "All of the above contain at least one \u03c3 bond."
       },
       "correct_answer": "D",
-      "explanation": "All single bonds are σ bonds; double and triple bonds each contain one σ bond and one or two π bonds, respectively. The compounds CH4, C2H2, and C2H4 all contain at least one single bond and therefore contain at least one σ bond.",
+      "explanation": "All single bonds are \u03c3 bonds; double and triple bonds each contain one \u03c3 bond and one or two \u03c0 bonds, respectively. The compounds CH4, C2H2, and C2H4 all contain at least one single bond and therefore contain at least one \u03c3 bond.",
       "short_reason": "EVERY bond starts with a sigma! Single = 1 sigma. Double = 1 sigma + 1 pi. Triple = 1 sigma + 2 pi. Sigma is the backbone.",
       "wrong_answer_explanations": {
         "A": "CH4 has 4 C-H single bonds, each is a sigma bond - this is not the only correct answer.",
@@ -703,7 +703,7 @@
         "D": "unhybridized s character."
       },
       "correct_answer": "B",
-      "explanation": "In a carbon with one double bond, sp2 hybridization occurs—that is, one s-orbital hybridizes with two p-orbitals to form three sp2-hybridized orbitals. The third p-orbital of the carbon atom remains unhybridized and takes part in the formation of the π bond of the double bond. Although there is an unhybridized p-orbital, there are no unhybridized s-orbitals, eliminating (D).",
+      "explanation": "In a carbon with one double bond, sp2 hybridization occurs\u2014that is, one s-orbital hybridizes with two p-orbitals to form three sp2-hybridized orbitals. The third p-orbital of the carbon atom remains unhybridized and takes part in the formation of the \u03c0 bond of the double bond. Although there is an unhybridized p-orbital, there are no unhybridized s-orbitals, eliminating (D).",
       "short_reason": "Count the attachments! Double bond = 3 attachments = sp2. Triple bond = 2 attachments = sp. Single bonds only = 4 attachments = sp3.",
       "wrong_answer_explanations": {
         "A": "sp hybridization is for 2 regions of electron density (triple bonds or linear molecules).",
@@ -716,7 +716,7 @@
       "chapter": 3,
       "chapter_title": "Bonding",
       "question_number": 4,
-      "question_text": "The hybridizations of the carbon and nitrogen atoms in CN− are:",
+      "question_text": "The hybridizations of the carbon and nitrogen atoms in CN\u2212 are:",
       "options": {
         "A": "sp3 and sp3, respectively.",
         "B": "sp3 and sp, respectively.",
@@ -724,7 +724,7 @@
         "D": "sp and sp, respectively."
       },
       "correct_answer": "D",
-      "explanation": "The carbon and nitrogen atoms are connected by a triple bond in CN– (:C≡N:–). A triple-bonded atom is sp hybridized; one s-orbital hybridizes with one p-orbital to form two sp-hybridized orbitals. The two remaining unhybridized p-orbitals take part in the formation of two π bonds.",
+      "explanation": "The carbon and nitrogen atoms are connected by a triple bond in CN\u2013 (:C\u2261N:\u2013). A triple-bonded atom is sp hybridized; one s-orbital hybridizes with one p-orbital to form two sp-hybridized orbitals. The two remaining unhybridized p-orbitals take part in the formation of two \u03c0 bonds.",
       "short_reason": "Triple bond = sp + sp! Both atoms in a triple bond use sp hybridization (2 regions of electron density each).",
       "wrong_answer_explanations": {
         "A": "sp3 is for 4 regions of electron density - triple bonds leave only 2.",
@@ -800,7 +800,7 @@
       "chapter": 3,
       "chapter_title": "Bonding",
       "question_number": 8,
-      "question_text": "π bonds are formed by which of the following orbitals?",
+      "question_text": "\u03c0 bonds are formed by which of the following orbitals?",
       "options": {
         "A": "Two s-orbitals",
         "B": "Two p-orbitals",
@@ -808,7 +808,7 @@
         "D": "Two sp2-hybridized orbitals"
       },
       "correct_answer": "B",
-      "explanation": "π bonds are formed by the parallel overlap of unhybridized p-orbitals. The electron density is concentrated above and below the bonding axis. A σ bond, on the other hand, can be formed by the head-to-head overlap of two s-orbitals or hybridized orbitals. In a σ bond, the density of the electrons is concentrated between the two nuclei of the bonding atoms.",
+      "explanation": "\u03c0 bonds are formed by the parallel overlap of unhybridized p-orbitals. The electron density is concentrated above and below the bonding axis. A \u03c3 bond, on the other hand, can be formed by the head-to-head overlap of two s-orbitals or hybridized orbitals. In a \u03c3 bond, the density of the electrons is concentrated between the two nuclei of the bonding atoms.",
       "short_reason": "Pi bonds = PARALLEL p orbitals overlapping SIDEWAYS! Sigma bonds come from head-on overlap of any orbitals.",
       "wrong_answer_explanations": {
         "A": "s orbitals can only form sigma bonds (head-on overlap).",
@@ -821,15 +821,15 @@
       "chapter": 3,
       "chapter_title": "Bonding",
       "question_number": 9,
-      "question_text": "How many σ bonds and π bonds are present in the following compound?",
+      "question_text": "How many \u03c3 bonds and \u03c0 bonds are present in the following compound?",
       "options": {
-        "A": "Six σ bonds and one π bond",
-        "B": "Six σ bonds and two π bonds",
-        "C": "Five σ bonds and one π bond",
-        "D": "Five σ bonds and two π bonds"
+        "A": "Six \u03c3 bonds and one \u03c0 bond",
+        "B": "Six \u03c3 bonds and two \u03c0 bonds",
+        "C": "Five \u03c3 bonds and one \u03c0 bond",
+        "D": "Five \u03c3 bonds and two \u03c0 bonds"
       },
       "correct_answer": "A",
-      "explanation": "Each single bond has one σ bond, and each double bond has one σ and one π bond. In this question, there are five single bonds (five σ bonds) and one double bond (one σ bond and one π bond), which gives a total of six σ bonds and one π bond. Thus, the correct answer is (A).",
+      "explanation": "Each single bond has one \u03c3 bond, and each double bond has one \u03c3 and one \u03c0 bond. In this question, there are five single bonds (five \u03c3 bonds) and one double bond (one \u03c3 bond and one \u03c0 bond), which gives a total of six \u03c3 bonds and one \u03c0 bond. Thus, the correct answer is (A).",
       "short_reason": "Count systematically: Each single bond = 1 sigma. Each double bond = 1 sigma + 1 pi. Add them all up!",
       "wrong_answer_explanations": {
         "B": "Recount - one double bond means only one pi bond, not two.",
@@ -842,7 +842,7 @@
       "chapter": 3,
       "chapter_title": "Bonding",
       "question_number": 10,
-      "question_text": "The four C–H bonds of CH4 point toward the vertices of a tetrahedron. This indicates that the hybridization of the carbon atom in methane is:",
+      "question_text": "The four C\u2013H bonds of CH4 point toward the vertices of a tetrahedron. This indicates that the hybridization of the carbon atom in methane is:",
       "options": {
         "A": "sp.",
         "B": "sp2.",
@@ -850,7 +850,7 @@
         "D": "sp3d."
       },
       "correct_answer": "C",
-      "explanation": "The four bonds point to the vertices of a tetrahedron, which means that the angle between two bonds is 109.5°, a characteristic of sp3 orbitals. Hence, the carbon atom of CH4 is sp3-hybridized.",
+      "explanation": "The four bonds point to the vertices of a tetrahedron, which means that the angle between two bonds is 109.5\u00b0, a characteristic of sp3 orbitals. Hence, the carbon atom of CH4 is sp3-hybridized.",
       "short_reason": "Tetrahedral = sp3! Four equivalent bonds pointing to corners of a tetrahedron = 109.5 degree angles = sp3 hybridization.",
       "wrong_answer_explanations": {
         "A": "sp gives linear geometry (180 degrees), not tetrahedral.",
@@ -863,7 +863,7 @@
       "chapter": 3,
       "chapter_title": "Bonding",
       "question_number": 11,
-      "question_text": "Why is a single bond stronger than a π bond?\nI. π bonds have greater orbital overlap.\nII. s-orbitals have more overlap than p-orbitals.\nIII. sp3 hybridization is always unstable.",
+      "question_text": "Why is a single bond stronger than a \u03c0 bond?\nI. \u03c0 bonds have greater orbital overlap.\nII. s-orbitals have more overlap than p-orbitals.\nIII. sp3 hybridization is always unstable.",
       "options": {
         "A": "I only",
         "B": "II only",
@@ -871,7 +871,7 @@
         "D": "II and III only"
       },
       "correct_answer": "B",
-      "explanation": "Bond strength is determined by the degree of orbital overlap; the greater the overlap, the greater the bond strength. A π bond is weaker than a single bond because there is significantly less overlap between the unhybridized p-orbitals of a π bond (due to their parallel orientation) than between the s-orbitals or hybrid orbitals of a σ bond. sp3-hybridized orbitals can be quite stable, as evidenced by the number of carbon atoms with this hybridization forming stable compounds.",
+      "explanation": "Bond strength is determined by the degree of orbital overlap; the greater the overlap, the greater the bond strength. A \u03c0 bond is weaker than a single bond because there is significantly less overlap between the unhybridized p-orbitals of a \u03c0 bond (due to their parallel orientation) than between the s-orbitals or hybrid orbitals of a \u03c3 bond. sp3-hybridized orbitals can be quite stable, as evidenced by the number of carbon atoms with this hybridization forming stable compounds.",
       "short_reason": "More OVERLAP = stronger bond! Sigma bonds have head-on (more) overlap. Pi bonds have parallel (less) overlap. s orbitals overlap better than p.",
       "wrong_answer_explanations": {
         "A": "This is backwards - pi bonds have LESS orbital overlap than sigma bonds.",
@@ -892,7 +892,7 @@
         "D": "75%."
       },
       "correct_answer": "B",
-      "explanation": "The carbon bond in hydrogen cyanide (H–C≡N:) is triple-bonded, and because triple bonds require two unhybridized p-orbitals, the carbon must be sp-hybridized; sp-hybridized orbitals have 50% s character and 50% p character.",
+      "explanation": "The carbon bond in hydrogen cyanide (H\u2013C\u2261N:) is triple-bonded, and because triple bonds require two unhybridized p-orbitals, the carbon must be sp-hybridized; sp-hybridized orbitals have 50% s character and 50% p character.",
       "short_reason": "sp hybrid = 50% s + 50% p! One s orbital + one p orbital = two sp orbitals. The name tells you the ratio!",
       "wrong_answer_explanations": {
         "A": "25% p would be sp3 hybridization (one s + three p = 25% s character).",
@@ -934,7 +934,7 @@
         "D": "10"
       },
       "correct_answer": "D",
-      "explanation": "An electron in the n = 4 shell and the l = 2 subshell can have five different values for ml: –2, –1, 0, 1, or 2. In each of these orbitals, electrons can have positive or negative spin. Thus, there are 5 × 2 = 10 possible combinations of quantum numbers for this electron.",
+      "explanation": "An electron in the n = 4 shell and the l = 2 subshell can have five different values for ml: \u20132, \u20131, 0, 1, or 2. In each of these orbitals, electrons can have positive or negative spin. Thus, there are 5 \u00d7 2 = 10 possible combinations of quantum numbers for this electron.",
       "short_reason": "l=2 means d subshell with 5 orbitals (ml = -2,-1,0,1,2). Each orbital holds 2 electrons (spin up/down). Total = 5 x 2 = 10!",
       "wrong_answer_explanations": {
         "A": "1 combination ignores the multiple ml values and spin options.",
@@ -951,11 +951,11 @@
       "options": {
         "A": "weaker.",
         "B": "longer.",
-        "C": "made up of fewer σ bonds.",
+        "C": "made up of fewer \u03c3 bonds.",
         "D": "more rigid."
       },
       "correct_answer": "D",
-      "explanation": "π bonds do not permit free rotation, unlike σ bonds; this makes triple bonds more rigid than single bonds. Triple bonds are stronger and shorter bonds than single bonds, eliminating (A) and (B). Both single and triple bonds contain one σ bond, eliminating (C).",
+      "explanation": "\u03c0 bonds do not permit free rotation, unlike \u03c3 bonds; this makes triple bonds more rigid than single bonds. Triple bonds are stronger and shorter bonds than single bonds, eliminating (A) and (B). Both single and triple bonds contain one \u03c3 bond, eliminating (C).",
       "short_reason": "Triple bonds: STRONGER (3 bonds worth), SHORTER (pulled closer), MORE RIGID (no rotation around pi bonds). Still has one sigma bond!",
       "wrong_answer_explanations": {
         "A": "Triple bonds are STRONGER than single bonds, not weaker (more bonds = more strength).",
@@ -989,15 +989,15 @@
       "chapter": 4,
       "chapter_title": "Analyzing Organic Reactions",
       "question_number": 2,
-      "question_text": "Rank the following in order of decreasing nucleophilicity in an aprotic solvent: RO–, RCOOH, ROH, HO–",
+      "question_text": "Rank the following in order of decreasing nucleophilicity in an aprotic solvent: RO\u2013, RCOOH, ROH, HO\u2013",
       "options": {
-        "A": "RCOOH > ROH > RO– > HO–",
-        "B": "HO– > ROH > RO– > RCOOH",
-        "C": "RO– > HO– > ROH > RCOOH",
-        "D": "RCOOH > RO– > HO– > ROH"
+        "A": "RCOOH > ROH > RO\u2013 > HO\u2013",
+        "B": "HO\u2013 > ROH > RO\u2013 > RCOOH",
+        "C": "RO\u2013 > HO\u2013 > ROH > RCOOH",
+        "D": "RCOOH > RO\u2013 > HO\u2013 > ROH"
       },
       "correct_answer": "C",
-      "explanation": "Remember, good nucleophiles tend to have lone pairs or π bonds and are negatively charged or polarized. Alkoxide (OR–) and hydroxide (OH–) anions are strong nucleophiles. Alcohols (ROH) and carboxylic acids (RCOOH) are weak nucleophiles. The alkyl group of an alkoxide anion donates additional electron density, making it more reactive than the hydroxide ion. The carboxylic acid contains more electron-withdrawing oxygen atoms than the alcohol, making it less nucleophilic.",
+      "explanation": "Remember, good nucleophiles tend to have lone pairs or \u03c0 bonds and are negatively charged or polarized. Alkoxide (OR\u2013) and hydroxide (OH\u2013) anions are strong nucleophiles. Alcohols (ROH) and carboxylic acids (RCOOH) are weak nucleophiles. The alkyl group of an alkoxide anion donates additional electron density, making it more reactive than the hydroxide ion. The carboxylic acid contains more electron-withdrawing oxygen atoms than the alcohol, making it less nucleophilic.",
       "short_reason": "Better nucleophile = more electron-rich + less hindered. Negatives beat neutrals. Alkyl groups donate electrons (make RO- better than HO-).",
       "wrong_answer_explanations": {
         "A": "Neutral species (RCOOH, ROH) are weaker nucleophiles than anions.",
@@ -1018,7 +1018,7 @@
         "D": ""
       },
       "correct_answer": "D",
-      "explanation": "Good electrophiles are positively charged or polarized. CR3+ is a tertiary carbocation; it has a positive charge, which makes it very electrophilic. CH3Cl and CH3OH are both polarized; however, the leaving groups differ between these two. Cl– is a weaker base than OH– (HCl is a stronger acid than H2O). As such, Cl– will be more stable in solution than OH–, which increases the electrophilic reactivity of CH3Cl above CH3OH. CH3OCH3 has a much less stable leaving group, CH3O–, and is therefore significantly less electrophilic.",
+      "explanation": "Good electrophiles are positively charged or polarized. CR3+ is a tertiary carbocation; it has a positive charge, which makes it very electrophilic. CH3Cl and CH3OH are both polarized; however, the leaving groups differ between these two. Cl\u2013 is a weaker base than OH\u2013 (HCl is a stronger acid than H2O). As such, Cl\u2013 will be more stable in solution than OH\u2013, which increases the electrophilic reactivity of CH3Cl above CH3OH. CH3OCH3 has a much less stable leaving group, CH3O\u2013, and is therefore significantly less electrophilic.",
       "short_reason": "Good electrophile = wants electrons! Positive charge or partial positive (delta+). Better leaving group = more electrophilic.",
       "wrong_answer_explanations": {
         "A": "Check the leaving groups - carbocations are best, then consider which neutral species has better leaving group.",
@@ -1031,15 +1031,15 @@
       "chapter": 4,
       "chapter_title": "Analyzing Organic Reactions",
       "question_number": 4,
-      "question_text": "Rank the following in order of decreasing leaving group ability: H2O, HO–, Br–, H–",
+      "question_text": "Rank the following in order of decreasing leaving group ability: H2O, HO\u2013, Br\u2013, H\u2013",
       "options": {
-        "A": "H2O > Br– > HO– > H–",
-        "B": "H2O > HO– > Br– > H–",
-        "C": "HO– > Br– > H2O > H–",
-        "D": "HO– > H– > H2O > Br–"
+        "A": "H2O > Br\u2013 > HO\u2013 > H\u2013",
+        "B": "H2O > HO\u2013 > Br\u2013 > H\u2013",
+        "C": "HO\u2013 > Br\u2013 > H2O > H\u2013",
+        "D": "HO\u2013 > H\u2013 > H2O > Br\u2013"
       },
       "correct_answer": "A",
-      "explanation": "Good leaving groups are weak bases, which are the conjugates of strong acids. Leaving groups must also be stable once they leave the molecule. H2O is, by far, the most stable leaving group and will be extremely unreactive once it leaves the molecule through heterolysis. Br– is the conjugate base of HBr; HO– is the conjugate base of water. HBr is a much stronger acid than water, so Br– is a better leaving group than HO–. Finally, hydride (H–) is a very poor leaving group because it is extremely unstable in solution.",
+      "explanation": "Good leaving groups are weak bases, which are the conjugates of strong acids. Leaving groups must also be stable once they leave the molecule. H2O is, by far, the most stable leaving group and will be extremely unreactive once it leaves the molecule through heterolysis. Br\u2013 is the conjugate base of HBr; HO\u2013 is the conjugate base of water. HBr is a much stronger acid than water, so Br\u2013 is a better leaving group than HO\u2013. Finally, hydride (H\u2013) is a very poor leaving group because it is extremely unstable in solution.",
       "short_reason": "Good leaving group = WEAK base = stable after leaving! H2O is neutral and stable. Br- is stable (weak base). HO- and H- are strong bases = bad leaving groups!",
       "wrong_answer_explanations": {
         "B": "HO- is a stronger base than Br- (water is weaker acid than HBr), so HO- is worse leaving group.",
@@ -1076,12 +1076,12 @@
       "question_text": "The last step in the Grignard reaction is acidification, in which the alkoxide ion is protonated to form the final alcohol product. During this reaction, the alkoxide ion acts as a:",
       "options": {
         "A": "Lewis base only",
-        "B": "Brønsted–Lowry base and Lewis base",
-        "C": "Brønsted–Lowry base and Lewis acid",
-        "D": "Brønsted–Lowry base only"
+        "B": "Br\u00f8nsted\u2013Lowry base and Lewis base",
+        "C": "Br\u00f8nsted\u2013Lowry base and Lewis acid",
+        "D": "Br\u00f8nsted\u2013Lowry base only"
       },
       "correct_answer": "B",
-      "explanation": "During this reaction, the alkoxide anion accepts a proton, meaning this molecule acts as a Brønsted-Lowry base. Also, in accepting the proton, the alkoxide anion donates a lone pair of electrons to form a coordinate covalent bond with the incoming hydrogen ion. In this way, the alkoxide anion is also acting as a Lewis base. Together, these observations support (B).",
+      "explanation": "During this reaction, the alkoxide anion accepts a proton, meaning this molecule acts as a Br\u00f8nsted-Lowry base. Also, in accepting the proton, the alkoxide anion donates a lone pair of electrons to form a coordinate covalent bond with the incoming hydrogen ion. In this way, the alkoxide anion is also acting as a Lewis base. Together, these observations support (B).",
       "short_reason": "Accepts proton = Bronsted-Lowry base. Donates electron pair = Lewis base. Alkoxide does BOTH simultaneously!",
       "wrong_answer_explanations": {
         "A": "The alkoxide also acts as a Bronsted-Lowry base by accepting a proton.",
@@ -1159,13 +1159,13 @@
       "question_number": 10,
       "question_text": "In a protic solvent, which of the following halogens would be the best nucleophile?",
       "options": {
-        "A": "Br–",
-        "B": "Cl–",
-        "C": "F–",
-        "D": "I–"
+        "A": "Br\u2013",
+        "B": "Cl\u2013",
+        "C": "F\u2013",
+        "D": "I\u2013"
       },
       "correct_answer": "D",
-      "explanation": "In a protic solvent, the protons in solution can attach to the nucleophile, decreasing its nucleophilicity. The larger the nucleophile, and the stronger its conjugate acid, the stronger the nucleophile will be. Of the options given, I– will therefore be the strongest nucleophile because it is least likely to associate with the protons in solution.",
+      "explanation": "In a protic solvent, the protons in solution can attach to the nucleophile, decreasing its nucleophilicity. The larger the nucleophile, and the stronger its conjugate acid, the stronger the nucleophile will be. Of the options given, I\u2013 will therefore be the strongest nucleophile because it is least likely to associate with the protons in solution.",
       "short_reason": "Protic solvents H-bond to small nucleophiles! Large I- can't be surrounded/stabilized as easily, so it stays reactive. Big and in charge!",
       "wrong_answer_explanations": {
         "A": "Br- is smaller than I- and will be more stabilized (less reactive) by protic solvent.",
@@ -1207,7 +1207,7 @@
         "D": ""
       },
       "correct_answer": "A",
-      "explanation": "To carry out a nucleophile–electrophile reaction, the nucleophile must be able to dissolve in the solvent. Nucleophiles are nearly always polar, and often carry a charge. Polar solvents are therefore preferred for these reactions. Hexane is a nonpolar solvent and will not be useful for a nucleophile–electrophile reaction.",
+      "explanation": "To carry out a nucleophile\u2013electrophile reaction, the nucleophile must be able to dissolve in the solvent. Nucleophiles are nearly always polar, and often carry a charge. Polar solvents are therefore preferred for these reactions. Hexane is a nonpolar solvent and will not be useful for a nucleophile\u2013electrophile reaction.",
       "short_reason": "SN2 loves METHYL and PRIMARY carbons - less steric hindrance for backside attack! Secondary is slow, tertiary is impossible.",
       "wrong_answer_explanations": {
         "B": "More substituted carbons block the nucleophile's approach - slower SN2.",
@@ -1220,7 +1220,7 @@
       "chapter": 4,
       "chapter_title": "Analyzing Organic Reactions",
       "question_number": 13,
-      "question_text": "Which of the following solvents would be LEAST useful for a nucleophile–electrophile reaction?",
+      "question_text": "Which of the following solvents would be LEAST useful for a nucleophile\u2013electrophile reaction?",
       "options": {
         "A": "H2O",
         "B": "CH3CH2OH",
@@ -1228,7 +1228,7 @@
         "D": "CH3CH2CH2CH2CH2CH3"
       },
       "correct_answer": "D",
-      "explanation": "To carry out a nucleophile–electrophile reaction, the nucleophile must be able to dissolve in the solvent. Nucleophiles are nearly always polar, and often carry a charge. Polar solvents are therefore preferred for these reactions. Hexane is a nonpolar solvent and will not be useful for a nucleophile–electrophile reaction.",
+      "explanation": "To carry out a nucleophile\u2013electrophile reaction, the nucleophile must be able to dissolve in the solvent. Nucleophiles are nearly always polar, and often carry a charge. Polar solvents are therefore preferred for these reactions. Hexane is a nonpolar solvent and will not be useful for a nucleophile\u2013electrophile reaction.",
       "short_reason": "Nucleophiles are POLAR and often CHARGED - they need polar solvents to dissolve! Hexane is nonpolar = nucleophile won't dissolve.",
       "wrong_answer_explanations": {
         "A": "Water is polar and dissolves charged nucleophiles well.",
@@ -1249,7 +1249,7 @@
         "D": "electron-withdrawing character."
       },
       "correct_answer": "A",
-      "explanation": "Aldehydes have one alkyl group connected to the carbonyl carbon, whereas ketones have two. This creates more steric hindrance in ketones, which lowers their reactivity to nucleophiles. Ketones are also less reactive because their carbonyl carbon has less positive charge character; the additional alkyl group can donate electron density—the opposite of (D)—which decreases the electrophilicity of the compound.",
+      "explanation": "Aldehydes have one alkyl group connected to the carbonyl carbon, whereas ketones have two. This creates more steric hindrance in ketones, which lowers their reactivity to nucleophiles. Ketones are also less reactive because their carbonyl carbon has less positive charge character; the additional alkyl group can donate electron density\u2014the opposite of (D)\u2014which decreases the electrophilicity of the compound.",
       "short_reason": "Aldehydes: 1 R group + 1 H on carbonyl = less crowded. Ketones: 2 R groups = more crowded. Less steric hindrance = easier nucleophilic attack!",
       "wrong_answer_explanations": {
         "B": "Neither aldehydes nor ketones have leaving groups for acyl substitution - this is addition chemistry.",
@@ -1291,7 +1291,7 @@
         "D": "alcohols can be oxidized to ketones."
       },
       "correct_answer": "B",
-      "explanation": "Alcohols have higher boiling points than their analogous hydrocarbons as a result of their polarized O–H bonds, in which oxygen is partially negative and hydrogen is partially positive. This enables the oxygen atoms of other alcohol molecules to be attracted to the hydrogen, forming a hydrogen bond. Heat is required to overcome these hydrogen bonds, thereby increasing the boiling point. The analogous hydrocarbons do not form hydrogen bonds and, therefore, vaporize at lower temperatures. (A) is irrelevant; oxygen’s bond length is not a factor in determining a substance’s boiling point. (C) and (D) are true statements, but are also irrelevant to boiling point determination.",
+      "explanation": "Alcohols have higher boiling points than their analogous hydrocarbons as a result of their polarized O\u2013H bonds, in which oxygen is partially negative and hydrogen is partially positive. This enables the oxygen atoms of other alcohol molecules to be attracted to the hydrogen, forming a hydrogen bond. Heat is required to overcome these hydrogen bonds, thereby increasing the boiling point. The analogous hydrocarbons do not form hydrogen bonds and, therefore, vaporize at lower temperatures. (A) is irrelevant; oxygen\u2019s bond length is not a factor in determining a substance\u2019s boiling point. (C) and (D) are true statements, but are also irrelevant to boiling point determination.",
       "short_reason": "O-H can HYDROGEN BOND! Hydrocarbons only have weak van der Waals forces. H-bonding requires extra energy to break = higher boiling point.",
       "wrong_answer_explanations": {
         "A": "Bond lengths don't directly determine boiling points - intermolecular forces do.",
@@ -1307,12 +1307,12 @@
       "question_text": "Tertiary alcohols are oxidized with difficulty because:",
       "options": {
         "A": "there is no hydrogen attached to the carbon with the hydroxyl group.",
-        "B": "there is no hydrogen attached to the α-carbon of the carbonyl.",
+        "B": "there is no hydrogen attached to the \u03b1-carbon of the carbonyl.",
         "C": "tertiary alcohols contain hydroxyl groups with no polarization.",
         "D": "they are relatively inert."
       },
       "correct_answer": "A",
-      "explanation": "Tertiary alcohols can be oxidized only under extreme conditions because their substrate carbons do not have spare hydrogens to give up. Alcohol oxidation involves the removal of such a hydrogen so that carbon can instead make another bond to oxygen. If no hydrogen is present, a carbon–carbon bond must be cleaved, which requires a great deal of energy and will, therefore, occur only under extreme conditions. (B) is incorrect because alcohols are not carbonyl-containing compounds and would more properly describe a carbonyl-containing compound that is unable to form an enolate. (C) is incorrect because the hydroxyl group of the tertiary carbon is still polarized. (D) is a false statement; tertiary alcohols are still involved in other reactions, such as SN1 reactions.",
+      "explanation": "Tertiary alcohols can be oxidized only under extreme conditions because their substrate carbons do not have spare hydrogens to give up. Alcohol oxidation involves the removal of such a hydrogen so that carbon can instead make another bond to oxygen. If no hydrogen is present, a carbon\u2013carbon bond must be cleaved, which requires a great deal of energy and will, therefore, occur only under extreme conditions. (B) is incorrect because alcohols are not carbonyl-containing compounds and would more properly describe a carbonyl-containing compound that is unable to form an enolate. (C) is incorrect because the hydroxyl group of the tertiary carbon is still polarized. (D) is a false statement; tertiary alcohols are still involved in other reactions, such as SN1 reactions.",
       "short_reason": "Tertiary alcohol = NO hydrogen on the C-OH carbon! Oxidation requires removing that H. No H to lose = no oxidation (without breaking C-C bonds).",
       "wrong_answer_explanations": {
         "B": "Alpha-carbon of carbonyl is different - this is about the alcohol carbon itself.",
@@ -1333,7 +1333,7 @@
         "D": "dipropanol."
       },
       "correct_answer": "B",
-      "explanation": "Remember, diols are named after the parent alkane, with the position of the alcohols indicated, and ending in the suffix –diol. Here the carbon chain is three carbons, with a hydroxyl group on carbons 1 and 2. Thus, the name is propane-1,2-diol.",
+      "explanation": "Remember, diols are named after the parent alkane, with the position of the alcohols indicated, and ending in the suffix \u2013diol. Here the carbon chain is three carbons, with a hydroxyl group on carbons 1 and 2. Thus, the name is propane-1,2-diol.",
       "short_reason": "Diols = alkane name + positions + 'diol'. 3 carbons = propane, OH on carbons 1 and 2 = propane-1,2-diol!",
       "wrong_answer_explanations": {
         "A": "Ethane-1,2-diol has only 2 carbons - count the chain length.",
@@ -1524,7 +1524,7 @@
         "D": "2-Phenylethanoic acid"
       },
       "correct_answer": "D",
-      "explanation": "This is the Jones oxidation, which will convert a primary alcohol into a carboxylic acid. (A) is the original reacting molecule, and because the reaction will proceed, this is not correct. Because the reaction uses strong oxidizing agents, it won’t stop at the aldehyde, (B). This reaction also cannot make the ketone in (C) because it starts with a primary alcohol.",
+      "explanation": "This is the Jones oxidation, which will convert a primary alcohol into a carboxylic acid. (A) is the original reacting molecule, and because the reaction will proceed, this is not correct. Because the reaction uses strong oxidizing agents, it won\u2019t stop at the aldehyde, (B). This reaction also cannot make the ketone in (C) because it starts with a primary alcohol.",
       "short_reason": "Jones oxidation (CrO3) on PRIMARY alcohol = goes all the way to CARBOXYLIC ACID! Too strong to stop at aldehyde.",
       "wrong_answer_explanations": {
         "A": "2-Phenylethanol is the starting material - reaction definitely proceeds.",
@@ -1598,17 +1598,17 @@
     {
       "id": "ch6_q1",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 1,
       "question_text": "All of the following are true with respect to carbonyls EXCEPT:",
       "options": {
         "A": "the carbonyl carbon is electrophilic.",
         "B": "the carbonyl oxygen is electron-withdrawing.",
         "C": "a resonance structure of the functional group places a positive charge on the carbonyl carbon.",
-        "D": "the π electrons are mobile and are pulled toward the carbonyl carbon."
+        "D": "the \u03c0 electrons are mobile and are pulled toward the carbonyl carbon."
       },
       "correct_answer": "D",
-      "explanation": "The reactivity of the carbonyl can be attributed to the difference in electronegativity between the carbon and oxygen atoms. The more electronegative oxygen atom attracts the bonding electrons and is therefore electron-withdrawing. Thus, the carbonyl carbon is electrophilic. One resonance structure of the carbonyl pushes the π electrons onto the oxygen, resulting in a positively charged carbonyl carbon.",
+      "explanation": "The reactivity of the carbonyl can be attributed to the difference in electronegativity between the carbon and oxygen atoms. The more electronegative oxygen atom attracts the bonding electrons and is therefore electron-withdrawing. Thus, the carbonyl carbon is electrophilic. One resonance structure of the carbonyl pushes the \u03c0 electrons onto the oxygen, resulting in a positively charged carbonyl carbon.",
       "short_reason": "Oxygen is electron-greedy! It pulls pi electrons TOWARD itself (not toward carbon). This makes carbonyl carbon electrophilic (positive partial charge).",
       "wrong_answer_explanations": {
         "A": "True - the carbonyl carbon IS electrophilic due to electron withdrawal by oxygen.",
@@ -1619,7 +1619,7 @@
     {
       "id": "ch6_q2",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 2,
       "question_text": "Order the following compounds by increasing boiling point: butane, butanol, butanone",
       "options": {
@@ -1640,7 +1640,7 @@
     {
       "id": "ch6_q3",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 3,
       "question_text": "What is the product of the reaction below?",
       "options": {
@@ -1650,7 +1650,7 @@
         "D": ""
       },
       "correct_answer": "C",
-      "explanation": "The reaction between a ketone and one equivalent of alcohol produces a hemiketal. This has an –OR group, an –OH group, and two alkyl groups attached at the same carbon. (A) is a ketal, with two –OR groups and two –R groups. (B) is a hemiacetal, with an –OH group, an –OR group, one R group, and a hydrogen atom (not drawn). (D) is a ketone. Note that a hemiketal is a very unstable compound, and will react rapidly with a second equivalent of alcohol to form a ketal in acidic conditions.",
+      "explanation": "The reaction between a ketone and one equivalent of alcohol produces a hemiketal. This has an \u2013OR group, an \u2013OH group, and two alkyl groups attached at the same carbon. (A) is a ketal, with two \u2013OR groups and two \u2013R groups. (B) is a hemiacetal, with an \u2013OH group, an \u2013OR group, one R group, and a hydrogen atom (not drawn). (D) is a ketone. Note that a hemiketal is a very unstable compound, and will react rapidly with a second equivalent of alcohol to form a ketal in acidic conditions.",
       "short_reason": "Ketone + 1 alcohol = HEMIKETAL (one -OR, one -OH, two -R groups on same carbon). Unstable intermediate - wants to become full ketal!",
       "wrong_answer_explanations": {
         "A": "Ketal has TWO -OR groups, not one -OR and one -OH.",
@@ -1662,7 +1662,7 @@
     {
       "id": "ch6_q4",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 4,
       "question_text": "What is the product of the reaction below?",
       "options": {
@@ -1672,7 +1672,7 @@
         "D": ""
       },
       "correct_answer": "A",
-      "explanation": "Aldehydes and ketones react with ammonia and nitrogen-based derivatives to form imines—compounds with a double bond between carbon and nitrogen.",
+      "explanation": "Aldehydes and ketones react with ammonia and nitrogen-based derivatives to form imines\u2014compounds with a double bond between carbon and nitrogen.",
       "short_reason": "Carbonyl + amine = IMINE (C=N)! The nitrogen's lone pair attacks the electrophilic carbonyl carbon, water leaves, double bond to N forms.",
       "wrong_answer_explanations": {
         "B": "Need an aldehyde with only 1 R group for this to be an option.",
@@ -1684,7 +1684,7 @@
     {
       "id": "ch6_q5",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 5,
       "question_text": "What is the product of the reaction below?",
       "options": {
@@ -1694,7 +1694,7 @@
         "D": "CH3COOH"
       },
       "correct_answer": "B",
-      "explanation": "Aldehydes are easily oxidized to the corresponding carboxylic acids by KMnO4. In (A), the aldehyde has been reduced to an alcohol. In (C), the molecule has not reacted. In (D), the aldehyde has been oxidized, but a –CH2– group has been removed.",
+      "explanation": "Aldehydes are easily oxidized to the corresponding carboxylic acids by KMnO4. In (A), the aldehyde has been reduced to an alcohol. In (C), the molecule has not reacted. In (D), the aldehyde has been oxidized, but a \u2013CH2\u2013 group has been removed.",
       "short_reason": "KMnO4 is a STRONG oxidizer - pushes aldehydes all the way to carboxylic acids! Adds one more oxygen to the carbonyl carbon.",
       "wrong_answer_explanations": {
         "A": "Alcohol would be REDUCTION, not oxidation.",
@@ -1706,7 +1706,7 @@
     {
       "id": "ch6_q6",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 6,
       "question_text": "What is the product of the reaction below?",
       "options": {
@@ -1728,7 +1728,7 @@
     {
       "id": "ch6_q7",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 7,
       "question_text": "What is the product of the reaction between benzaldehyde and an excess of ethanol (CH3CH2OH) in the presence of anhydrous HCl?",
       "options": {
@@ -1749,7 +1749,7 @@
     {
       "id": "ch6_q8",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 8,
       "question_text": "Hemiacetals and hemiketals usually keep reacting to form acetals and ketals. Why is it difficult to isolate hemiacetals and hemiketals?\nI. These molecules are unstable.\nII. The hydroxyl group is rapidly protonated and lost as water under acidic conditions, leaving behind a reactive carbocation.\nIII. The molecules are extremely basic and react rapidly with one another.",
       "options": {
@@ -1759,7 +1759,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "B",
-      "explanation": "Hemiacetals and hemiketals are usually short-lived because the –OH group will rapidly become protonated in acidic conditions and is lost as water, leaving behind a carbocation that is very susceptible to attack by an alcohol. Once the alcohol has been added, the acetal or ketal becomes more stable because the newly added group is less likely to become protonated and leave as compared to –OH.",
+      "explanation": "Hemiacetals and hemiketals are usually short-lived because the \u2013OH group will rapidly become protonated in acidic conditions and is lost as water, leaving behind a carbocation that is very susceptible to attack by an alcohol. Once the alcohol has been added, the acetal or ketal becomes more stable because the newly added group is less likely to become protonated and leave as compared to \u2013OH.",
       "short_reason": "Hemiacetal/ketal -OH gets protonated, leaves as water, creates carbocation that alcohol attacks. Unstable + reactive intermediate = hard to isolate!",
       "wrong_answer_explanations": {
         "A": "Instability is true, but statement II explains the mechanism better.",
@@ -1770,17 +1770,17 @@
     {
       "id": "ch6_q9",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 9,
       "question_text": "In a hemiacetal, the central carbon is bonded to:",
       "options": {
-        "A": "–OH, –OR, –H and –R.",
-        "B": "–H, –OR, –OR, and –R.",
-        "C": "–OH, –OR, –R, and –R.",
-        "D": "–OR, –OR, –R, and –R."
+        "A": "\u2013OH, \u2013OR, \u2013H and \u2013R.",
+        "B": "\u2013H, \u2013OR, \u2013OR, and \u2013R.",
+        "C": "\u2013OH, \u2013OR, \u2013R, and \u2013R.",
+        "D": "\u2013OR, \u2013OR, \u2013R, and \u2013R."
       },
       "correct_answer": "A",
-      "explanation": "A hemiacetal is a molecule in which one equivalent of alcohol has been added to a carbonyl (–OR) and the carbonyl oxygen has been protonated (–OH). Otherwise, there is the same alkyl group (–R) and hydrogen atom (–H) as the parent aldehyde. (B) describes an acetal, (C) a hemiketal, and (D) a ketal.",
+      "explanation": "A hemiacetal is a molecule in which one equivalent of alcohol has been added to a carbonyl (\u2013OR) and the carbonyl oxygen has been protonated (\u2013OH). Otherwise, there is the same alkyl group (\u2013R) and hydrogen atom (\u2013H) as the parent aldehyde. (B) describes an acetal, (C) a hemiketal, and (D) a ketal.",
       "short_reason": "Hemiacetal = H-O-C-R pattern. Aldehyde adds alcohol: keeps its H and R, gains -OR and -OH on the same central carbon.",
       "wrong_answer_explanations": {
         "B": "Two -OR groups = acetal, not hemiacetal.",
@@ -1791,7 +1791,7 @@
     {
       "id": "ch6_q10",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 10,
       "question_text": "In a reaction between hydrogen cyanide, butyraldehyde, and ethylmethylketone, which compounds will come together to form the major product?",
       "options": {
@@ -1812,7 +1812,7 @@
     {
       "id": "ch6_q11",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 11,
       "question_text": "Which of the following describe(s) pyridinium chlorochromate (PCC)?\nI. An oxidant that can form aldehydes from primary alcohols\nII. An oxidant that can completely oxidize primary alcohols\nIII. An oxidant that can completely oxidize secondary alcohols",
       "options": {
@@ -1833,7 +1833,7 @@
     {
       "id": "ch6_q12",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 12,
       "question_text": "To form a geminal diol, which of the following could attack a carbonyl carbon?",
       "options": {
@@ -1843,7 +1843,7 @@
         "D": "Ethanol"
       },
       "correct_answer": "B",
-      "explanation": "In a hydration reaction, water adds to a carbonyl, forming a geminal diol—a compound with two hydroxyl groups on the same carbon. Hydrogen peroxide and potassium dichromate are oxidizing agents that can convert an aldehyde to a carboxylic acid. Ethanol will react with a carbonyl compound to form an acetal or a ketal, if excess ethanol is available.",
+      "explanation": "In a hydration reaction, water adds to a carbonyl, forming a geminal diol\u2014a compound with two hydroxyl groups on the same carbon. Hydrogen peroxide and potassium dichromate are oxidizing agents that can convert an aldehyde to a carboxylic acid. Ethanol will react with a carbonyl compound to form an acetal or a ketal, if excess ethanol is available.",
       "short_reason": "WATER attacks carbonyl = geminal diol (two -OH groups on same carbon). Hydration reaction, not oxidation or alcohol attack.",
       "wrong_answer_explanations": {
         "A": "H2O2 is an oxidizing agent, not a nucleophile for hydration.",
@@ -1854,7 +1854,7 @@
     {
       "id": "ch6_q13",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 13,
       "question_text": "In a reaction between ammonia and glutaraldehyde, what is the major product?",
       "options": {
@@ -1875,7 +1875,7 @@
     {
       "id": "ch6_q14",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 14,
       "question_text": "Which of the following can be used to reduce a ketone to a secondary alcohol?",
       "options": {
@@ -1896,7 +1896,7 @@
     {
       "id": "ch6_q15",
       "chapter": 6,
-      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation–Reduction",
+      "chapter_title": "Aldehydes and Ketones I: Electrophilicity and Oxidation\u2013Reduction",
       "question_number": 15,
       "question_text": "Imines naturally tautomerize to form:",
       "options": {
@@ -1906,7 +1906,7 @@
         "D": "enamines."
       },
       "correct_answer": "D",
-      "explanation": "During tautomerization, the double bond between the carbon and nitrogen in an imine is moved to lie between two carbons. This results in an enamine—a compound with a double bond and an amine.",
+      "explanation": "During tautomerization, the double bond between the carbon and nitrogen in an imine is moved to lie between two carbons. This results in an enamine\u2014a compound with a double bond and an amine.",
       "short_reason": "Imine (C=N) and enamine (C=C-N) are TAUTOMERS! H shifts from carbon to nitrogen or vice versa, moving the double bond. Like keto-enol but with nitrogen!",
       "wrong_answer_explanations": {
         "A": "Oximes have N-OH group - they're formed from hydroxylamine, not tautomerization.",
@@ -1927,7 +1927,7 @@
         "D": ""
       },
       "correct_answer": "D",
-      "explanation": "One mole of aldehyde reacts with one mole of alcohol via a nucleophilic addition reaction to form a product called a hemiacetal. In a hemiacetal, an –OH group, an –OR group, a hydrogen atom, and an –R group are attached to the same carbon atom.",
+      "explanation": "One mole of aldehyde reacts with one mole of alcohol via a nucleophilic addition reaction to form a product called a hemiacetal. In a hemiacetal, an \u2013OH group, an \u2013OR group, a hydrogen atom, and an \u2013R group are attached to the same carbon atom.",
       "short_reason": "Aldehyde + 1 alcohol = HEMIACETAL! One -OR (from alcohol), one -OH (from protonation), one -H (aldehyde's hydrogen), one -R (aldehyde's chain).",
       "wrong_answer_explanations": {
         "A": "Check if this shows hemiacetal structure (one OH, one OR on same carbon).",
@@ -1965,13 +1965,13 @@
       "question_number": 3,
       "question_text": "Which of the following reactions would produce the compound below?",
       "options": {
-        "A": "CH3CHO + CH3CH2CH2CHO →",
-        "B": "CH3COCH3 + CH3CH2CH2CHO →",
-        "C": "CH3CH2COCH3 + CH3CHO →",
-        "D": "CH3CH2CHO + CH3CH2CHO →"
+        "A": "CH3CHO + CH3CH2CH2CHO \u2192",
+        "B": "CH3COCH3 + CH3CH2CH2CHO \u2192",
+        "C": "CH3CH2COCH3 + CH3CHO \u2192",
+        "D": "CH3CH2CHO + CH3CH2CHO \u2192"
       },
       "correct_answer": "D",
-      "explanation": "The reactions listed in the answer choices are examples of aldol condensations. In the presence of a base, the α-hydrogen is abstracted from an aldehyde, forming an enolate ion, [CH3CHCHO]–. This enolate ion then attacks the carbonyl group of the other aldehyde molecule, CH3CH2CHO, forming the pictured aldol.",
+      "explanation": "The reactions listed in the answer choices are examples of aldol condensations. In the presence of a base, the \u03b1-hydrogen is abstracted from an aldehyde, forming an enolate ion, [CH3CHCHO]\u2013. This enolate ion then attacks the carbonyl group of the other aldehyde molecule, CH3CH2CHO, forming the pictured aldol.",
       "short_reason": "Aldol condensation: One aldehyde's alpha-carbon attacks another's carbonyl. Same aldehyde reacting with itself = the product matches!",
       "wrong_answer_explanations": {
         "A": "Mixed aldol products are harder to control - look for same-molecule reaction.",
@@ -1993,7 +1993,7 @@
         "D": "II and III only"
       },
       "correct_answer": "A",
-      "explanation": "The keto–enol equilibrium lies far to the keto side because the keto form is significantly more thermodynamically stable than the enol form. This thermodynamic stability stems from the fact that the oxygen is more electronegative than the carbon, and the keto tautomer puts more electron density around the oxygen than the enol tautomer. If the enol tautomer is less thermodynamically stable, it is also higher energy than the keto tautomer.",
+      "explanation": "The keto\u2013enol equilibrium lies far to the keto side because the keto form is significantly more thermodynamically stable than the enol form. This thermodynamic stability stems from the fact that the oxygen is more electronegative than the carbon, and the keto tautomer puts more electron density around the oxygen than the enol tautomer. If the enol tautomer is less thermodynamically stable, it is also higher energy than the keto tautomer.",
       "short_reason": "Keto form is MORE STABLE (lower energy) because oxygen is more electronegative and 'wants' the electrons. Equilibrium lies toward keto (>99%).",
       "wrong_answer_explanations": {
         "B": "Enol is HIGHER energy (less stable), not lower.",
@@ -2049,7 +2049,7 @@
       "chapter": 7,
       "chapter_title": "Aldehydes and Ketones II: Enolates",
       "question_number": 7,
-      "question_text": "When reacted with ammonia (NH3) at 200°C, which enolate of a carbonyl-containing compound would predominate?",
+      "question_text": "When reacted with ammonia (NH3) at 200\u00b0C, which enolate of a carbonyl-containing compound would predominate?",
       "options": {
         "A": "Kinetic enolate",
         "B": "Thermodynamic enolate",
@@ -2091,7 +2091,7 @@
       "chapter": 7,
       "chapter_title": "Aldehydes and Ketones II: Enolates",
       "question_number": 9,
-      "question_text": "α-hydrogens of a ketone are acidic due to:\nI. resonance stabilization.\nII. the electron-withdrawing properties of the alkyl groups.\nIII. the electronegative carbonyl oxygen.",
+      "question_text": "\u03b1-hydrogens of a ketone are acidic due to:\nI. resonance stabilization.\nII. the electron-withdrawing properties of the alkyl groups.\nIII. the electronegative carbonyl oxygen.",
       "options": {
         "A": "I only",
         "B": "I and III only",
@@ -2099,7 +2099,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "B",
-      "explanation": "When α-carbons are deprotonated, the negative charge is resonance stabilized in part by the electronegative carbonyl oxygen, which is electron-withdrawing. Alkyl groups are actually electron-donating, which destabilizes carbanion intermediates; this invalidates statement II.",
+      "explanation": "When \u03b1-carbons are deprotonated, the negative charge is resonance stabilized in part by the electronegative carbonyl oxygen, which is electron-withdrawing. Alkyl groups are actually electron-donating, which destabilizes carbanion intermediates; this invalidates statement II.",
       "short_reason": "Alpha-H acidity comes from: RESONANCE (negative charge delocalized to oxygen) + INDUCTIVE effect (electronegative O pulls electrons). Alkyl groups DONATE, not withdraw!",
       "wrong_answer_explanations": {
         "A": "Both resonance AND inductive effects matter, not just resonance.",
@@ -2141,7 +2141,7 @@
         "D": "II and III only"
       },
       "correct_answer": "C",
-      "explanation": "When succinaldehyde (or any aldehyde or ketone with α-hydrogens) is treated with a strong base like lithium diisopropylamide (LDA), it forms the more nucleophilic enolate carbanion.",
+      "explanation": "When succinaldehyde (or any aldehyde or ketone with \u03b1-hydrogens) is treated with a strong base like lithium diisopropylamide (LDA), it forms the more nucleophilic enolate carbanion.",
       "short_reason": "LDA is a STRONG base - rips off the alpha proton to make a carbanion (enolate). Negative charge = nucleophilic! The enolate attacks electrophiles.",
       "wrong_answer_explanations": {
         "A": "Statement I is correct - enolates ARE more nucleophilic.",
@@ -2158,11 +2158,11 @@
       "options": {
         "A": "1,3-dicarbonyl",
         "B": "1,2-dicarbonyl",
-        "C": "α,β-unsaturated carbonyl",
-        "D": "β,γ-unsaturated carbonyl"
+        "C": "\u03b1,\u03b2-unsaturated carbonyl",
+        "D": "\u03b2,\u03b3-unsaturated carbonyl"
       },
       "correct_answer": "C",
-      "explanation": "Aldol condensations contain two main steps. In the first step, the α-carbon of an aldehyde or ketone is deprotonated, generating the enolate carbanion. This carbanion can then attack another aldehyde or ketone, generating the aldol. In the second step, the aldol is dehydrated, forming a double bond. This double bond is between the α- and β-carbons, so the molecule is an α,β-unsaturated carbonyl.",
+      "explanation": "Aldol condensations contain two main steps. In the first step, the \u03b1-carbon of an aldehyde or ketone is deprotonated, generating the enolate carbanion. This carbanion can then attack another aldehyde or ketone, generating the aldol. In the second step, the aldol is dehydrated, forming a double bond. This double bond is between the \u03b1- and \u03b2-carbons, so the molecule is an \u03b1,\u03b2-unsaturated carbonyl.",
       "short_reason": "Aldol condensation: aldol formation, then DEHYDRATION. Final product has C=C between alpha and beta carbons = alpha,beta-unsaturated carbonyl!",
       "wrong_answer_explanations": {
         "A": "1,3-dicarbonyl comes from Claisen condensation, not aldol.",
@@ -2183,7 +2183,7 @@
         "D": "Acetone, after reaction with strong base"
       },
       "correct_answer": "D",
-      "explanation": "Because benzaldehyde lacks an α-proton, it cannot be reacted with base to form the nucleophilic enolate carbanion. Therefore, acetone will act as our nucleophile, and both (A) and (B) can be eliminated. In order to perform this reaction, which is an aldol condensation, acetone will be reacted with a strong base—not a strong acid—in order to extract the α-hydrogen and form the enolate anion, which will act as a nucleophile.",
+      "explanation": "Because benzaldehyde lacks an \u03b1-proton, it cannot be reacted with base to form the nucleophilic enolate carbanion. Therefore, acetone will act as our nucleophile, and both (A) and (B) can be eliminated. In order to perform this reaction, which is an aldol condensation, acetone will be reacted with a strong base\u2014not a strong acid\u2014in order to extract the \u03b1-hydrogen and form the enolate anion, which will act as a nucleophile.",
       "short_reason": "Benzaldehyde has NO alpha-protons (only H is on the carbonyl carbon)! Only acetone can form enolate with base, so acetone is the nucleophile.",
       "wrong_answer_explanations": {
         "A": "Adding acid wouldn't help - benzaldehyde still has no alpha-protons to remove.",
@@ -2204,7 +2204,7 @@
         "D": "methanal and ethanal in catalytic base."
       },
       "correct_answer": "B",
-      "explanation": "This is an example of an aldol condensation, but stopped after aldol formation (before dehydration). After the aldol is formed using strong base, the reaction may be halted by the addition of acid. Butanal in strong acid, described in (C), would be likely to deprotonate without gaining the hydroxyl group. Methanol in diethyl ether would not be reactive because diethyl ether is not a strong enough base to abstract the α-hydrogen, eliminating (A). Reaction of the two aldehydes methanal and ethanal in catalytic base would form 3-hydroxypropanal (which would dehydrate to form propenal), not 3-hydroxybutanal.",
+      "explanation": "This is an example of an aldol condensation, but stopped after aldol formation (before dehydration). After the aldol is formed using strong base, the reaction may be halted by the addition of acid. Butanal in strong acid, described in (C), would be likely to deprotonate without gaining the hydroxyl group. Methanol in diethyl ether would not be reactive because diethyl ether is not a strong enough base to abstract the \u03b1-hydrogen, eliminating (A). Reaction of the two aldehydes methanal and ethanal in catalytic base would form 3-hydroxypropanal (which would dehydrate to form propenal), not 3-hydroxybutanal.",
       "short_reason": "Aldol without dehydration = beta-hydroxy carbonyl. Ethanal + ethanal in base = 3-hydroxybutanal. Add acid to STOP before dehydration occurs!",
       "wrong_answer_explanations": {
         "A": "Methanol in ether won't do aldol - ether isn't basic enough.",
@@ -2225,7 +2225,7 @@
         "D": "Nucleophilic attack"
       },
       "correct_answer": "B",
-      "explanation": "The nomenclature in this question is well above what one needs to be able to draw on the MCAT; however, we can discern that we are forming a ketone and an aldehyde from a single molecule. The hallmark of a reverse aldol reaction is the breakage of a carbon–carbon bond, forming two aldehydes, two ketones, or one of each. In an aldol condensation, (A), we would expect to form a single product by combining two aldehydes, two ketones, or one of each. A dehydration reaction, (C), should release a water molecule, rather than breaking apart a large organic molecule into two smaller molecules. A nucleophilic attack, (D), should feature the formation of a bond between a nucleophile and an electrophile; again, we would not expect to break apart a large organic molecule into two smaller molecules. Note that simply noting how many reactants and products are present in the reaction is sufficient to determine the answer.",
+      "explanation": "The nomenclature in this question is well above what one needs to be able to draw on the MCAT; however, we can discern that we are forming a ketone and an aldehyde from a single molecule. The hallmark of a reverse aldol reaction is the breakage of a carbon\u2013carbon bond, forming two aldehydes, two ketones, or one of each. In an aldol condensation, (A), we would expect to form a single product by combining two aldehydes, two ketones, or one of each. A dehydration reaction, (C), should release a water molecule, rather than breaking apart a large organic molecule into two smaller molecules. A nucleophilic attack, (D), should feature the formation of a bond between a nucleophile and an electrophile; again, we would not expect to break apart a large organic molecule into two smaller molecules. Note that simply noting how many reactants and products are present in the reaction is sufficient to determine the answer.",
       "short_reason": "RETRO-aldol breaks C-C bond to give two carbonyls! Forward aldol joins carbonyls; reverse aldol splits them. This is key in glycolysis!",
       "wrong_answer_explanations": {
         "A": "Aldol condensation JOINS molecules - this question describes BREAKING apart.",
@@ -2246,7 +2246,7 @@
         "D": ""
       },
       "correct_answer": "D",
-      "explanation": "This compound is a β-keto acid: a carbonyl functional group at the β-position from a carboxyl group. Decarboxylation occurs with β-keto acids and β-dicarboxylic acids because they can form a cyclic transition state that permits simultaneous hydrogen transfer and loss of carbon dioxide. (B) is a diketone and does not have a single carboxyl group. (A) and (C) are γ- and δ-dicarboxylic acids, respectively, and can decarboxylate but with more difficulty.",
+      "explanation": "This compound is a \u03b2-keto acid: a carbonyl functional group at the \u03b2-position from a carboxyl group. Decarboxylation occurs with \u03b2-keto acids and \u03b2-dicarboxylic acids because they can form a cyclic transition state that permits simultaneous hydrogen transfer and loss of carbon dioxide. (B) is a diketone and does not have a single carboxyl group. (A) and (C) are \u03b3- and \u03b4-dicarboxylic acids, respectively, and can decarboxylate but with more difficulty.",
       "short_reason": "BETA-keto acids decarboxylate easily through 6-membered ring transition state! The carbonyl helps accept electrons as CO2 leaves. Distance matters!",
       "wrong_answer_explanations": {
         "A": "Check if this has a carbonyl at the beta position from the carboxyl group.",
@@ -2305,8 +2305,8 @@
       "options": {
         "A": "CH3(CH2)19COOH",
         "B": "CH3COOH",
-        "C": "CH3(CH2)19COO–Na+",
-        "D": "CH3COO–Na+"
+        "C": "CH3(CH2)19COO\u2013Na+",
+        "D": "CH3COO\u2013Na+"
       },
       "correct_answer": "C",
       "explanation": "Soap is a salt of a carboxylate anion with a long hydrocarbon tail. (A) and (B) are not salts of anionic compounds. (D) is sodium acetate, which is a salt but does not contain the long hydrocarbon tail needed to be considered a soap.",
@@ -2428,7 +2428,7 @@
       "chapter": 8,
       "chapter_title": "Carboxylic Acids",
       "question_number": 10,
-      "question_text": "The α-hydrogen of a carboxylic acid is:\nI. more acidic than the hydroxyl hydrogen.\nII. less acidic than the hydroxyl hydrogen.\nIII. relatively acidic, as organic compounds go.",
+      "question_text": "The \u03b1-hydrogen of a carboxylic acid is:\nI. more acidic than the hydroxyl hydrogen.\nII. less acidic than the hydroxyl hydrogen.\nIII. relatively acidic, as organic compounds go.",
       "options": {
         "A": "I only",
         "B": "II only",
@@ -2436,7 +2436,7 @@
         "D": "II and III only"
       },
       "correct_answer": "D",
-      "explanation": "The α-hydrogen of a carboxylic acid is relatively acidic as far as organic compounds go, due to resonance stabilization. However, the hydroxyl hydrogen is significantly more acidic because it is able to share the negative charge resulting from deprotonation between both electronegative oxygen atoms in the functional group.",
+      "explanation": "The \u03b1-hydrogen of a carboxylic acid is relatively acidic as far as organic compounds go, due to resonance stabilization. However, the hydroxyl hydrogen is significantly more acidic because it is able to share the negative charge resulting from deprotonation between both electronegative oxygen atoms in the functional group.",
       "short_reason": "Alpha-H is acidic (resonance stabilization) but NOT as acidic as the carboxyl -OH. The carboxyl oxygen shares negative charge between TWO oxygens - super stable!",
       "wrong_answer_explanations": {
         "A": "The hydroxyl H is MORE acidic than alpha-H due to better resonance stabilization.",
@@ -2541,7 +2541,7 @@
         "D": "water molecule."
       },
       "correct_answer": "D",
-      "explanation": "Based on its name, caprylic acid must be a carboxylic acid. The reaction between a carboxylic acid and ammonia (NH3) would produce an amide—which is not one of the options listed. Instead, we should take a look at the type of reaction occurring. The production of an amide from a carboxylic acid and ammonia occurs through a condensation reaction in which a molecule of water is removed as a leaving group.",
+      "explanation": "Based on its name, caprylic acid must be a carboxylic acid. The reaction between a carboxylic acid and ammonia (NH3) would produce an amide\u2014which is not one of the options listed. Instead, we should take a look at the type of reaction occurring. The production of an amide from a carboxylic acid and ammonia occurs through a condensation reaction in which a molecule of water is removed as a leaving group.",
       "short_reason": "Carboxylic acid + NH3 = AMIDE + WATER! It's a condensation reaction - small molecule (H2O) leaves when the two components join.",
       "wrong_answer_explanations": {
         "A": "Ester forms from acid + alcohol, not acid + ammonia.",
@@ -2583,7 +2583,7 @@
         "D": ""
       },
       "correct_answer": "D",
-      "explanation": "This question asks for the products when ammonia reacts with acetic anhydride. Recall from the chapter that an amide and a carboxylic acid will be formed. However, the carboxylic acid—an acid—is in the same environment as ammonia—a base. The two will react, forming the ammonium carboxylate shown.",
+      "explanation": "This question asks for the products when ammonia reacts with acetic anhydride. Recall from the chapter that an amide and a carboxylic acid will be formed. However, the carboxylic acid\u2014an acid\u2014is in the same environment as ammonia\u2014a base. The two will react, forming the ammonium carboxylate shown.",
       "short_reason": "Anhydride + ammonia = amide + carboxylic acid. But wait - ammonia is a BASE, carboxylic acid is an ACID! They react to form ammonium carboxylate salt!",
       "wrong_answer_explanations": {
         "A": "This ignores the acid-base reaction between ammonia and the carboxylic acid product.",
@@ -2620,13 +2620,13 @@
       "question_number": 4,
       "question_text": "Each of the acyl compounds listed below contains a six-membered ring EXCEPT:",
       "options": {
-        "A": "δ-lactam.",
+        "A": "\u03b4-lactam.",
         "B": "cyclohexane carboxylic acid.",
-        "C": "γ-butyrolactone.",
+        "C": "\u03b3-butyrolactone.",
         "D": "the anhydride formed from intramolecular ring closure of pentanedioic acid."
       },
       "correct_answer": "C",
-      "explanation": "This question requires knowledge of the nomenclature of cyclic molecules. A δ-lactam, (A), has a bond between the nitrogen and the fourth carbon away from the carbonyl carbon. This ring will have six elements: the nitrogen, the carbonyl carbon, and the four carbons in between. Cyclohexane carboxylic acid, (B), has cyclohexane, a six-membered cycloalkane. The anhydride formed from pentanedioic acid, (D), will have the five carbons in the parent chain and one oxygen atom closing the ring, meaning there are still six elements. γ-butyrolactone will have five elements because it contains a bond between the ester oxygen and the third carbon away from the carbonyl carbon. The five elements will be the oxygen, the carbonyl carbon, and the three carbons in between.",
+      "explanation": "This question requires knowledge of the nomenclature of cyclic molecules. A \u03b4-lactam, (A), has a bond between the nitrogen and the fourth carbon away from the carbonyl carbon. This ring will have six elements: the nitrogen, the carbonyl carbon, and the four carbons in between. Cyclohexane carboxylic acid, (B), has cyclohexane, a six-membered cycloalkane. The anhydride formed from pentanedioic acid, (D), will have the five carbons in the parent chain and one oxygen atom closing the ring, meaning there are still six elements. \u03b3-butyrolactone will have five elements because it contains a bond between the ester oxygen and the third carbon away from the carbonyl carbon. The five elements will be the oxygen, the carbonyl carbon, and the three carbons in between.",
       "short_reason": "Greek letters count from carbonyl carbon! Delta-lactam (5 bonds to N) = 6-membered ring. Gamma-butyrolactone (3 bonds to O) = 5-membered ring!",
       "wrong_answer_explanations": {
         "A": "Delta-lactam: N bonded to delta carbon (4 away from C=O) = 6 atoms in ring.",
@@ -2724,7 +2724,7 @@
       "chapter": 9,
       "chapter_title": "Carboxylic Acid Derivatives",
       "question_number": 9,
-      "question_text": "β-lactams are:\nI. cyclic forms of the least reactive type of carboxylic acid derivative.\nII. more reactive than their straight-chain counterparts.\nIII. molecules with high levels of ring strain.",
+      "question_text": "\u03b2-lactams are:\nI. cyclic forms of the least reactive type of carboxylic acid derivative.\nII. more reactive than their straight-chain counterparts.\nIII. molecules with high levels of ring strain.",
       "options": {
         "A": "I only",
         "B": "II only",
@@ -2732,7 +2732,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "D",
-      "explanation": "β-lactams are amides in the form of four-membered rings; amides are generally the least reactive type of carboxylic acid derivative. β-lactams experience significant ring strain from both eclipsing interactions (torsional strain) and angle strain and are therefore more susceptible to hydrolysis than the linear form of the same molecule.",
+      "explanation": "\u03b2-lactams are amides in the form of four-membered rings; amides are generally the least reactive type of carboxylic acid derivative. \u03b2-lactams experience significant ring strain from both eclipsing interactions (torsional strain) and angle strain and are therefore more susceptible to hydrolysis than the linear form of the same molecule.",
       "short_reason": "Beta-lactams are 4-membered rings = HIGH ring strain! Strain makes them more reactive (eager to open the ring). Important for antibiotics like penicillin!",
       "wrong_answer_explanations": {
         "A": "Amides ARE the least reactive derivatives, but ring strain changes everything.",
@@ -2766,7 +2766,7 @@
       "chapter": 9,
       "chapter_title": "Carboxylic Acid Derivatives",
       "question_number": 11,
-      "question_text": "The reaction shown, which is important for the breakdown of polypeptides, would be favored under what conditions?",
+      "question_text": "Consider the following amide hydrolysis reaction (peptide bond cleavage):\n\nR-CO-NH-R' + H\u2082O \u2192 R-COOH + H\u2082N-R'\n\nThe reaction shown, which is important for the breakdown of polypeptides, would be favored under what conditions?",
       "options": {
         "A": "Mild heat",
         "B": "Acid environment",
@@ -2787,7 +2787,7 @@
       "chapter": 9,
       "chapter_title": "Carboxylic Acid Derivatives",
       "question_number": 12,
-      "question_text": "A positive charge on the molecule shown would have greater stability than a positive charge on a straight-chain alkane version of the same molecule. What property most explains this effect?",
+      "question_text": "Consider a benzyl amide compound (an amide attached to a benzene ring):\n\nC\u2086H\u2085-CH\u2082-CO-NH\u2082\n\nA positive charge on the molecule shown would have greater stability than a positive charge on a straight-chain alkane version of the same molecule. What property most explains this effect?",
       "options": {
         "A": "Steric hindrance",
         "B": "Nitrogen electronegativity",
@@ -2808,7 +2808,7 @@
       "chapter": 9,
       "chapter_title": "Carboxylic Acid Derivatives",
       "question_number": 13,
-      "question_text": "The molecule shown is:\nI. synthesizable from a γ-hydroxycarboxylic acid.\nII. a lactone.\nIII. a form of an ester.",
+      "question_text": "Consider the following cyclic ester (\u03b3-nonalactone), a 5-membered ring lactone:\n\n[A 5-membered ring containing: C-C-C-C-O with a C=O at one position, plus a pentyl (C5) chain attached]\n\nThe molecule shown is:\nI. synthesizable from a \u03b3-hydroxycarboxylic acid.\nII. a lactone.\nIII. a form of an ester.",
       "options": {
         "A": "I only",
         "B": "I and II only",
@@ -2816,7 +2816,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "D",
-      "explanation": "The molecule shown, γ-nonalactone, is a cyclic ester, also called a lactone. This molecule could arise from intramolecular attack in a γ-hydroxycarboxylic acid.",
+      "explanation": "The molecule shown, \u03b3-nonalactone, is a cyclic ester, also called a lactone. This molecule could arise from intramolecular attack in a \u03b3-hydroxycarboxylic acid.",
       "short_reason": "Lactone = cyclic ESTER. Gamma-hydroxy acid (OH at 4th carbon) cyclizes to form 5-membered lactone ring. Classic intramolecular esterification!",
       "wrong_answer_explanations": {
         "A": "Gamma-hydroxy acid is correct, not delta.",
@@ -2858,7 +2858,7 @@
         "D": "Water molecules would hydrolyze the desired products back into the parent carboxylic acid."
       },
       "correct_answer": "D",
-      "explanation": "The presence of water in an esterification reaction would likely revert some of the desired esters back into carboxylic acids. Small carboxylic acids, like formic or acetic acid, are easily dissolved in water, eliminating (A). The polarity of water plays little role in affecting the leaving group; if anything, water can be used to increase the electrophilicity of the carbonyl carbon by protonating the carbonyl oxygen—eliminating (B). Finally, this is a nucleophilic substitution mechanism, not a nucleophilic addition mechanism, as mentioned in (C). Further, hydrogen bonding would likely augment the reaction.",
+      "explanation": "The presence of water in an esterification reaction would likely revert some of the desired esters back into carboxylic acids. Small carboxylic acids, like formic or acetic acid, are easily dissolved in water, eliminating (A). The polarity of water plays little role in affecting the leaving group; if anything, water can be used to increase the electrophilicity of the carbonyl carbon by protonating the carbonyl oxygen\u2014eliminating (B). Finally, this is a nucleophilic substitution mechanism, not a nucleophilic addition mechanism, as mentioned in (C). Further, hydrogen bonding would likely augment the reaction.",
       "short_reason": "Water is a nucleophile that attacks esters! Esterification is REVERSIBLE - water hydrolyzes esters back to acid + alcohol. Use dry conditions to push forward!",
       "wrong_answer_explanations": {
         "A": "Small carboxylic acids ARE water-soluble - formic, acetic, etc.",
@@ -2879,7 +2879,7 @@
         "D": "Glycine"
       },
       "correct_answer": "D",
-      "explanation": "Glycine’s R group is a hydrogen atom; this amino acid is therefore achiral because the central carbon is not bonded to four different substituents. The other amino acids are all chiral and therefore have both L- and D-enantiomers.",
+      "explanation": "Glycine\u2019s R group is a hydrogen atom; this amino acid is therefore achiral because the central carbon is not bonded to four different substituents. The other amino acids are all chiral and therefore have both L- and D-enantiomers.",
       "short_reason": "Glycine's R group is just H! With two H's attached to the alpha carbon (plus NH2 and COOH), there are only 3 different groups = NOT chiral = no L or D!",
       "wrong_answer_explanations": {
         "A": "Cysteine has -CH2SH as R group - four different groups = chiral.",
@@ -2897,7 +2897,7 @@
         "A": "C2H5NH2",
         "B": "CH3NH2",
         "C": "(C2H5)3N",
-        "D": "(CH3)4N+Br–"
+        "D": "(CH3)4N+Br\u2013"
       },
       "correct_answer": "B",
       "explanation": "This reaction is similar to the Gabriel synthesis. Phthalimide acts as a nucleophile, the methyl carbon acts as an electrophile, and bromide acts as the leaving group. Therefore, the reaction between methyl bromide and phthalimide results in the formation of methyl phthalimide. Subsequent hydrolysis then yields methylamine.",
@@ -2984,7 +2984,7 @@
         "D": "Butanal"
       },
       "correct_answer": "C",
-      "explanation": "The Strecker synthesis creates an amino acid from an aldehyde. The carbonyl carbon ultimately becomes the α-carbon of the amino acid. Any remaining alkyl chain becomes the R group, as shown below. The starting compound is therefore 2-methylpropanal (isobutyraldehyde).",
+      "explanation": "The Strecker synthesis creates an amino acid from an aldehyde. The carbonyl carbon ultimately becomes the \u03b1-carbon of the amino acid. Any remaining alkyl chain becomes the R group, as shown below. The starting compound is therefore 2-methylpropanal (isobutyraldehyde).",
       "short_reason": "Strecker makes amino acid from aldehyde. The aldehyde's carbonyl carbon becomes the alpha carbon. Valine's R is isopropyl, so start with isobutyraldehyde!",
       "wrong_answer_explanations": {
         "A": "2-Propanone (acetone) is a ketone, not an aldehyde - wrong starting material.",
@@ -2998,7 +2998,7 @@
       "chapter": 10,
       "chapter_title": "Nitrogen- and Phosphorus-Containing Compounds",
       "question_number": 7,
-      "question_text": "Why is the C–N bond of an amide planar?\nI. It has partial double-bond character.\nII. It is sp3-hybridized.\nIII. It has some sp2 character.",
+      "question_text": "Why is the C\u2013N bond of an amide planar?\nI. It has partial double-bond character.\nII. It is sp3-hybridized.\nIII. It has some sp2 character.",
       "options": {
         "A": "I only",
         "B": "II only",
@@ -3006,7 +3006,7 @@
         "D": "I and III only"
       },
       "correct_answer": "D",
-      "explanation": "One resonance structure of a C–N bond in an amide has the double bond between the C and N, not between the C and O. Thus, the C–N bond of an amide has some sp2 character, and sp2-hybridized atoms exhibit planar geometry.",
+      "explanation": "One resonance structure of a C\u2013N bond in an amide has the double bond between the C and N, not between the C and O. Thus, the C\u2013N bond of an amide has some sp2 character, and sp2-hybridized atoms exhibit planar geometry.",
       "short_reason": "Amide C-N bond is planar because resonance gives it PARTIAL DOUBLE BOND character! Lone pair on N overlaps with carbonyl, some sp2 character results.",
       "wrong_answer_explanations": {
         "A": "Partial double bond IS correct - but sp3 is wrong.",
@@ -3069,7 +3069,7 @@
         "D": "hydrolysis."
       },
       "correct_answer": "C",
-      "explanation": "The Gabriel synthesis includes two nucleophilic substitution steps, followed by hydrolysis and decarboxylation. Dehydration—the loss of a water molecule—is not a part of this reaction.",
+      "explanation": "The Gabriel synthesis includes two nucleophilic substitution steps, followed by hydrolysis and decarboxylation. Dehydration\u2014the loss of a water molecule\u2014is not a part of this reaction.",
       "short_reason": "Gabriel synthesis: SN2 (phthalimide attacks), then hydrolysis (water breaks open the ring), then decarboxylation (CO2 leaves). No dehydration!",
       "wrong_answer_explanations": {
         "A": "Decarboxylation occurs at the end when the diester is hydrolyzed.",
@@ -3084,10 +3084,10 @@
       "question_number": 11,
       "question_text": "At physiological pH, which two forms of phosphoric acid have the highest concentrations?",
       "options": {
-        "A": "H3PO4 and H2PO4−",
-        "B": "H2PO4− and HPO42−",
-        "C": "HPO42− and PO43−",
-        "D": "PO43− and H3PO4"
+        "A": "H3PO4 and H2PO4\u2212",
+        "B": "H2PO4\u2212 and HPO42\u2212",
+        "C": "HPO42\u2212 and PO43\u2212",
+        "D": "PO43\u2212 and H3PO4"
       },
       "correct_answer": "B",
       "explanation": "The pKa2 of phosphoric acid is close to physiological pH; therefore, at this pH.",
@@ -3190,12 +3190,12 @@
       "question_text": "IR spectroscopy is most useful for distinguishing:",
       "options": {
         "A": "double and triple bonds.",
-        "B": "C–H bonds.",
+        "B": "C\u2013H bonds.",
         "C": "chirality of molecules.",
         "D": "relative percentage of enantiomers in mixtures."
       },
       "correct_answer": "A",
-      "explanation": "Infrared spectroscopy is most useful for distinguishing between different functional groups. Almost all organic compounds have C–H bonds, (B), so except for fingerprinting a compound, these absorptions are not useful. Little information about the optical properties of a compound, such as (C) and (D), can be obtained by IR spectroscopy.",
+      "explanation": "Infrared spectroscopy is most useful for distinguishing between different functional groups. Almost all organic compounds have C\u2013H bonds, (B), so except for fingerprinting a compound, these absorptions are not useful. Little information about the optical properties of a compound, such as (C) and (D), can be obtained by IR spectroscopy.",
       "short_reason": "IR = Identifies functional groups! Each functional group (C=O, O-H, N-H, C triple bond N) has a characteristic stretching frequency. Perfect for distinguishing bond types!",
       "wrong_answer_explanations": {
         "B": "C-H bonds are in almost everything - not useful for distinguishing compounds.",
@@ -3233,11 +3233,11 @@
       "options": {
         "A": "Comparing the fingerprint region of the spectra of starting material and product",
         "B": "Noting the change in intensity of the peaks corresponding to the benzene ring",
-        "C": "Noting the appearance of a broad absorption peak in the region of 3100–3500 cm–1",
-        "D": "Noting the appearance of a strong absorption in the region of 1750 cm–1"
+        "C": "Noting the appearance of a broad absorption peak in the region of 3100\u20133500 cm\u20131",
+        "D": "Noting the appearance of a strong absorption in the region of 1750 cm\u20131"
       },
       "correct_answer": "D",
-      "explanation": "In this reaction, the functional group is changing from a hydroxyl to an aldehyde. This means that a sharp peak will appear around 1750 cm–1, which corresponds to the carbonyl functionality. (C) is the opposite of what occurs; the reaction will be characterized by the disappearance of the O–H peak at 3100 to 3500 cm–1, not its appearance. Comparing the fingerprint regions, as in (A), will provide evidence that a reaction is occurring, but it is not as useful for knowing that the reaction that occurred was indeed the one that was desired.",
+      "explanation": "In this reaction, the functional group is changing from a hydroxyl to an aldehyde. This means that a sharp peak will appear around 1750 cm\u20131, which corresponds to the carbonyl functionality. (C) is the opposite of what occurs; the reaction will be characterized by the disappearance of the O\u2013H peak at 3100 to 3500 cm\u20131, not its appearance. Comparing the fingerprint regions, as in (A), will provide evidence that a reaction is occurring, but it is not as useful for knowing that the reaction that occurred was indeed the one that was desired.",
       "short_reason": "Carbonyl (C=O) peak at ~1750 cm-1 = smoking gun! Alcohol to aldehyde means losing the broad O-H peak (~3400) and gaining the sharp carbonyl peak.",
       "wrong_answer_explanations": {
         "A": "Fingerprint region changes but is complex - carbonyl peak is clearer evidence.",
@@ -3250,7 +3250,7 @@
       "chapter": 11,
       "chapter_title": "Spectroscopy",
       "question_number": 4,
-      "question_text": "Which of the following chemical shifts could correspond to an aldehydic proton signal in a 1H–NMR spectrum?",
+      "question_text": "Which of the following chemical shifts could correspond to an aldehydic proton signal in a 1H\u2013NMR spectrum?",
       "options": {
         "A": "9.5 ppm",
         "B": "7.0 ppm",
@@ -3292,7 +3292,7 @@
       "chapter": 11,
       "chapter_title": "Spectroscopy",
       "question_number": 6,
-      "question_text": "In 1H–NMR, splitting of spectral lines is due to:",
+      "question_text": "In 1H\u2013NMR, splitting of spectral lines is due to:",
       "options": {
         "A": "coupling between a carbon atom and protons attached to that carbon atom.",
         "B": "coupling between a carbon atom and protons attached to adjacent carbon atoms.",
@@ -3300,7 +3300,7 @@
         "D": "coupling between protons on adjacent carbon atoms."
       },
       "correct_answer": "D",
-      "explanation": "Spin–spin coupling (splitting) is due to influence on the magnetic environment of one proton by protons on the adjacent atom. These protons are three bonds away from each other. Splitting in other NMR spectra can include coupling with carbon atoms, but not in 1H–NMR.",
+      "explanation": "Spin\u2013spin coupling (splitting) is due to influence on the magnetic environment of one proton by protons on the adjacent atom. These protons are three bonds away from each other. Splitting in other NMR spectra can include coupling with carbon atoms, but not in 1H\u2013NMR.",
       "short_reason": "Spin-spin COUPLING (splitting) comes from neighboring protons! The magnetic field of adjacent H's affects the observed H. Three bonds away = coupled!",
       "wrong_answer_explanations": {
         "A": "In 1H NMR, we don't see C-H coupling - protons couple to other protons.",
@@ -3334,15 +3334,15 @@
       "chapter": 11,
       "chapter_title": "Spectroscopy",
       "question_number": 8,
-      "question_text": "Considering only the 0 to 4.5 ppm region of a 1H–NMR spectrum, how could ethanol and isopropanol be distinguished?",
+      "question_text": "Considering only the 0 to 4.5 ppm region of a 1H\u2013NMR spectrum, how could ethanol and isopropanol be distinguished?",
       "options": {
-        "A": "They cannot be distinguished from 1H–NMR alone.",
+        "A": "They cannot be distinguished from 1H\u2013NMR alone.",
         "B": "A triplet and quartet are observed for ethanol, whereas a doublet and septet are observed for isopropanol.",
         "C": "A triplet and quartet are observed for isopropanol, whereas a doublet and septet are observed for ethanol.",
         "D": "The alcohol hydrogen in ethanol will appear within that region, whereas the alcohol hydrogen in isopropanol will appear downfield of that region."
       },
       "correct_answer": "B",
-      "explanation": "The region in question often gives information about the types of alkyl groups present. Specifically, ethanol will give a characteristic triplet for the methyl group (which is coupled to –CH2–) and a quartet for –CH2– (which is coupled to the methyl group). Isopropanol will have a septet for the –CH– group (which is coupled to both methyl groups combined) and a doublet for the two methyl groups (which are coupled to –CH–). In both cases, the proton in the alcohol does not participate in coupling. The alcohol hydrogen likely lies downfield for both compounds because it is bonded to such an electronegative element.",
+      "explanation": "The region in question often gives information about the types of alkyl groups present. Specifically, ethanol will give a characteristic triplet for the methyl group (which is coupled to \u2013CH2\u2013) and a quartet for \u2013CH2\u2013 (which is coupled to the methyl group). Isopropanol will have a septet for the \u2013CH\u2013 group (which is coupled to both methyl groups combined) and a doublet for the two methyl groups (which are coupled to \u2013CH\u2013). In both cases, the proton in the alcohol does not participate in coupling. The alcohol hydrogen likely lies downfield for both compounds because it is bonded to such an electronegative element.",
       "short_reason": "Ethanol: CH3 (triplet, coupled to CH2) + CH2 (quartet, coupled to CH3). Isopropanol: (CH3)2 (doublet, coupled to CH) + CH (septet, coupled to 6 H's)!",
       "wrong_answer_explanations": {
         "A": "The alkyl region (0-4.5 ppm) clearly distinguishes these two alcohols by splitting patterns.",
@@ -3384,7 +3384,7 @@
         "D": "The absorbance band will disappear."
       },
       "correct_answer": "A",
-      "explanation": "Carbonyl groups (C=O) in conjugation with double bonds tend to absorb at lower wavenumbers because the delocalization of π electrons causes the C=O bond to lose double-bond character, shifting the stretching frequency closer to C–O stretches. Remember that higher-order bonds tend to have higher absorption frequencies, so loss of double-bond character should decrease the absorption frequency of the group.",
+      "explanation": "Carbonyl groups (C=O) in conjugation with double bonds tend to absorb at lower wavenumbers because the delocalization of \u03c0 electrons causes the C=O bond to lose double-bond character, shifting the stretching frequency closer to C\u2013O stretches. Remember that higher-order bonds tend to have higher absorption frequencies, so loss of double-bond character should decrease the absorption frequency of the group.",
       "short_reason": "Conjugation DELOCALIZES electrons, giving C=O more single-bond character! Less double-bond character = weaker bond = lower stretching frequency (wavenumber).",
       "wrong_answer_explanations": {
         "B": "Higher wavenumber would mean stronger bond - conjugation weakens the C=O.",
@@ -3439,7 +3439,7 @@
       "chapter": 11,
       "chapter_title": "Spectroscopy",
       "question_number": 13,
-      "question_text": "In a molecule containing a carboxylic acid group, what would be expected in a 1H–NMR spectrum?",
+      "question_text": "In a molecule containing a carboxylic acid group, what would be expected in a 1H\u2013NMR spectrum?",
       "options": {
         "A": "A deshielded hydrogen peak for the hydroxyl hydrogen, shifted left",
         "B": "A deshielded hydrogen peak for the hydroxyl hydrogen, shifted right",
@@ -3481,7 +3481,7 @@
       "chapter": 11,
       "chapter_title": "Spectroscopy",
       "question_number": 15,
-      "question_text": "The IR spectrum of a fully protonated amino acid would likely contain which of the following peaks?\nI. A sharp peak at 1750 cm–1\nII. A sharp peak at 3300 cm–1\nIII. A broad peak at 3300 cm–1",
+      "question_text": "The IR spectrum of a fully protonated amino acid would likely contain which of the following peaks?\nI. A sharp peak at 1750 cm\u20131\nII. A sharp peak at 3300 cm\u20131\nIII. A broad peak at 3300 cm\u20131",
       "options": {
         "A": "I only",
         "B": "I and II only",
@@ -3489,7 +3489,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "B",
-      "explanation": "Amino acids in their fully protonated form contain all three of the peaks that should be memorized for Test Day: C–O, N–H, and O–H. While statements I and II correctly give the peaks for the C=O bond (sharp peak at 1750 cm–1) and the N–H bond (sharp peak at 3300 cm–1), the peak for the O–H bond is in the wrong place. In a carboxylic acid, the C=O bond withdraws electron density from the O–H bond, shifting the absorption frequency down to about 3000 cm–1. Statement III is therefore incorrect.",
+      "explanation": "Amino acids in their fully protonated form contain all three of the peaks that should be memorized for Test Day: C\u2013O, N\u2013H, and O\u2013H. While statements I and II correctly give the peaks for the C=O bond (sharp peak at 1750 cm\u20131) and the N\u2013H bond (sharp peak at 3300 cm\u20131), the peak for the O\u2013H bond is in the wrong place. In a carboxylic acid, the C=O bond withdraws electron density from the O\u2013H bond, shifting the absorption frequency down to about 3000 cm\u20131. Statement III is therefore incorrect.",
       "short_reason": "Fully protonated amino acid: C=O at 1750 (sharp), N-H at 3300 (sharp), O-H at ~3000 (broad, shifted down by conjugation with C=O in COOH).",
       "wrong_answer_explanations": {
         "A": "C=O at 1750 is correct, but N-H and O-H peaks are also present.",
@@ -3504,13 +3504,13 @@
       "question_number": 1,
       "question_text": "Fractional distillation under atmospheric pressure would most likely be used to separate which of the following compounds?",
       "options": {
-        "A": "Methylene chloride (boiling point of 40°C) and water (boiling point of 10°C)",
-        "B": "Ethyl acetate (boiling point of 77°C) and ethanol (boiling point of 80°C)",
-        "C": "Aniline (boiling point of 184°C) and benzyl alcohol (boiling point of 205°C)",
-        "D": "Aniline (boiling point of 184°C) and water (boiling point of 100°C)"
+        "A": "Methylene chloride (boiling point of 40\u00b0C) and water (boiling point of 10\u00b0C)",
+        "B": "Ethyl acetate (boiling point of 77\u00b0C) and ethanol (boiling point of 80\u00b0C)",
+        "C": "Aniline (boiling point of 184\u00b0C) and benzyl alcohol (boiling point of 205\u00b0C)",
+        "D": "Aniline (boiling point of 184\u00b0C) and water (boiling point of 100\u00b0C)"
       },
       "correct_answer": "B",
-      "explanation": "Fractional distillation is the most effective procedure for separating two liquids that boil within a few degrees of each other. Ethyl acetate and ethanol boil well within 25°C of each other and thus would be good candidates for fractional distillation. Fractional distillation could also be used for the liquids in (C), but would require lower pressures because of their high boiling points.",
+      "explanation": "Fractional distillation is the most effective procedure for separating two liquids that boil within a few degrees of each other. Ethyl acetate and ethanol boil well within 25\u00b0C of each other and thus would be good candidates for fractional distillation. Fractional distillation could also be used for the liquids in (C), but would require lower pressures because of their high boiling points.",
       "short_reason": "FRACTIONAL distillation for close boiling points (within 25C)! Ethyl acetate (77C) and ethanol (80C) are only 3 degrees apart = need fractional column.",
       "wrong_answer_explanations": {
         "A": "40C difference is enough for simple distillation, and they're immiscible anyway.",
@@ -3679,7 +3679,7 @@
         "D": "filtration, followed by size-exclusion column chromatography, followed by extraction."
       },
       "correct_answer": "B",
-      "explanation": "In this question, three substances must be separated using a combination of techniques. The first step should be the most obvious: remove the sand by filtration. The remaining compounds—benzoic acid and naphthalene—are still dissolved in ether. If the solution is extracted with an aqueous base, the benzoate anion is formed and becomes dissolved in the aqueous layer, while naphthalene, a nonpolar compound, remains in the ether. Finally, evaporation of the ether will yield purified naphthalene.",
+      "explanation": "In this question, three substances must be separated using a combination of techniques. The first step should be the most obvious: remove the sand by filtration. The remaining compounds\u2014benzoic acid and naphthalene\u2014are still dissolved in ether. If the solution is extracted with an aqueous base, the benzoate anion is formed and becomes dissolved in the aqueous layer, while naphthalene, a nonpolar compound, remains in the ether. Finally, evaporation of the ether will yield purified naphthalene.",
       "short_reason": "Step by step: FILTER sand (insoluble). EXTRACT benzoic acid with base (makes soluble salt). EVAPORATE ether to get naphthalene. Logical sequence!",
       "wrong_answer_explanations": {
         "A": "Acidic extraction wouldn't separate benzoic acid - it's already an acid!",
@@ -3694,13 +3694,13 @@
       "question_number": 10,
       "question_text": "Simple distillation could be used to separate which of the following compounds?",
       "options": {
-        "A": "Toluene (boiling point of 111°C) and water (boiling point of 100°C)",
-        "B": "Naphthalene (boiling point of 218°C) and butyric acid (boiling point of 163°C)",
-        "C": "Propionaldehyde (boiling point of 50°C) and acetic acid (boiling point of 119°C)",
-        "D": "Benzene (boiling point of 80°C) and isopropyl alcohol (boiling point of 83°C)"
+        "A": "Toluene (boiling point of 111\u00b0C) and water (boiling point of 100\u00b0C)",
+        "B": "Naphthalene (boiling point of 218\u00b0C) and butyric acid (boiling point of 163\u00b0C)",
+        "C": "Propionaldehyde (boiling point of 50\u00b0C) and acetic acid (boiling point of 119\u00b0C)",
+        "D": "Benzene (boiling point of 80\u00b0C) and isopropyl alcohol (boiling point of 83\u00b0C)"
       },
       "correct_answer": "C",
-      "explanation": "This is the only option that would be effectively separated by a simple distillation. (B) would require vacuum distillation because the boiling points are over 150°C. In (A) and (D), the boiling points are within 25°C of each other and would therefore require fractional distillation in order to be separated.",
+      "explanation": "This is the only option that would be effectively separated by a simple distillation. (B) would require vacuum distillation because the boiling points are over 150\u00b0C. In (A) and (D), the boiling points are within 25\u00b0C of each other and would therefore require fractional distillation in order to be separated.",
       "short_reason": "SIMPLE distillation works when boiling points are >25C apart AND both are low enough (<150C). Propionaldehyde (50C) and acetic acid (119C) = 69C difference!",
       "wrong_answer_explanations": {
         "A": "Only 11C apart - need fractional distillation.",
@@ -3776,7 +3776,7 @@
       "chapter": 12,
       "chapter_title": "Separations and Purifications",
       "question_number": 14,
-      "question_text": "During gravity filtration, a student forgets to heat the solution before running it through the filter. After capturing the filtrate, the student analyzes the sample via infrared (IR) spectroscopy and finds none of the desired product in the filtrate. What likely occurred to the student’s product?",
+      "question_text": "During gravity filtration, a student forgets to heat the solution before running it through the filter. After capturing the filtrate, the student analyzes the sample via infrared (IR) spectroscopy and finds none of the desired product in the filtrate. What likely occurred to the student\u2019s product?",
       "options": {
         "A": "The product degraded because of a prolonged filtration time.",
         "B": "The product evaporated with collection of the filtrate.",

@@ -11,7 +11,7 @@
       "chapter": 1,
       "chapter_title": "Biology and Behavior",
       "question_number": 1,
-      "question_text": "A researcher deletes a gene from an organism to determine the gene’s function. This approach is most analogous to the work of which of the following scientists?",
+      "question_text": "A researcher deletes a gene from an organism to determine the gene\u2019s function. This approach is most analogous to the work of which of the following scientists?",
       "options": {
         "A": "Paul Broca",
         "B": "Pierre Flourens",
@@ -19,7 +19,7 @@
         "D": "Sir Charles Sherrington"
       },
       "correct_answer": "B",
-      "explanation": "Creating knockouts to study gene function is similar to ablation, or extirpation, in which specific parts of an organism’s anatomy are removed. This approach was used by Pierre Flourens to show that specific parts of the brain served particular functions, supporting (B) as the correct answer. Unlike Pierre, Paul Broca, choice (A), did not ablate regions of the brain; rather he studied the functional impairments in individuals with different brain lesions.",
+      "explanation": "Creating knockouts to study gene function is similar to ablation, or extirpation, in which specific parts of an organism\u2019s anatomy are removed. This approach was used by Pierre Flourens to show that specific parts of the brain served particular functions, supporting (B) as the correct answer. Unlike Pierre, Paul Broca, choice (A), did not ablate regions of the brain; rather he studied the functional impairments in individuals with different brain lesions.",
       "short_reason": "Flourens FLOURISHED by REMOVING parts - ablation removes to study function, just like gene knockouts. Think: 'Flourens Flicked it off!'",
       "wrong_answer_explanations": {
         "A": "Broca studied existing brain lesions in patients, he didn't remove brain parts himself - he observed what was already damaged.",
@@ -82,7 +82,7 @@
         "D": "motor skills."
       },
       "correct_answer": "D",
-      "explanation": "The temporal lobes have many functions, but motor skills are not associated with this area. The temporal lobes contain Wernicke’s area, which is responsible for language comprehension, (A). The temporal lobes also function in memory and emotion, (B) and (C), because they contain the hippocampus and amygdala. Motor skills are associated with the frontal lobe (primary motor cortex), basal ganglia (smooth movements), and cerebellum (coordination).",
+      "explanation": "The temporal lobes have many functions, but motor skills are not associated with this area. The temporal lobes contain Wernicke\u2019s area, which is responsible for language comprehension, (A). The temporal lobes also function in memory and emotion, (B) and (C), because they contain the hippocampus and amygdala. Motor skills are associated with the frontal lobe (primary motor cortex), basal ganglia (smooth movements), and cerebellum (coordination).",
       "short_reason": "Temporal lobe = TIME for memories, emotions, and hearing language (Wernicke's area). Motor skills are FRONTAL lobe territory. Think: 'Temporal Tells Tales, Frontal does Footwork!'",
       "wrong_answer_explanations": {
         "A": "Wernicke's area in the temporal lobe is essential for language comprehension - it's a classic temporal function.",
@@ -229,7 +229,7 @@
         "D": "Hyperthyroidism"
       },
       "correct_answer": "C",
-      "explanation": "The pineal gland is responsible for producing melatonin, which controls the body’s circadian rhythm. Insomnia would be a disturbance of this circadian rhythm, and may be attributable to a pineal gland disorder in some cases. Hypertension, diabetes, and hyperthyroidism would be unrelated to issues with the pineal gland.",
+      "explanation": "The pineal gland is responsible for producing melatonin, which controls the body\u2019s circadian rhythm. Insomnia would be a disturbance of this circadian rhythm, and may be attributable to a pineal gland disorder in some cases. Hypertension, diabetes, and hyperthyroidism would be unrelated to issues with the pineal gland.",
       "short_reason": "Pineal = PINE cone shape + MELAtonin = SLEEP! Pineal problems = circadian rhythm chaos = insomnia. Think: 'Pineal for Pillow time!'",
       "wrong_answer_explanations": {
         "A": "High blood pressure relates to the adrenal glands (aldosterone, catecholamines), not the pineal gland.",
@@ -284,7 +284,7 @@
       "chapter": 1,
       "chapter_title": "Biology and Behavior",
       "question_number": 14,
-      "question_text": "During a physical examination, a physician brushes the bottom of the foot of a patient who is fifty years old with multiple sclerosis. The patient’s toes are observed to curl toward the bottom of the foot, with no fanning of the toes. This response is:",
+      "question_text": "During a physical examination, a physician brushes the bottom of the foot of a patient who is fifty years old with multiple sclerosis. The patient\u2019s toes are observed to curl toward the bottom of the foot, with no fanning of the toes. This response is:",
       "options": {
         "A": "abnormal, and evidence that the patient is exhibiting a primitive reflex.",
         "B": "normal, and evidence that the patient is exhibiting a primitive reflex.",
@@ -292,7 +292,7 @@
         "D": "normal, and evidence that the patient is not exhibiting a primitive reflex."
       },
       "correct_answer": "D",
-      "explanation": "The Babinski reflex is a primitive reflex that refers to an extension of the big toe accompanied by fanning of the other toes. It is normal in infants, but should disappear with time—certainly by the time a child begins to walk. In a person who is fifty years old, the Babinski reflex would be abnormal. However, despite having a neurological illness, this patient is exhibiting a normal response to the brushing of the foot; that is, the patient is not showing the Babinski reflex.",
+      "explanation": "The Babinski reflex is a primitive reflex that refers to an extension of the big toe accompanied by fanning of the other toes. It is normal in infants, but should disappear with time\u2014certainly by the time a child begins to walk. In a person who is fifty years old, the Babinski reflex would be abnormal. However, despite having a neurological illness, this patient is exhibiting a normal response to the brushing of the foot; that is, the patient is not showing the Babinski reflex.",
       "short_reason": "Toes curling DOWN = NORMAL adult response. Babinski (toes UP + fan) is only normal in BABIES. No primitive reflex here = good news! Think: 'Down is good when you're grown!'",
       "wrong_answer_explanations": {
         "A": "The response is normal (curling down), so it's not abnormal - and no primitive reflex is being shown.",
@@ -326,7 +326,7 @@
       "chapter": 2,
       "chapter_title": "Sensation and Perception",
       "question_number": 1,
-      "question_text": "A weight lifter is just able to tell the difference between 100 and 125 pounds. According to Weber’s law, the lifter would notice a difference between:",
+      "question_text": "A weight lifter is just able to tell the difference between 100 and 125 pounds. According to Weber\u2019s law, the lifter would notice a difference between:",
       "options": {
         "A": "125 and 150 pounds.",
         "B": "5 and 6 pounds.",
@@ -334,7 +334,7 @@
         "D": "225 and 275 pounds."
       },
       "correct_answer": "C",
-      "explanation": "Weber’s law posits that thresholds are proportional. Going from 100 to 125 pounds is a 25 percent increase. (C) is a 40 percent increase while all the rest are all under 25 percent.",
+      "explanation": "Weber\u2019s law posits that thresholds are proportional. Going from 100 to 125 pounds is a 25 percent increase. (C) is a 40 percent increase while all the rest are all under 25 percent.",
       "short_reason": "Weber's law = JND is PROPORTIONAL! 25/100 = 25%. Only 25 to 35 (40%) exceeds this threshold. Think: 'Weber says it's about the RATIO!'",
       "wrong_answer_explanations": {
         "A": "125 to 150 is only 20% increase (25/125) - below the 25% JND threshold.",
@@ -347,7 +347,7 @@
       "chapter": 2,
       "chapter_title": "Sensation and Perception",
       "question_number": 2,
-      "question_text": "A person is at a party with a friend. There is loud music in the background and the location is crowded. While listening to the music, the person hears what seems like the friend’s laughter and turns around to investigate. The person is exhibiting:",
+      "question_text": "A person is at a party with a friend. There is loud music in the background and the location is crowded. While listening to the music, the person hears what seems like the friend\u2019s laughter and turns around to investigate. The person is exhibiting:",
       "options": {
         "A": "feature detection.",
         "B": "bottom-up processing.",
@@ -355,7 +355,7 @@
         "D": "signal detection."
       },
       "correct_answer": "D",
-      "explanation": "The person is discerning a specific noise within a field of many noises. This is the definition of signal detection. In an experimental setup, the person’s response would be considered a hit if the friend was indeed laughing; it would be considered a false alarm if the friend was not laughing.",
+      "explanation": "The person is discerning a specific noise within a field of many noises. This is the definition of signal detection. In an experimental setup, the person\u2019s response would be considered a hit if the friend was indeed laughing; it would be considered a false alarm if the friend was not laughing.",
       "short_reason": "Hearing your friend's laugh in a noisy party = SIGNAL DETECTION! You're detecting a meaningful signal amid noise. Think: 'Finding the signal in the static!'",
       "wrong_answer_explanations": {
         "A": "Feature detection is about identifying specific visual elements like lines and edges - not about sound.",
@@ -368,7 +368,7 @@
       "chapter": 2,
       "chapter_title": "Sensation and Perception",
       "question_number": 3,
-      "question_text": "A person is at a restaurant and orders a spicy entrée. After the first bite, the person experiences burning in the mouth and becomes concerned that the food is too hot. The next few bites are similarly uncomfortable, but after a while the spiciness seems to subside somewhat, and by the end of the meal, the person doesn’t notice the spice level. The end of the meal experience is best described as:",
+      "question_text": "A person is at a restaurant and orders a spicy entr\u00e9e. After the first bite, the person experiences burning in the mouth and becomes concerned that the food is too hot. The next few bites are similarly uncomfortable, but after a while the spiciness seems to subside somewhat, and by the end of the meal, the person doesn\u2019t notice the spice level. The end of the meal experience is best described as:",
       "options": {
         "A": "adaptation.",
         "B": "signal detection.",
@@ -473,7 +473,7 @@
       "chapter": 2,
       "chapter_title": "Sensation and Perception",
       "question_number": 8,
-      "question_text": "The ability to sense stimuli against one’s own skin is known as:",
+      "question_text": "The ability to sense stimuli against one\u2019s own skin is known as:",
       "options": {
         "A": "somatosensation.",
         "B": "kinesthetic sense.",
@@ -481,7 +481,7 @@
         "D": "chemoreception."
       },
       "correct_answer": "A",
-      "explanation": "Somatosensation refers to the various modalities of touch: pressure, vibration, temperature, and pain. Kinesthetic sense, (B), refers to the ability to tell where one’s body is in space. Vestibular sense, (C), refers to the detection of linear and rotational acceleration in the middle ear. Finally, chemoreception, (D), refers to sensing chemicals in the environment.",
+      "explanation": "Somatosensation refers to the various modalities of touch: pressure, vibration, temperature, and pain. Kinesthetic sense, (B), refers to the ability to tell where one\u2019s body is in space. Vestibular sense, (C), refers to the detection of linear and rotational acceleration in the middle ear. Finally, chemoreception, (D), refers to sensing chemicals in the environment.",
       "short_reason": "SOMA = body in Greek. SOMAtosensation = body sensations - pressure, vibration, temperature, pain on your skin. Think: 'Soma Senses your Skin!'",
       "wrong_answer_explanations": {
         "B": "Kinesthetic sense (proprioception) tells you where your body PARTS are in space - not skin sensation.",
@@ -565,7 +565,7 @@
         "D": "feature detection."
       },
       "correct_answer": "B",
-      "explanation": "Kinesthetic sense, or proprioception, refers to the ability to tell where body parts are in three-dimensional space. The sensors for proprioception are found predominantly in the muscles and joints. Loss of vestibular sense, (A), would also cause difficulty walking, but this would be due to a sense of dizziness or vertigo, not an inability to feel one’s feet.",
+      "explanation": "Kinesthetic sense, or proprioception, refers to the ability to tell where body parts are in three-dimensional space. The sensors for proprioception are found predominantly in the muscles and joints. Loss of vestibular sense, (A), would also cause difficulty walking, but this would be due to a sense of dizziness or vertigo, not an inability to feel one\u2019s feet.",
       "short_reason": "Can't feel where your feet are = KINESTHETIC/PROPRIOCEPTION loss! It's your body's GPS for limb position. Think: 'Kinesthetic = Knowing where your Knees are!'",
       "wrong_answer_explanations": {
         "A": "Vestibular loss causes dizziness/vertigo - the patient's problem is not feeling feet, not spinning sensation.",
@@ -578,7 +578,7 @@
       "chapter": 2,
       "chapter_title": "Sensation and Perception",
       "question_number": 13,
-      "question_text": "A person proofreading a paper reads over a long, misspelled word in which an “e” is replaced with an “o.” The person does not recognize the error and reads the word as correct. Which of the following could explain why the proofreader read the word as correct?",
+      "question_text": "A person proofreading a paper reads over a long, misspelled word in which an \u201ce\u201d is replaced with an \u201co.\u201d The person does not recognize the error and reads the word as correct. Which of the following could explain why the proofreader read the word as correct?",
       "options": {
         "A": "Parallel processing",
         "B": "Feature detection",
@@ -586,7 +586,7 @@
         "D": "Bottom-up processing"
       },
       "correct_answer": "C",
-      "explanation": "The proofreader used a larger pattern to identify the word and expected to see an “e,” thus missing the error. This is related to top-down processing; the proofreader used recognition and expectations, which led to missing a detail. Bottom-up processing, (D), would be the analysis of each detail individually before creating a cohesive image.",
+      "explanation": "The proofreader used a larger pattern to identify the word and expected to see an \u201ce,\u201d thus missing the error. This is related to top-down processing; the proofreader used recognition and expectations, which led to missing a detail. Bottom-up processing, (D), would be the analysis of each detail individually before creating a cohesive image.",
       "short_reason": "Missing a typo because you 'saw' what you expected = TOP-DOWN processing! Your brain's expectations overrode the actual input. Think: 'Top-down = Brain tells eyes what to see!'",
       "wrong_answer_explanations": {
         "A": "Parallel processing handles multiple visual aspects simultaneously - not about expectation-based errors.",
@@ -767,7 +767,7 @@
       "chapter": 3,
       "chapter_title": "Learning and Memory",
       "question_number": 7,
-      "question_text": "Which of the following is true of teaching an animal a complicated, multistage behavior?\nI. The individual parts of the behavior should not run counter to the animal’s natural instincts.\nII. The behaviors must be tied to a food reward of some kind.\nIII. Rewarding individual parts of the behavior on their own interferes with reinforcement of the entire behavior.",
+      "question_text": "Which of the following is true of teaching an animal a complicated, multistage behavior?\nI. The individual parts of the behavior should not run counter to the animal\u2019s natural instincts.\nII. The behaviors must be tied to a food reward of some kind.\nIII. Rewarding individual parts of the behavior on their own interferes with reinforcement of the entire behavior.",
       "options": {
         "A": "I only",
         "B": "I and III only",
@@ -796,7 +796,7 @@
         "D": "Most information we can later recall is encoded using controlled processing."
       },
       "correct_answer": "C",
-      "explanation": "This is the definition of controlled processing and is the only answer choice that is necessarily true of controlled processing. Effortful processing is used to create long-term memories, and—with practice—can become automatic, invalidating (A) and (B). Most of our day-to-day activities are processed automatically, making (D) incorrect.",
+      "explanation": "This is the definition of controlled processing and is the only answer choice that is necessarily true of controlled processing. Effortful processing is used to create long-term memories, and\u2014with practice\u2014can become automatic, invalidating (A) and (B). Most of our day-to-day activities are processed automatically, making (D) incorrect.",
       "short_reason": "CONTROLLED processing = CONSCIOUS EFFORT required! It takes attention and can become automatic with practice. Think: 'Controlled = Concentration required!'",
       "wrong_answer_explanations": {
         "A": "Information enters short-term memory through sensory memory first - not controlled processing.",
@@ -880,7 +880,7 @@
         "D": "The participants will not be able to recall any of the numbers verbally, but will be able to draw the full array under hypnosis."
       },
       "correct_answer": "A",
-      "explanation": "Partial-report procedures, in which the individual is asked to recall a specific portion of the stimulus, are incredibly accurate, but only for a very brief time. This is a method of studying sensory (specifically, iconic) memory. Both the serial position effect, (B), and the 7 ± 2 rule, (C), are characteristics of short-term memory.",
+      "explanation": "Partial-report procedures, in which the individual is asked to recall a specific portion of the stimulus, are incredibly accurate, but only for a very brief time. This is a method of studying sensory (specifically, iconic) memory. Both the serial position effect, (B), and the 7 \u00b1 2 rule, (C), are characteristics of short-term memory.",
       "short_reason": "Partial-report shows ICONIC memory - you can recall ANY row perfectly, but only for a SPLIT SECOND! It proves we see more than we can report. Think: 'Partial-report = Perfect but brief!'",
       "wrong_answer_explanations": {
         "B": "Serial position effect is about first/last items in a list - not about briefly flashed visual arrays.",
@@ -938,7 +938,7 @@
       "question_text": "Which of the following would an older adult be most likely to have trouble recalling?",
       "options": {
         "A": "The circumstances of meeting a significant other in college",
-        "B": "A doctor’s appointment scheduled for 1:00 p.m.",
+        "B": "A doctor\u2019s appointment scheduled for 1:00 p.m.",
         "C": "The names of the characters in a favorite television show",
         "D": "That a library book needs to be returned when passing by the library on a morning walk"
       },
@@ -964,7 +964,7 @@
         "D": "Accommodation"
       },
       "correct_answer": "D",
-      "explanation": "Jean Piaget hypothesized that new information is processed by adaptation, (B). Adaptation is too broad of an answer because it includes both assimilation, (A), and accommodation, (D). Assimilation is incorporation of new information into existing schemata. If the new information doesn’t fit, then accommodation occurs. Accommodation is the modification of existing schemata to account for new information and is thus the correct answer.",
+      "explanation": "Jean Piaget hypothesized that new information is processed by adaptation, (B). Adaptation is too broad of an answer because it includes both assimilation, (A), and accommodation, (D). Assimilation is incorporation of new information into existing schemata. If the new information doesn\u2019t fit, then accommodation occurs. Accommodation is the modification of existing schemata to account for new information and is thus the correct answer.",
       "short_reason": "ACCOMMODATION = adjust your mental ACCOMMODATIONS (schemas) for new info that doesn't fit! Think: 'Accommodate = Adjust your mental framework!'",
       "wrong_answer_explanations": {
         "A": "Assimilation is fitting new info INTO existing schemas - no schema change needed.",
@@ -1006,7 +1006,7 @@
         "D": "Confirmation bias"
       },
       "correct_answer": "C",
-      "explanation": "The base rate fallacy occurs when prototypical or stereotypical factors are used for analysis rather than actual data. Because the student is volunteering in a hospital with a stroke center, the student sees more patients who have experienced a stroke than would be expected in a hospital without a stroke center. Thus, this experience changes the student’s perception and results in base rate fallacy. Deductive reasoning, (A), refers to drawing conclusions by integrating different pieces of evidence. The representativeness heuristic, (B), involves categorization and classification based on how well an individual example fits its category. Confirmation bias, (D), occurs when people only seek information that reinforces their opinions.",
+      "explanation": "The base rate fallacy occurs when prototypical or stereotypical factors are used for analysis rather than actual data. Because the student is volunteering in a hospital with a stroke center, the student sees more patients who have experienced a stroke than would be expected in a hospital without a stroke center. Thus, this experience changes the student\u2019s perception and results in base rate fallacy. Deductive reasoning, (A), refers to drawing conclusions by integrating different pieces of evidence. The representativeness heuristic, (B), involves categorization and classification based on how well an individual example fits its category. Confirmation bias, (D), occurs when people only seek information that reinforces their opinions.",
       "short_reason": "Overestimating stroke because you see it daily = BASE RATE FALLACY! You forgot the actual statistics. Think: 'Base rate = what's the REAL rate in the population!'",
       "wrong_answer_explanations": {
         "A": "Deductive reasoning is drawing conclusions from general principles - not the error here.",
@@ -1019,15 +1019,15 @@
       "chapter": 4,
       "chapter_title": "Cognition, Consciousness, and Language",
       "question_number": 4,
-      "question_text": "Which of the following types of intelligence is NOT described by Gardner’s theory of multiple intelligences?",
+      "question_text": "Which of the following types of intelligence is NOT described by Gardner\u2019s theory of multiple intelligences?",
       "options": {
         "A": "Fluid intelligence",
-        "B": "Bodily–kinesthetic intelligence",
-        "C": "Visual–spatial intelligence",
+        "B": "Bodily\u2013kinesthetic intelligence",
+        "C": "Visual\u2013spatial intelligence",
         "D": "Linguistic intelligence"
       },
       "correct_answer": "A",
-      "explanation": "Fluid intelligence consists of problem-solving skills and is not one of Gardner’s eight multiple intelligences. Gardner’s theory lists linguistic, logical–mathematical, musical, visual–spatial, bodily–kinesthetic, interpersonal, intrapersonal, and naturalist intelligences.",
+      "explanation": "Fluid intelligence consists of problem-solving skills and is not one of Gardner\u2019s eight multiple intelligences. Gardner\u2019s theory lists linguistic, logical\u2013mathematical, musical, visual\u2013spatial, bodily\u2013kinesthetic, interpersonal, intrapersonal, and naturalist intelligences.",
       "short_reason": "FLUID intelligence (problem-solving) is NOT in Gardner's 8 intelligences! Gardner has linguistic, musical, spatial, etc. - but fluid is from Cattell. Think: 'Fluid flows elsewhere!'",
       "wrong_answer_explanations": {
         "B": "Bodily-kinesthetic intelligence IS one of Gardner's 8 - think dancers and athletes.",
@@ -1063,13 +1063,13 @@
       "question_number": 6,
       "question_text": "Which of the following indicates the pattern of sleep stages during a complete sleep cycle early in the night?",
       "options": {
-        "A": "1–2–3–4–1–2–REM",
-        "B": "1–2–3–4–3–2–REM",
-        "C": "4–3–2–1–2–3–REM",
-        "D": "4–3–2–4–3–1–REM"
+        "A": "1\u20132\u20133\u20134\u20131\u20132\u2013REM",
+        "B": "1\u20132\u20133\u20134\u20133\u20132\u2013REM",
+        "C": "4\u20133\u20132\u20131\u20132\u20133\u2013REM",
+        "D": "4\u20133\u20132\u20134\u20133\u20131\u2013REM"
       },
       "correct_answer": "B",
-      "explanation": "Early in the evening, sleep cycles include deepening of sleep (Stages 1–2–3–4), followed either by lightening of sleep (Stages 4–3–2) and then REM, or just directly moving from Stage 4 into REM. Later in the evening, the cycle may be shortened as slow-wave sleep becomes less common.",
+      "explanation": "Early in the evening, sleep cycles include deepening of sleep (Stages 1\u20132\u20133\u20134), followed either by lightening of sleep (Stages 4\u20133\u20132) and then REM, or just directly moving from Stage 4 into REM. Later in the evening, the cycle may be shortened as slow-wave sleep becomes less common.",
       "short_reason": "Sleep cycle = 1-2-3-4-3-2-REM! You go DOWN to deep sleep then BACK UP before REM. Think: 'Dive deep, then rise to REM!'",
       "wrong_answer_explanations": {
         "A": "This goes back through stages 1-2 before REM - but typically it's 3-2, not all the way to 1.",
@@ -1082,7 +1082,7 @@
       "chapter": 4,
       "chapter_title": "Cognition, Consciousness, and Language",
       "question_number": 7,
-      "question_text": "Which of the following best explains a student’s ability to sit on the couch and watch reruns of a favorite TV show while studying for a chemistry exam?",
+      "question_text": "Which of the following best explains a student\u2019s ability to sit on the couch and watch reruns of a favorite TV show while studying for a chemistry exam?",
       "options": {
         "A": "Selective attention",
         "B": "Divided attention",
@@ -1090,7 +1090,7 @@
         "D": "Parallel processing"
       },
       "correct_answer": "B",
-      "explanation": "Divided attention is the ability to perform several tasks simultaneously. Routine actions, such as rewatching familiar episodes of a favorite TV show, are completed via automatic processing which allows the brain to focus on other tasks. Working on two tasks simultaneously means the student is using divided attention, supporting (B) as the correct answer. By contrast, parallel processing, (D), refers to the brain’s ability to analyze imagery by processing several aspects of the image (shape, color, motion, etc.) independently and simultaneously.",
+      "explanation": "Divided attention is the ability to perform several tasks simultaneously. Routine actions, such as rewatching familiar episodes of a favorite TV show, are completed via automatic processing which allows the brain to focus on other tasks. Working on two tasks simultaneously means the student is using divided attention, supporting (B) as the correct answer. By contrast, parallel processing, (D), refers to the brain\u2019s ability to analyze imagery by processing several aspects of the image (shape, color, motion, etc.) independently and simultaneously.",
       "short_reason": "Studying WHILE watching TV = DIVIDED attention! Doing two things at once (one is automatic). Think: 'Divided = Doing double duty!'",
       "wrong_answer_explanations": {
         "A": "Selective attention would be focusing on ONE thing while ignoring the other completely.",
@@ -1105,13 +1105,13 @@
       "question_number": 8,
       "question_text": "Which theory of dreaming states that dreams and thoughts during wakeful periods use the same stream-of-consciousness system?",
       "options": {
-        "A": "Activation–synthesis theory",
+        "A": "Activation\u2013synthesis theory",
         "B": "Problem solving theory",
         "C": "Cognitive process theory",
         "D": "Neurocognitive theory"
       },
       "correct_answer": "C",
-      "explanation": "Cognitive theorists proposed in the cognitive process dream theory that wakeful and dreaming states use the same mental systems within the brain, particularly stream-of-consciousness. The activation–synthesis theory, (A), states that dreams are caused by widespread, random activation of neural circuitry. The problem solving dream model, (B), indicates that dreams are used to solve problems while sleeping due to untethering of dreams from obstacles perceived while awake. The neurocognitive theorists, (D), seek to unify cognitive and biological perspectives by correlating the subjective dream experience with the physiological experience of dreaming.",
+      "explanation": "Cognitive theorists proposed in the cognitive process dream theory that wakeful and dreaming states use the same mental systems within the brain, particularly stream-of-consciousness. The activation\u2013synthesis theory, (A), states that dreams are caused by widespread, random activation of neural circuitry. The problem solving dream model, (B), indicates that dreams are used to solve problems while sleeping due to untethering of dreams from obstacles perceived while awake. The neurocognitive theorists, (D), seek to unify cognitive and biological perspectives by correlating the subjective dream experience with the physiological experience of dreaming.",
       "short_reason": "Dreams use same stream-of-consciousness as waking = COGNITIVE PROCESS theory! Dreams are just nighttime thinking. Think: 'Cognitive = Continuous consciousness!'",
       "wrong_answer_explanations": {
         "A": "Activation-synthesis says dreams are random neural firing - not organized like waking thought.",
@@ -1132,7 +1132,7 @@
         "D": "Tetrahydrocannabinol"
       },
       "correct_answer": "D",
-      "explanation": "The description of the student matches the clinical features of marijuana (cannabis) use: hunger (presumably, based on what was shoplifted), redness of the eyes, dry mouth, and euphoria. Marijuana may also cause an increased heart rate, short-term memory loss, paranoia, and—in high doses—hallucinations. Tetrahydrocannabinol is the primary active substance in marijuana.",
+      "explanation": "The description of the student matches the clinical features of marijuana (cannabis) use: hunger (presumably, based on what was shoplifted), redness of the eyes, dry mouth, and euphoria. Marijuana may also cause an increased heart rate, short-term memory loss, paranoia, and\u2014in high doses\u2014hallucinations. Tetrahydrocannabinol is the primary active substance in marijuana.",
       "short_reason": "Red eyes + munchies + dry mouth + giggling = MARIJUANA! THC is the active ingredient. Think: 'THC = The Hunger & Chuckles!'",
       "wrong_answer_explanations": {
         "A": "Alprazolam (Xanax) is a benzodiazepine - would cause sedation, not hunger and red eyes.",
@@ -1210,13 +1210,13 @@
       "question_number": 13,
       "question_text": "A stroke patient comprehends speech but cannot properly move the mouth to form words. Which of the following brain areas is likely affected?",
       "options": {
-        "A": "Broca’s area",
-        "B": "Wernicke’s area",
+        "A": "Broca\u2019s area",
+        "B": "Wernicke\u2019s area",
         "C": "Arcuate fasciculus",
         "D": "Superior temporal gyrus"
       },
       "correct_answer": "A",
-      "explanation": "Broca’s area governs the motor function of language. A stroke that affects Broca’s area will leave receptive language intact, but word formation will be affected. A stroke affecting Wernicke’s area, (B), will make it so the individual is unable to comprehend speech. A stroke affecting the arcuate fasciculus, (C), will result in an inability to repeat words heard but spontaneous language production is intact. The superior temporal gyrus, (D), is where Wernicke’s area is located.",
+      "explanation": "Broca\u2019s area governs the motor function of language. A stroke that affects Broca\u2019s area will leave receptive language intact, but word formation will be affected. A stroke affecting Wernicke\u2019s area, (B), will make it so the individual is unable to comprehend speech. A stroke affecting the arcuate fasciculus, (C), will result in an inability to repeat words heard but spontaneous language production is intact. The superior temporal gyrus, (D), is where Wernicke\u2019s area is located.",
       "short_reason": "Understands speech but can't form words = BROCA'S aphasia! Broca's = Broken speech output (expressive). Think: 'Broca's = Broken output!'",
       "wrong_answer_explanations": {
         "B": "Wernicke's area damage causes COMPREHENSION problems - the patient understands fine here.",
@@ -1229,7 +1229,7 @@
       "chapter": 4,
       "chapter_title": "Cognition, Consciousness, and Language",
       "question_number": 14,
-      "question_text": "A person sits at a terminal of the airport and works on a challenging sudoku puzzle. The individual ignores most of the intercom announcements but, after an announcement indicates that boarding for the flight has begun, quickly gets in line. Which of the following best explains the person’s rapid response for boarding?",
+      "question_text": "A person sits at a terminal of the airport and works on a challenging sudoku puzzle. The individual ignores most of the intercom announcements but, after an announcement indicates that boarding for the flight has begun, quickly gets in line. Which of the following best explains the person\u2019s rapid response for boarding?",
       "options": {
         "A": "Cocktail party phenomenon",
         "B": "Divided attention",
@@ -1237,7 +1237,7 @@
         "D": "Effortful processing"
       },
       "correct_answer": "A",
-      "explanation": "With selective attention, a person focuses on a specific task while filtering out background stimuli. In this way, the individual in the airport ignored most of the background noise while working on a puzzle. However, the brain can shift attention quickly when a stimulus is particularly important, such as the specific call for boarding the flight. This shift is known as the cocktail party phenomenon, named for a person’s ability to quickly reorient their focus when they hear their name at a party. Thus, (A) is the correct answer. By contrast, while effortful processing, (D), describes this person’s intense focus on the puzzle, it does not explain the ability to respond quickly to the boarding announcement. Similarly, divided attention, (B), works best on simple tasks and the question stem uses the word “challenging” to describe the puzzle.",
+      "explanation": "With selective attention, a person focuses on a specific task while filtering out background stimuli. In this way, the individual in the airport ignored most of the background noise while working on a puzzle. However, the brain can shift attention quickly when a stimulus is particularly important, such as the specific call for boarding the flight. This shift is known as the cocktail party phenomenon, named for a person\u2019s ability to quickly reorient their focus when they hear their name at a party. Thus, (A) is the correct answer. By contrast, while effortful processing, (D), describes this person\u2019s intense focus on the puzzle, it does not explain the ability to respond quickly to the boarding announcement. Similarly, divided attention, (B), works best on simple tasks and the question stem uses the word \u201cchallenging\u201d to describe the puzzle.",
       "short_reason": "Focused on sudoku but heard your flight = COCKTAIL PARTY effect! Important info breaks through selective attention. Think: 'Cocktail party = Catching your cue!'",
       "wrong_answer_explanations": {
         "B": "Divided attention is doing two tasks at once - the person was filtering OUT announcements.",
@@ -1292,15 +1292,15 @@
       "chapter": 5,
       "chapter_title": "Motivation, Emotion, and Stress",
       "question_number": 2,
-      "question_text": "When practicing a recital song at home, a student sounds perfectly in pitch to family and friends. However, when performing at the recital in front of a large audience of peers, strangers, and coaches, the student’s pitch and tone are off, resulting in a poor performance. This second performance is best explained by:",
+      "question_text": "When practicing a recital song at home, a student sounds perfectly in pitch to family and friends. However, when performing at the recital in front of a large audience of peers, strangers, and coaches, the student\u2019s pitch and tone are off, resulting in a poor performance. This second performance is best explained by:",
       "options": {
         "A": "drive reduction theory.",
         "B": "instinct approach theory.",
-        "C": "Maslow’s hierarchy of needs.",
-        "D": "the Yerkes–Dodson law."
+        "C": "Maslow\u2019s hierarchy of needs.",
+        "D": "the Yerkes\u2013Dodson law."
       },
       "correct_answer": "D",
-      "explanation": "The Yerkes–Dodson law states that there is an optimal level of arousal necessary to perform. If levels of arousal are too high, poor performance can result. In the case of this student performing at a recital, arousal level is very high as a result of nervousness and anxiety, resulting in a poor performance.",
+      "explanation": "The Yerkes\u2013Dodson law states that there is an optimal level of arousal necessary to perform. If levels of arousal are too high, poor performance can result. In the case of this student performing at a recital, arousal level is very high as a result of nervousness and anxiety, resulting in a poor performance.",
       "short_reason": "Too nervous at recital = poor performance = YERKES-DODSON law! There's an optimal arousal level - too much or too little hurts performance. Think: 'Y-D = Your stress has a sweet spot!'",
       "wrong_answer_explanations": {
         "A": "Drive reduction is about reducing internal tension - not about performance under arousal.",
@@ -1376,15 +1376,15 @@
       "chapter": 5,
       "chapter_title": "Motivation, Emotion, and Stress",
       "question_number": 6,
-      "question_text": "The statement “I noticed my heart racing and breathing rate increasing when I saw a bear, so I am afraid” corresponds most closely with which theory of emotion?",
+      "question_text": "The statement \u201cI noticed my heart racing and breathing rate increasing when I saw a bear, so I am afraid\u201d corresponds most closely with which theory of emotion?",
       "options": {
-        "A": "Schachter–Singer theory",
-        "B": "Yerkes–Dodson theory",
-        "C": "Cannon–Bard theory",
-        "D": "James–Lange theory"
+        "A": "Schachter\u2013Singer theory",
+        "B": "Yerkes\u2013Dodson theory",
+        "C": "Cannon\u2013Bard theory",
+        "D": "James\u2013Lange theory"
       },
       "correct_answer": "D",
-      "explanation": "Experiencing a physiological reaction to a stimulus and then labeling that response as emotion is in line with the James–Lange theory of emotion. In the statement, seeing the bear is the stimulus, an increase in heart rate and breathing rate is the physiological reaction, and identifying this as fear is the emotion experienced.",
+      "explanation": "Experiencing a physiological reaction to a stimulus and then labeling that response as emotion is in line with the James\u2013Lange theory of emotion. In the statement, seeing the bear is the stimulus, an increase in heart rate and breathing rate is the physiological reaction, and identifying this as fear is the emotion experienced.",
       "short_reason": "Physical reaction FIRST, then label the emotion = JAMES-LANGE! 'I'm trembling so I must be afraid.' Think: 'James-Lange = Jitters Lead to Labels!'",
       "wrong_answer_explanations": {
         "A": "Schachter-Singer includes cognitive APPRAISAL of the situation, not just noticing body states.",
@@ -1397,7 +1397,7 @@
       "chapter": 5,
       "chapter_title": "Motivation, Emotion, and Stress",
       "question_number": 7,
-      "question_text": "Which theory of motivation is most significantly informed by Darwin’s theory of evolution?",
+      "question_text": "Which theory of motivation is most significantly informed by Darwin\u2019s theory of evolution?",
       "options": {
         "A": "Arousal theory",
         "B": "Drive reduction theory",
@@ -1405,7 +1405,7 @@
         "D": "Incentive theory"
       },
       "correct_answer": "C",
-      "explanation": "According to Darwin’s theory of evolution, all species have instincts that help them survive. The instinct theory of motivation states that people are motivated to act based on instincts that they are programmed to exhibit.",
+      "explanation": "According to Darwin\u2019s theory of evolution, all species have instincts that help them survive. The instinct theory of motivation states that people are motivated to act based on instincts that they are programmed to exhibit.",
       "short_reason": "INSTINCT theory is based on DARWIN's evolution! Behaviors are innate and help survival. Think: 'Instinct = Inherited through evolution!'",
       "wrong_answer_explanations": {
         "A": "Arousal theory is about seeking optimal stimulation - not about evolutionary instincts.",
@@ -1420,13 +1420,13 @@
       "question_number": 8,
       "question_text": "Simultaneous processing of conscious emotions and physiological activation is the defining feature of which theory of emotion?",
       "options": {
-        "A": "Schachter–Singer theory",
-        "B": "James–Lange theory",
+        "A": "Schachter\u2013Singer theory",
+        "B": "James\u2013Lange theory",
         "C": "Incentive theory",
-        "D": "Cannon–Bard theory"
+        "D": "Cannon\u2013Bard theory"
       },
       "correct_answer": "D",
-      "explanation": "The Cannon–Bard theory of emotion is based on the premise that conscious feelings and physiological components of emotion are experienced at exactly the same time. In this theory, this combination then leads to action. This is commonly confused with the Schachter–Singer theory, (A), in which nervous system arousal occurs and then is labeled based on the context provided by the environment.",
+      "explanation": "The Cannon\u2013Bard theory of emotion is based on the premise that conscious feelings and physiological components of emotion are experienced at exactly the same time. In this theory, this combination then leads to action. This is commonly confused with the Schachter\u2013Singer theory, (A), in which nervous system arousal occurs and then is labeled based on the context provided by the environment.",
       "short_reason": "Feelings and physiology at the SAME TIME = CANNON-BARD! They happen simultaneously, not sequentially. Think: 'Cannon fires Both at once!'",
       "wrong_answer_explanations": {
         "A": "Schachter-Singer involves cognitive labeling AFTER arousal - not simultaneous experience.",
@@ -1525,13 +1525,13 @@
       "question_number": 13,
       "question_text": "Which type of conflict is associated with the LEAST amount of stress?",
       "options": {
-        "A": "Approach–approach conflict",
-        "B": "Avoidance–avoidance conflict",
-        "C": "Approach–avoidance conflict",
-        "D": "Avoidance–escape conflict"
+        "A": "Approach\u2013approach conflict",
+        "B": "Avoidance\u2013avoidance conflict",
+        "C": "Approach\u2013avoidance conflict",
+        "D": "Avoidance\u2013escape conflict"
       },
       "correct_answer": "A",
-      "explanation": "Approach–approach conflict is one in which both results are good outcomes. While one must be chosen, neither choice results in a negative outcome: for example, choosing between two desserts. Avoidance–escape conflict, (D), is not a recognized form of conflict; these two terms are related to types of negative reinforcers.",
+      "explanation": "Approach\u2013approach conflict is one in which both results are good outcomes. While one must be chosen, neither choice results in a negative outcome: for example, choosing between two desserts. Avoidance\u2013escape conflict, (D), is not a recognized form of conflict; these two terms are related to types of negative reinforcers.",
       "short_reason": "APPROACH-APPROACH = both options are GOOD! Choosing between two desserts = minimal stress. Think: 'Both approach = Both attractive!'",
       "wrong_answer_explanations": {
         "B": "Avoidance-avoidance = choosing between two BAD options - very stressful.",
@@ -1586,7 +1586,7 @@
       "chapter": 6,
       "chapter_title": "Identity and Personality",
       "question_number": 1,
-      "question_text": "Each of the following is considered a part of a person’s self-concept EXCEPT:",
+      "question_text": "Each of the following is considered a part of a person\u2019s self-concept EXCEPT:",
       "options": {
         "A": "the past self.",
         "B": "the ought self.",
@@ -1628,7 +1628,7 @@
       "chapter": 6,
       "chapter_title": "Identity and Personality",
       "question_number": 3,
-      "question_text": "A high school student struggles consistently with math and feels that no amount of studying will help because “I just don’t get it.” Which of the following is the most likely short-term result with respect to the student’s ability to do math?",
+      "question_text": "A high school student struggles consistently with math and feels that no amount of studying will help because \u201cI just don\u2019t get it.\u201d Which of the following is the most likely short-term result with respect to the student\u2019s ability to do math?",
       "options": {
         "A": "Low self-esteem",
         "B": "Low self-efficacy",
@@ -1636,7 +1636,7 @@
         "D": "An external locus of control"
       },
       "correct_answer": "B",
-      "explanation": "Because there is nothing in the question stem to suggest that this situation will fundamentally change this student’s attitudes in the short term, (A) and (D) can be eliminated. (C) is unlikely in the short term, as learned helplessness requires a repeated inability to have any effect on a situation over a long period of time and is much more severe, usually manifesting as depression. It is far more likely that the student will simply feel ineffective when it comes to math, which is low self-efficacy.",
+      "explanation": "Because there is nothing in the question stem to suggest that this situation will fundamentally change this student\u2019s attitudes in the short term, (A) and (D) can be eliminated. (C) is unlikely in the short term, as learned helplessness requires a repeated inability to have any effect on a situation over a long period of time and is much more severe, usually manifesting as depression. It is far more likely that the student will simply feel ineffective when it comes to math, which is low self-efficacy.",
       "short_reason": "Feeling unable to succeed at ONE task = low SELF-EFFICACY (task-specific confidence). Not helplessness yet - that takes prolonged failure. Think: 'Efficacy = Effectiveness at one thing!'",
       "wrong_answer_explanations": {
         "A": "Low self-esteem is global self-worth - one class struggle wouldn't cause this immediately.",
@@ -1649,12 +1649,12 @@
       "chapter": 6,
       "chapter_title": "Identity and Personality",
       "question_number": 4,
-      "question_text": "A district attorney with an internal locus of control wins an important court trial. Which of the following best represents the lawyer’s attribution of the events?",
+      "question_text": "A district attorney with an internal locus of control wins an important court trial. Which of the following best represents the lawyer\u2019s attribution of the events?",
       "options": {
-        "A": "“I won because I made great arguments and had more experience than the defense.”",
-        "B": "“I won because the jury was on my side from the beginning and believed my arguments.”",
-        "C": "“I won because the defense did not adequately present their side of the case.”",
-        "D": "“I shouldn’t have won because I don’t deserve to be successful.”"
+        "A": "\u201cI won because I made great arguments and had more experience than the defense.\u201d",
+        "B": "\u201cI won because the jury was on my side from the beginning and believed my arguments.\u201d",
+        "C": "\u201cI won because the defense did not adequately present their side of the case.\u201d",
+        "D": "\u201cI shouldn\u2019t have won because I don\u2019t deserve to be successful.\u201d"
       },
       "correct_answer": "A",
       "explanation": "Because we know the lawyer has an internal locus of control, we expect belief in being in control of the events happening in life. Both (B) and (C) attribute success to outside factors, representing an external locus of control. While (D) perhaps represents an attribution that could correlate to low self-esteem, it is not indicative of locus of control.",
@@ -1678,7 +1678,7 @@
         "D": "The genital stage"
       },
       "correct_answer": "B",
-      "explanation": "Both excessive organization and excessive sloppiness are indicative of fixation in the anal stage of psychosexual development—what is commonly referred to as anal-retentiveness.",
+      "explanation": "Both excessive organization and excessive sloppiness are indicative of fixation in the anal stage of psychosexual development\u2014what is commonly referred to as anal-retentiveness.",
       "short_reason": "Extremely tidy/nervous about disorder = ANAL fixation! Freud said anal-retentive = obsessive orderliness. Think: 'Anal = All about control!'",
       "wrong_answer_explanations": {
         "A": "Oral fixation shows as oral habits (smoking, overeating, nail-biting) - not orderliness.",
@@ -1691,7 +1691,7 @@
       "chapter": 6,
       "chapter_title": "Identity and Personality",
       "question_number": 6,
-      "question_text": "According to Erikson’s stages of psychosocial development, which of the following would be the most important for a recent college graduate to accomplish?",
+      "question_text": "According to Erikson\u2019s stages of psychosocial development, which of the following would be the most important for a recent college graduate to accomplish?",
       "options": {
         "A": "Figuring out what identities are most important personally",
         "B": "Feeling like a contributing member of society",
@@ -1720,7 +1720,7 @@
         "D": "Postconventional; conventional"
       },
       "correct_answer": "A",
-      "explanation": "Matt’s reasoning reflects a desire to avoid punishment, which reflects stage one in Kohlberg’s preconventional phase (obedience). Cati’s reasoning takes into account social order, reflecting stage four in the conventional phase (law and order).",
+      "explanation": "Matt\u2019s reasoning reflects a desire to avoid punishment, which reflects stage one in Kohlberg\u2019s preconventional phase (obedience). Cati\u2019s reasoning takes into account social order, reflecting stage four in the conventional phase (law and order).",
       "short_reason": "Speeding = ticket (Matt) vs. speeding = social danger (Cati). Matt = PRECONVENTIONAL (avoid punishment), Cati = CONVENTIONAL (social order). Think: 'Pre = Punishment, Con = Community!'",
       "wrong_answer_explanations": {
         "B": "Cati isn't postconventional - she's citing social order (conventional), not universal ethical principles.",
@@ -1741,7 +1741,7 @@
         "D": "Lev Vygotsky"
       },
       "correct_answer": "D",
-      "explanation": "This situation is best described by Lev Vygotsky’s zone of proximal development theory, which holds that children are often unable to perform tasks by themselves, but can complete the task with the help of a more knowledgeable other.",
+      "explanation": "This situation is best described by Lev Vygotsky\u2019s zone of proximal development theory, which holds that children are often unable to perform tasks by themselves, but can complete the task with the help of a more knowledgeable other.",
       "short_reason": "Can't do alone but CAN with help = VYGOTSKY's Zone of Proximal Development! The 'more knowledgeable other' scaffolds learning. Think: 'Vygotsky = Via mentorship!'",
       "wrong_answer_explanations": {
         "A": "Bandura focused on observational learning/modeling - not on assisted task completion.",
@@ -1757,7 +1757,7 @@
       "question_text": "Which of the following is a conclusion that can be made from research in role-taking and observational learning?",
       "options": {
         "A": "Young children will only model actions performed by their parents.",
-        "B": "Celebrities and athletes are an adolescent’s most important role models.",
+        "B": "Celebrities and athletes are an adolescent\u2019s most important role models.",
         "C": "Children who role-take identities that are not gender typical are more likely to take on those roles later in life.",
         "D": "A female child is more likely to model the behavior of another female than a male."
       },
@@ -1796,7 +1796,7 @@
       "chapter": 6,
       "chapter_title": "Identity and Personality",
       "question_number": 11,
-      "question_text": "A woman advances through the ranks of a company, eventually becoming the CEO. Which of the following Jungian archetypes reflects this woman’s drive to be successful within the company?",
+      "question_text": "A woman advances through the ranks of a company, eventually becoming the CEO. Which of the following Jungian archetypes reflects this woman\u2019s drive to be successful within the company?",
       "options": {
         "A": "The persona",
         "B": "The anima",
@@ -1804,7 +1804,7 @@
         "D": "The shadow"
       },
       "correct_answer": "C",
-      "explanation": "Jung saw the drive for power and success as typically male traits, so Jung would say this woman is exercising her “inner man.” The animus is the archetype that most closely reflects this quality.",
+      "explanation": "Jung saw the drive for power and success as typically male traits, so Jung would say this woman is exercising her \u201cinner man.\u201d The animus is the archetype that most closely reflects this quality.",
       "short_reason": "Woman striving for power/success = ANIMUS (inner masculine)! Jung said women have an animus archetype representing masculine traits. Think: 'Animus = Ambitious inner man!'",
       "wrong_answer_explanations": {
         "A": "Persona is the public mask we show others - not the internal drive for success.",
@@ -1825,7 +1825,7 @@
         "D": "II and III only"
       },
       "correct_answer": "C",
-      "explanation": "This research supports a link between genetic expression and behavior, which is a central tenet of the biological perspective. The social cognitive perspective also holds that people’s behaviors and traits shape their environments, which in turn have an effect on their identity, so the discovery also supports this perspective. Behaviorism is not supported, as the discovery is not related to rewards and punishments.",
+      "explanation": "This research supports a link between genetic expression and behavior, which is a central tenet of the biological perspective. The social cognitive perspective also holds that people\u2019s behaviors and traits shape their environments, which in turn have an effect on their identity, so the discovery also supports this perspective. Behaviorism is not supported, as the discovery is not related to rewards and punishments.",
       "short_reason": "Genes linked to behavior supports BIOLOGICAL perspective AND social cognitive (traits shape environment). Behaviorism ignores genetics! Think: 'Biology + Social Cog see the gene!'",
       "wrong_answer_explanations": {
         "A": "Social cognitive alone is incomplete - biological perspective is also directly supported.",
@@ -1880,7 +1880,7 @@
       "chapter": 6,
       "chapter_title": "Identity and Personality",
       "question_number": 15,
-      "question_text": "Having struggled for years through an economic recession, a young professional begins to buy lottery tickets every Friday. “If I won the lottery,” the individual reasons, “I’d finally have the life I’ve always wanted. All my stress would go away and I could live comfortably.” These thoughts regarding winning the lottery are most representative of:",
+      "question_text": "Having struggled for years through an economic recession, a young professional begins to buy lottery tickets every Friday. \u201cIf I won the lottery,\u201d the individual reasons, \u201cI\u2019d finally have the life I\u2019ve always wanted. All my stress would go away and I could live comfortably.\u201d These thoughts regarding winning the lottery are most representative of:",
       "options": {
         "A": "a cardinal trait.",
         "B": "fictional finalism.",
@@ -1888,7 +1888,7 @@
         "D": "unconditional positive regard."
       },
       "correct_answer": "B",
-      "explanation": "Fictional finalism is comprised of internal, idealistic beliefs about the future. The assumption that winning the lottery will solve all of life’s problems is representative of this form of thinking. Cardinal traits, (A), are the traits around which individuals organize their entire life. Functional autonomy, (C), is when a behavior continues after the drive behind the behavior has ceased; for example, if this young professional continued purchasing lottery tickets after winning simply for enjoyment, then this behavior would have gained functional autonomy. Unconditional positive regard, (D), is used in some forms of humanistic therapy in which the therapist believes in the internal good of the client and does not judge the client negatively for any words or actions.",
+      "explanation": "Fictional finalism is comprised of internal, idealistic beliefs about the future. The assumption that winning the lottery will solve all of life\u2019s problems is representative of this form of thinking. Cardinal traits, (A), are the traits around which individuals organize their entire life. Functional autonomy, (C), is when a behavior continues after the drive behind the behavior has ceased; for example, if this young professional continued purchasing lottery tickets after winning simply for enjoyment, then this behavior would have gained functional autonomy. Unconditional positive regard, (D), is used in some forms of humanistic therapy in which the therapist believes in the internal good of the client and does not judge the client negatively for any words or actions.",
       "short_reason": "Winning lottery will solve everything = FICTIONAL FINALISM! Adler's term for idealistic beliefs about future outcomes. Think: 'Fictional = Fantasy future!'",
       "wrong_answer_explanations": {
         "A": "Cardinal traits are dominant life-organizing traits (Allport) - not specific beliefs about future.",
@@ -1930,7 +1930,7 @@
         "D": "neologisms."
       },
       "correct_answer": "A",
-      "explanation": "Echolalia is an involuntary repetition of others’ words and utterances and may be seen in schizophrenia. Echopraxia, (B), is imitation of others’ actions. Loosening of associations, (C), is a type of disordered thought in which the patient moves between remotely related ideas. Neologisms, (D), are newly invented words.",
+      "explanation": "Echolalia is an involuntary repetition of others\u2019 words and utterances and may be seen in schizophrenia. Echopraxia, (B), is imitation of others\u2019 actions. Loosening of associations, (C), is a type of disordered thought in which the patient moves between remotely related ideas. Neologisms, (D), are newly invented words.",
       "short_reason": "Repeating others' WORDS = ECHOLALIA! Echo + lalia (speech). Think: 'Echo-LALIA = Echo-LANGUAGE!'",
       "wrong_answer_explanations": {
         "B": "Echopraxia is imitating MOVEMENTS/actions, not words.",
@@ -1943,15 +1943,15 @@
       "chapter": 7,
       "chapter_title": "Psychological Disorders",
       "question_number": 3,
-      "question_text": "A 42-year-old patient has always been extremely neat and tidy. This person works as a secretary and stays long after normal working hours to check the punctuation and spelling of letters prepared during the day. The patient was referred for counseling by a supervisor after repeatedly getting into fights with coworkers. “They don’t take the job to heart,” the patient says. “They just joke around all day.” The most likely preliminary diagnosis for this patient is:",
+      "question_text": "A 42-year-old patient has always been extremely neat and tidy. This person works as a secretary and stays long after normal working hours to check the punctuation and spelling of letters prepared during the day. The patient was referred for counseling by a supervisor after repeatedly getting into fights with coworkers. \u201cThey don\u2019t take the job to heart,\u201d the patient says. \u201cThey just joke around all day.\u201d The most likely preliminary diagnosis for this patient is:",
       "options": {
-        "A": "obsessive–compulsive personality disorder.",
+        "A": "obsessive\u2013compulsive personality disorder.",
         "B": "antisocial personality disorder.",
         "C": "narcissistic personality disorder.",
         "D": "borderline personality disorder."
       },
       "correct_answer": "A",
-      "explanation": "Focusing on details, loving routine, having a sense that there is only one right way to do things, and lack of humor suggests an obsessive–compulsive personality disorder.",
+      "explanation": "Focusing on details, loving routine, having a sense that there is only one right way to do things, and lack of humor suggests an obsessive\u2013compulsive personality disorder.",
       "short_reason": "Obsessively organized + no humor + rigid rules = OCPD (Obsessive-Compulsive PERSONALITY Disorder)! Different from OCD. Think: 'OCPD = Order, Control, Perfectionism, Disagreeable!'",
       "wrong_answer_explanations": {
         "B": "Antisocial PD involves disregard for others' rights, law-breaking - not orderliness.",
@@ -1985,7 +1985,7 @@
       "chapter": 7,
       "chapter_title": "Psychological Disorders",
       "question_number": 5,
-      "question_text": "A young person moves to a new city to start work on an accelerated degree program. After a few months this individual visits the doctor complaining of stress and isolation and is diagnosed with depression. The doctor ascribes the cause to low levels of serotonin and prescribes an SSRI for treatment. Which of the following best describes the physician’s approach to diagnosis and treatment?",
+      "question_text": "A young person moves to a new city to start work on an accelerated degree program. After a few months this individual visits the doctor complaining of stress and isolation and is diagnosed with depression. The doctor ascribes the cause to low levels of serotonin and prescribes an SSRI for treatment. Which of the following best describes the physician\u2019s approach to diagnosis and treatment?",
       "options": {
         "A": "Biomedical approach with indirect therapy",
         "B": "Biomedical approach with direct therapy",
@@ -1993,7 +1993,7 @@
         "D": "Biopsychosocial approach with direct therapy"
       },
       "correct_answer": "B",
-      "explanation": "The doctor is using the biomedical approach since the focus is on only the biological cause of the patient’s symptoms. Furthermore, since the treatment centers only on the patient, the doctor is using direct therapy. This combination of approach and therapy matches (B) as the correct answer. By contrast, a doctor using the biopsychosocial approach would likely consider the patient’s recent move, stresses associated with the accelerated program, and lack of support structure as potential causes of depression. Additionally, treatment using the biopsychosocial approach includes indirect therapy which focuses on increasing social support.",
+      "explanation": "The doctor is using the biomedical approach since the focus is on only the biological cause of the patient\u2019s symptoms. Furthermore, since the treatment centers only on the patient, the doctor is using direct therapy. This combination of approach and therapy matches (B) as the correct answer. By contrast, a doctor using the biopsychosocial approach would likely consider the patient\u2019s recent move, stresses associated with the accelerated program, and lack of support structure as potential causes of depression. Additionally, treatment using the biopsychosocial approach includes indirect therapy which focuses on increasing social support.",
       "short_reason": "Only focused on low serotonin, only treats patient = BIOMEDICAL approach with DIRECT therapy! No social/psychological factors considered. Think: 'Bio = Biology only, Direct = Patient only!'",
       "wrong_answer_explanations": {
         "A": "Indirect therapy involves changing the patient's environment/support system - not just medication.",
@@ -2006,7 +2006,7 @@
       "chapter": 7,
       "chapter_title": "Psychological Disorders",
       "question_number": 6,
-      "question_text": "A young person of unknown age is brought by the Philadelphia police to the local emergency department for evaluation after being found wandering in a park. The patient carries no identification and is unable to provide a first or last name or any life details, except that the name Phoenix seems familiar. The police in Arizona are contacted and find a missing persons report matching the patient’s description. Based on this information, the most likely diagnosis for this patient is:",
+      "question_text": "A young person of unknown age is brought by the Philadelphia police to the local emergency department for evaluation after being found wandering in a park. The patient carries no identification and is unable to provide a first or last name or any life details, except that the name Phoenix seems familiar. The police in Arizona are contacted and find a missing persons report matching the patient\u2019s description. Based on this information, the most likely diagnosis for this patient is:",
       "options": {
         "A": "depersonalization/derealization disorder.",
         "B": "dissociative identity disorder.",
@@ -2014,7 +2014,7 @@
         "D": "dissociative amnesia with dissociative fugue."
       },
       "correct_answer": "D",
-      "explanation": "Dissociative fugue is characterized by sudden travel or change in normal day-to-day activities and occurs in some cases of dissociative amnesia. Symptoms include an inability to recall one’s past or confusion about one’s identity. Thus, the described patient is most likely to be suffering dissociative amnesia accompanied by dissociative fugue.",
+      "explanation": "Dissociative fugue is characterized by sudden travel or change in normal day-to-day activities and occurs in some cases of dissociative amnesia. Symptoms include an inability to recall one\u2019s past or confusion about one\u2019s identity. Thus, the described patient is most likely to be suffering dissociative amnesia accompanied by dissociative fugue.",
       "short_reason": "Can't remember identity + traveled far away = Dissociative AMNESIA with FUGUE! Fugue = fleeing with memory loss. Think: 'Fugue = Fleeing + Forgetting!'",
       "wrong_answer_explanations": {
         "A": "Depersonalization/derealization is feeling unreal, not losing identity and traveling.",
@@ -2029,7 +2029,7 @@
       "question_number": 7,
       "question_text": "In addition to being a freestanding diagnosis, agoraphobia is most often seen in association with which other psychiatric diagnosis?",
       "options": {
-        "A": "Obsessive–compulsive disorder",
+        "A": "Obsessive\u2013compulsive disorder",
         "B": "Avoidant personality disorder",
         "C": "Generalized anxiety disorder",
         "D": "Panic disorder"
@@ -2073,7 +2073,7 @@
       "options": {
         "A": "Major depressive and bipolar disorders",
         "B": "Dissociative amnesia and depersonalization/derealization disorder",
-        "C": "Alzheimer’s disease and Parkinson’s disease",
+        "C": "Alzheimer\u2019s disease and Parkinson\u2019s disease",
         "D": "Specific phobia and panic disorder"
       },
       "correct_answer": "A",
@@ -2111,15 +2111,15 @@
       "chapter": 7,
       "chapter_title": "Psychological Disorders",
       "question_number": 11,
-      "question_text": "All of the following are risk factors or diagnostic criteria for Alzheimer’s disease EXCEPT:",
+      "question_text": "All of the following are risk factors or diagnostic criteria for Alzheimer\u2019s disease EXCEPT:",
       "options": {
-        "A": "Extra copies of the β-amyloid precursor protein gene.",
+        "A": "Extra copies of the \u03b2-amyloid precursor protein gene.",
         "B": "Decreased abundance of serotonin and norepinephrine.",
         "C": "Neurofibrillary tangles of hyperphosphorylated tau protein.",
         "D": "Deficient blood flow to the parietal lobes."
       },
       "correct_answer": "B",
-      "explanation": "The correct answer should be a statement that is not relevant to Alzheimer’s disease. Choice (B), a decreased abundance of serotonin and norepinephrine, describes the monoamine theory of depression. These neurochemical changes are not known risk factors or diagnostic criteria for Alzheimer’s disease, making (B) the correct answer. The remaining choices are either risk factors or diagnostic criteria for Alzheimer’s disease. Choice (A) describes the increased risk of Alzheimer’s disease in individuals with Down syndrome, as the gene for β-amyloid precursor is on chromosome 21. Choices (C) and (D) both describe biological markers of Alzheimer’s disease.",
+      "explanation": "The correct answer should be a statement that is not relevant to Alzheimer\u2019s disease. Choice (B), a decreased abundance of serotonin and norepinephrine, describes the monoamine theory of depression. These neurochemical changes are not known risk factors or diagnostic criteria for Alzheimer\u2019s disease, making (B) the correct answer. The remaining choices are either risk factors or diagnostic criteria for Alzheimer\u2019s disease. Choice (A) describes the increased risk of Alzheimer\u2019s disease in individuals with Down syndrome, as the gene for \u03b2-amyloid precursor is on chromosome 21. Choices (C) and (D) both describe biological markers of Alzheimer\u2019s disease.",
       "short_reason": "Decreased serotonin/norepinephrine = DEPRESSION theory, not Alzheimer's! Alzheimer's involves amyloid plaques, tau tangles, and brain blood flow issues. Think: 'Monoamines = Mood, not Memory!'",
       "wrong_answer_explanations": {
         "A": "Extra beta-amyloid precursor gene copies (Down syndrome) DO increase Alzheimer's risk.",
@@ -2140,7 +2140,7 @@
         "D": "Narcissistic personality disorder"
       },
       "correct_answer": "B",
-      "explanation": "Splitting, the consideration of others as either “all good” or “all bad,” is characteristic of borderline personality disorder.",
+      "explanation": "Splitting, the consideration of others as either \u201call good\u201d or \u201call bad,\u201d is characteristic of borderline personality disorder.",
       "short_reason": "SPLITTING (all good or all bad) = BORDERLINE PD! Black-and-white thinking about others is a borderline hallmark. Think: 'Borderline = Binary thinking!'",
       "wrong_answer_explanations": {
         "A": "Antisocial PD involves disregard for others - not idealization/devaluation patterns.",
@@ -2153,7 +2153,7 @@
       "chapter": 7,
       "chapter_title": "Psychological Disorders",
       "question_number": 13,
-      "question_text": "A patient comes to the doctor with a two-week history of complete paralysis of the left arm. The patient has had no injury to the extremity, and full neurological workup fails to demonstrate any underlying cause. The patient seems surprisingly unconcerned about the paralysis, and seems more worried about an argument that happened one month ago in which the patient hit a family member. Based on this information, the patient’s most likely diagnosis is:",
+      "question_text": "A patient comes to the doctor with a two-week history of complete paralysis of the left arm. The patient has had no injury to the extremity, and full neurological workup fails to demonstrate any underlying cause. The patient seems surprisingly unconcerned about the paralysis, and seems more worried about an argument that happened one month ago in which the patient hit a family member. Based on this information, the patient\u2019s most likely diagnosis is:",
       "options": {
         "A": "conversion disorder.",
         "B": "generalized anxiety disorder.",
@@ -2161,7 +2161,7 @@
         "D": "histrionic personality disorder."
       },
       "correct_answer": "A",
-      "explanation": "Conversion disorder is marked by a motor or sensory symptom in the absence of an underlying physical or neurological cause. It is associated with an inciting event that, in this case, may have been the argument with the family member. The patient’s lack of concern over the deficit is referred to as la belle indifférence.",
+      "explanation": "Conversion disorder is marked by a motor or sensory symptom in the absence of an underlying physical or neurological cause. It is associated with an inciting event that, in this case, may have been the argument with the family member. The patient\u2019s lack of concern over the deficit is referred to as la belle indiff\u00e9rence.",
       "short_reason": "Paralysis with no medical cause + indifference + stressful event = CONVERSION disorder! La belle indifference (calm about symptoms) is a classic sign. Think: 'Conversion = Conflict Converts to body symptoms!'",
       "wrong_answer_explanations": {
         "B": "GAD is pervasive worry - the patient shows indifference, not anxiety.",
@@ -2174,7 +2174,7 @@
       "chapter": 7,
       "chapter_title": "Psychological Disorders",
       "question_number": 14,
-      "question_text": "A patient is taken to the doctor after starting to move the fingers in such a way that it looks like rolling something, despite nothing actually being there. The patient also exhibits slowed movement and a shuffling gait. Which neurotransmitter is likely to be present in decreased levels in the patient’s brain?",
+      "question_text": "A patient is taken to the doctor after starting to move the fingers in such a way that it looks like rolling something, despite nothing actually being there. The patient also exhibits slowed movement and a shuffling gait. Which neurotransmitter is likely to be present in decreased levels in the patient\u2019s brain?",
       "options": {
         "A": "Epinephrine",
         "B": "Histamine",
@@ -2182,7 +2182,7 @@
         "D": "Serotonin"
       },
       "correct_answer": "C",
-      "explanation": "The symptoms indicate that the patient likely has Parkinson’s disease. This disease is caused by decreased dopamine production in the substantia nigra.",
+      "explanation": "The symptoms indicate that the patient likely has Parkinson\u2019s disease. This disease is caused by decreased dopamine production in the substantia nigra.",
       "short_reason": "Pill-rolling tremor + shuffling gait + slow movement = PARKINSON'S disease! Low DOPAMINE in substantia nigra. Think: 'Parkinson's = Poor Dopamine!'",
       "wrong_answer_explanations": {
         "A": "Epinephrine isn't the primary neurotransmitter deficit in Parkinson's.",
@@ -2224,7 +2224,7 @@
         "D": "II and IV only"
       },
       "correct_answer": "C",
-      "explanation": "When fulfilling particular roles, an individual’s behavior can be very out of character. The changing of one’s behavior (and internal ideas) to match a group is called internalization conformity. This was a key part of the experiment. The experiment also involved deindividuation, the loss of self-identity in the group setting that can lead to antinormative or violent behavior.",
+      "explanation": "When fulfilling particular roles, an individual\u2019s behavior can be very out of character. The changing of one\u2019s behavior (and internal ideas) to match a group is called internalization conformity. This was a key part of the experiment. The experiment also involved deindividuation, the loss of self-identity in the group setting that can lead to antinormative or violent behavior.",
       "short_reason": "Stanford prison = guards/prisoners internalized roles + lost individual identity = INTERNALIZATION + DEINDIVIDUATION! Think: 'They became their roles and lost themselves!'",
       "wrong_answer_explanations": {
         "A": "Bystander effect is about NOT helping when others are present - not relevant to the prison experiment.",
@@ -2324,7 +2324,7 @@
       "question_text": "Your neighbors ask you to collect their mail while they are out of town and you agree. Later that day, they ask you to water their plants as well. What technique for compliance are they using in this scenario?",
       "options": {
         "A": "Lowball technique",
-        "B": "That’s-not-all technique",
+        "B": "That\u2019s-not-all technique",
         "C": "Foot-in-the-door technique",
         "D": "Door-in-the-face technique"
       },
@@ -2344,10 +2344,10 @@
       "question_number": 7,
       "question_text": "Which of the following statements represents the affective component of an attitude?",
       "options": {
-        "A": "“I love action movies.”",
-        "B": "“I’m going to see a new action movie at the theater.”",
-        "C": "“Action movies are much better than comedies.”",
-        "D": "“Tomorrow, I’m going to rent an action movie.”"
+        "A": "\u201cI love action movies.\u201d",
+        "B": "\u201cI\u2019m going to see a new action movie at the theater.\u201d",
+        "C": "\u201cAction movies are much better than comedies.\u201d",
+        "D": "\u201cTomorrow, I\u2019m going to rent an action movie.\u201d"
       },
       "correct_answer": "A",
       "explanation": "The affective component of attitude consists of feelings and emotions toward something.",
@@ -2363,7 +2363,7 @@
       "chapter": 8,
       "chapter_title": "Social Processes, Attitudes, and Behavior",
       "question_number": 8,
-      "question_text": "After sitting in a lecture, determining that a professor is a bad teacher based on the professor’s unprofessional attire and monotone speech is an example of which type of processing?",
+      "question_text": "After sitting in a lecture, determining that a professor is a bad teacher based on the professor\u2019s unprofessional attire and monotone speech is an example of which type of processing?",
       "options": {
         "A": "Knowledge route processing",
         "B": "Adaptive route processing",
@@ -2492,12 +2492,12 @@
       "question_text": "Which of the following best reflects the difference between social action and social interaction?",
       "options": {
         "A": "Social action refers to positive changes one makes in their society; social interaction refers to the route by which these changes occur.",
-        "B": "Social action refers to the effects of a group on an individual’s behavior; social interaction refers to the effects that multiple individuals all have on each other.",
+        "B": "Social action refers to the effects of a group on an individual\u2019s behavior; social interaction refers to the effects that multiple individuals all have on each other.",
         "C": "Social action refers to changes in behavior caused by internal factors; social interaction refers to changes in behavior caused by external factors.",
         "D": "Social action refers to changes in behaviors that benefit only the individual; social interaction refers to changes in behavior that benefit others."
       },
       "correct_answer": "B",
-      "explanation": "Social action is best described as the effects that a group has on individual behavior, including social facilitation, deindividuation, the bystander effect, social loafing, and peer pressure. Social interaction describes how two or more individuals influence each other’s behavior, including group polarization and groupthink.",
+      "explanation": "Social action is best described as the effects that a group has on individual behavior, including social facilitation, deindividuation, the bystander effect, social loafing, and peer pressure. Social interaction describes how two or more individuals influence each other\u2019s behavior, including group polarization and groupthink.",
       "short_reason": "Social ACTION = group effects on individual. Social INTERACTION = individuals affecting EACH OTHER. Think: 'Action = One direction, Interaction = Both ways!'",
       "wrong_answer_explanations": {
         "A": "Neither term specifically refers to 'positive changes' or how they occur.",
@@ -2510,7 +2510,7 @@
       "chapter": 8,
       "chapter_title": "Social Processes, Attitudes, and Behavior",
       "question_number": 15,
-      "question_text": "In the group setting, the mentality of “If you aren’t with us, you’re against us” is most representative of which factor of groupthink?",
+      "question_text": "In the group setting, the mentality of \u201cIf you aren\u2019t with us, you\u2019re against us\u201d is most representative of which factor of groupthink?",
       "options": {
         "A": "Illusion of invulnerability",
         "B": "Illusion of morality",
@@ -2536,7 +2536,7 @@
         "A": "The emotional state of a social interaction",
         "B": "Expectations that are associated with a specific title in society",
         "C": "A position in society used to classify an individual",
-        "D": "A means to describe one’s peers"
+        "D": "A means to describe one\u2019s peers"
       },
       "correct_answer": "C",
       "explanation": "A status is a position in society used to classify a person and exists in relation to other statuses. The specific behaviors associated with this status, (B), best describe a role.",
@@ -2560,7 +2560,7 @@
         "D": "cardinal status."
       },
       "correct_answer": "B",
-      "explanation": "An achieved status is one that is acquired through personal efforts. This is in contrast to an ascribed status, (A), in which the status is involuntarily given based on race, ethnicity, gender, family background, and so on. A master status, (C), is one that influences all aspects of an individual’s life. While being a college graduate is an important aspect of day-to-day life, it does not usually pervade every part of one’s life.",
+      "explanation": "An achieved status is one that is acquired through personal efforts. This is in contrast to an ascribed status, (A), in which the status is involuntarily given based on race, ethnicity, gender, family background, and so on. A master status, (C), is one that influences all aspects of an individual\u2019s life. While being a college graduate is an important aspect of day-to-day life, it does not usually pervade every part of one\u2019s life.",
       "short_reason": "College degree through effort = ACHIEVED status! You earned it through hard work. Think: 'Achieved = Accomplished through effort!'",
       "wrong_answer_explanations": {
         "A": "Ascribed status is given at birth (race, gender, family) - not earned through effort.",
@@ -2639,7 +2639,7 @@
       "question_text": "Which of the following best describes the impression management strategy of aligning actions?",
       "options": {
         "A": "Adhering to the behaviors that are expected for a given role in society",
-        "B": "Relieving tension brought about by holding conflicting views in one’s head",
+        "B": "Relieving tension brought about by holding conflicting views in one\u2019s head",
         "C": "Providing socially acceptable reasons to explain unexpected behavior",
         "D": "Dictating that members of a group should follow similar practices to one another"
       },
@@ -2657,7 +2657,7 @@
       "chapter": 9,
       "chapter_title": "Social Interaction",
       "question_number": 7,
-      "question_text": "While on the phone, a friend says: “A good friend would let me borrow the bike.” This friend is using which impression management strategy?",
+      "question_text": "While on the phone, a friend says: \u201cA good friend would let me borrow the bike.\u201d This friend is using which impression management strategy?",
       "options": {
         "A": "Managing appearances",
         "B": "Alter-casting",
@@ -2665,7 +2665,7 @@
         "D": "Self-disclosure"
       },
       "correct_answer": "B",
-      "explanation": "Imposing a role on another person (in this case, “good friend”) is the hallmark of alter-casting. This example is also the opposite of ingratiation, (C), because the implication behind the statement is that not lending the bike makes one a “bad friend”; ingratiation is the use of flattery or conformity to win over someone else.",
+      "explanation": "Imposing a role on another person (in this case, \u201cgood friend\u201d) is the hallmark of alter-casting. This example is also the opposite of ingratiation, (C), because the implication behind the statement is that not lending the bike makes one a \u201cbad friend\u201d; ingratiation is the use of flattery or conformity to win over someone else.",
       "short_reason": "'A good friend would...' = ALTER-CASTING! Forcing a role (good friend) onto someone to get compliance. Think: 'Alter-cast = Assign a role!'",
       "wrong_answer_explanations": {
         "A": "Managing appearances is about how YOU look - not assigning roles to others.",
@@ -2741,7 +2741,7 @@
       "chapter": 9,
       "chapter_title": "Social Interaction",
       "question_number": 11,
-      "question_text": "Political campaign ads often focus on “exposing” an opposing candidate’s negative characteristics. In the dramaturgical approach, one would describe this as:",
+      "question_text": "Political campaign ads often focus on \u201cexposing\u201d an opposing candidate\u2019s negative characteristics. In the dramaturgical approach, one would describe this as:",
       "options": {
         "A": "bringing the front stage self to the back stage.",
         "B": "bringing the back stage self to the front stage.",
@@ -2749,7 +2749,7 @@
         "D": "removing the back stage self."
       },
       "correct_answer": "B",
-      "explanation": "If a candidate is “exposed,” then personal characteristics that are usually shielded from public view have been brought in front of the public. This would be pulling aspects of the back stage self to the front stage. It would not be considered removing the front stage self, (C), because the candidate still has a public image, even if it has been tarnished.",
+      "explanation": "If a candidate is \u201cexposed,\u201d then personal characteristics that are usually shielded from public view have been brought in front of the public. This would be pulling aspects of the back stage self to the front stage. It would not be considered removing the front stage self, (C), because the candidate still has a public image, even if it has been tarnished.",
       "short_reason": "Exposing candidate's private flaws = bringing BACKSTAGE to FRONTSTAGE! Their hidden self becomes public. Think: 'Back to front = Private goes public!'",
       "wrong_answer_explanations": {
         "A": "Front to back would be making public self private - opposite of what happens.",
@@ -2980,7 +2980,7 @@
         "D": "Foraging"
       },
       "correct_answer": "A",
-      "explanation": "In evolutionary psychology, inclusive fitness is a measure of the number of offspring an individual has, how they support their offspring, and how their offspring can support others. Inclusive fitness promotes the idea that altruistic behavior can improve the fitness and success of a species; the behavior in this scenario can be described as altruism: benefiting another at one’s own expense.",
+      "explanation": "In evolutionary psychology, inclusive fitness is a measure of the number of offspring an individual has, how they support their offspring, and how their offspring can support others. Inclusive fitness promotes the idea that altruistic behavior can improve the fitness and success of a species; the behavior in this scenario can be described as altruism: benefiting another at one\u2019s own expense.",
       "short_reason": "Adults sacrificing for young = INCLUSIVE FITNESS! Protecting genes by protecting relatives. Think: 'Inclusive = Include your relatives' survival!'",
       "wrong_answer_explanations": {
         "B": "Direct benefits are personal gains - this is sacrificing for others.",
@@ -3035,7 +3035,7 @@
       "chapter": 10,
       "chapter_title": "Social Thinking",
       "question_number": 10,
-      "question_text": "Mei brings cookies to work. Although you have not yet tasted them, you say to another coworker, “Mei is such a great person; I’m sure these cookies are fantastic!” What type of bias is this?",
+      "question_text": "Mei brings cookies to work. Although you have not yet tasted them, you say to another coworker, \u201cMei is such a great person; I\u2019m sure these cookies are fantastic!\u201d What type of bias is this?",
       "options": {
         "A": "Reliance on central traits",
         "B": "Direct benefits",
@@ -3043,7 +3043,7 @@
         "D": "Similarity"
       },
       "correct_answer": "C",
-      "explanation": "The halo effect is a cognitive bias in which judgments of an individual’s character can be affected by the overall impression of the individual.",
+      "explanation": "The halo effect is a cognitive bias in which judgments of an individual\u2019s character can be affected by the overall impression of the individual.",
       "short_reason": "Mei is great so her cookies must be great = HALO EFFECT! One positive trait colors everything else. Think: 'Halo = Her goodness glows onto everything!'",
       "wrong_answer_explanations": {
         "A": "Central traits are specific characteristics that influence impressions - not one trait coloring all.",
@@ -3056,7 +3056,7 @@
       "chapter": 10,
       "chapter_title": "Social Thinking",
       "question_number": 11,
-      "question_text": "A friend wins a tennis game and says, “I trained so hard—that was a great win!” After losing a subsequent match, the friend says, “My baby brother kept me up all night crying; I was tired for the match.” These statements reflect which of the following principles?",
+      "question_text": "A friend wins a tennis game and says, \u201cI trained so hard\u2014that was a great win!\u201d After losing a subsequent match, the friend says, \u201cMy baby brother kept me up all night crying; I was tired for the match.\u201d These statements reflect which of the following principles?",
       "options": {
         "A": "Just-world hypothesis",
         "B": "Fundamental attribution error",
@@ -3182,7 +3182,7 @@
       "chapter": 11,
       "chapter_title": "Social Structure and Demographics",
       "question_number": 2,
-      "question_text": "Studying why a nod means “yes” in many cultures is most representative of which of the following sociological concepts?",
+      "question_text": "Studying why a nod means \u201cyes\u201d in many cultures is most representative of which of the following sociological concepts?",
       "options": {
         "A": "Demographic transition",
         "B": "Expectancy theory",
@@ -3190,7 +3190,7 @@
         "D": "Demographic shift"
       },
       "correct_answer": "C",
-      "explanation": "Symbolic interactionism studies how individuals interact through a shared understanding of words, gestures, and other symbols. A nod is thus a symbol in many cultures that signifies “yes.”",
+      "explanation": "Symbolic interactionism studies how individuals interact through a shared understanding of words, gestures, and other symbols. A nod is thus a symbol in many cultures that signifies \u201cyes.\u201d",
       "short_reason": "Why does a nod mean 'yes'? = SYMBOLIC INTERACTIONISM! Studying shared meanings of gestures and symbols. Think: 'Symbolic = Symbols and their meanings!'",
       "wrong_answer_explanations": {
         "A": "Demographic transition is about birth/death rate changes over time.",
@@ -3211,7 +3211,7 @@
         "D": "Nonmaleficence"
       },
       "correct_answer": "D",
-      "explanation": "The principle of nonmaleficence states that physicians must not only act in their patient’s best interest (beneficence, (B)), but must also avoid treatments where the potential for harm outweighs the potential for benefit.",
+      "explanation": "The principle of nonmaleficence states that physicians must not only act in their patient\u2019s best interest (beneficence, (B)), but must also avoid treatments where the potential for harm outweighs the potential for benefit.",
       "short_reason": "Don't use harmful treatments = NONMALEFICENCE! 'First, do no harm.' Think: 'Nonmaleficence = No harm!'",
       "wrong_answer_explanations": {
         "A": "Autonomy is respecting patient's right to make decisions.",
@@ -3232,7 +3232,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "C",
-      "explanation": "Although one’s dominant physical features are associated with race, this man’s preferences are those of Latino ethnicity and culture. Ethnicity is a social construct that considers language, religion, nationality, and cultural factors. Culture relates to a group’s way of life; the preferences listed in the question are examples of material and symbolic culture.",
+      "explanation": "Although one\u2019s dominant physical features are associated with race, this man\u2019s preferences are those of Latino ethnicity and culture. Ethnicity is a social construct that considers language, religion, nationality, and cultural factors. Culture relates to a group\u2019s way of life; the preferences listed in the question are examples of material and symbolic culture.",
       "short_reason": "Language, food, music preferences = ETHNICITY and CULTURE, not race! Race is physical features; ethnicity/culture are about heritage and practices. Think: 'Ethnicity = Ethnic practices, Culture = Customs!'",
       "wrong_answer_explanations": {
         "A": "Race describes physical features - preferences are about culture/ethnicity.",
@@ -3245,7 +3245,7 @@
       "chapter": 11,
       "chapter_title": "Social Structure and Demographics",
       "question_number": 5,
-      "question_text": "A patient who resides in the United States says, “I love you,” and hugs the doctor after every routine visit. This behavior violates:",
+      "question_text": "A patient who resides in the United States says, \u201cI love you,\u201d and hugs the doctor after every routine visit. This behavior violates:",
       "options": {
         "A": "personal beliefs.",
         "B": "patient autonomy.",
@@ -3253,7 +3253,7 @@
         "D": "social norms."
       },
       "correct_answer": "D",
-      "explanation": "In the United States, it is not a common practice to say, “I love you,” and hug one’s physician after each routine checkup; therefore, this behavior could be considered deviant, going against the social norm. Values, (C), are what an individual deems to be important.",
+      "explanation": "In the United States, it is not a common practice to say, \u201cI love you,\u201d and hug one\u2019s physician after each routine checkup; therefore, this behavior could be considered deviant, going against the social norm. Values, (C), are what an individual deems to be important.",
       "short_reason": "Hugging doctor isn't typical in US = violates SOCIAL NORMS! Norms are expected behaviors in a culture. Think: 'Norms = Normal expectations!'",
       "wrong_answer_explanations": {
         "A": "Personal beliefs are individual - this is about societal expectations.",
@@ -3337,7 +3337,7 @@
         "D": "American Indian sand paintings"
       },
       "correct_answer": "C",
-      "explanation": "Material culture includes any cultural artifact—an object to which meaning is assigned. Values are ideas, which are associated with symbolic culture.",
+      "explanation": "Material culture includes any cultural artifact\u2014an object to which meaning is assigned. Values are ideas, which are associated with symbolic culture.",
       "short_reason": "Values are IDEAS = SYMBOLIC culture! Material culture is physical objects. Clothing, food, art = material; values = symbolic. Think: 'Material = Matter, Symbolic = Concepts!'",
       "wrong_answer_explanations": {
         "A": "Traditional clothing is a physical artifact = material culture.",
@@ -3421,7 +3421,7 @@
         "D": "Sexual orientation"
       },
       "correct_answer": "B",
-      "explanation": "Sex is determined by one’s genotype, and therefore is biologically determined. Gender, (A), may or may not match biological sex and therefore is not biologically determined. Ethnicity, (C), is a social construct that sorts people by cultural factors, and therefore is not biologically determined. Sexual orientation, (D), may have some biological component, but the relative role of biology and environment is not yet known.",
+      "explanation": "Sex is determined by one\u2019s genotype, and therefore is biologically determined. Gender, (A), may or may not match biological sex and therefore is not biologically determined. Ethnicity, (C), is a social construct that sorts people by cultural factors, and therefore is not biologically determined. Sexual orientation, (D), may have some biological component, but the relative role of biology and environment is not yet known.",
       "short_reason": "SEX is biologically determined by chromosomes (XX/XY)! Gender, ethnicity, and orientation have social/environmental components. Think: 'Sex = Set by genes!'",
       "wrong_answer_explanations": {
         "A": "Gender is socially constructed - can differ from biological sex.",
@@ -3560,15 +3560,15 @@
       "chapter": 12,
       "chapter_title": "Social Stratification",
       "question_number": 5,
-      "question_text": "What is the prevalence of prostate cancer in the population that can develop the condition at the end of the year?",
+      "question_text": "A population of 1,000 individuals consists of 500 males and 500 females. At the beginning of the year, 20 males have been diagnosed with prostate cancer. During the year, 10 new cases of prostate cancer are diagnosed.\n\nWhat is the prevalence of prostate cancer in the population that can develop the condition at the end of the year?",
       "options": {
-        "A": "10 ÷ 480",
-        "B": "10 ÷ 1000",
-        "C": "20 ÷ 500",
-        "D": "30 ÷ 500"
+        "A": "10 \u00f7 480",
+        "B": "10 \u00f7 1000",
+        "C": "20 \u00f7 500",
+        "D": "30 \u00f7 500"
       },
       "correct_answer": "D",
-      "explanation": "Prevalence is defined as the total number of cases divided by the possibly affected population during a period of time. Here, the period of time is defined as one point: the end of the year. At the end of the year, there are 30 total cases in a population of 1000 individuals, but only 500 of those individuals can develop prostate cancer, meaning the prevalence is 30 ÷ 500.",
+      "explanation": "Prevalence is defined as the total number of cases divided by the possibly affected population during a period of time. Here, the period of time is defined as one point: the end of the year. At the end of the year, there are 30 total cases in a population of 1000 individuals, but only 500 of those individuals can develop prostate cancer, meaning the prevalence is 30 \u00f7 500.",
       "short_reason": "Prevalence = all current cases / at-risk population. 30 cases in 500 males (only they can get prostate cancer). Think: 'Prevalence = Present cases!'",
       "wrong_answer_explanations": {
         "A": "This is incidence formula - new cases over at-risk population without disease.",
@@ -3581,15 +3581,15 @@
       "chapter": 12,
       "chapter_title": "Social Stratification",
       "question_number": 6,
-      "question_text": "What is the incidence of prostate cancer in this population during the year?",
+      "question_text": "A population of 1,000 individuals consists of 500 males and 500 females. At the beginning of the year, 20 males have been diagnosed with prostate cancer. During the year, 10 new cases of prostate cancer are diagnosed.\n\nWhat is the incidence of prostate cancer in this population during the year?",
       "options": {
-        "A": "10 ÷ 480",
-        "B": "10 ÷ 1000",
-        "C": "20 ÷ 500",
-        "D": "30 ÷ 1000"
+        "A": "10 \u00f7 480",
+        "B": "10 \u00f7 1000",
+        "C": "20 \u00f7 500",
+        "D": "30 \u00f7 1000"
       },
       "correct_answer": "A",
-      "explanation": "Incidence is defined as the total number of new cases divided by the at-risk population during a period of time. Here, the period of time is one year. There were 10 new cases in this year, and the at-risk population will be only the males who do not already have prostate cancer; the 20 males already diagnosed and the 500 females should not be included in the at-risk population. Therefore, the incidence in this population is 10 ÷ 480.",
+      "explanation": "Incidence is defined as the total number of new cases divided by the at-risk population during a period of time. Here, the period of time is one year. There were 10 new cases in this year, and the at-risk population will be only the males who do not already have prostate cancer; the 20 males already diagnosed and the 500 females should not be included in the at-risk population. Therefore, the incidence in this population is 10 \u00f7 480.",
       "short_reason": "Incidence = NEW cases / at-risk population. 10 new cases / 480 males who didn't already have it. Think: 'Incidence = Incoming new cases!'",
       "wrong_answer_explanations": {
         "B": "Using 1000 includes females who can't get prostate cancer.",
@@ -3602,7 +3602,7 @@
       "chapter": 12,
       "chapter_title": "Social Stratification",
       "question_number": 7,
-      "question_text": "A low-income single parent works a part-time job and lives in a small apartment in the city. When the single parent’s children grow up, they take similar jobs and live in similar housing. This is an example of:",
+      "question_text": "A low-income single parent works a part-time job and lives in a small apartment in the city. When the single parent\u2019s children grow up, they take similar jobs and live in similar housing. This is an example of:",
       "options": {
         "A": "upward social mobility.",
         "B": "downward social mobility.",
