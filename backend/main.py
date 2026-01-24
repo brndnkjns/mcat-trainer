@@ -288,7 +288,8 @@ async def get_next_question(
         "question_number": question['question_number'],
         "question_text": question['question_text'],
         "options": question['options'],
-        "image_url": f"/static/images/{question['image_filename']}" if question.get('image_filename') else None
+        "image_url": f"/static/images/{question['image_filename']}" if question.get('image_filename') else None,
+        "option_images": question.get('option_images')
     }
 
 
@@ -309,7 +310,8 @@ async def get_question(question_id: str, include_answer: bool = False):
             "question_number": question['question_number'],
             "question_text": question['question_text'],
             "options": question['options'],
-            "image_url": f"/static/images/{question['image_filename']}" if question.get('image_filename') else None
+            "image_url": f"/static/images/{question['image_filename']}" if question.get('image_filename') else None,
+            "option_images": question.get('option_images')
         }
 
     # Include image_url in full response too

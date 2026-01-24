@@ -560,10 +560,10 @@
       "question_number": 12,
       "question_text": "Of the four atoms depicted here, which has the highest electron affinity?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "D",
       "explanation": "The correct answer to this question may be surprising because this question illustrates an important exception to a trend. Electron affinity generally increases as one moves up and to the right on the periodic table. Based on this trend alone, one might expect that the atom fluorine, depicted in (B), would be correct. However, the correct answer is chlorine, (D), even despite the fact that chlorine is below fluorine on the periodic table. The diagrams in the answer choices help make sense of this apparent exception: Fluorine and chlorine have the same valence electron configuration and have a similar amount of effective nuclear charge. However, when an electron is added to fluorine's valence shell, that negative charge is added to the second energy shell, which is quite small in physical size, meaning that the new electron is crowded into a small energy shell with seven other electrons. As a result, energy is still released when an electron is added to fluorine, but not as much energy as might be predicted by the general trend alone. By contrast, when an additional electron is added to a chlorine atom, that new electron adds to the third energy shell, so there is less repulsion among the valence electrons, leading to a slightly greater electron affinity for chlorine. Thus, chlorine, (D), has the highest electron affinity and is the right answer.",
@@ -572,6 +572,12 @@
         "A": "This atom (likely Na or Mg) has low electron affinity - metals don't want MORE electrons.",
         "B": "Fluorine has the second-highest electron affinity, but chlorine actually beats it due to electron repulsion in F's small orbitals.",
         "C": "Oxygen has decent electron affinity but nowhere near the halogens."
+      },
+      "option_images": {
+        "A": "gc_ch2_q12_optA.png",
+        "B": "gc_ch2_q12_optB.png",
+        "C": "gc_ch2_q12_optC.png",
+        "D": "gc_ch2_q12_optD.png"
       }
     },
     {
@@ -1035,7 +1041,11 @@
         "B": "Ethyne (acetylene) is C2H2 = CH ratio, also simplifies to CH.",
         "D": "If this is a compound with CH ratio, it would work - the question shows C3H4 structure doesn't fit."
       },
-      "image_filename": "gc_ch4_q4_gc_ch04_figure_text_un142-01.png"
+      "image_filename": "gc_ch4_q4_gc_ch04_figure_text_un142-01.png",
+      "option_images": {
+        "C": "gc_ch4_q4_optC.png",
+        "D": "gc_ch4_q4_optD.png"
+      }
     },
     {
       "id": "ch4_q5",
@@ -2871,6 +2881,10 @@
         "A": "Ammonia accepts H+ to become NH4+ - definitely a Bronsted base.",
         "B": "Fluoride accepts H+ to become HF - also a Bronsted base.",
         "C": "Water accepts H+ to become H3O+ - amphoteric but can act as base."
+      },
+      "option_images": {
+        "A": "gc_ch10_q1_optA.png",
+        "C": "gc_ch10_q1_optC.png"
       }
     },
     {

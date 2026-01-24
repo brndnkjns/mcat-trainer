@@ -143,10 +143,10 @@
       "question_number": 7,
       "question_text": "What is the proper structure for 2,3-dihydroxybutanedioic acid (tartaric acid)?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "B",
       "explanation": "We know from the IUPAC name that we have a butanedioic acid backbone\u2014in other words, a four-carbon backbone with carboxylic acids at either end. Adding the hydroxyl groups at carbons 2 and 3 then yields the correct structure.",
@@ -155,6 +155,12 @@
         "A": "Check if this structure has 4 carbons with carboxylic acids at positions 1 and 4, plus hydroxyls at 2 and 3.",
         "C": "Verify the carbon count and functional group positions match the IUPAC name requirements.",
         "D": "Ensure the dicarboxylic acid backbone (dioic) and dihydroxy substituents are correctly placed."
+      },
+      "option_images": {
+        "A": "oc_ch1_q7_optA.png",
+        "B": "oc_ch1_q7_optB.png",
+        "C": "oc_ch1_q7_optC.png",
+        "D": "oc_ch1_q7_optD.png"
       }
     },
     {
@@ -272,10 +278,10 @@
       "question_number": 13,
       "question_text": "Pyruvic acid, one of the end products of glycolysis, is commonly called acetylformic acid. Based on its common name, the structure of pyruvic acid must be:",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "A",
       "explanation": "We can use the name acetylformic acid to figure out what our functional groups are. The prefix acet\u2013 refers to a two-carbon unit with one carbon in a carbonyl group\u2014think of acetic acid, acetic anhydride, or acetaldehyde. The carbonyl carbon is the point of attachment to another functional group. Formic acid is a single-carbon carboxylic acid. Therefore, acetylformic acid is an acetyl group directly attached to formic acid, as shown in (A). (B) shows acetic acid, or vinegar; (C) shows glucose; and (D) shows formic acid.",
@@ -284,6 +290,12 @@
         "B": "Acetic acid (CH3COOH) is just the acetyl group with -OH, missing the formic acid portion.",
         "C": "Glucose is a 6-carbon sugar with multiple -OH groups - completely different structure.",
         "D": "Formic acid (HCOOH) alone is missing the acetyl (2-carbon) portion of the name."
+      },
+      "option_images": {
+        "A": "oc_ch1_q13_optA.png",
+        "B": "oc_ch1_q13_optB.png",
+        "C": "oc_ch1_q13_optC.png",
+        "D": "oc_ch1_q13_optD.png"
       }
     },
     {
@@ -377,10 +389,10 @@
       "question_number": 3,
       "question_text": "Which of the following compounds is optically inactive?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "C",
       "explanation": "This answer choice is an example of a meso compound\u2014a compound that contains chiral centers but has an internal plane of symmetry: Owing to this internal plane of symmetry, the molecule is achiral and, hence, optically inactive. (A) and (B) are enantiomers of each other and will certainly show optical activity on their own. (D), because it contains a chiral carbon and no internal plane of symmetry, is optically active as well.",
@@ -390,7 +402,13 @@
         "B": "Also lacks internal symmetry - a single enantiomer that will rotate light.",
         "D": "Has chiral carbon(s) without compensating symmetry - optically active."
       },
-      "image_filename": "oc_ch2_q3_oc_ch02_figure_text_un53-02.png"
+      "image_filename": "oc_ch2_q3_oc_ch02_figure_text_un53-02.png",
+      "option_images": {
+        "A": "oc_ch2_q3_optA.png",
+        "B": "oc_ch2_q3_optB.png",
+        "C": "oc_ch2_q3_optC.png",
+        "D": "oc_ch2_q3_optD.png"
+      }
     },
     {
       "id": "ch2_q4",
@@ -421,9 +439,9 @@
       "question_number": 5,
       "question_text": "Which isomer of the following compound is the most stable?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
         "D": "They are all equally stable."
       },
       "correct_answer": "B",
@@ -434,7 +452,12 @@
         "C": "Boat conformations have flagpole interactions and torsional strain - less stable than chair.",
         "D": "The conformations have very different steric strain - they are NOT equally stable."
       },
-      "image_filename": "oc_ch2_q5_oc_ch02_figure_text_un54-01.png"
+      "image_filename": "oc_ch2_q5_oc_ch02_figure_text_un54-01.png",
+      "option_images": {
+        "A": "oc_ch2_q5_optA.png",
+        "B": "oc_ch2_q5_optB.png",
+        "C": "oc_ch2_q5_optC.png"
+      }
     },
     {
       "id": "ch2_q6",
@@ -1012,10 +1035,10 @@
       "question_number": 3,
       "question_text": "Rank the following in order of decreasing electrophilicity:",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See ranking A]",
+        "B": "[See ranking B]",
+        "C": "[See ranking C]",
+        "D": "[See ranking D]"
       },
       "correct_answer": "D",
       "explanation": "Good electrophiles are positively charged or polarized. CR3+ is a tertiary carbocation; it has a positive charge, which makes it very electrophilic. CH3Cl and CH3OH are both polarized; however, the leaving groups differ between these two. Cl\u2013 is a weaker base than OH\u2013 (HCl is a stronger acid than H2O). As such, Cl\u2013 will be more stable in solution than OH\u2013, which increases the electrophilic reactivity of CH3Cl above CH3OH. CH3OCH3 has a much less stable leaving group, CH3O\u2013, and is therefore significantly less electrophilic.",
@@ -1024,7 +1047,14 @@
         "A": "Check the leaving groups - carbocations are best, then consider which neutral species has better leaving group.",
         "B": "Consider leaving group stability - which species will most readily accept electrons?",
         "C": "Rearrange based on both charge and leaving group ability."
-      }
+      },
+      "option_images": {
+        "A": "oc_ch4_q3_optA.jpg",
+        "B": "oc_ch4_q3_optB.jpg",
+        "C": "oc_ch4_q3_optC.jpg",
+        "D": "oc_ch4_q3_optD.jpg"
+      },
+      "image_filename": "oc_ch4_q3_stem.jpg"
     },
     {
       "id": "ch4_q4",
@@ -1180,10 +1210,10 @@
       "question_number": 11,
       "question_text": "Which of the compounds below can undergo oxidation by PCC?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "D",
       "explanation": "Primary and secondary alcohols can be oxidized by PCC because the central carbon atom can form additional bonds with oxygen while losing bonds to hydrogen, justifying (D) as the right answer. Choices (A), a tertiary alcohol; (B), a ketone; and (C), a carboxylic acid, cannot be oxidized by PCC because the central carbon in these molecules is already making four bonds to other carbon or oxygen atoms, and therefore cannot readily form more bonds to oxygen.",
@@ -1192,6 +1222,12 @@
         "A": "Tertiary alcohol has no H on the carbon bearing -OH - nothing to remove during oxidation.",
         "B": "Ketone is already oxidized - the carbonyl carbon has no H for PCC to remove.",
         "C": "Carboxylic acid is fully oxidized - can't be oxidized further by PCC."
+      },
+      "option_images": {
+        "A": "oc_ch4_q11_optA.png",
+        "B": "oc_ch4_q11_optB.png",
+        "C": "oc_ch4_q11_optC.png",
+        "D": "oc_ch4_q11_optD.png"
       }
     },
     {
@@ -1201,10 +1237,10 @@
       "question_number": 12,
       "question_text": "Which of the following substrates would most rapidly undergo an SN2 reaction when paired with an appropriate nucleophile?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "A",
       "explanation": "To carry out a nucleophile\u2013electrophile reaction, the nucleophile must be able to dissolve in the solvent. Nucleophiles are nearly always polar, and often carry a charge. Polar solvents are therefore preferred for these reactions. Hexane is a nonpolar solvent and will not be useful for a nucleophile\u2013electrophile reaction.",
@@ -1213,6 +1249,12 @@
         "B": "More substituted carbons block the nucleophile's approach - slower SN2.",
         "C": "Tertiary carbons cannot undergo SN2 - too much steric hindrance.",
         "D": "Compare the structures - less substitution around the leaving group = faster SN2."
+      },
+      "option_images": {
+        "A": "oc_ch4_q12_optA.png",
+        "B": "oc_ch4_q12_optB.png",
+        "C": "oc_ch4_q12_optC.png",
+        "D": "oc_ch4_q12_optD.png"
       }
     },
     {
@@ -1644,10 +1686,10 @@
       "question_number": 3,
       "question_text": "What is the product of the reaction below?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "C",
       "explanation": "The reaction between a ketone and one equivalent of alcohol produces a hemiketal. This has an \u2013OR group, an \u2013OH group, and two alkyl groups attached at the same carbon. (A) is a ketal, with two \u2013OR groups and two \u2013R groups. (B) is a hemiacetal, with an \u2013OH group, an \u2013OR group, one R group, and a hydrogen atom (not drawn). (D) is a ketone. Note that a hemiketal is a very unstable compound, and will react rapidly with a second equivalent of alcohol to form a ketal in acidic conditions.",
@@ -1657,7 +1699,13 @@
         "B": "Hemiacetal comes from aldehydes (has H), not ketones.",
         "D": "Ketone is the starting material, not the product."
       },
-      "image_filename": "oc_ch6_q3_oc_ch06_figure_text_un151-01.png"
+      "image_filename": "oc_ch6_q3_stem.png",
+      "option_images": {
+        "A": "oc_ch6_q3_optA.png",
+        "B": "oc_ch6_q3_optB.png",
+        "C": "oc_ch6_q3_optC.png",
+        "D": "oc_ch6_q3_optD.png"
+      }
     },
     {
       "id": "ch6_q4",
@@ -1666,10 +1714,10 @@
       "question_number": 4,
       "question_text": "What is the product of the reaction below?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "A",
       "explanation": "Aldehydes and ketones react with ammonia and nitrogen-based derivatives to form imines\u2014compounds with a double bond between carbon and nitrogen.",
@@ -1679,7 +1727,13 @@
         "C": "This shows the wrong product structure.",
         "D": "This is not the correct imine product."
       },
-      "image_filename": "oc_ch6_q4_oc_ch06_figure_text_un151-01.png"
+      "image_filename": "oc_ch6_q4_stem.png",
+      "option_images": {
+        "A": "oc_ch6_q4_optA.png",
+        "B": "oc_ch6_q4_optB.png",
+        "C": "oc_ch6_q4_optC.png",
+        "D": "oc_ch6_q4_optD.png"
+      }
     },
     {
       "id": "ch6_q5",
@@ -1710,10 +1764,10 @@
       "question_number": 6,
       "question_text": "What is the product of the reaction below?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "B",
       "explanation": "LiAlH4 reduces aldehydes to primary alcohols and ketones to secondary alcohols. In this reaction, a ketone is converted to a secondary alcohol.",
@@ -1723,7 +1777,13 @@
         "C": "This isn't the correct alcohol structure.",
         "D": "This doesn't show the secondary alcohol product."
       },
-      "image_filename": "oc_ch6_q6_oc_ch06_figure_text_un151-01.png"
+      "image_filename": "oc_ch6_q6_stem.png",
+      "option_images": {
+        "A": "oc_ch6_q6_optA.png",
+        "B": "oc_ch6_q6_optB.png",
+        "C": "oc_ch6_q6_optC.png",
+        "D": "oc_ch6_q6_optD.png"
+      }
     },
     {
       "id": "ch6_q7",
@@ -1732,10 +1792,10 @@
       "question_number": 7,
       "question_text": "What is the product of the reaction between benzaldehyde and an excess of ethanol (CH3CH2OH) in the presence of anhydrous HCl?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "D",
       "explanation": "Because an excess of ethanol is present, the product of the reaction between this aldehyde and ethanol will be an acetal. The benzaldehyde will first be converted to a hemiacetal, shown in (C), but will then proceed to completion as an acetal. (A) and (B) are incorrect because they show the presence of two benzene rings in the final product.",
@@ -1744,6 +1804,12 @@
         "A": "This shows an incorrect product structure.",
         "B": "This doesn't represent the acetal correctly.",
         "C": "Hemiacetal is intermediate - excess alcohol pushes to acetal."
+      },
+      "option_images": {
+        "A": "oc_ch6_q7_optA.png",
+        "B": "oc_ch6_q7_optB.png",
+        "C": "oc_ch6_q7_optC.png",
+        "D": "oc_ch6_q7_optD.png"
       }
     },
     {
@@ -1921,10 +1987,10 @@
       "question_number": 1,
       "question_text": "What is the product of the reaction below?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "D",
       "explanation": "One mole of aldehyde reacts with one mole of alcohol via a nucleophilic addition reaction to form a product called a hemiacetal. In a hemiacetal, an \u2013OH group, an \u2013OR group, a hydrogen atom, and an \u2013R group are attached to the same carbon atom.",
@@ -1934,7 +2000,13 @@
         "B": "Verify the product has the hemiacetal pattern.",
         "C": "Confirm correct arrangement of OR, OH, H, and R groups."
       },
-      "image_filename": "oc_ch7_q1_oc_ch06_figure_text_un151-01.png"
+      "image_filename": "oc_ch7_q1_stem.png",
+      "option_images": {
+        "A": "oc_ch7_q1_optA.png",
+        "B": "oc_ch7_q1_optB.png",
+        "C": "oc_ch7_q1_optC.png",
+        "D": "oc_ch7_q1_optD.png"
+      }
     },
     {
       "id": "ch7_q2",
@@ -2240,10 +2312,10 @@
       "question_number": 1,
       "question_text": "Which of these compounds would be expected to decarboxylate when heated?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "D",
       "explanation": "This compound is a \u03b2-keto acid: a carbonyl functional group at the \u03b2-position from a carboxyl group. Decarboxylation occurs with \u03b2-keto acids and \u03b2-dicarboxylic acids because they can form a cyclic transition state that permits simultaneous hydrogen transfer and loss of carbon dioxide. (B) is a diketone and does not have a single carboxyl group. (A) and (C) are \u03b3- and \u03b4-dicarboxylic acids, respectively, and can decarboxylate but with more difficulty.",
@@ -2252,6 +2324,12 @@
         "A": "Check if this has a carbonyl at the beta position from the carboxyl group.",
         "B": "Diketone has no carboxyl group - can't decarboxylate without COOH.",
         "C": "Gamma and delta acids CAN decarboxylate but with more difficulty (wrong ring size)."
+      },
+      "option_images": {
+        "A": "oc_ch8_q1_optA.png",
+        "B": "oc_ch8_q1_optB.png",
+        "C": "oc_ch8_q1_optC.png",
+        "D": "oc_ch8_q1_optD.png"
       }
     },
     {
@@ -2577,10 +2655,10 @@
       "question_number": 2,
       "question_text": "What would be the product(s) of the reaction below?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "D",
       "explanation": "This question asks for the products when ammonia reacts with acetic anhydride. Recall from the chapter that an amide and a carboxylic acid will be formed. However, the carboxylic acid\u2014an acid\u2014is in the same environment as ammonia\u2014a base. The two will react, forming the ammonium carboxylate shown.",
@@ -2590,7 +2668,13 @@
         "B": "This doesn't show the complete reaction products.",
         "C": "Need to account for the acid-base chemistry happening too."
       },
-      "image_filename": "oc_ch9_q2_oc_ch09_figure_text_un218-01.png"
+      "image_filename": "oc_ch9_q2_stem.png",
+      "option_images": {
+        "A": "oc_ch9_q2_optA.png",
+        "B": "oc_ch9_q2_optB.png",
+        "C": "oc_ch9_q2_optC.png",
+        "D": "oc_ch9_q2_optD.png"
+      }
     },
     {
       "id": "ch9_q3",
@@ -2599,10 +2683,10 @@
       "question_number": 3,
       "question_text": "Which of the following undergoes a Fischer esterification most rapidly?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "A",
       "explanation": "A Fischer esterification involves reacting a carboxylic acid and an alcohol with an acid catalyst. Under these conditions, the carbonyl carbon is open to attack by the nucleophilic alcohol. The rate of this reaction depends on the amount of steric hindrance around the carbonyl carbon because there must be room for the alcohol to approach the carboxylic acid substrate. (B), (C), and (D) all have more crowding around the carbonyl carbon, which will decrease reactivity. The additional alkyl groups in these other choices also donate electron density to the carbonyl carbon, making it slightly less electrophilic.",
@@ -2611,6 +2695,12 @@
         "B": "More substitution around carbonyl = more steric hindrance = slower.",
         "C": "Even more crowded than B - even slower.",
         "D": "Largest substituents = most hindrance = slowest."
+      },
+      "option_images": {
+        "A": "oc_ch9_q3_optA.png",
+        "B": "oc_ch9_q3_optB.png",
+        "C": "oc_ch9_q3_optC.png",
+        "D": "oc_ch9_q3_optD.png"
       }
     },
     {

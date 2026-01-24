@@ -1491,10 +1491,10 @@
       "question_number": 11,
       "question_text": "Which of the following accurately depicts the field lines created by a proton that is moving toward the right on this page?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See field lines A]",
+        "B": "[See field lines B]",
+        "C": "[See field lines C]",
+        "D": "[See field lines D]"
       },
       "correct_answer": "D",
       "explanation": "You should know that the field lines for a positively charged particle will always point away from the particle in a radial pattern, regardless of the direction in which the particle is moving. This is because field lines point in the direction a positive test charge would move in that field (that is, the direction that a force would be exerted on a positive test charge in that field).",
@@ -1503,6 +1503,12 @@
         "A": "Field lines for positive charges point outward, not inward.",
         "B": "Field lines don't align with motion - they're always radial from the charge.",
         "C": "Field lines don't align with velocity - they point away from positive charges."
+      },
+      "option_images": {
+        "A": "phys_ch5_q11_optA.png",
+        "B": "phys_ch5_q11_optB.png",
+        "C": "phys_ch5_q11_optC.png",
+        "D": "phys_ch5_q11_optD.png"
       }
     },
     {

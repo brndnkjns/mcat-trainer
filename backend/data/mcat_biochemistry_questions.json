@@ -1065,10 +1065,10 @@
       "question_number": 6,
       "question_text": "What is the product of the following reaction?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "B",
       "explanation": "When glucose reacts with methanol under acid catalysis, the hemiacetal is converted to an acetal via replacement of the anomeric hydroxyl group with an alkoxy group. The result is a type of acetal known as a glycoside. This corresponds with (B). The other choices all show alkoxy groups on the wrong carbon, or too many carbons.",
@@ -1078,7 +1078,13 @@
         "C": "Wrong position - the methoxy group should be on C1, the anomeric carbon.",
         "D": "Too many carbons or wrong attachment point - glycoside forms specifically at the anomeric position."
       },
-      "image_filename": "bc_ch4_q6_bc_ch04_figure_text_un127-01.png"
+      "image_filename": "bc_ch4_q6_stem.png",
+      "option_images": {
+        "A": "bc_ch4_q6_optA.png",
+        "B": "bc_ch4_q6_optB.png",
+        "C": "bc_ch4_q6_optC.png",
+        "D": "bc_ch4_q6_optD.png"
+      }
     },
     {
       "id": "ch4_q7",
@@ -1108,10 +1114,10 @@
       "question_number": 8,
       "question_text": "When the following straight-chain Fischer projection is converted to a chair or ring conformation, its structure will be:",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "C",
       "explanation": "Start by drawing out the Haworth projection. Recall that all the groups on the right in the Fischer projection will go on the bottom of the Haworth projection, and all the groups on the left will go on the top. Next, draw the chair structure, with the oxygen in the back right corner. Label the carbons in the ring 1 through 5, starting from the oxygen and moving clockwise around the ring. Now, draw in the lines for all the axial substituents, alternating above and below the ring. Remember to start on the anomeric C-1 carbon, where the axial substituent points down. Now start filling in the substituents. The substituent can be in either position on the anomeric carbon, so skip that one for now. The \u2013OH groups on C-2 and C-4 should point downward while the \u2013OH group on C-3 should point upward; (C), the \u03b2-anomer of D-glucose, is the only one that matches.",
@@ -1120,7 +1126,14 @@
         "A": "Check the orientation of hydroxyl groups - must match the Fischer projection rules.",
         "B": "Verify anomeric carbon configuration matches the beta form (equatorial -OH).",
         "D": "Ensure all substituents are correctly placed according to the right=down, left=up rule."
-      }
+      },
+      "option_images": {
+        "A": "bc_ch4_q8_optA.png",
+        "B": "bc_ch4_q8_optB.png",
+        "C": "bc_ch4_q8_optC.png",
+        "D": "bc_ch4_q8_optD.png"
+      },
+      "image_filename": "bc_ch4_q8_stem.png"
     },
     {
       "id": "ch4_q9",
@@ -1214,10 +1227,10 @@
       "question_number": 13,
       "question_text": "Galactose is the C-4 epimer of glucose, the structure of which is shown below. Which of the following structures is galactose?",
       "options": {
-        "A": "",
-        "B": "",
-        "C": "",
-        "D": ""
+        "A": "[See structure A]",
+        "B": "[See structure B]",
+        "C": "[See structure C]",
+        "D": "[See structure D]"
       },
       "correct_answer": "A",
       "explanation": "Galactose is a diastereomer of glucose, with the stereochemistry at C-4 (counting from the aldehyde) reversed. Being able to identify C-4 is enough to answer this question, even without looking at the glucose molecule. Because (B), (C), and (D) have identical stereochemistry at C-4, they are incorrect.",
@@ -1227,7 +1240,13 @@
         "C": "Multiple stereocenters might be different - galactose only differs at C-4.",
         "D": "Verify that ONLY C-4 configuration is inverted from glucose."
       },
-      "image_filename": "biochemistry_ch4_q13.png"
+      "image_filename": "bc_ch4_q13_stem.png",
+      "option_images": {
+        "A": "bc_ch4_q13_optA.png",
+        "B": "bc_ch4_q13_optB.png",
+        "C": "bc_ch4_q13_optC.png",
+        "D": "bc_ch4_q13_optD.png"
+      }
     },
     {
       "id": "ch4_q14",

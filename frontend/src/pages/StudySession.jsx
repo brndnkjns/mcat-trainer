@@ -267,6 +267,9 @@ function StudySession({ user }) {
               className += ' selected';
             }
 
+            // Check if this option has an image
+            const optionImage = question.option_images?.[letter];
+
             return (
               <button
                 key={letter}
@@ -275,7 +278,15 @@ function StudySession({ user }) {
                 disabled={!!result || submitting}
               >
                 <span className="option-label">{letter}.</span>
-                {text}
+                {optionImage ? (
+                  <img
+                    src={`${import.meta.env.VITE_API_URL}/images/${optionImage}`}
+                    alt={`Option ${letter}`}
+                    className="option-image"
+                  />
+                ) : (
+                  text
+                )}
               </button>
             );
           })}
