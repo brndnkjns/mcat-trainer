@@ -2983,7 +2983,7 @@
       "chapter": 10,
       "chapter_title": "Acids and Bases",
       "question_number": 7,
-      "question_text": "What is the approximate value of p K a1 ?",
+      "question_text": "The following titration curve shows the titration of diprotic acid X with NaOH:\n\nWhat is the approximate value of p K a1 ?",
       "options": {
         "A": "1.9",
         "B": "2.9",
@@ -2997,14 +2997,15 @@
         "B": "2.9 is too high for the first half-equivalence point on this curve.",
         "C": "3.8 is closer to pKa2 region - past the first equivalence point.",
         "D": "4.1 is approximately pKa2, not pKa1."
-      }
+      },
+      "image_filename": "gc_ch10_titration_curve.png"
     },
     {
       "id": "ch10_q8",
       "chapter": 10,
       "chapter_title": "Acids and Bases",
       "question_number": 8,
-      "question_text": "At what pH is the second equivalence point?",
+      "question_text": "The following titration curve shows the titration of diprotic acid X with NaOH:\n\nAt what pH is the second equivalence point?",
       "options": {
         "A": "pH = 3.0",
         "B": "pH = 4.1",
@@ -3018,14 +3019,15 @@
         "A": "pH 3.0 is before the second equivalence point - still in buffer region.",
         "B": "pH 4.1 is at pKa2, the half-equivalence point, not equivalence.",
         "D": "pH 7.2 is past the second equivalence point."
-      }
+      },
+      "image_filename": "gc_ch10_titration_curve.png"
     },
     {
       "id": "ch10_q9",
       "chapter": 10,
       "chapter_title": "Acids and Bases",
       "question_number": 9,
-      "question_text": "What is the approximate value of pKa2?",
+      "question_text": "The following titration curve shows the titration of diprotic acid X with NaOH:\n\nWhat is the approximate value of pKa2?",
       "options": {
         "A": "3.6",
         "B": "4.1",
@@ -3039,7 +3041,8 @@
         "A": "3.6 is too early - still in the first buffer region.",
         "C": "5.5 is past pKa2, approaching the second equivalence point.",
         "D": "7.2 is past the second equivalence point entirely."
-      }
+      },
+      "image_filename": "gc_ch10_titration_curve.png"
     },
     {
       "id": "ch10_q10",
