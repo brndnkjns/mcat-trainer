@@ -19,7 +19,7 @@
         "D": "hydrophobic molecules."
       },
       "correct_answer": "B",
-      "explanation": "Most amino acids (except the acidic and basic amino acids) have two sites for protonation: the carboxylic acid and the amine. At neutral pH, the carboxylic acid will be deprotonated (–COO–) and the amine will remain protonated –NH3+. This dipolar ion is a zwitterion, so (B) is the correct answer.",
+      "explanation": "Most amino acids (except the acidic and basic amino acids) have two sites for protonation: the carboxylic acid and the amine. At neutral pH, the carboxylic acid will be deprotonated (\u2013COO\u2013) and the amine will remain protonated \u2013NH3+. This dipolar ion is a zwitterion, so (B) is the correct answer.",
       "short_reason": "Think 'ZWITTER = TWITTER' - amino acids are always chattering with both + and - charges at neutral pH, like a social media conversation!",
       "wrong_answer_explanations": {
         "A": "Only positively charged if pH is very low (below pI). At neutral pH, the carboxyl group loses its proton.",
@@ -34,13 +34,13 @@
       "question_number": 2,
       "question_text": "At pH 7, the charge on a glutamic acid molecule is:",
       "options": {
-        "A": "–2.",
-        "B": "–1.",
+        "A": "\u20132.",
+        "B": "\u20131.",
         "C": "0.",
         "D": "+1."
       },
       "correct_answer": "B",
-      "explanation": "Glutamic acid is an acidic amino acid because it has an extra carboxyl group. At neutral pH, both carboxyl groups are deprotonated and thus negatively charged. The amino group has a positive charge because it remains protonated at pH 7. Overall, therefore, glutamic acid has a net charge of –1, and (B) is correct. Notice that you do not even need to know the pI values to solve this question; as an acidic amino acid, glutamic acid must have a pI below 7.",
+      "explanation": "Glutamic acid is an acidic amino acid because it has an extra carboxyl group. At neutral pH, both carboxyl groups are deprotonated and thus negatively charged. The amino group has a positive charge because it remains protonated at pH 7. Overall, therefore, glutamic acid has a net charge of \u20131, and (B) is correct. Notice that you do not even need to know the pI values to solve this question; as an acidic amino acid, glutamic acid must have a pI below 7.",
       "short_reason": "Glutamic acid is 'GLU-my' - it's acidic and sad (negative) with that extra -1 charge from its side chain carboxyl!",
       "wrong_answer_explanations": {
         "A": "-2 would require both side chain carboxyls deprotonated AND the amino group neutral, which doesn't happen at pH 7.",
@@ -61,7 +61,7 @@
         "D": "They are hydrophobic and found on protein surfaces."
       },
       "correct_answer": "C",
-      "explanation": "Nonpolar groups are not capable of forming dipoles or hydrogen bonds; this makes them hydrophobic. Burying hydrophobic R groups inside proteins means they don’t have to interact with water, which is polar. This makes (C) correct. (A) and (B) are incorrect because nonpolar molecules are hydrophobic, not hydrophilic; (D) is incorrect because they are not generally found on protein surfaces.",
+      "explanation": "Nonpolar groups are not capable of forming dipoles or hydrogen bonds; this makes them hydrophobic. Burying hydrophobic R groups inside proteins means they don\u2019t have to interact with water, which is polar. This makes (C) correct. (A) and (B) are incorrect because nonpolar molecules are hydrophobic, not hydrophilic; (D) is incorrect because they are not generally found on protein surfaces.",
       "short_reason": "Nonpolar R groups are like introverts at a party - they HIDE inside proteins to avoid the water (social interaction)!",
       "wrong_answer_explanations": {
         "A": "Nonpolar means hydrophobic, not hydrophilic. Water-fearing groups don't like being exposed.",
@@ -103,7 +103,7 @@
         "D": "27"
       },
       "correct_answer": "C",
-      "explanation": "There are three choices for the first amino acid, leaving two choices for the second, and one choice for the third. Multiplying those numbers gives us a total of3 × 2 × 1 = 6distinct tripeptides. (Using the one-letter codes for valine (V), alanine (A), and leucine (L), those six tripeptides are VAL, VLA, ALV, AVL, LVA, and LAV.)",
+      "explanation": "There are three choices for the first amino acid, leaving two choices for the second, and one choice for the third. Multiplying those numbers gives us a total of3 \u00d7 2 \u00d7 1 = 6distinct tripeptides. (Using the one-letter codes for valine (V), alanine (A), and leucine (L), those six tripeptides are VAL, VLA, ALV, AVL, LVA, and LAV.)",
       "short_reason": "VAL tripeptide = 3 factorial = 3x2x1 = 6. Remember: VAL, VLA, AVL, ALV, LVA, LAV - like arranging 3 people in a line!",
       "wrong_answer_explanations": {
         "A": "One arrangement ignores that order matters in peptides - the N-terminus and C-terminus are different.",
@@ -137,7 +137,7 @@
       "chapter": 1,
       "chapter_title": "Amino Acids, Peptides, and Proteins",
       "question_number": 7,
-      "question_text": "An α -helix is most likely to be held together by:",
+      "question_text": "An \u03b1 -helix is most likely to be held together by:",
       "options": {
         "A": "disulfide bonds.",
         "B": "hydrophobic effects.",
@@ -145,7 +145,7 @@
         "D": "ionic attractions between side chains."
       },
       "correct_answer": "C",
-      "explanation": "The α-helix is held together primarily by hydrogen bonds between the carboxyl groups and amino groups of amino acids. Disulfide bridges, (A), and hydrophobic effects, (B), are primarily involved in tertiary structures, not secondary. Even if they were charged, the side chains of amino acids are too far apart to participate in strong interactions in secondary structure.",
+      "explanation": "The \u03b1-helix is held together primarily by hydrogen bonds between the carboxyl groups and amino groups of amino acids. Disulfide bridges, (A), and hydrophobic effects, (B), are primarily involved in tertiary structures, not secondary. Even if they were charged, the side chains of amino acids are too far apart to participate in strong interactions in secondary structure.",
       "short_reason": "Alpha HELIX = H-bonds HOLD it together! H for Helix, H for Hydrogen bonds!",
       "wrong_answer_explanations": {
         "A": "Disulfide bonds are covalent S-S bonds between cysteines - they stabilize tertiary structure, not alpha helices.",
@@ -160,13 +160,13 @@
       "question_number": 8,
       "question_text": "Which of the following is least likely to cause denaturation of proteins?",
       "options": {
-        "A": "Heating the protein to 100°C",
+        "A": "Heating the protein to 100\u00b0C",
         "B": "Adding 8 M urea",
         "C": "Moving it to a more hypotonic environment",
         "D": "Adding a detergent such as sodium dodecyl sulfate"
       },
       "correct_answer": "C",
-      "explanation": "High salt concentrations and detergents can denature a protein, as can high temperatures. But moving a protein to a hypotonic environment—that is, a lower solute concentration—should not lead to denaturation.",
+      "explanation": "High salt concentrations and detergents can denature a protein, as can high temperatures. But moving a protein to a hypotonic environment\u2014that is, a lower solute concentration\u2014should not lead to denaturation.",
       "short_reason": "HypoTONIC = Less TONIC (solute) = harmless to proteins. Heat, urea, and detergents denature; dilute solutions don't!",
       "wrong_answer_explanations": {
         "A": "100 degrees C gives proteins enough energy to break non-covalent bonds - classic denaturation.",
@@ -179,7 +179,7 @@
       "chapter": 1,
       "chapter_title": "Amino Acids, Peptides, and Proteins",
       "question_number": 9,
-      "question_text": "A particular α -helix is known to cross the cell membrane. Which of these amino acids is most likely to be found in the transmembrane portion of the helix?",
+      "question_text": "A particular \u03b1 -helix is known to cross the cell membrane. Which of these amino acids is most likely to be found in the transmembrane portion of the helix?",
       "options": {
         "A": "Glutamate",
         "B": "Lysine",
@@ -187,7 +187,7 @@
         "D": "Aspartate"
       },
       "correct_answer": "C",
-      "explanation": "An amino acid likely to be found in a transmembrane portion of an α-helix will be exposed to a hydrophobic environment, so we need an amino acid with a hydrophobic side chain. The only choice that has a hydrophobic side chain is (C), phenylalanine. The other choices are all polar or charged.",
+      "explanation": "An amino acid likely to be found in a transmembrane portion of an \u03b1-helix will be exposed to a hydrophobic environment, so we need an amino acid with a hydrophobic side chain. The only choice that has a hydrophobic side chain is (C), phenylalanine. The other choices are all polar or charged.",
       "short_reason": "Membrane = hydrophobic = needs PHENYlalanine (F for Fat-loving!). Charged amino acids like Glu, Lys, Asp would hate it there!",
       "wrong_answer_explanations": {
         "A": "Glutamate has a negatively charged carboxyl side chain - would be repelled by hydrophobic membrane interior.",
@@ -208,7 +208,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "C",
-      "explanation": "Every amino acid except glycine has a chiral α-carbon, but only two of the 20 amino acids—threonine and isoleucine— also have a chiral carbon in their side chains as well. Thus, the correct answer is (C). Just as only one configuration is normally seen at the αcarbon, only one configuration is seen in the side chain chiral carbon.",
+      "explanation": "Every amino acid except glycine has a chiral \u03b1-carbon, but only two of the 20 amino acids\u2014threonine and isoleucine\u2014 also have a chiral carbon in their side chains as well. Thus, the correct answer is (C). Just as only one configuration is normally seen at the \u03b1carbon, only one configuration is seen in the side chain chiral carbon.",
       "short_reason": "THREONINE and ISOLEUCINE = TI = 'Two Irregulars' with chiral side chains. Only these two have a second chiral center!",
       "wrong_answer_explanations": {
         "A": "Serine has a hydroxyl side chain but no chiral carbon in it - the beta carbon has two identical hydrogens.",
@@ -292,7 +292,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "D",
-      "explanation": "Conjugated proteins can have lipid or carbohydrate “tags” added to them. These tags can indicate that these proteins should be directed to the cell membrane (especially lipid tags) or to specific organelles (such as the lysosome). They can also provide the activity of the protein; for example, the heme group in hemoglobin is needed for it to bind oxygen. Thus, (D) is the correct answer.",
+      "explanation": "Conjugated proteins can have lipid or carbohydrate \u201ctags\u201d added to them. These tags can indicate that these proteins should be directed to the cell membrane (especially lipid tags) or to specific organelles (such as the lysosome). They can also provide the activity of the protein; for example, the heme group in hemoglobin is needed for it to bind oxygen. Thus, (D) is the correct answer.",
       "short_reason": "Conjugation is like adding LUGGAGE TAGS to proteins - directing them places, giving them tools (cofactors), or decorating them for the membrane!",
       "wrong_answer_explanations": {
         "A": "Correct but incomplete - conjugation does more than just organelle targeting.",
@@ -305,7 +305,7 @@
       "chapter": 1,
       "chapter_title": "Amino Acids, Peptides, and Proteins",
       "question_number": 15,
-      "question_text": "Collagen consists of three helices with carbon backbones that are tightly wrapped around one another in a “triple helix.” Which of these amino acids is most likely to be found in the highest concentration in collagen?",
+      "question_text": "Collagen consists of three helices with carbon backbones that are tightly wrapped around one another in a \u201ctriple helix.\u201d Which of these amino acids is most likely to be found in the highest concentration in collagen?",
       "options": {
         "A": "Proline",
         "B": "Glycine",
@@ -326,15 +326,15 @@
       "chapter": 2,
       "chapter_title": "Enzymes",
       "question_number": 1,
-      "question_text": "Consider a biochemical reaction A → B, which is catalyzed by A–B dehydrogenase . Which of the following statements is true?",
+      "question_text": "Consider a biochemical reaction A \u2192 B, which is catalyzed by A\u2013B dehydrogenase . Which of the following statements is true?",
       "options": {
         "A": "The reaction will proceed until the enzyme concentration decreases.",
-        "B": "The reaction will be most favorable at 0°C.",
+        "B": "The reaction will be most favorable at 0\u00b0C.",
         "C": "A component of the enzyme is transferred from A to B.",
-        "D": "The free energy change (ΔG) of the catalyzed reaction is the same as for the uncatalyzed reaction."
+        "D": "The free energy change (\u0394G) of the catalyzed reaction is the same as for the uncatalyzed reaction."
       },
       "correct_answer": "D",
-      "explanation": "Enzymes catalyze reactions by lowering their activation energy, and are not changed or consumed during the course of the reaction. While the activation energy is lowered, the free energy of the reaction, ΔG, remains unchanged in the presence of an enzyme. A reaction will continue to occur in the presence or absence of an enzyme; it simply runs slower without the enzyme, eliminating (A). Most physiological reactions are optimized at body temperature, 37°C, eliminating (B). Finally, dehydrogenases catalyze oxidation–reduction reactions, not transfer reactions, eliminating (C).",
+      "explanation": "Enzymes catalyze reactions by lowering their activation energy, and are not changed or consumed during the course of the reaction. While the activation energy is lowered, the free energy of the reaction, \u0394G, remains unchanged in the presence of an enzyme. A reaction will continue to occur in the presence or absence of an enzyme; it simply runs slower without the enzyme, eliminating (A). Most physiological reactions are optimized at body temperature, 37\u00b0C, eliminating (B). Finally, dehydrogenases catalyze oxidation\u2013reduction reactions, not transfer reactions, eliminating (C).",
       "short_reason": "Enzymes are like MATCHMAKERS - they help reactions happen faster but don't change how happy the couple (products) will be (delta G unchanged)!",
       "wrong_answer_explanations": {
         "A": "Enzymes aren't consumed - they're catalysts that can be reused. Reaction continues until equilibrium.",
@@ -350,12 +350,12 @@
       "question_text": "Which of the following statements about enzyme kinetics is FALSE?",
       "options": {
         "A": "An increase in the substrate concentration (at constant enzyme concentration) leads to proportional increases in the rate of the reaction.",
-        "B": "Most enzymes operating in the human body work best at a temperature of 37°C.",
-        "C": "An enzyme–substrate complex can either form a product or dissociate back into the enzyme and substrate.",
+        "B": "Most enzymes operating in the human body work best at a temperature of 37\u00b0C.",
+        "C": "An enzyme\u2013substrate complex can either form a product or dissociate back into the enzyme and substrate.",
         "D": "Maximal activity of many human enzymes occurs around pH 7.4."
       },
       "correct_answer": "A",
-      "explanation": "Most enzymes in the human body operate at maximal activity around a temperature of 37°C and a pH of 7.4, which is the pH of most body fluids. In addition, as characterized by the Michaelis–Menten equation, enzymes form an enzyme–substrate complex, which can either dissociate back into the enzyme and substrate or proceed to form a product. So far, we can eliminate (B), (C), and (D), so let’s check (A). An increase in the substrate concentration, while maintaining a constant enzyme concentration, leads to a proportional increase in the rate of the reaction only initially. However, once most of the active sites are occupied, the reaction rate levels off, regardless of further increases in substrate concentration. At high concentrations of substrate, the reaction rate approaches its maximal velocity and is no longer changed by further increases in substrate concentration.",
+      "explanation": "Most enzymes in the human body operate at maximal activity around a temperature of 37\u00b0C and a pH of 7.4, which is the pH of most body fluids. In addition, as characterized by the Michaelis\u2013Menten equation, enzymes form an enzyme\u2013substrate complex, which can either dissociate back into the enzyme and substrate or proceed to form a product. So far, we can eliminate (B), (C), and (D), so let\u2019s check (A). An increase in the substrate concentration, while maintaining a constant enzyme concentration, leads to a proportional increase in the rate of the reaction only initially. However, once most of the active sites are occupied, the reaction rate levels off, regardless of further increases in substrate concentration. At high concentrations of substrate, the reaction rate approaches its maximal velocity and is no longer changed by further increases in substrate concentration.",
       "short_reason": "At high substrate, enzymes get SATURATED like a sponge - adding more water won't make it absorb faster once it's full!",
       "wrong_answer_explanations": {
         "B": "TRUE statement - human enzymes are optimized for body temperature (37 degrees C).",
@@ -389,7 +389,7 @@
       "chapter": 2,
       "chapter_title": "Enzymes",
       "question_number": 4,
-      "question_text": "Which of the following factors determine an enzyme’s specificity?",
+      "question_text": "Which of the following factors determine an enzyme\u2019s specificity?",
       "options": {
         "A": "The three-dimensional shape of the active site",
         "B": "The Michaelis constant",
@@ -397,7 +397,7 @@
         "D": "The prosthetic group on the enzyme"
       },
       "correct_answer": "A",
-      "explanation": "An enzyme’s specificity is determined by the three-dimensional shape of its active site. Regardless of which explanation for enzyme specificity we are discussing (lock and key or induced fit), the active site determines which substrate the enzyme will react with.",
+      "explanation": "An enzyme\u2019s specificity is determined by the three-dimensional shape of its active site. Regardless of which explanation for enzyme specificity we are discussing (lock and key or induced fit), the active site determines which substrate the enzyme will react with.",
       "short_reason": "Lock and Key or Induced Fit - either way, it's all about the SHAPE of the active site matching the substrate!",
       "wrong_answer_explanations": {
         "B": "Km measures affinity, not specificity. An enzyme can have high specificity but varying Km values.",
@@ -410,7 +410,7 @@
       "chapter": 2,
       "chapter_title": "Enzymes",
       "question_number": 5,
-      "question_text": "Human DNA polymerase is removed from the freezer and placed in a 60°C water bath. Which of the following best describes the change in enzyme activity as the polymerase sample comes to thermal equilibrium with the water bath?",
+      "question_text": "Human DNA polymerase is removed from the freezer and placed in a 60\u00b0C water bath. Which of the following best describes the change in enzyme activity as the polymerase sample comes to thermal equilibrium with the water bath?",
       "options": {
         "A": "Increases then decreases",
         "B": "Decreases then plateaus",
@@ -418,7 +418,7 @@
         "D": "Decreases then increases"
       },
       "correct_answer": "A",
-      "explanation": "As the temperature of the DNA polymerase sample increases from 0°C to the usual physiological temperature, i.e. 37°C, the enzyme's activity will increase. However, at temperatures above 37°C, the enzyme's activity will rapidly decline due to denaturation.",
+      "explanation": "As the temperature of the DNA polymerase sample increases from 0\u00b0C to the usual physiological temperature, i.e. 37\u00b0C, the enzyme's activity will increase. However, at temperatures above 37\u00b0C, the enzyme's activity will rapidly decline due to denaturation.",
       "short_reason": "Enzyme activity vs temperature is like Goldilocks - increases up to 37 degrees (just right!), then crashes as denaturation kicks in!",
       "wrong_answer_explanations": {
         "B": "Activity increases as temperature rises from freezer to body temp - doesn't start by decreasing.",
@@ -439,7 +439,7 @@
         "D": "Negative feedback"
       },
       "correct_answer": "D",
-      "explanation": "By limiting the activity of enzyme 1, the rest of the pathway is slowed, which is the definition of negative feedback. (A) is incorrect because there is no competition for the active site with allosteric interactions. While many products do indeed competitively inhibit an enzyme in the pathway that creates them, this is an example of an allosterically inhibited enzyme. There is not enough information for (B) to be correct because we aren’t told whether the inhibition is reversible. In general, allosteric interactions are temporary. (C) is incorrect because it is the opposite of what occurs when enzyme 1 activity is reduced.",
+      "explanation": "By limiting the activity of enzyme 1, the rest of the pathway is slowed, which is the definition of negative feedback. (A) is incorrect because there is no competition for the active site with allosteric interactions. While many products do indeed competitively inhibit an enzyme in the pathway that creates them, this is an example of an allosterically inhibited enzyme. There is not enough information for (B) to be correct because we aren\u2019t told whether the inhibition is reversible. In general, allosteric interactions are temporary. (C) is incorrect because it is the opposite of what occurs when enzyme 1 activity is reduced.",
       "short_reason": "Product C inhibiting the first enzyme = classic NEGATIVE FEEDBACK! Like a thermostat turning off heat when the room is warm enough!",
       "wrong_answer_explanations": {
         "A": "Allosteric inhibition means binding at a different site than substrate - NOT competition for active site.",
@@ -452,7 +452,7 @@
       "chapter": 2,
       "chapter_title": "Enzymes",
       "question_number": 7,
-      "question_text": "The activity of an enzyme is measured at several different substrate concentrations, and the data are shown in the table below. [S] (mM) 0.01 1 0.05 9.1 0.1 17 0.5 50 1 67 5 91 10 95 50 99 100 100  Km for this enzyme is approximately:     Questions 8 and 9 refer to the following statement:  Consider a reaction catalyzed by enzyme A with a Km value of 5 × 10–6 M and Vmax of 20 .",
+      "question_text": "The activity of an enzyme is measured at several different substrate concentrations, and the data are shown in the table below. [S] (mM) 0.01 1 0.05 9.1 0.1 17 0.5 50 1 67 5 91 10 95 50 99 100 100  Km for this enzyme is approximately:     Questions 8 and 9 refer to the following statement:  Consider a reaction catalyzed by enzyme A with a Km value of 5 \u00d7 10\u20136 M and Vmax of 20 .",
       "options": {
         "A": "0.5",
         "B": "1.0",
@@ -474,7 +474,7 @@
       "chapter": 2,
       "chapter_title": "Enzymes",
       "question_number": 8,
-      "question_text": "At a concentration of 5 × 10 –6  M substrate, the rate of the reaction will be:",
+      "question_text": "Consider a reaction catalyzed by enzyme A with a Km value of 5 \u00d7 10\u207b\u2076 M and Vmax of 20.\n\nAt a concentration of 5 \u00d7 10 \u20136  M substrate, the rate of the reaction will be:",
       "options": {
         "A": "10 .",
         "B": "20 .",
@@ -482,7 +482,7 @@
         "D": "40 ."
       },
       "correct_answer": "A",
-      "explanation": "As with the last question, relationships are important. At a concentration of 5 × 10–6 M, enzyme A is working at one-half of its Vmax because the concentration is equal to the Km of the enzyme. Therefore, one-half of which corresponds to (A).",
+      "explanation": "As with the last question, relationships are important. At a concentration of 5 \u00d7 10\u20136 M, enzyme A is working at one-half of its Vmax because the concentration is equal to the Km of the enzyme. Therefore, one-half of which corresponds to (A).",
       "short_reason": "When [S] = Km, velocity = Vmax/2. So if Vmax is 20, half of that is 10! It's that simple!",
       "wrong_answer_explanations": {
         "B": "20 would be Vmax - you only get that when substrate concentration is much higher than Km.",
@@ -495,7 +495,7 @@
       "chapter": 2,
       "chapter_title": "Enzymes",
       "question_number": 9,
-      "question_text": "At a concentration of 5 × 10 –4  M substrate, the rate of the reaction will be:",
+      "question_text": "Consider a reaction catalyzed by enzyme A with a Km value of 5 \u00d7 10\u207b\u2076 M and Vmax of 20.\n\nAt a concentration of 5 \u00d7 10 \u20134  M substrate, the rate of the reaction will be:",
       "options": {
         "A": "10 .",
         "B": "15 .",
@@ -503,7 +503,7 @@
         "D": "30 ."
       },
       "correct_answer": "C",
-      "explanation": "At a concentration of 5 × 10–4 M, there is 100 times more substrate than present at half maximal velocity. At high values (significantly larger than the value of Km), the enzyme is at or near its Vmax, which is 20 .",
+      "explanation": "At a concentration of 5 \u00d7 10\u20134 M, there is 100 times more substrate than present at half maximal velocity. At high values (significantly larger than the value of Km), the enzyme is at or near its Vmax, which is 20 .",
       "short_reason": "100x more substrate than Km means the enzyme is basically MAXED OUT - running at or near Vmax (20)!",
       "wrong_answer_explanations": {
         "A": "10 is half-max velocity - only happens when [S] = Km, not 100x Km.",
@@ -609,7 +609,7 @@
         "D": "Transferase enzymes"
       },
       "correct_answer": "A",
-      "explanation": "Triglycerides are unlikely to act as coenzymes for a few reasons, including their large size, neutral charge, and ubiquity in cells. Cofactors and coenzymes tend to be small in size, such as metal ions like (C) or small organic molecules. They can usually carry a charge by ionization, protonation, or deprotonation. Finally, they are usually in low, tightly regulated concentrations within cells. Metabolic pathways would be expected to include both oxidation–reduction reactions and movement of functional groups, thus eliminating (B) and (D).",
+      "explanation": "Triglycerides are unlikely to act as coenzymes for a few reasons, including their large size, neutral charge, and ubiquity in cells. Cofactors and coenzymes tend to be small in size, such as metal ions like (C) or small organic molecules. They can usually carry a charge by ionization, protonation, or deprotonation. Finally, they are usually in low, tightly regulated concentrations within cells. Metabolic pathways would be expected to include both oxidation\u2013reduction reactions and movement of functional groups, thus eliminating (B) and (D).",
       "short_reason": "TRIGLYCERIDES are fuel storage - too big, too neutral, too common to be precise coenzymes. They're the gas tank, not the spark plug!",
       "wrong_answer_explanations": {
         "B": "TRUE - oxidoreductases (like dehydrogenases) are essential for metabolism's redox reactions.",
@@ -798,7 +798,7 @@
         "D": "No ion channels are involved in maintenance of the resting membrane potential."
       },
       "correct_answer": "A",
-      "explanation": "The resting membrane potential is displayed by cells that are not actively involved in signal transduction. Ungated or “leak” channels permit limited free flow of ions, while the sodium–potassium pump is also active and corrects for this leakage. Ligand-gated and voltage-gated channels are involved in cell signaling and in the pacemaker potentials of certain cells, but cause deviation from—not maintenance of—the resting membrane potential.",
+      "explanation": "The resting membrane potential is displayed by cells that are not actively involved in signal transduction. Ungated or \u201cleak\u201d channels permit limited free flow of ions, while the sodium\u2013potassium pump is also active and corrects for this leakage. Ligand-gated and voltage-gated channels are involved in cell signaling and in the pacemaker potentials of certain cells, but cause deviation from\u2014not maintenance of\u2014the resting membrane potential.",
       "short_reason": "UNGATED = always open 'LEAK' channels = maintaining RESTING potential! Gated channels are for ACTION potentials!",
       "wrong_answer_explanations": {
         "B": "Voltage-gated channels open during action potentials - they CHANGE the membrane potential.",
@@ -813,13 +813,13 @@
       "question_number": 9,
       "question_text": "Which of the following is NOT a component of all trimeric G proteins?",
       "options": {
-        "A": "Gα",
-        "B": "Gβ",
-        "C": "Gγ",
+        "A": "G\u03b1",
+        "B": "G\u03b2",
+        "C": "G\u03b3",
         "D": "Gi"
       },
       "correct_answer": "D",
-      "explanation": "All trimeric G proteins have α, β, and γ subunits—(A), (B), and (C), respectively. Gs, Gi, and Gq are subtypes of the Gα subunit of the trimeric G protein and differ depending on the G protein-coupled receptor’s function.",
+      "explanation": "All trimeric G proteins have \u03b1, \u03b2, and \u03b3 subunits\u2014(A), (B), and (C), respectively. Gs, Gi, and Gq are subtypes of the G\u03b1 subunit of the trimeric G protein and differ depending on the G protein-coupled receptor\u2019s function.",
       "short_reason": "G proteins have Alpha, Beta, Gamma (the GREEK trio!). Gi, Gs, Gq are TYPES of alpha subunits, not separate subunits!",
       "wrong_answer_explanations": {
         "A": "G-alpha IS a core component of all trimeric G proteins - it binds GDP/GTP.",
@@ -840,7 +840,7 @@
         "D": "Native PAGE"
       },
       "correct_answer": "B",
-      "explanation": "The proteins described in the question differ primarily in their molecular weights. Their pI values are very close, so ion-exchange chromatography, (A), is not a good choice. The question specifies a large quantity, which is better processed through chromatography than through electrophoresis—(C) and (D)—because the gel can only handle a small volume of protein.",
+      "explanation": "The proteins described in the question differ primarily in their molecular weights. Their pI values are very close, so ion-exchange chromatography, (A), is not a good choice. The question specifies a large quantity, which is better processed through chromatography than through electrophoresis\u2014(C) and (D)\u2014because the gel can only handle a small volume of protein.",
       "short_reason": "BIG weight differences (28K vs 70K vs 200K) but similar pI = use SIZE-exclusion chromatography! Plus, 'large quantities' = chromatography, not gel!",
       "wrong_answer_explanations": {
         "A": "Ion-exchange separates by charge - but these proteins have nearly identical pI values!",
@@ -861,7 +861,7 @@
         "D": "II and III only"
       },
       "correct_answer": "C",
-      "explanation": "The overall pI of a protein is determined by the relative number of acidic and basic amino acids. The basic amino acids are arginine, lysine, and histidine, and the acidic amino acids are aspartic acid and glutamic acid. Glycine’s side chain is a hydrogen atom, so it will have the least contribution of all the amino acids.",
+      "explanation": "The overall pI of a protein is determined by the relative number of acidic and basic amino acids. The basic amino acids are arginine, lysine, and histidine, and the acidic amino acids are aspartic acid and glutamic acid. Glycine\u2019s side chain is a hydrogen atom, so it will have the least contribution of all the amino acids.",
       "short_reason": "BASIC amino acids (Lys, Arg, His) raise pI; ACIDIC (Asp, Glu) lower it. Glycine with its H side chain? No contribution!",
       "wrong_answer_explanations": {
         "A": "Incomplete - both lysine AND arginine are basic amino acids that affect pI.",
@@ -1021,7 +1021,7 @@
       "chapter": 4,
       "chapter_title": "Carbohydrate Structure and Function",
       "question_number": 4,
-      "question_text": "The formation of α - D -glucopyranose from β - D -glucopyranose is called:",
+      "question_text": "The formation of \u03b1 - D -glucopyranose from \u03b2 - D -glucopyranose is called:",
       "options": {
         "A": "glycosidation.",
         "B": "mutarotation.",
@@ -1050,7 +1050,7 @@
         "D": "The ketone group is reduced directly."
       },
       "correct_answer": "A",
-      "explanation": "Ketose sugars undergo tautomerization, a rearrangement of bonds, to undergo keto–enol shifts. This forms an aldose, which then allows them to act as reducing sugars. A ketone group alone cannot be oxidized. Anomerization, mentioned in (C), refers to ring closure of a monosaccharide, creating an anomeric carbon.",
+      "explanation": "Ketose sugars undergo tautomerization, a rearrangement of bonds, to undergo keto\u2013enol shifts. This forms an aldose, which then allows them to act as reducing sugars. A ketone group alone cannot be oxidized. Anomerization, mentioned in (C), refers to ring closure of a monosaccharide, creating an anomeric carbon.",
       "short_reason": "Ketoses undergo TAUTOMERIZATION (keto-enol shift) to temporarily become aldoses - then they can reduce just like aldoses!",
       "wrong_answer_explanations": {
         "B": "Ketone groups cannot be directly oxidized like aldehydes can - they need tautomerization first.",
@@ -1087,13 +1087,13 @@
       "question_number": 7,
       "question_text": "Which of the following enzymes cleaves polysaccharide chains and yields maltose exclusively?",
       "options": {
-        "A": "α-Amylase",
-        "B": "β-Amylase",
+        "A": "\u03b1-Amylase",
+        "B": "\u03b2-Amylase",
         "C": "Debranching enzyme",
         "D": "Glycogen phosphorylase"
       },
       "correct_answer": "B",
-      "explanation": "β-Amylase cleaves amylose at the nonreducing end of the polymer to yield maltose exclusively, while α-amylase, (A), cleaves amylose anywhere along the chain to yield short polysaccharides, maltose, and glucose. Debranching enzyme, (C), removes oligosaccharides from a branch in glycogen or starches, while glycogen phosphorylase, (D), yields glucose 1-phosphate.",
+      "explanation": "\u03b2-Amylase cleaves amylose at the nonreducing end of the polymer to yield maltose exclusively, while \u03b1-amylase, (A), cleaves amylose anywhere along the chain to yield short polysaccharides, maltose, and glucose. Debranching enzyme, (C), removes oligosaccharides from a branch in glycogen or starches, while glycogen phosphorylase, (D), yields glucose 1-phosphate.",
       "short_reason": "BETA-amylase = 'BETTER at maltose' - it ONLY produces maltose by cleaving from the non-reducing end!",
       "wrong_answer_explanations": {
         "A": "Alpha-amylase cuts randomly throughout the chain - produces a mix of products including glucose.",
@@ -1114,7 +1114,7 @@
         "D": ""
       },
       "correct_answer": "C",
-      "explanation": "Start by drawing out the Haworth projection. Recall that all the groups on the right in the Fischer projection will go on the bottom of the Haworth projection, and all the groups on the left will go on the top. Next, draw the chair structure, with the oxygen in the back right corner. Label the carbons in the ring 1 through 5, starting from the oxygen and moving clockwise around the ring. Now, draw in the lines for all the axial substituents, alternating above and below the ring. Remember to start on the anomeric C-1 carbon, where the axial substituent points down. Now start filling in the substituents. The substituent can be in either position on the anomeric carbon, so skip that one for now. The –OH groups on C-2 and C-4 should point downward while the –OH group on C-3 should point upward; (C), the β-anomer of D-glucose, is the only one that matches.",
+      "explanation": "Start by drawing out the Haworth projection. Recall that all the groups on the right in the Fischer projection will go on the bottom of the Haworth projection, and all the groups on the left will go on the top. Next, draw the chair structure, with the oxygen in the back right corner. Label the carbons in the ring 1 through 5, starting from the oxygen and moving clockwise around the ring. Now, draw in the lines for all the axial substituents, alternating above and below the ring. Remember to start on the anomeric C-1 carbon, where the axial substituent points down. Now start filling in the substituents. The substituent can be in either position on the anomeric carbon, so skip that one for now. The \u2013OH groups on C-2 and C-4 should point downward while the \u2013OH group on C-3 should point upward; (C), the \u03b2-anomer of D-glucose, is the only one that matches.",
       "short_reason": "Fischer to chair: Right goes DOWN, Left goes UP. Beta-D-glucose has the C1 -OH equatorial (up), matching the CH2OH!",
       "wrong_answer_explanations": {
         "A": "Check the orientation of hydroxyl groups - must match the Fischer projection rules.",
@@ -1127,15 +1127,15 @@
       "chapter": 4,
       "chapter_title": "Carbohydrate Structure and Function",
       "question_number": 9,
-      "question_text": "Why is the α -anomer of D -glucose less likely to form than the β -anomer?",
+      "question_text": "Why is the \u03b1 -anomer of D -glucose less likely to form than the \u03b2 -anomer?",
       "options": {
-        "A": "The β-anomer is preferred for metabolism.",
-        "B": "The β-anomer undergoes less electron repulsion.",
-        "C": "The α-anomer is the more stable anomer.",
-        "D": "The α-anomer forms more in L-glucose."
+        "A": "The \u03b2-anomer is preferred for metabolism.",
+        "B": "The \u03b2-anomer undergoes less electron repulsion.",
+        "C": "The \u03b1-anomer is the more stable anomer.",
+        "D": "The \u03b1-anomer forms more in L-glucose."
       },
       "correct_answer": "B",
-      "explanation": "The hydroxyl group on the anomeric carbon of the β-anomer is equatorial, thereby creating less nonbonded strain than the α-anomer, which has the hydroxyl group of the anomeric carbon in axial position.",
+      "explanation": "The hydroxyl group on the anomeric carbon of the \u03b2-anomer is equatorial, thereby creating less nonbonded strain than the \u03b1-anomer, which has the hydroxyl group of the anomeric carbon in axial position.",
       "short_reason": "Beta-anomer has -OH EQUATORIAL (less crowded) = more stable = MORE common! Alpha has axial -OH = more strain = less common!",
       "wrong_answer_explanations": {
         "A": "Metabolic preference doesn't determine which anomer forms more - thermodynamics does.",
@@ -1156,7 +1156,7 @@
         "D": "Glycogen and amylopectin"
       },
       "correct_answer": "D",
-      "explanation": "Glycogen and amylopectin are the only polysaccharide forms that demonstrate branching structure, making them most similar in terms of linkage. Both glycogen and amylopectin use α-1,4 and α-1,6 linkages. Cellulose uses β-1,4 linkages and amylose does not contain α-1,6 linkages.",
+      "explanation": "Glycogen and amylopectin are the only polysaccharide forms that demonstrate branching structure, making them most similar in terms of linkage. Both glycogen and amylopectin use \u03b1-1,4 and \u03b1-1,6 linkages. Cellulose uses \u03b2-1,4 linkages and amylose does not contain \u03b1-1,6 linkages.",
       "short_reason": "GLYCOGEN and AMYLOPECTIN are BRANCHING BUDDIES - both have alpha-1,4 AND alpha-1,6 linkages! Amylose is unbranched!",
       "wrong_answer_explanations": {
         "A": "Cellulose uses beta-1,4 linkages - completely different from amylopectin's alpha linkages.",
@@ -1177,7 +1177,7 @@
         "D": "Cellobiose"
       },
       "correct_answer": "C",
-      "explanation": "While maltose and cellobiose both have the same glucose subunits, only maltose is digestible by humans because the β-glycosidic linkages in cellobiose cannot be cleaved in the human body.",
+      "explanation": "While maltose and cellobiose both have the same glucose subunits, only maltose is digestible by humans because the \u03b2-glycosidic linkages in cellobiose cannot be cleaved in the human body.",
       "short_reason": "MALTOSE = Glucose + Glucose with ALPHA linkage = digestible! Cellobiose has BETA linkage = humans can't break it!",
       "wrong_answer_explanations": {
         "A": "Lactose is glucose + galactose - two different monosaccharides.",
@@ -1198,7 +1198,7 @@
         "D": "glycosidic bond cleavage."
       },
       "correct_answer": "C",
-      "explanation": "In solution, the hemiacetal ring of glucose will break open spontaneously and then re-form. When the ring is broken, bond rotation occurs between C-1 and C-2 to produce either the α- or the β-anomer. The reaction given in this question depicts the mutarotation of glucose. (A) is incorrect because the reactant is an aldehyde, not the product. (B) is incorrect because a hemiketal has an –OH group, an –OR group, and two –R groups. In addition, hemiketals are formed from ketones, and our starting reactant is an aldehyde. Finally, (D) is incorrect because there is no glycosidic bond in the starting reactant.",
+      "explanation": "In solution, the hemiacetal ring of glucose will break open spontaneously and then re-form. When the ring is broken, bond rotation occurs between C-1 and C-2 to produce either the \u03b1- or the \u03b2-anomer. The reaction given in this question depicts the mutarotation of glucose. (A) is incorrect because the reactant is an aldehyde, not the product. (B) is incorrect because a hemiketal has an \u2013OH group, an \u2013OR group, and two \u2013R groups. In addition, hemiketals are formed from ketones, and our starting reactant is an aldehyde. Finally, (D) is incorrect because there is no glycosidic bond in the starting reactant.",
       "short_reason": "Ring opens, C1-C2 bond rotates, ring closes in new position = MUTAROTATION! It's the alpha-beta shuffle!",
       "wrong_answer_explanations": {
         "A": "The reaction shows ring OPENING from hemiacetal, not aldehyde formation from scratch.",
@@ -1234,15 +1234,15 @@
       "chapter": 4,
       "chapter_title": "Carbohydrate Structure and Function",
       "question_number": 14,
-      "question_text": "Andersen’s disease (glycogen storage disease type IV) is a condition characterized by a deficiency in glycogen branching enzyme. Absence of this enzyme would be likely to cause all of the following effects EXCEPT:",
+      "question_text": "Andersen\u2019s disease (glycogen storage disease type IV) is a condition characterized by a deficiency in glycogen branching enzyme. Absence of this enzyme would be likely to cause all of the following effects EXCEPT:",
       "options": {
         "A": "decreased glycogen solubility in human cells.",
         "B": "slower action of glycogen phosphorylase.",
         "C": "less storage of glucose in the body.",
-        "D": "glycogen devoid of α-1,4 linkages."
+        "D": "glycogen devoid of \u03b1-1,4 linkages."
       },
       "correct_answer": "D",
-      "explanation": "In Andersen’s disease, glycogen is less branched than normal, thereby inducing lower solubility of glycogen. Branches reduce the interactions between adjacent chains of glycogen and encourage interactions with the aqueous environment. The smaller number of branches means that glycogen phosphorylase has fewer terminal glucose monomers on which to act, making enzyme activity slower than normal overall. Finally, without branches, the density of glucose monomers cannot be as high; therefore, the total glucose stored is lower than normal. Glycogen synthase is still functioning normally, so we would expect normal α-1,4 linkages in the glycogen of an individual with Andersen’s disease but few (if any) α-1,6 linkages.",
+      "explanation": "In Andersen\u2019s disease, glycogen is less branched than normal, thereby inducing lower solubility of glycogen. Branches reduce the interactions between adjacent chains of glycogen and encourage interactions with the aqueous environment. The smaller number of branches means that glycogen phosphorylase has fewer terminal glucose monomers on which to act, making enzyme activity slower than normal overall. Finally, without branches, the density of glucose monomers cannot be as high; therefore, the total glucose stored is lower than normal. Glycogen synthase is still functioning normally, so we would expect normal \u03b1-1,4 linkages in the glycogen of an individual with Andersen\u2019s disease but few (if any) \u03b1-1,6 linkages.",
       "short_reason": "No branching enzyme = no alpha-1,6 branches, but alpha-1,4 chains still form! Glycogen becomes long and unbranched like amylose!",
       "wrong_answer_explanations": {
         "A": "TRUE - unbranched glycogen is less soluble because chains can pack together more tightly.",
@@ -1263,7 +1263,7 @@
         "D": "I, II, and III"
       },
       "correct_answer": "C",
-      "explanation": "Monosaccharides can exist as hemiacetals or hemiketals, depending on whether they are aldoses or ketoses. When a monosaccharide is in its cyclic form, the anomeric carbon is attached to the oxygen in the ring and a hydroxyl group. Hence, it is only a hemiacetal or hemiketal because an acetal or ketal would require the –OH group to be converted to another –OR group.",
+      "explanation": "Monosaccharides can exist as hemiacetals or hemiketals, depending on whether they are aldoses or ketoses. When a monosaccharide is in its cyclic form, the anomeric carbon is attached to the oxygen in the ring and a hydroxyl group. Hence, it is only a hemiacetal or hemiketal because an acetal or ketal would require the \u2013OH group to be converted to another \u2013OR group.",
       "short_reason": "Cyclic sugars have -OH and -OR on the anomeric carbon = HEMIACETAL (from aldose) or HEMIKETAL (from ketose). NOT full acetals!",
       "wrong_answer_explanations": {
         "A": "Only aldoses form hemiacetals - ketoses form hemiketals. Both occur!",
@@ -1368,7 +1368,7 @@
         "D": "I and III only"
       },
       "correct_answer": "C",
-      "explanation": "Steroid hormones are produced in endocrine glands and travel in the bloodstream to bind high-affinity receptors in the nucleus. The hormone’s receptor binds to DNA as part of the hormone–receptor complex, but the hormone itself does not.",
+      "explanation": "Steroid hormones are produced in endocrine glands and travel in the bloodstream to bind high-affinity receptors in the nucleus. The hormone\u2019s receptor binds to DNA as part of the hormone\u2013receptor complex, but the hormone itself does not.",
       "short_reason": "Steroid hormones travel in BLOOD (endocrine) and bind RECEPTORS inside cells. They DON'T bind DNA directly - the RECEPTOR does!",
       "wrong_answer_explanations": {
         "A": "TRUE - steroid hormone receptors are highly specific for their hormone.",
@@ -1557,7 +1557,7 @@
         "D": "Prostaglandins are endocrine hormones, like steroid hormones."
       },
       "correct_answer": "D",
-      "explanation": "Prostaglandins are paracrine or autocrine signaling molecules, not endocrine—they affect regions close to where they are produced, rather than affecting the entire body. Think of the swelling that happens when you bash your knee into your desk: your knee will swell, become discolored, and possibly bruise. Luckily, however, your entire body won’t swell as well.",
+      "explanation": "Prostaglandins are paracrine or autocrine signaling molecules, not endocrine\u2014they affect regions close to where they are produced, rather than affecting the entire body. Think of the swelling that happens when you bash your knee into your desk: your knee will swell, become discolored, and possibly bruise. Luckily, however, your entire body won\u2019t swell as well.",
       "short_reason": "Prostaglandins are PARACRINE (local) signals, not ENDOCRINE (body-wide)! They affect nearby cells, like inflammation at an injury site!",
       "wrong_answer_explanations": {
         "A": "TRUE - prostaglandins regulate cAMP through G-protein coupled receptors.",
@@ -1599,7 +1599,7 @@
         "D": "van der Waals forces."
       },
       "correct_answer": "B",
-      "explanation": "Nucleotides bond together to form polynucleotides. The 3′ hydroxyl group of one nucleotide’s sugar joins the 5′ hydroxyl group of the adjacent nucleotide’s sugar by a phosphodiester bond. Hydrogen bonding, (A), is important for holding complementary strands together, but does not play a role in the bonds formed between adjacent nucleotides on a single strand.",
+      "explanation": "Nucleotides bond together to form polynucleotides. The 3\u2032 hydroxyl group of one nucleotide\u2019s sugar joins the 5\u2032 hydroxyl group of the adjacent nucleotide\u2019s sugar by a phosphodiester bond. Hydrogen bonding, (A), is important for holding complementary strands together, but does not play a role in the bonds formed between adjacent nucleotides on a single strand.",
       "short_reason": "PHOSPHOdiester bonds link nucleotides in a strand! PHOSPHate group bridges 3' and 5' carbons. Hydrogen bonds link BETWEEN strands!",
       "wrong_answer_explanations": {
         "A": "Hydrogen bonds connect complementary BASES between two strands, not nucleotides within one strand.",
@@ -1617,10 +1617,10 @@
         "A": "In cells, DNA is double-stranded, whereas RNA is single-stranded.",
         "B": "DNA uses the nitrogenous base thymine; RNA uses uracil.",
         "C": "The sugar in DNA is deoxyribose; the sugar in RNA is ribose.",
-        "D": "DNA strands replicate in a 5′ to 3′ direction, whereas RNA is synthesized in a 3′ to 5′ direction."
+        "D": "DNA strands replicate in a 5\u2032 to 3\u2032 direction, whereas RNA is synthesized in a 3\u2032 to 5\u2032 direction."
       },
       "correct_answer": "D",
-      "explanation": "Because we are looking for the false statement, we have to read each choice to eliminate those that are true or find one that is overtly false. Let’s quickly review the main differences between DNA and RNA. In cells, DNA is double-stranded, with a deoxyribose sugar and the nitrogenous bases A, T, C, and G. RNA, on the other hand, is usually single-stranded, with a ribose sugar and the bases A, U, C, and G. (D) is false because both DNA replication and RNA synthesis proceed in a 5′ to 3′ direction.",
+      "explanation": "Because we are looking for the false statement, we have to read each choice to eliminate those that are true or find one that is overtly false. Let\u2019s quickly review the main differences between DNA and RNA. In cells, DNA is double-stranded, with a deoxyribose sugar and the nitrogenous bases A, T, C, and G. RNA, on the other hand, is usually single-stranded, with a ribose sugar and the bases A, U, C, and G. (D) is false because both DNA replication and RNA synthesis proceed in a 5\u2032 to 3\u2032 direction.",
       "short_reason": "BOTH DNA and RNA synthesize 5' to 3'! The template is read 3' to 5', but NEW strand is made 5' to 3' in both cases!",
       "wrong_answer_explanations": {
         "A": "TRUE - cellular DNA is double-stranded, RNA is typically single-stranded.",
@@ -1662,7 +1662,7 @@
         "D": "Pyrimidines"
       },
       "correct_answer": "C",
-      "explanation": "Aromatic rings must contain conjugated π electrons, which require alternating single and multiple bonds, or lone pairs. In carbohydrate ring structures, only single bonds are present, thus preventing aromaticity. Nucleic acids contain aromatic heterocycles, while proteins will generally contain at least one aromatic amino acid (tryptophan, phenylalanine, or tyrosine).",
+      "explanation": "Aromatic rings must contain conjugated \u03c0 electrons, which require alternating single and multiple bonds, or lone pairs. In carbohydrate ring structures, only single bonds are present, thus preventing aromaticity. Nucleic acids contain aromatic heterocycles, while proteins will generally contain at least one aromatic amino acid (tryptophan, phenylalanine, or tyrosine).",
       "short_reason": "Carbohydrates have saturated rings (all single bonds) - no conjugated pi electrons = NOT aromatic! Nucleotides have aromatic bases!",
       "wrong_answer_explanations": {
         "A": "Proteins contain aromatic amino acids (Phe, Tyr, Trp) with benzene rings.",
@@ -1678,12 +1678,12 @@
       "question_text": "For a compound to be aromatic, all of the following must be true EXCEPT:",
       "options": {
         "A": "the molecule is cyclic.",
-        "B": "the molecule contains 4n + 2 π electrons.",
+        "B": "the molecule contains 4n + 2 \u03c0 electrons.",
         "C": "the molecule contains alternating single and double bonds.",
         "D": "the molecule is planar."
       },
       "correct_answer": "C",
-      "explanation": "For a compound to be aromatic, it must be cyclic, planar, conjugated, and contain 4n + 2 π electrons, where n is any integer. Conjugation requires that every atom in the ring have at least one unhybridized p-orbital. While most examples of aromatic compounds have alternating single and double bonds, compounds can be aromatic if they contain triple bonds as well; this would still permit at least one unhybridized p-orbital.",
+      "explanation": "For a compound to be aromatic, it must be cyclic, planar, conjugated, and contain 4n + 2 \u03c0 electrons, where n is any integer. Conjugation requires that every atom in the ring have at least one unhybridized p-orbital. While most examples of aromatic compounds have alternating single and double bonds, compounds can be aromatic if they contain triple bonds as well; this would still permit at least one unhybridized p-orbital.",
       "short_reason": "Aromaticity needs conjugation, but it can come from lone pairs too - not JUST alternating single/double bonds! Think pyrrole!",
       "wrong_answer_explanations": {
         "A": "TRUE - aromatic compounds must be cyclic (ring structure).",
@@ -1872,7 +1872,7 @@
         "D": "Heterochromatin is found in the nucleus, whereas euchromatin is in the cytoplasm."
       },
       "correct_answer": "D",
-      "explanation": "Euchromatin has a classic “beads on a string” appearance that stains lightly, while heterochromatin is tightly packed and stains darkly. Heterochromatin is primarily composed of inactive genes or untranslated regions, while euchromatin is able to be expressed. All chromatin is found in the nucleus, not the cytoplasm.",
+      "explanation": "Euchromatin has a classic \u201cbeads on a string\u201d appearance that stains lightly, while heterochromatin is tightly packed and stains darkly. Heterochromatin is primarily composed of inactive genes or untranslated regions, while euchromatin is able to be expressed. All chromatin is found in the nucleus, not the cytoplasm.",
       "short_reason": "ALL chromatin stays in the NUCLEUS! Heterochromatin (dark, silent) and euchromatin (light, active) are both nuclear!",
       "wrong_answer_explanations": {
         "A": "TRUE - euchromatin can be transcribed, heterochromatin is generally silent.",
@@ -1909,12 +1909,12 @@
       "question_text": "What role does peptidyl transferase play in protein synthesis?",
       "options": {
         "A": "It transports the initiator aminoacyl-tRNA complex.",
-        "B": "It helps the ribosome to advance three nucleotides along the mRNA in the 5′ to 3′ direction.",
+        "B": "It helps the ribosome to advance three nucleotides along the mRNA in the 5\u2032 to 3\u2032 direction.",
         "C": "It holds the protein in its tertiary structure.",
         "D": "It catalyzes the formation of a peptide bond."
       },
       "correct_answer": "D",
-      "explanation": "Peptidyl transferase is an enzyme that catalyzes the formation of a peptide bond between the incoming amino acid in the A site and the growing polypeptide chain in the P site. Initiation and elongation factors help transport charged tRNA molecules into the ribosome and advance the ribosome down the mRNA transcript, as in (A) and (B). Chaperones maintain a protein’s three-dimensional shape as it is formed, as in (C).",
+      "explanation": "Peptidyl transferase is an enzyme that catalyzes the formation of a peptide bond between the incoming amino acid in the A site and the growing polypeptide chain in the P site. Initiation and elongation factors help transport charged tRNA molecules into the ribosome and advance the ribosome down the mRNA transcript, as in (A) and (B). Chaperones maintain a protein\u2019s three-dimensional shape as it is formed, as in (C).",
       "short_reason": "PEPTIDYL transferase makes PEPTIDE bonds! It's in the ribosome and connects amino acids during translation!",
       "wrong_answer_explanations": {
         "A": "Initiation factors transport the first tRNA - peptidyl transferase just makes bonds.",
@@ -1977,7 +1977,7 @@
         "D": "GUG"
       },
       "correct_answer": "C",
-      "explanation": "There are four different codons for valine: GUU, GUC, GUA, and GUG. Through base-pairing, we can determine that the proper anticodon must end with “AC.” Remember that the codon and anticodon are antiparallel to each other, and that nucleic acids are always written 5′ → 3′ on the MCAT. Therefore, we are looking for an answer that ends with “AC” (rather than starting with “CA”).",
+      "explanation": "There are four different codons for valine: GUU, GUC, GUA, and GUG. Through base-pairing, we can determine that the proper anticodon must end with \u201cAC.\u201d Remember that the codon and anticodon are antiparallel to each other, and that nucleic acids are always written 5\u2032 \u2192 3\u2032 on the MCAT. Therefore, we are looking for an answer that ends with \u201cAC\u201d (rather than starting with \u201cCA\u201d).",
       "short_reason": "Valine codons start with GU-. Anticodon pairs 3' to 5', so it ends in -AC. Answer must end in AC, be written 5' to 3' = UAC!",
       "wrong_answer_explanations": {
         "A": "CAU ends in AU, not AC - wouldn't pair correctly with valine codons.",
@@ -2118,7 +2118,7 @@
       "chapter": 7,
       "chapter_title": "RNA and the Genetic Code",
       "question_number": 11,
-      "question_text": "A gene encodes a protein with 150 amino acids. There is one intron of 1000 base pairs (bp), a 5′-untranslated region of 100 bp, and a 3′-untranslated region of 200 bp. In the final mRNA, about how many bases lie between the start AUG codon and final termination codon?",
+      "question_text": "A gene encodes a protein with 150 amino acids. There is one intron of 1000 base pairs (bp), a 5\u2032-untranslated region of 100 bp, and a 3\u2032-untranslated region of 200 bp. In the final mRNA, about how many bases lie between the start AUG codon and final termination codon?",
       "options": {
         "A": "150",
         "B": "450",
@@ -2126,7 +2126,7 @@
         "D": "1750"
       },
       "correct_answer": "B",
-      "explanation": "The intron will not be a part of the final, processed mRNA, and the untranslated regions of the mRNA will not be turned into amino acids. Translation will begin with codon 1 (which would be AUG). Because there are 150 amino acids, we can surmise that there will be 151 codons. Each codon will use 3 nucleotides, so 150 × 3 = 450 because codon 151 will be the stop codon.",
+      "explanation": "The intron will not be a part of the final, processed mRNA, and the untranslated regions of the mRNA will not be turned into amino acids. Translation will begin with codon 1 (which would be AUG). Because there are 150 amino acids, we can surmise that there will be 151 codons. Each codon will use 3 nucleotides, so 150 \u00d7 3 = 450 because codon 151 will be the stop codon.",
       "short_reason": "150 amino acids = 150 codons x 3 bases = 450 bases! The stop codon is separate and UTRs/introns don't count in this calculation!",
       "wrong_answer_explanations": {
         "A": "150 is the number of amino acids, not nucleotides.",
@@ -2181,15 +2181,15 @@
       "chapter": 7,
       "chapter_title": "RNA and the Genetic Code",
       "question_number": 14,
-      "question_text": "You have just sequenced a piece of DNA that reads as follows: 5′—TCTTTGAGACATCC—3′  What would the base sequence of the mRNA transcribed from this DNA be?",
+      "question_text": "You have just sequenced a piece of DNA that reads as follows: 5\u2032\u2014TCTTTGAGACATCC\u20143\u2032  What would the base sequence of the mRNA transcribed from this DNA be?",
       "options": {
-        "A": "5′—AGAAACUCUGUAGG—3′",
-        "B": "5′—GGAUGUCUCAAAGA—3′",
-        "C": "5′—AGAAACTCTGTAGG—3′",
-        "D": "5′—GGATCTCTCAAAGA—3′"
+        "A": "5\u2032\u2014AGAAACUCUGUAGG\u20143\u2032",
+        "B": "5\u2032\u2014GGAUGUCUCAAAGA\u20143\u2032",
+        "C": "5\u2032\u2014AGAAACTCTGTAGG\u20143\u2032",
+        "D": "5\u2032\u2014GGATCTCTCAAAGA\u20143\u2032"
       },
       "correct_answer": "B",
-      "explanation": "To answer this question correctly, we must remember that mRNA will be antiparallel to DNA. Our answer should be 5′ to 3′ mRNA, with the 5′ end complementary to the 3′ end of the DNA that is being transcribed. Thus, the mRNA transcribed from this strand will be 5′—GGAUGUCUCAAAGA—3′. mRNA contains uracil, rather than thymine.",
+      "explanation": "To answer this question correctly, we must remember that mRNA will be antiparallel to DNA. Our answer should be 5\u2032 to 3\u2032 mRNA, with the 5\u2032 end complementary to the 3\u2032 end of the DNA that is being transcribed. Thus, the mRNA transcribed from this strand will be 5\u2032\u2014GGAUGUCUCAAAGA\u20143\u2032. mRNA contains uracil, rather than thymine.",
       "short_reason": "mRNA is ANTIPARALLEL to template DNA! Read template 3'to 5', make mRNA 5' to 3'. Don't forget T becomes U!",
       "wrong_answer_explanations": {
         "A": "This sequence is complementary but in the wrong direction - check the 5' and 3' ends.",
@@ -2244,7 +2244,7 @@
       "chapter": 8,
       "chapter_title": "Biological Membranes",
       "question_number": 2,
-      "question_text": "A researcher treats a solution containing animal cells with ouabain, a poisonous substance that interferes with the sodium–potassium ATPase embedded in the cell membrane, and the cell lyses as a result. Which of the following statements best describes ouabain’s effects?",
+      "question_text": "A researcher treats a solution containing animal cells with ouabain, a poisonous substance that interferes with the sodium\u2013potassium ATPase embedded in the cell membrane, and the cell lyses as a result. Which of the following statements best describes ouabain\u2019s effects?",
       "options": {
         "A": "Treatment with ouabain results in high levels of extracellular calcium.",
         "B": "Treatment with ouabain results in high levels of extracellular potassium and sodium.",
@@ -2252,7 +2252,7 @@
         "D": "Treatment with ouabain decreases intracellular concentrations of sodium."
       },
       "correct_answer": "C",
-      "explanation": "This question requires an understanding of osmosis and the action of the sodium–potassium pump. When a cell is placed in a hypertonic solution (a solution having a higher solute concentration than the cell), fluid will diffuse out of the cell and result in cell shrinkage. When a cell is placed in hypotonic solution (a solution having a lower solute concentration than the cell), fluid will diffuse from the solution into the cell, causing the cell to expand and possibly lyse. The sodium–potassium pump moves three sodium ions out of the cell for every two potassium ions it lets into the cell. Therefore, inhibition of the sodium–potassium pump by ouabain will cause a net increase in the sodium concentration inside the cell and water will diffuse in, causing the cell to swell and then lyse.",
+      "explanation": "This question requires an understanding of osmosis and the action of the sodium\u2013potassium pump. When a cell is placed in a hypertonic solution (a solution having a higher solute concentration than the cell), fluid will diffuse out of the cell and result in cell shrinkage. When a cell is placed in hypotonic solution (a solution having a lower solute concentration than the cell), fluid will diffuse from the solution into the cell, causing the cell to expand and possibly lyse. The sodium\u2013potassium pump moves three sodium ions out of the cell for every two potassium ions it lets into the cell. Therefore, inhibition of the sodium\u2013potassium pump by ouabain will cause a net increase in the sodium concentration inside the cell and water will diffuse in, causing the cell to swell and then lyse.",
       "short_reason": "Na+/K+ pump blocked = Na+ builds up INSIDE = water follows = cell SWELLS and LYSES! Ouabain causes osmotic disaster!",
       "wrong_answer_explanations": {
         "A": "This question is about sodium/potassium, not calcium.",
@@ -2370,7 +2370,7 @@
       "chapter": 8,
       "chapter_title": "Biological Membranes",
       "question_number": 8,
-      "question_text": "Which of the following is NOT a cell–cell junction in animals?",
+      "question_text": "Which of the following is NOT a cell\u2013cell junction in animals?",
       "options": {
         "A": "Desmosomes",
         "B": "Gap junctions",
@@ -2378,7 +2378,7 @@
         "D": "Tight junctions"
       },
       "correct_answer": "C",
-      "explanation": "Plasmodesmata are cell–cell junctions that are found in plants, not animals. Gap junctions, tight junctions, desmosomes, and hemidesmosomes are all found in animals, particularly in epithelia.",
+      "explanation": "Plasmodesmata are cell\u2013cell junctions that are found in plants, not animals. Gap junctions, tight junctions, desmosomes, and hemidesmosomes are all found in animals, particularly in epithelia.",
       "short_reason": "PLASMODESMATA are in PLANTS! They're the plant equivalent of gap junctions. Animals have gap junctions, tight junctions, and desmosomes!",
       "wrong_answer_explanations": {
         "A": "Desmosomes ARE animal cell junctions - they anchor cells together like spot welds.",
@@ -2435,8 +2435,8 @@
       "question_number": 11,
       "question_text": "Which of the following is LEAST likely to be the resting membrane potential of a cell?",
       "options": {
-        "A": "–70 mV",
-        "B": "–55 mV",
+        "A": "\u201370 mV",
+        "B": "\u201355 mV",
         "C": "0 mV",
         "D": "+35 mV"
       },
@@ -2477,8 +2477,8 @@
       "question_number": 13,
       "question_text": "For most cells, the extracellular calcium concentration is around 10,000 times higher than the intracellular calcium concentration. What is the membrane potential established by this electrochemical gradient?",
       "options": {
-        "A": "–123 mV",
-        "B": "–61.5 mV",
+        "A": "\u2013123 mV",
+        "B": "\u201361.5 mV",
         "C": "+61.5 mV",
         "D": "+123 mV"
       },
@@ -2605,11 +2605,11 @@
       "options": {
         "A": "Malate dehydrogenase",
         "B": "Glucokinase",
-        "C": "α-Ketoglutarate dehydrogenase",
+        "C": "\u03b1-Ketoglutarate dehydrogenase",
         "D": "Phosphofructokinase-1"
       },
       "correct_answer": "B",
-      "explanation": "After an overnight fast, the liver is producing glucose and glucokinase activity would be insignificant. Glucokinase is used to trap extra glucose in liver cells as part of a storage mechanism; with low blood glucose, liver cells would be generating new glucose, not storing it. It is also in the pancreas, where it serves as a glucose sensor; if glucose levels are low, it has little activity in this tissue as well. Malate dehydrogenase, (A), and α-ketoglutarate dehydrogenase, (C), are citric acid cycle enzymes. Phosphofructokinase-1, (D), is a glycolytic enzyme. Other enzymes used in glycolysis, the citric acid cycle, or gluconeogenesis, such as phosphofructokinase-1, would be expected to maintain normal activity after an overnight fast, using glucose derived from glycogen or gluconeogenesis, rather than orally ingested glucose.",
+      "explanation": "After an overnight fast, the liver is producing glucose and glucokinase activity would be insignificant. Glucokinase is used to trap extra glucose in liver cells as part of a storage mechanism; with low blood glucose, liver cells would be generating new glucose, not storing it. It is also in the pancreas, where it serves as a glucose sensor; if glucose levels are low, it has little activity in this tissue as well. Malate dehydrogenase, (A), and \u03b1-ketoglutarate dehydrogenase, (C), are citric acid cycle enzymes. Phosphofructokinase-1, (D), is a glycolytic enzyme. Other enzymes used in glycolysis, the citric acid cycle, or gluconeogenesis, such as phosphofructokinase-1, would be expected to maintain normal activity after an overnight fast, using glucose derived from glycogen or gluconeogenesis, rather than orally ingested glucose.",
       "short_reason": "Fasting = LOW blood glucose = liver MAKING glucose, not storing it! Glucokinase (for storage) would be inactive!",
       "wrong_answer_explanations": {
         "A": "Malate dehydrogenase is active in both fed and fasted states (citric acid cycle).",
@@ -2643,7 +2643,7 @@
       "chapter": 9,
       "chapter_title": "Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway",
       "question_number": 6,
-      "question_text": "When fatty acid β -oxidation predominates in the liver, mitochondrial pyruvate is most likely to be:",
+      "question_text": "When fatty acid \u03b2 -oxidation predominates in the liver, mitochondrial pyruvate is most likely to be:",
       "options": {
         "A": "carboxylated to phosphoenolpyruvate for entry into gluconeogenesis.",
         "B": "oxidatively decarboxylated to acetyl-CoA for oxidation in the citric acid cycle.",
@@ -2651,7 +2651,7 @@
         "D": "reduced to lactate in the process of fermentation."
       },
       "correct_answer": "C",
-      "explanation": "Pyruvate is converted primarily into three main intermediates: acetyl-CoA, (B), for the citric acid cycle (via pyruvate dehydrogenase complex); lactate, (D), during fermentation (via lactate dehydrogenase); or oxaloacetate, (C), for gluconeogenesis (via pyruvate carboxylase). High levels of acetyl-CoA, which is produced during β-oxidation, will inhibit pyruvate dehydrogenase and shift the citric acid cycle to run in the reverse direction, producing oxaloacetate for gluconeogenesis. Acetyl-CoA also stimulates pyruvate carboxylase directly.",
+      "explanation": "Pyruvate is converted primarily into three main intermediates: acetyl-CoA, (B), for the citric acid cycle (via pyruvate dehydrogenase complex); lactate, (D), during fermentation (via lactate dehydrogenase); or oxaloacetate, (C), for gluconeogenesis (via pyruvate carboxylase). High levels of acetyl-CoA, which is produced during \u03b2-oxidation, will inhibit pyruvate dehydrogenase and shift the citric acid cycle to run in the reverse direction, producing oxaloacetate for gluconeogenesis. Acetyl-CoA also stimulates pyruvate carboxylase directly.",
       "short_reason": "High acetyl-CoA from beta-oxidation ACTIVATES pyruvate carboxylase! Pyruvate becomes oxaloacetate for GLUCONEOGENESIS!",
       "wrong_answer_explanations": {
         "A": "PEP is made FROM oxaloacetate, not directly from pyruvate.",
@@ -2666,13 +2666,13 @@
       "question_number": 7,
       "question_text": "A biopsy is done on a child with an enlarged liver and shows accumulation of glycogen granules with single glucose residues remaining at the branch points near the periphery of the granule. The most likely genetic defect is in the gene encoding:",
       "options": {
-        "A": "α-1,4 phosphorylase (glycogen phosphorylase).",
-        "B": "α-1,4:α-1,6 transferase (branching enzyme).",
-        "C": "α-1,4:α-1,4 transferase (part of debranching enzyme complex).",
-        "D": "α-1,6 glucosidase (part of debranching enzyme complex)."
+        "A": "\u03b1-1,4 phosphorylase (glycogen phosphorylase).",
+        "B": "\u03b1-1,4:\u03b1-1,6 transferase (branching enzyme).",
+        "C": "\u03b1-1,4:\u03b1-1,4 transferase (part of debranching enzyme complex).",
+        "D": "\u03b1-1,6 glucosidase (part of debranching enzyme complex)."
       },
       "correct_answer": "D",
-      "explanation": "The pattern described for this child’s glycogen demonstrates appropriate production: there are long chains of glucose monomers, implying that glycogen synthase works. There are also branch points, implying that branching enzyme, (B) works. During glycogenolysis, it seems that the child is able to remove individual glucose monomers and process glycogen down to the branch point itself, which requires glycogen phosphorylase, (A), and α-1,4:α-1,4 transferase, (C). The metabolic problem here is removing the final glucose at the branch point, which is an α-1,6 (not α-1,4) link. This requires (D), α-1,6 glucosidase.",
+      "explanation": "The pattern described for this child\u2019s glycogen demonstrates appropriate production: there are long chains of glucose monomers, implying that glycogen synthase works. There are also branch points, implying that branching enzyme, (B) works. During glycogenolysis, it seems that the child is able to remove individual glucose monomers and process glycogen down to the branch point itself, which requires glycogen phosphorylase, (A), and \u03b1-1,4:\u03b1-1,4 transferase, (C). The metabolic problem here is removing the final glucose at the branch point, which is an \u03b1-1,6 (not \u03b1-1,4) link. This requires (D), \u03b1-1,6 glucosidase.",
       "short_reason": "Single glucose at branch point = alpha-1,6 glucosidase is broken! It's supposed to remove that last branch glucose!",
       "wrong_answer_explanations": {
         "A": "Glycogen phosphorylase works on alpha-1,4 bonds and stops 4 residues from a branch - it's working.",
@@ -2777,7 +2777,7 @@
         "D": "Pyruvate kinase / glucose-6-phosphatase"
       },
       "correct_answer": "A",
-      "explanation": "The irreversible enzymes in glycolysis are hexokinase (or glucokinase in liver and pancreatic β-cells), phosphofructokinase-1, and pyruvate kinase. Pyruvate dehydrogenase is not considered a glycolytic enzyme because it requires the mitochondria to function. The list below shows the correct pairing of glycolytic enzymes with gluconeogenic enzymes:",
+      "explanation": "The irreversible enzymes in glycolysis are hexokinase (or glucokinase in liver and pancreatic \u03b2-cells), phosphofructokinase-1, and pyruvate kinase. Pyruvate dehydrogenase is not considered a glycolytic enzyme because it requires the mitochondria to function. The list below shows the correct pairing of glycolytic enzymes with gluconeogenic enzymes:",
       "short_reason": "PFK-1 commits glucose to glycolysis, Fructose-1,6-bisphosphatase reverses it! They're perfect reciprocal regulatory enzymes!",
       "wrong_answer_explanations": {
         "B": "Pyruvate dehydrogenase isn't technically glycolysis - it's the link to citric acid cycle.",
@@ -2811,7 +2811,7 @@
       "chapter": 9,
       "chapter_title": "Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway",
       "question_number": 14,
-      "question_text": "Andersen disease is caused by a mutation in branching enzyme and is associated with cirrhosis. Scientists theorize the cause is likely an immune response against abnormal glycogen. Which of the following best describes the ratio of glycogen α-1,4 to α-1,6 linkages in individuals with this disorder?",
+      "question_text": "Andersen disease is caused by a mutation in branching enzyme and is associated with cirrhosis. Scientists theorize the cause is likely an immune response against abnormal glycogen. Which of the following best describes the ratio of glycogen \u03b1-1,4 to \u03b1-1,6 linkages in individuals with this disorder?",
       "options": {
         "A": "Elevated",
         "B": "Decreased",
@@ -2819,7 +2819,7 @@
         "D": "Cannot determine"
       },
       "correct_answer": "A",
-      "explanation": "A deficiency in branching enzyme would result in chains of unbranched glycogen. Since glycogen synthase is not affected, the chain length would be normal, indicating a normal abundance of α-1,4 linkages. However, a loss of branching would correspond to a decrease in α-1,6, linkages. Thus, the ratio of α-1,4 to α-1,6 would increase as division by a smaller denominator yields a larger value, making (A) the correct answer.",
+      "explanation": "A deficiency in branching enzyme would result in chains of unbranched glycogen. Since glycogen synthase is not affected, the chain length would be normal, indicating a normal abundance of \u03b1-1,4 linkages. However, a loss of branching would correspond to a decrease in \u03b1-1,6, linkages. Thus, the ratio of \u03b1-1,4 to \u03b1-1,6 would increase as division by a smaller denominator yields a larger value, making (A) the correct answer.",
       "short_reason": "No branching enzyme = no alpha-1,6 branches made, but alpha-1,4 chains still form. Ratio of 1,4 to 1,6 goes UP!",
       "wrong_answer_explanations": {
         "B": "Decreased ratio would mean fewer 1,4 or more 1,6 - but we have normal 1,4 and ZERO 1,6.",
@@ -2897,10 +2897,10 @@
       "question_number": 3,
       "question_text": "Which of the following INCORRECTLY pairs a metabolic process with its site of occurrence?",
       "options": {
-        "A": "Glycolysis—cytosol",
-        "B": "Citric acid cycle—outer mitochondrial membrane",
-        "C": "ATP phosphorylation—cytosol and mitochondria",
-        "D": "Electron transport chain—inner mitochondrial membrane"
+        "A": "Glycolysis\u2014cytosol",
+        "B": "Citric acid cycle\u2014outer mitochondrial membrane",
+        "C": "ATP phosphorylation\u2014cytosol and mitochondria",
+        "D": "Electron transport chain\u2014inner mitochondrial membrane"
       },
       "correct_answer": "B",
       "explanation": "The citric acid cycle takes place in the mitochondrial matrix, not the outer mitochondrial membrane. While most citric acid cycle enzymes are located within the matrix, succinate dehydrogenase is located on the inner mitochondrial membrane.",
@@ -2916,7 +2916,7 @@
       "chapter": 10,
       "chapter_title": "Carbohydrate Metabolism II: Aerobic Respiration",
       "question_number": 4,
-      "question_text": "Which of the following processes has the following net reaction? 2 acetyl-CoA + 6 NAD+ + 2 FAD + 2 GDP + 2 Pi + 6 H2O → 4 CO2 + 6 NADH + 2 FADH2+ 2 GTP + 6 H++ 2 CoA–SH",
+      "question_text": "Which of the following processes has the following net reaction? 2 acetyl-CoA + 6 NAD+ + 2 FAD + 2 GDP + 2 Pi + 6 H2O \u2192 4 CO2 + 6 NADH + 2 FADH2+ 2 GTP + 6 H++ 2 CoA\u2013SH",
       "options": {
         "A": "Pyruvate decarboxylation",
         "B": "Fermentation",
@@ -2924,7 +2924,7 @@
         "D": "Electron transport chain"
       },
       "correct_answer": "C",
-      "explanation": "It is not necessary to have all the net reactions memorized for each metabolic process to answer this question; all we need is to identify a few key reactants and products. In this case, we start with acetyl-CoA and end with CoA–SH. We also notice that in this reaction, NAD+and FAD are reduced to NADH and FADH2, and that CO2 is formed. The only metabolic process in which all of the above reactions would occur is the citric acid cycle, also called the tricarboxylic acid (TCA) or Krebs cycle.",
+      "explanation": "It is not necessary to have all the net reactions memorized for each metabolic process to answer this question; all we need is to identify a few key reactants and products. In this case, we start with acetyl-CoA and end with CoA\u2013SH. We also notice that in this reaction, NAD+and FAD are reduced to NADH and FADH2, and that CO2 is formed. The only metabolic process in which all of the above reactions would occur is the citric acid cycle, also called the tricarboxylic acid (TCA) or Krebs cycle.",
       "short_reason": "Acetyl-CoA goes in, CO2 and NADH/FADH2 come out = CITRIC ACID CYCLE (TCA/Krebs)! It's the hub of aerobic metabolism!",
       "wrong_answer_explanations": {
         "A": "Pyruvate decarboxylation produces acetyl-CoA - this reaction USES acetyl-CoA.",
@@ -2966,7 +2966,7 @@
         "D": "ketone bodies."
       },
       "correct_answer": "C",
-      "explanation": "Fat molecules stored in adipose tissue can be hydrolyzed by lipases to fatty acids and glycerol. While glycerol can be converted into glyceraldehyde 3-phosphate, a glycolytic intermediate, a fatty acid must first be activated in the cytoplasm by coupling the fatty acid to CoA–SH, forming fatty acyl-CoA. The fatty acid is then transferred to a molecule of carnitine, which can carry it across the inner mitochondrial membrane. Once inside, the fatty acid is transferred to a mitochondrial CoA–SH, re-forming fatty acyl-CoA. Through fatty acid oxidation, this fatty acyl-CoA can become acetyl-CoA, which enters the citric acid cycle.",
+      "explanation": "Fat molecules stored in adipose tissue can be hydrolyzed by lipases to fatty acids and glycerol. While glycerol can be converted into glyceraldehyde 3-phosphate, a glycolytic intermediate, a fatty acid must first be activated in the cytoplasm by coupling the fatty acid to CoA\u2013SH, forming fatty acyl-CoA. The fatty acid is then transferred to a molecule of carnitine, which can carry it across the inner mitochondrial membrane. Once inside, the fatty acid is transferred to a mitochondrial CoA\u2013SH, re-forming fatty acyl-CoA. Through fatty acid oxidation, this fatty acyl-CoA can become acetyl-CoA, which enters the citric acid cycle.",
       "short_reason": "Fatty acids become ACETYL-CoA through beta-oxidation! Two carbons chopped off at a time, each becoming acetyl-CoA!",
       "wrong_answer_explanations": {
         "A": "Glycerol comes from fat breakdown but is the backbone, not the fatty acids themselves.",
@@ -3023,10 +3023,10 @@
       "question_number": 9,
       "question_text": "Which of the following correctly shows the amount of ATP produced from the given high-energy carriers?",
       "options": {
-        "A": "FADH2 → 1 ATP",
-        "B": "FADH2 → 1.5 ATP",
-        "C": "NADH → 3 ATP",
-        "D": "NADH → 3.5 ATP"
+        "A": "FADH2 \u2192 1 ATP",
+        "B": "FADH2 \u2192 1.5 ATP",
+        "C": "NADH \u2192 3 ATP",
+        "D": "NADH \u2192 3.5 ATP"
       },
       "correct_answer": "B",
       "explanation": "During oxidative phosphorylation, energy is harvested from the energy carriers FADH2 and NADH in order to form ATP. One molecule of mitochondrial FADH2 is oxidized to produce 1.5 molecules of ATP. Similarly, one molecule of mitochondrial NADH is oxidized to produce 2.5 molecules of ATP in the electron transport chain.",
@@ -3092,7 +3092,7 @@
         "D": "There is an energy cost for bringing cytosolic NADH into the matrix."
       },
       "correct_answer": "C",
-      "explanation": "The wording of these answer choices is critical. The electrons from cytosolic NADH can enter the mitochondrion through one of two shuttle mechanisms: the glycerol 3-phosphate shuttle, which ultimately moves these electrons to mitochondrial FAD, and the malate–aspartate shuttle, which ultimately moves these electrons to mitochondrial NAD+. If the electrons are transferred using the malate–aspartate shuttle, then no energy is lost, making (A) and (D) incorrect. NADH cannot enter the matrix directly, making (B) incorrect. It is the fact that electrons can use more than one pathway—one of which loses energy that could be used for ATP synthesis—that accounts for the potentially decreased yield of ATP from cytosolic NADH.",
+      "explanation": "The wording of these answer choices is critical. The electrons from cytosolic NADH can enter the mitochondrion through one of two shuttle mechanisms: the glycerol 3-phosphate shuttle, which ultimately moves these electrons to mitochondrial FAD, and the malate\u2013aspartate shuttle, which ultimately moves these electrons to mitochondrial NAD+. If the electrons are transferred using the malate\u2013aspartate shuttle, then no energy is lost, making (A) and (D) incorrect. NADH cannot enter the matrix directly, making (B) incorrect. It is the fact that electrons can use more than one pathway\u2014one of which loses energy that could be used for ATP synthesis\u2014that accounts for the potentially decreased yield of ATP from cytosolic NADH.",
       "short_reason": "Cytosolic NADH can use two shuttles: malate-aspartate (no loss) or glycerol-3-P (becomes FADH2 = less ATP). Variable outcome!",
       "wrong_answer_explanations": {
         "A": "Not ALWAYS - malate-aspartate shuttle preserves full NADH energy.",
@@ -3152,7 +3152,7 @@
         "A": "Electron transfer in the electron transport chain",
         "B": "An electrochemical proton gradient",
         "C": "Oxidation of acetyl-CoA",
-        "D": "β-Oxidation of fatty acids"
+        "D": "\u03b2-Oxidation of fatty acids"
       },
       "correct_answer": "B",
       "explanation": "While all of the other answers contribute to energy production, it is the electrochemical gradient (proton-motive force) that directly drives the phosphorylation of ATP by the F1 portion of ATP synthase.",
@@ -3504,15 +3504,15 @@
       "chapter": 12,
       "chapter_title": "Bioenergetics and Regulation of Metabolism",
       "question_number": 2,
-      "question_text": "At 25°C the Δ G ° for a certain reaction A ⇌ B + 2 C is 0. If the concentration of A, B, and C in the cell at 25°C are all 10 mM, how does the Δ G compare to the measurement taken with 1 M concentrations?",
+      "question_text": "At 25\u00b0C the \u0394 G \u00b0 for a certain reaction A \u21cc B + 2 C is 0. If the concentration of A, B, and C in the cell at 25\u00b0C are all 10 mM, how does the \u0394 G compare to the measurement taken with 1 M concentrations?",
       "options": {
-        "A": "ΔG is greater than ΔG°, thus the reaction is spontaneous.",
-        "B": "ΔG is less than ΔG°, thus the reaction is spontaneous.",
-        "C": "ΔG is greater than ΔG°, thus the reaction is nonspontaneous.",
-        "D": "ΔG is less than ΔG°, thus the reaction is nonspontaneous."
+        "A": "\u0394G is greater than \u0394G\u00b0, thus the reaction is spontaneous.",
+        "B": "\u0394G is less than \u0394G\u00b0, thus the reaction is spontaneous.",
+        "C": "\u0394G is greater than \u0394G\u00b0, thus the reaction is nonspontaneous.",
+        "D": "\u0394G is less than \u0394G\u00b0, thus the reaction is nonspontaneous."
       },
       "correct_answer": "B",
-      "explanation": "To solve this question, we can use the equation ΔG = ΔG° + RT ln Q. Q, the reaction quotient, is for this reaction. Plugging in the variables, we get: Because both R and T are positive, and natural log values being greater than 0, we know that ΔG must be negative and therefore lower than the original value. A negative ΔG corresponds to a spontaneous reaction.",
+      "explanation": "To solve this question, we can use the equation \u0394G = \u0394G\u00b0 + RT ln Q. Q, the reaction quotient, is for this reaction. Plugging in the variables, we get: Because both R and T are positive, and natural log values being greater than 0, we know that \u0394G must be negative and therefore lower than the original value. A negative \u0394G corresponds to a spontaneous reaction.",
       "short_reason": "When products are at LOW concentration (10mM vs 1M), Q is small, ln(Q) is negative, so delta G < delta G* = spontaneous!",
       "wrong_answer_explanations": {
         "A": "delta G is LESS than delta G* when Q < 1 (low product concentration).",
@@ -3548,10 +3548,10 @@
       "question_number": 4,
       "question_text": "The reduction half-reaction in the last step of the electron transport chain is:",
       "options": {
-        "A": "O2+ 4e–+ 4 H+→2 H2O",
-        "B": "NADPH→NADP++e–+ H+",
-        "C": "NADP++e–+ H+→NADPH",
-        "D": "Ubiquinone (Q)→Ubiquinol (QH2)"
+        "A": "O2+ 4e\u2013+ 4 H+\u21922 H2O",
+        "B": "NADPH\u2192NADP++e\u2013+ H+",
+        "C": "NADP++e\u2013+ H+\u2192NADPH",
+        "D": "Ubiquinone (Q)\u2192Ubiquinol (QH2)"
       },
       "correct_answer": "A",
       "explanation": "Reduction is a gain of electrons, which eliminates (B) because it is an oxidation reaction. NADPH, (C), is a product of the pentose phosphate pathway. Ubiquinone, (D), transfers electrons during the course of the electron transport chain, but is not the final electron acceptor. This title belongs to oxygen.",
@@ -3701,7 +3701,7 @@
         "D": "Liver"
       },
       "correct_answer": "B",
-      "explanation": "The brain uses aerobic metabolism of glucose exclusively and therefore is very sensitive to oxygen levels. The extremely high oxygen requirement of the brain (20% of the body’s oxygen content) relative to its size (2% of total body weight) implies that brain is the most sensitive organ to oxygen deprivation.",
+      "explanation": "The brain uses aerobic metabolism of glucose exclusively and therefore is very sensitive to oxygen levels. The extremely high oxygen requirement of the brain (20% of the body\u2019s oxygen content) relative to its size (2% of total body weight) implies that brain is the most sensitive organ to oxygen deprivation.",
       "short_reason": "BRAIN uses 20% of body's oxygen despite being only 2% of body weight! No oxygen = brain damage in minutes!",
       "wrong_answer_explanations": {
         "A": "Skin has low metabolic demands and can tolerate reduced oxygen longer.",
@@ -3722,7 +3722,7 @@
         "D": "Amino acids"
       },
       "correct_answer": "B",
-      "explanation": "The respiratory quotient (RQ) gives an indication of the primary fuel being utilized. An RQ around 0.7 indicates lipid metabolism, 0.8–0.9 indicates amino acid metabolism, (D), and 1.0 indicates carbohydrate metabolism, (A). Nucleic acids do not contribute significantly to the respiratory quotient.",
+      "explanation": "The respiratory quotient (RQ) gives an indication of the primary fuel being utilized. An RQ around 0.7 indicates lipid metabolism, 0.8\u20130.9 indicates amino acid metabolism, (D), and 1.0 indicates carbohydrate metabolism, (A). Nucleic acids do not contribute significantly to the respiratory quotient.",
       "short_reason": "RQ of 0.7 = LIPID metabolism! Fats need more O2 per CO2 produced. RQ 1.0 = carbs, 0.8-0.9 = protein!",
       "wrong_answer_explanations": {
         "A": "Carbohydrates have RQ of 1.0 - equal O2 consumed and CO2 produced.",
