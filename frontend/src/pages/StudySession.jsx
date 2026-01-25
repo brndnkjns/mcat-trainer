@@ -280,7 +280,7 @@ function StudySession({ user }) {
                 <span className="option-label">{letter}.</span>
                 {optionImage ? (
                   <img
-                    src={`${import.meta.env.VITE_API_URL}/images/${optionImage}`}
+                    src={`${import.meta.env.VITE_API_URL}/static/images/${optionImage}`}
                     alt={`Option ${letter}`}
                     className="option-image"
                   />
