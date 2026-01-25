@@ -380,7 +380,8 @@
         "A": "Only 2 stereoisomers would mean just 1 chiral center - count more carefully!",
         "C": "9 isn't a power of 2 - stereoisomer count is always 2^n for n chiral centers.",
         "D": "16 = 2^4 would require 4 chiral centers - this molecule has only 3."
-      }
+      },
+      "image_filename": "oc_ch2_q2_aldehyde.png"
     },
     {
       "id": "ch2_q3",
@@ -858,7 +859,8 @@
         "B": "Recount - one double bond means only one pi bond, not two.",
         "C": "Five single bonds gives five sigma, plus one from the double bond = six sigma.",
         "D": "Check your single bond count - there should be more sigma bonds."
-      }
+      },
+      "image_filename": "oc_ch3_q9_compound.png"
     },
     {
       "id": "ch3_q10",
@@ -1572,7 +1574,8 @@
         "A": "2-Phenylethanol is the starting material - reaction definitely proceeds.",
         "B": "Aldehyde is an intermediate but CrO3 keeps oxidizing to the acid.",
         "C": "Phenylacetone would be a ketone - can't form from primary alcohol oxidation."
-      }
+      },
+      "image_filename": "oc_ch5_q12_molecule.png"
     },
     {
       "id": "ch5_q13",
