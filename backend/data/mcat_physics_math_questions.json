@@ -1163,7 +1163,8 @@
         "A": "4 N would only balance if areas were equal - but A2 is 4x larger.",
         "C": "32 N uses wrong ratio - should be 64/16 = 4, not 8.",
         "D": "Zero force wouldn't balance anything - fluid would move toward lower pressure."
-      }
+      },
+      "image_filename": "phys_ch4_q10_hydraulic.png"
     },
     {
       "id": "ch4_q11",
@@ -1826,7 +1827,8 @@
         "A": "40 J might use average current or wrong time interval.",
         "B": "50 J doesn't match I^2*R*t calculation - verify: 4*10*3 = 120J.",
         "D": "160 J might use 4 seconds instead of 3 - check graph for active duration."
-      }
+      },
+      "image_filename": "phys_ch6_q11_current_time.png"
     },
     {
       "id": "ch6_q12",

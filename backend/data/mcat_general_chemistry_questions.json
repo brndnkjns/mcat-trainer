@@ -235,7 +235,8 @@
         "B": "Heisenberg uncertainty is about position/momentum measurement, not electron orbital filling order.",
         "C": "The Bohr model describes electron energy levels in hydrogen, not filling patterns in multi-electron atoms.",
         "D": "Rutherford model describes the dense positive nucleus, not electron configuration rules."
-      }
+      },
+      "image_filename": "gc_ch1_q11_orbital_diagram.png"
     },
     {
       "id": "ch1_q12",
