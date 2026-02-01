@@ -41,7 +41,7 @@ function UserSelect({ onSelect }) {
   return (
     <div className="container">
       <div className="text-center mt-8 mb-8">
-        <h1>MCAT Trainer</h1>
+        <h1>Porter's MCAT Trainer</h1>
         <p className="text-muted mt-2">Adaptive practice questions to ace your MCAT</p>
       </div>
 

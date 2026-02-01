@@ -1,6 +1,6 @@
 """
-MCAT Trainer API
-FastAPI backend for the MCAT training application
+Porter's MCAT Trainer API
+FastAPI backend for Porter's MCAT training application
 """
 
 import os
@@ -21,8 +21,8 @@ from question_selector import (
 
 # Initialize FastAPI app
 app = FastAPI(
-    title="MCAT Trainer API",
-    description="API for MCAT practice question training",
+    title="Porter's MCAT Trainer API",
+    description="API for Porter's MCAT practice question training",
     version="1.0.0"
 )
 
@@ -130,7 +130,7 @@ async def startup_event():
 # Health check
 @app.get("/")
 async def root():
-    return {"status": "healthy", "app": "MCAT Trainer API"}
+    return {"status": "healthy", "app": "Porter's MCAT Trainer API"}
 
 
 @app.get("/api/health")

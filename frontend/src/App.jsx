@@ -40,7 +40,7 @@ function App() {
       {currentUser && (
         <nav className="nav">
           <div className="nav-content">
-            <a href="/" className="nav-brand">MCAT Trainer</a>
+            <a href="/" className="nav-brand">Porter's MCAT Trainer</a>
             <div className="nav-user">
               <span className="text-muted text-small">Studying as</span>
               <div className="nav-avatar">{currentUser.name[0]}</div>
