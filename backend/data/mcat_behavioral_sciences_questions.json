@@ -25,6 +25,10 @@
         "A": "Broca studied existing brain lesions in patients, he didn't remove brain parts himself - he observed what was already damaged.",
         "C": "Gall promoted phrenology (skull bumps = personality) - he didn't remove anything, just felt skulls.",
         "D": "Sherrington studied synaptic transmission and reflexes through electrical stimulation, not removal of tissue."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Pierre Flourens' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Pierre%20Flourens%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -46,6 +50,10 @@
         "A": "The spinal cord is the command center for reflexes - it's where the interneuron connects sensory to motor neurons.",
         "C": "Interneurons in the spinal cord are the crucial link that allows rapid reflex responses without brain involvement.",
         "D": "Motor neurons execute the withdrawal movement - they're essential for any muscle contraction in the reflex arc."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Cerebral cortex' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Cerebral%20cortex%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -67,6 +75,10 @@
         "A": "The forebrain handles higher cognition, emotion, and memory - not motor coordination.",
         "B": "The midbrain manages reflexes and sensory relay - it doesn't coordinate complex voluntary movements.",
         "D": "If the spinal cord were damaged, the child couldn't walk at all - walking shows the spinal cord is intact."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Hindbrain' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Hindbrain%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -88,6 +100,10 @@
         "A": "Wernicke's area in the temporal lobe is essential for language comprehension - it's a classic temporal function.",
         "B": "The hippocampus, nestled in the temporal lobe, is crucial for forming and retrieving memories.",
         "C": "The amygdala in the temporal lobe processes emotions, especially fear and emotional memories."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'motor skills.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27motor%20skills.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -109,6 +125,10 @@
         "A": "The cerebellum is all about balance and coordination - it doesn't regulate temperature or emotions.",
         "B": "The pons is a relay station between cortex and medulla - it helps with sleep but not homeostasis broadly.",
         "D": "The thalamus is the sensory relay station - it passes info to cortex but doesn't control homeostasis or emotions directly."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Hypothalamus' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Hypothalamus%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -130,6 +150,10 @@
         "B": "Learning a new language is a dominant hemisphere (usually left) function, regardless of handedness.",
         "C": "Reading engages the dominant hemisphere's language areas - not a spatial task for the right hemisphere.",
         "D": "Motor activities like jumping rope involve both hemispheres but are primarily controlled contralaterally."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Finding a car in a parking lot' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Finding%20a%20car%20in%20a%20parking%20lot%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -151,6 +175,10 @@
         "A": "Statement I is wrong - the neural tube comes from ECTOderm, not endoderm. Ecto = outside = nervous system.",
         "C": "Statement II is wrong - the neural tube becomes the CNS (brain + spinal cord), not the peripheral nervous system.",
         "D": "Only statement III is true - neural crest cells migrate; the other statements have the facts reversed."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -172,6 +200,10 @@
         "A": "Epinephrine (adrenaline) is a classic catecholamine - it has the catechol ring structure.",
         "B": "Norepinephrine is dopamine with an extra hydroxyl group - still a catecholamine.",
         "C": "Dopamine is the precursor to the other catecholamines - it's the prototype of the class."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Acetylcholine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Acetylcholine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -193,6 +225,10 @@
         "B": "Pain is related to endorphin levels, not acetylcholine - different neurotransmitter system entirely.",
         "C": "Mood swings relate to serotonin fluctuations - ACh is primarily about muscle and memory, not mood.",
         "D": "Hallucinations are associated with dopamine excess (as in schizophrenia), not ACh deficiency."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Weakness of muscle movements' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Weakness%20of%20muscle%20movements%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -214,6 +250,10 @@
         "B": "Cortisol from the adrenal cortex is the body's main chronic stress hormone - this is a true function.",
         "C": "The adrenal medulla makes catecholamines (hormones + neurotransmitters) - both are produced here.",
         "D": "The adrenal cortex does release small amounts of opposite sex hormones - testosterone in females, estrogen in males."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'promote the fight-or-flight response via estrogen.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27promote%20the%20fight-or-flight%20response%20via%20estrogen.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -235,6 +275,10 @@
         "A": "High blood pressure relates to the adrenal glands (aldosterone, catecholamines), not the pineal gland.",
         "B": "Diabetes relates to the pancreas (insulin) - the pineal gland doesn't regulate blood sugar.",
         "D": "Hyperthyroidism is a thyroid gland issue - the pineal doesn't control metabolic rate."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Insomnia' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Insomnia%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -256,6 +300,10 @@
         "A": "Skull bumps revealing personality is phrenology - that's Franz Gall's debunked theory.",
         "C": "Linking lesions to functional impairments was Paul Broca's work with aphasia patients.",
         "D": "Electrical synaptic transmission was studied by Sherrington (though we now know it's mainly chemical)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Mental processes help individuals adapt to their environments.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Mental%20processes%20help%20individuals%20adapt%20to%20their%20environments.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -277,6 +325,10 @@
         "A": "MRI shows detailed anatomy but doesn't measure real-time brain activity or blood flow changes.",
         "B": "CT scans use X-rays for structural imaging - they can't detect which brain regions are more active.",
         "D": "EEG measures electrical activity but with poor spatial resolution - can't pinpoint specific brain regions."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'fMRI' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27fMRI%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -298,6 +350,10 @@
         "A": "The response is normal (curling down), so it's not abnormal - and no primitive reflex is being shown.",
         "B": "While curling down is normal, it's NOT a primitive reflex - primitive reflexes disappear in early childhood.",
         "C": "This contradicts itself - the response is normal, and correctly shows absence of the primitive Babinski reflex."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'normal, and evidence that the patient is not exhibiting a primitive reflex.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27normal%2C%20and%20evidence%20that%20the%20patient%20is%20not%20exhibiting%20a%20primitive%20reflex.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -319,6 +375,10 @@
         "A": "Pincer grasp (two fingers) develops around 9-12 months - much later than eye tracking.",
         "C": "Scribbling requires hand-eye coordination and grip that develops after 12 months.",
         "D": "Transferring objects between hands appears around 6 months - well after eye tracking begins."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Biology and Behavior: Explain why 'Following objects with the eyes' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Biology%20and%20Behavior%3A%20Explain%20why%20%27Following%20objects%20with%20the%20eyes%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -340,6 +400,10 @@
         "A": "125 to 150 is only 20% increase (25/125) - below the 25% JND threshold.",
         "B": "5 to 6 pounds is 20% increase - below the 25% threshold needed to notice a difference.",
         "D": "225 to 275 is about 22% increase - still below the 25% threshold needed."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why '25 and 35 pounds.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%2725%20and%2035%20pounds.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -361,6 +425,10 @@
         "A": "Feature detection is about identifying specific visual elements like lines and edges - not about sound.",
         "B": "Bottom-up processing builds perception from raw sensory data - this is more about filtering a known signal.",
         "C": "Vestibular sense is about balance and spatial orientation - not about identifying sounds."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'signal detection.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27signal%20detection.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -382,6 +450,10 @@
         "B": "Signal detection is about identifying stimuli in noise - not about decreasing sensitivity over time.",
         "C": "Difference threshold is the JND - the minimum difference needed to detect a change between stimuli.",
         "D": "Pain perception is the initial experience - adaptation is the reduction in that perception over time."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'adaptation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27adaptation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -403,6 +475,10 @@
         "A": "Chemoreceptors detect chemical stimuli - they're for taste and smell, not tissue damage.",
         "C": "Osmoreceptors monitor blood osmolarity for fluid balance - not pain or tissue damage.",
         "D": "Photoreceptors (rods and cones) detect light in the retina - nothing to do with pain."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'Nociceptors' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27Nociceptors%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -424,6 +500,10 @@
         "B": "The pupil is just the hole (opening) in the iris - it lets light in but doesn't focus it.",
         "C": "The iris controls pupil size (aperture) - it regulates light amount, not focus.",
         "D": "The retina receives the image and converts it to signals - focusing happens before light reaches it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'Cornea' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27Cornea%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -445,6 +525,10 @@
         "A": "Signal detection is about detecting stimuli in noise - not about identifying object features.",
         "B": "Sensory adaptation is decreasing sensitivity over time - not relevant to feature recognition.",
         "D": "Kinesthetic sense is body position awareness - not visual object identification."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'feature detection.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27feature%20detection.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -466,6 +550,10 @@
         "A": "The cornea gathers and initially focuses light - it doesn't transduce light to electrical signals.",
         "B": "The pupil is just an opening - it regulates light entry but doesn't process images.",
         "D": "The lens fine-tunes focus (accommodation) - but transduction happens only at the retina."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'Retina' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27Retina%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -487,6 +575,10 @@
         "B": "Kinesthetic sense (proprioception) tells you where your body PARTS are in space - not skin sensation.",
         "C": "Vestibular sense detects balance and acceleration in the inner ear - not skin touch.",
         "D": "Chemoreception is for detecting chemicals (taste and smell) - not touch on the skin."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'somatosensation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27somatosensation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -508,6 +600,10 @@
         "A": "Sweet is one of the five basic taste modalities detected by taste buds.",
         "C": "Savory (umami) is the fifth taste - triggered by glutamate, like in MSG.",
         "D": "Bitter is a basic taste that helps us avoid potentially toxic substances."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'Floral' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27Floral%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -529,6 +625,10 @@
         "A": "Both fluids are in both the vestibule AND cochlea - they're distinguished by which labyrinth, not which structure.",
         "B": "Same error as A - location isn't vestibule vs cochlea, it's membranous vs bony labyrinth.",
         "D": "This reverses the correct answer - endolymph is in membranous (inner), not bony (outer)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'Endolymph is found in the membranous labyrinth, while perilymph is found in the bony labyrinth.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27Endolymph%20is%20found%20in%20the%20membranous%20labyrinth%2C%20while%20perilymph%20is%20found%20in%20the%20bony%20labyrinth.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -550,6 +650,10 @@
         "B": "Olfactory receptors are the neurons that DETECT chemicals - they don't compel behavior themselves.",
         "C": "Somatostimuli would relate to body/touch sensation - not chemical signaling for behavior.",
         "D": "Papillae are the bumps on your tongue containing taste buds - not behavior-influencing chemicals."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'pheromones.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27pheromones.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -571,6 +675,10 @@
         "A": "Vestibular loss causes dizziness/vertigo - the patient's problem is not feeling feet, not spinning sensation.",
         "C": "Parallel processing is about simultaneously analyzing multiple visual features - not body position sense.",
         "D": "Feature detection identifies specific stimulus characteristics - not relevant to proprioception."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'kinesthetic sense.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27kinesthetic%20sense.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -592,6 +700,10 @@
         "A": "Parallel processing handles multiple visual aspects simultaneously - not about expectation-based errors.",
         "B": "Feature detection identifies specific visual elements - but the features were present, just misread.",
         "D": "Bottom-up processing would catch the error by analyzing each letter individually from scratch."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'Top-down processing' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27Top-down%20processing%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -613,6 +725,10 @@
         "A": "Bottom-up processing builds from details up - it wouldn't create a star from separate angles.",
         "B": "Top-down processing uses expectations, but Gestalt principles specifically describe pattern completion.",
         "C": "Gate theory is about pain modulation in the spinal cord - nothing to do with visual perception."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'Gestalt principles' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27Gestalt%20principles%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -634,6 +750,10 @@
         "A": "Complete blindness in one eye would require damage to the optic nerve before the chiasm.",
         "B": "Upper/lower field defects relate to specific retinal or radiation damage, not chiasm compression.",
         "C": "Nasal field loss would occur with damage AFTER the chiasm - the crossing fibers are from nasal retina."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Sensation and Perception: Explain why 'loss of the temporal visual fields in both eyes.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Sensation%20and%20Perception%3A%20Explain%20why%20%27loss%20of%20the%20temporal%20visual%20fields%20in%20both%20eyes.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -655,6 +775,10 @@
         "B": "Decreased response is habituation, which already happened - the new stimulus reverses this.",
         "C": "No change would only happen if the new stimulus had no effect - but novel stimuli cause dishabituation.",
         "D": "Generalization is spreading a conditioned response to similar stimuli - not what's happening here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'Increased startle response to the buzzer' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27Increased%20startle%20response%20to%20the%20buzzer%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -676,6 +800,10 @@
         "A": "Running to the kitchen is the conditioned RESPONSE - not the stimulus.",
         "B": "An unconditioned response is natural/unlearned - like salivating to food, not to can openers.",
         "D": "Food is the unconditioned stimulus - it naturally triggers the response without learning."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'conditioned stimulus.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27conditioned%20stimulus.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -697,6 +825,10 @@
         "A": "Acquisition is the initial learning phase - this is after learning already occurred.",
         "C": "Discrimination is the OPPOSITE - learning to respond differently to similar stimuli.",
         "D": "Negative reinforcement increases behavior by removing something bad - not relevant here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'generalization.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27generalization.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -718,6 +850,10 @@
         "A": "Extinction DECREASES behavior by removing the reinforcer - opposite of increasing likelihood.",
         "B": "Negative punishment removes something good to DECREASE behavior - opposite of what we want.",
         "C": "Positive punishment adds something bad to DECREASE behavior - not increasing it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'Avoidance learning' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27Avoidance%20learning%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -739,6 +875,10 @@
         "B": "Synaptic pruning REMOVES unused connections - opposite of strengthening synapses.",
         "C": "Neuroplasticity actually DECREASES as synapses get reinforced and specialized.",
         "D": "Amnesia involves memory LOSS - the question describes memory formation/strengthening."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'long term potentiation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27long%20term%20potentiation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -760,6 +900,10 @@
         "A": "Continuous pressing is more like a continuous reinforcement schedule - not fixed-interval.",
         "B": "Pressing exactly once would be more like fixed-ratio of 1 - not fixed-interval timing.",
         "D": "Fixed-interval schedules DO create strong associations - just with a distinctive scalloped pattern."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'Pressing the lever slowly at first, but with increasing frequency as the end of the interval approaches.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27Pressing%20the%20lever%20slowly%20at%20first%2C%20but%20with%20increasing%20frequency%20as%20the%20end%20of%20the%20interval%20approaches.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -781,6 +925,10 @@
         "B": "Statement I and III only would mean II is correct - but rewards don't HAVE to be food.",
         "C": "II and III are both wrong - statement III contradicts how shaping works (rewarding approximations).",
         "D": "Only statement I is true - the others contain errors about reinforcement and shaping."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'I only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27I%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -802,6 +950,10 @@
         "A": "Information enters short-term memory through sensory memory first - not controlled processing.",
         "B": "Controlled processing CAN become automatic with practice - like driving a car.",
         "D": "Most daily activities use AUTOMATIC processing - controlled is less common but more effortful."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'It always requires active attention to the information being encoded.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27It%20always%20requires%20active%20attention%20to%20the%20information%20being%20encoded.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -823,6 +975,10 @@
         "B": "Visual encoding is actually the WEAKEST of the main encoding types.",
         "C": "Iconic memory is a type of sensory memory (visual) - it's ultra-brief, not long-term encoding.",
         "D": "Acoustic encoding (sounds) is intermediate - better than visual but weaker than semantic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'Semantic' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27Semantic%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -844,6 +1000,10 @@
         "A": "20-year-old brains have LOWER plasticity, not higher - harder to adapt after development.",
         "B": "Logic is backwards - lower plasticity means LESS adaptability, not more.",
         "D": "Young children have HIGHER plasticity - this option gets the cause-effect relationship wrong."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'The brain of the two year old would be more adaptable due to higher neuroplasticity.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27The%20brain%20of%20the%20two%20year%20old%20would%20be%20more%20adaptable%20due%20to%20higher%20neuroplasticity.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -865,6 +1025,10 @@
         "A": "Clustering groups similar items together - doesn't use numbers or preset images.",
         "B": "Method of loci uses LOCATIONS (like rooms in a house) - not numbers with images.",
         "C": "Elaborative rehearsal adds meaning but doesn't specifically use number-image associations."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'Peg-words' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27Peg-words%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -886,6 +1050,10 @@
         "B": "Serial position effect is about first/last items in a list - not about briefly flashed visual arrays.",
         "C": "The 7+/-2 rule applies to short-term memory capacity - not iconic memory's brief but complete capture.",
         "D": "Hypnosis doesn't unlock hidden memories - iconic memory is genuinely fleeting, not suppressed."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'The participants will be able to recall any of the rows or columns in great detail but only immediately after presentation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27The%20participants%20will%20be%20able%20to%20recall%20any%20of%20the%20rows%20or%20columns%20in%20great%20detail%20but%20only%20immediately%20after%20presentation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -907,6 +1075,10 @@
         "A": "Driving ability is PROCEDURAL memory - how to DO something, not knowing facts.",
         "C": "Remembering learning to drive is EPISODIC memory - personal experiences with time/place.",
         "D": "Semantic networks are how concepts are ORGANIZED in memory - not the type of memory itself."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'Knowing the parts of a car engine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27Knowing%20the%20parts%20of%20a%20car%20engine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -928,6 +1100,10 @@
         "A": "A rainy day is an EXTERNAL context, not an internal state - it would cause context effects.",
         "B": "Only III is incomplete - both II and III are internal states that affect memory.",
         "D": "Rain (I) is external environment, not internal state - it doesn't belong with II and III."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'II and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27II%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -949,6 +1125,10 @@
         "A": "Episodic memories from long ago are often preserved - the emotional significance helps retention.",
         "C": "Semantic memory for facts stays relatively stable with age - names of TV characters would be recalled.",
         "D": "Event-based prospective memory is preserved - the library cue would trigger the memory."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Learning and Memory: Explain why 'A doctor\u2019s appointment scheduled for 1:00 p.m.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Learning%20and%20Memory%3A%20Explain%20why%20%27A%20doctor%E2%80%99s%20appointment%20scheduled%20for%201%3A00%20p.m.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -970,6 +1150,10 @@
         "A": "Assimilation is fitting new info INTO existing schemas - no schema change needed.",
         "B": "Adaptation is the umbrella term - it includes BOTH assimilation and accommodation.",
         "C": "Affirmation isn't a Piagetian term - it's a distractor."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Accommodation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Accommodation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -991,6 +1175,10 @@
         "A": "Phenobarbital is a barbiturate (depressant) - would cause drowsiness, not 48 hours awake.",
         "C": "Oxycodone is an opioid - would cause sedation and euphoria, not paranoia and insomnia.",
         "D": "LSD causes hallucinations - but not the sympathetic activation and prolonged wakefulness described."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Dextroamphetamine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Dextroamphetamine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1012,6 +1200,10 @@
         "A": "Deductive reasoning is drawing conclusions from general principles - not the error here.",
         "B": "Representativeness heuristic judges how well something fits a category - not about ignoring statistics.",
         "D": "Confirmation bias seeks info that confirms existing beliefs - not about ignoring population data."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Base rate fallacy' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Base%20rate%20fallacy%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1033,6 +1225,10 @@
         "B": "Bodily-kinesthetic intelligence IS one of Gardner's 8 - think dancers and athletes.",
         "C": "Visual-spatial intelligence IS in Gardner's theory - architects and pilots use this.",
         "D": "Linguistic intelligence IS Gardner's - writers and speakers excel here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Fluid intelligence' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Fluid%20intelligence%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1054,6 +1250,10 @@
         "B": "Slow-wave sleep has DELTA waves - the opposite of REM's fast beta waves.",
         "C": "Stage 1 has THETA waves - drowsy, drifting off, not the alert-like REM pattern.",
         "D": "Meditation shows alpha and theta waves - calming, not the active beta of REM."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Alertness' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Alertness%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1075,6 +1275,10 @@
         "A": "This goes back through stages 1-2 before REM - but typically it's 3-2, not all the way to 1.",
         "C": "Sleep starts LIGHT (stage 1), not DEEP (stage 4) - this pattern is backwards.",
         "D": "This starts deep and has an illogical pattern - sleep begins light and progressively deepens."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why '1\u20132\u20133\u20134\u20133\u20132\u2013REM' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%271%E2%80%932%E2%80%933%E2%80%934%E2%80%933%E2%80%932%E2%80%93REM%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1096,6 +1300,10 @@
         "A": "Selective attention would be focusing on ONE thing while ignoring the other completely.",
         "C": "Shadowing is repeating heard speech - a specific dichotic listening task.",
         "D": "Parallel processing is about how the brain analyzes visual features simultaneously - not multitasking."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Divided attention' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Divided%20attention%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1117,6 +1325,10 @@
         "A": "Activation-synthesis says dreams are random neural firing - not organized like waking thought.",
         "B": "Problem-solving theory focuses on dreams solving problems - not the stream-of-consciousness connection.",
         "D": "Neurocognitive theory links subjective dreams to physiology - but not specifically stream-of-consciousness."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Cognitive process theory' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Cognitive%20process%20theory%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1138,6 +1350,10 @@
         "A": "Alprazolam (Xanax) is a benzodiazepine - would cause sedation, not hunger and red eyes.",
         "B": "MDMA (ecstasy) causes euphoria and energy but not the classic marijuana triad of symptoms.",
         "C": "Diacetylmorphine (heroin) is an opioid - would cause sedation and pinpoint pupils, not red eyes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Tetrahydrocannabinol' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Tetrahydrocannabinol%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1159,6 +1375,10 @@
         "A": "Phonology is about the SOUNDS of language - the building blocks before words.",
         "B": "Semantics is about MEANING - what words and sentences actually mean.",
         "D": "Pragmatics is about CONTEXT - how language use changes based on situation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Syntax' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Syntax%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1180,6 +1400,10 @@
         "A": "At 14 months, children are just starting single words - not 3-word sentences.",
         "B": "At 22 months, two-word combinations are typical - not full sentences with grammar attempts.",
         "D": "By 5 years, most grammar rules are mastered - past tense errors would be unusual."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why '30 months' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%2730%20months%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1201,6 +1425,10 @@
         "A": "Nativist theory says we have an innate Language Acquisition Device - not learned through reinforcement.",
         "C": "Social interactionist theory emphasizes interaction and desire to communicate - not just reinforcement.",
         "D": "Neurocognitive theory is about dreaming physiology - not language development."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Learning theory' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Learning%20theory%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1222,6 +1450,10 @@
         "B": "Wernicke's area damage causes COMPREHENSION problems - the patient understands fine here.",
         "C": "Arcuate fasciculus damage causes conduction aphasia - can't repeat but CAN speak spontaneously.",
         "D": "Superior temporal gyrus contains Wernicke's area - same problem as B."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Broca\u2019s area' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Broca%E2%80%99s%20area%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1243,6 +1475,10 @@
         "B": "Divided attention is doing two tasks at once - the person was filtering OUT announcements.",
         "C": "Automatic processing doesn't explain the sudden attention shift - it's about low-effort tasks.",
         "D": "Effortful processing explains the focus on the puzzle - not the rapid response to boarding."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'Cocktail party phenomenon' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27Cocktail%20party%20phenomenon%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1264,6 +1500,10 @@
         "A": "Stage 3 alone doesn't account for all dreaming - dreams occur in other stages too.",
         "B": "Stage 4 alone is incomplete - while dreams occur here, they also occur in other stages.",
         "C": "REM only is incomplete - REM has 75% of dreams, but NREM stages have the other 25%."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Cognition, Consciousness, and Language: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Cognition%2C%20Consciousness%2C%20and%20Language%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1285,6 +1525,10 @@
         "B": "Intrinsic motivation comes from internal satisfaction - not comparing to others.",
         "C": "Primary drives are biological needs (hunger, thirst) - not academic competition.",
         "D": "Secondary drives are learned - but this is about motivation type, not drive classification."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'extrinsic motivation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27extrinsic%20motivation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1306,6 +1550,10 @@
         "A": "Drive reduction is about reducing internal tension - not about performance under arousal.",
         "B": "Instinct approach says behavior comes from innate patterns - not arousal effects on performance.",
         "C": "Maslow's hierarchy is about need prioritization - not arousal's effect on performance."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'the Yerkes\u2013Dodson law.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27the%20Yerkes%E2%80%93Dodson%20law.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1327,6 +1575,10 @@
         "B": "Instinct theory says behaviors are innate - not about reducing internal discomfort.",
         "C": "Arousal theory says we seek optimal stimulation - not specifically about reducing discomfort.",
         "D": "Incentive theory focuses on external rewards pulling behavior - not internal states pushing."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Drive reduction theory' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Drive%20reduction%20theory%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1348,6 +1600,10 @@
         "B": "Apathy is NOT a universal emotion - it's not consistently recognized across cultures.",
         "C": "Anticipation is NOT one of the seven universal emotions - not universally expressed/recognized.",
         "D": "Excitement is NOT universal - it's a type of happiness but not a distinct universal emotion."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Happiness, sadness, and surprise' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Happiness%2C%20sadness%2C%20and%20surprise%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1369,6 +1625,10 @@
         "A": "Reactionary isn't a standard component - and 'emotional' is circular (component of emotion is emotional).",
         "B": "Physical/mental overlaps, and 'emotional' is circular - these aren't the three standard components.",
         "D": "'Emotional' is circular - you can't define emotion as having an emotional component."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'physiological, cognitive, and behavioral.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27physiological%2C%20cognitive%2C%20and%20behavioral.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1390,6 +1650,10 @@
         "A": "Schachter-Singer includes cognitive APPRAISAL of the situation, not just noticing body states.",
         "B": "Yerkes-Dodson is about arousal and performance - not the sequence of emotion experience.",
         "C": "Cannon-Bard says physiological and emotional happen SIMULTANEOUSLY - not sequentially."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'James\u2013Lange theory' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27James%E2%80%93Lange%20theory%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1411,6 +1675,10 @@
         "A": "Arousal theory is about seeking optimal stimulation - not about evolutionary instincts.",
         "B": "Drive reduction is about internal states and homeostasis - not innate evolutionary patterns.",
         "D": "Incentive theory focuses on external rewards - not evolutionary programming."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Instinct theory' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Instinct%20theory%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1432,6 +1700,10 @@
         "A": "Schachter-Singer involves cognitive labeling AFTER arousal - not simultaneous experience.",
         "B": "James-Lange says physiology FIRST, then emotion - sequential, not simultaneous.",
         "C": "Incentive theory is about motivation from rewards - not about emotion experience timing."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Cannon\u2013Bard theory' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Cannon%E2%80%93Bard%20theory%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1453,6 +1725,10 @@
         "A": "The amygdala is the emotion center - especially for fear and emotional memory.",
         "B": "The prefrontal cortex regulates emotions and is involved in emotional decision-making.",
         "D": "The thalamus relays sensory info including emotional stimuli to appropriate brain areas."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'basal ganglia.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27basal%20ganglia.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1474,6 +1750,10 @@
         "B": "Sadness is associated with RIGHT frontal lobe activity, not left.",
         "C": "Surprise is not strongly lateralized to one side like positive/negative emotions are.",
         "D": "Disgust is a negative emotion - associated with right frontal activity, not left."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Happiness' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Happiness%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1495,6 +1775,10 @@
         "A": "Primary appraisal is just 'Is this a threat or not?' - no intensity evaluation yet.",
         "C": "Intensity is evaluated in secondary, not both - primary is just threat identification.",
         "D": "Intensity IS evaluated - it happens during secondary appraisal of coping ability."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Secondary appraisal only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Secondary%20appraisal%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1516,6 +1800,10 @@
         "A": "Hassles are minor daily annoyances - like traffic, not intentional exercise.",
         "B": "Frustration occurs when goals are blocked - the gym is a chosen activity, not a blocker.",
         "C": "Distress is negative, harmful stress - exercise for relaxation is beneficial."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Eustress' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Eustress%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1537,6 +1825,10 @@
         "B": "Avoidance-avoidance = choosing between two BAD options - very stressful.",
         "C": "Approach-avoidance = one option with both good and bad aspects - creates ambivalence.",
         "D": "Avoidance-escape isn't a conflict type - these are types of negative reinforcement."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Approach\u2013approach conflict' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Approach%E2%80%93approach%20conflict%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1558,6 +1850,10 @@
         "B": "Resistance stage is prolonged coping - you'd need to deal with the spider for a while first.",
         "C": "Exhaustion happens after prolonged stress - not from one spider sighting.",
         "D": "Homeostasis is the baseline state - the spider disrupted it, triggering alarm."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'Alarm' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27Alarm%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1579,6 +1875,10 @@
         "A": "Drug use is maladaptive - it creates new problems while avoiding the stressor.",
         "B": "Social withdrawal is maladaptive - isolation makes stress worse long-term.",
         "D": "Avoiding stressors is maladaptive - it doesn't address the problem and often backfires."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Motivation, Emotion, and Stress: Explain why 'progressive muscle relaxation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Motivation%2C%20Emotion%2C%20and%20Stress%3A%20Explain%20why%20%27progressive%20muscle%20relaxation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1600,6 +1900,10 @@
         "A": "Past self IS part of self-concept - who you were shapes how you see yourself now.",
         "C": "Future self IS part of self-concept - who you might become matters to self-perception.",
         "D": "Self-schemata ARE part of self-concept - they're the building blocks of how you see yourself."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'the ought self.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27the%20ought%20self.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1621,6 +1925,10 @@
         "A": "Low/low = undifferentiated - neither masculine nor feminine traits are prominent.",
         "B": "High feminine/low masculine = simply feminine gender identity.",
         "C": "Low feminine/high masculine = simply masculine gender identity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'high femininity, high masculinity.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27high%20femininity%2C%20high%20masculinity.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1642,6 +1950,10 @@
         "A": "Low self-esteem is global self-worth - one class struggle wouldn't cause this immediately.",
         "C": "Learned helplessness requires prolonged, repeated failure across situations - this is early/localized.",
         "D": "External locus of control is attributional style - the question is about confidence, not attribution."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'Low self-efficacy' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27Low%20self-efficacy%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1663,6 +1975,10 @@
         "B": "Crediting the jury = EXTERNAL locus - attributing success to others, not self.",
         "C": "Blaming defense = EXTERNAL locus - attributing success to opponent's failure, not own skill.",
         "D": "This sounds like low self-esteem or imposter syndrome - not locus of control."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why '\u201cI won because I made great arguments and had more experience than the defense.\u201d' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27%E2%80%9CI%20won%20because%20I%20made%20great%20arguments%20and%20had%20more%20experience%20than%20the%20defense.%E2%80%9D%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1684,6 +2000,10 @@
         "A": "Oral fixation shows as oral habits (smoking, overeating, nail-biting) - not orderliness.",
         "C": "Phallic fixation relates to sexuality/relationships - not cleanliness obsession.",
         "D": "Genital stage is healthy adult sexuality - not characterized by pathological traits."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'The anal stage' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27The%20anal%20stage%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1705,6 +2025,10 @@
         "A": "Identity vs. role confusion is ADOLESCENCE - should be resolved before college graduation.",
         "B": "Generativity vs. stagnation is middle adulthood - contributing to society/next generation.",
         "D": "Integrity vs. despair is late adulthood - reflecting on life's accomplishments."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'Forming an intimate relationship with a significant other' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27Forming%20an%20intimate%20relationship%20with%20a%20significant%20other%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1726,6 +2050,10 @@
         "B": "Cati isn't postconventional - she's citing social order (conventional), not universal ethical principles.",
         "C": "This reverses them - Matt's punishment avoidance is preconventional, not conventional.",
         "D": "Cati isn't postconventional - citing potential accidents is about social order, not abstract ethics."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'Preconventional; conventional' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27Preconventional%3B%20conventional%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1747,6 +2075,10 @@
         "A": "Bandura focused on observational learning/modeling - not on assisted task completion.",
         "B": "Adler focused on inferiority complex and striving for superiority - not developmental scaffolding.",
         "C": "Skinner focused on reinforcement/operant conditioning - not on collaborative learning."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'Lev Vygotsky' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27Lev%20Vygotsky%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1768,6 +2100,10 @@
         "A": "Bobo doll experiment showed children imitating STRANGERS - not just parents.",
         "B": "Peers influence teens most - not celebrities (though media figures do have some effect).",
         "C": "Research doesn't support this conclusion - gender-atypical play doesn't predict later identity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'A female child is more likely to model the behavior of another female than a male.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27A%20female%20child%20is%20more%20likely%20to%20model%20the%20behavior%20of%20another%20female%20than%20a%20male.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1789,6 +2125,10 @@
         "A": "The id is about pleasure-seeking impulses - it might cause the affair but not the guilt.",
         "B": "The ego mediates between id and superego - it tries to balance, not generate guilt.",
         "D": "The libido is sexual energy (id's drive) - it might motivate the affair, not punish for it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'The superego' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27The%20superego%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1810,6 +2150,10 @@
         "A": "Persona is the public mask we show others - not the internal drive for success.",
         "B": "Anima is a man's inner feminine - opposite of what's needed here.",
         "D": "Shadow contains repressed/dark aspects - not positive striving for achievement."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'The animus' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27The%20animus%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1831,6 +2175,10 @@
         "A": "Social cognitive alone is incomplete - biological perspective is also directly supported.",
         "B": "Biological alone misses that social cognitive perspective also fits this finding.",
         "D": "Behaviorism focuses on rewards/punishments, not genetics - it's not supported by this finding."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'I and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27I%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1852,6 +2200,10 @@
         "A": "Psychoticism includes rebelliousness - the 'bit of a rebel' suggests HIGH psychoticism.",
         "C": "Highly sociable = HIGH extraversion, not low.",
         "D": "Conscientiousness isn't described - we don't know about organization or work ethic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'Neuroticism' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27Neuroticism%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1873,6 +2225,10 @@
         "B": "Regression is reverting to childish behavior - not changing the emotional content.",
         "C": "Projection is attributing your feelings to others - not transforming them within yourself.",
         "D": "Displacement redirects feelings to a safer target - not reversing their valence."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'Reaction formation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27Reaction%20formation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1894,6 +2250,10 @@
         "A": "Cardinal traits are dominant life-organizing traits (Allport) - not specific beliefs about future.",
         "C": "Functional autonomy is behavior continuing after original motive ends - not future-oriented fantasies.",
         "D": "Unconditional positive regard is Rogers' therapy concept - not about client beliefs."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Identity and Personality: Explain why 'fictional finalism.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Identity%20and%20Personality%3A%20Explain%20why%20%27fictional%20finalism.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1915,6 +2275,10 @@
         "A": "Hallucinations are ADDED abnormal experiences = positive symptom.",
         "B": "Disorganized behavior is ADDED abnormal behavior = positive symptom.",
         "D": "Delusions are ADDED false beliefs = positive symptom."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'Disturbance of affect' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27Disturbance%20of%20affect%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1936,6 +2300,10 @@
         "B": "Echopraxia is imitating MOVEMENTS/actions, not words.",
         "C": "Loosening of associations is jumping between loosely related ideas in speech.",
         "D": "Neologisms are inventing NEW words, not repeating others' words."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'echolalia.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27echolalia.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1957,6 +2325,10 @@
         "A": "Antisocial PD involves disregard for others' rights, law-breaking - not orderliness.",
         "B": "Narcissistic PD involves grandiosity and need for admiration - not perfectionism about tasks.",
         "D": "Borderline PD involves emotional instability and relationship issues - not rigid orderliness."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'obsessive\u2013compulsive personality disorder.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27obsessive%E2%80%93compulsive%20personality%20disorder.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1978,6 +2350,10 @@
         "A": "Depression MUST last at least 2 weeks - less than 2 weeks doesn't meet criteria.",
         "B": "Suicidal thoughts are one possible symptom, not a requirement for diagnosis.",
         "D": "Anhedonia (loss of interest) can occur WITHOUT sadness - especially in older adults."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'It may involve a decrease in sleep.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27It%20may%20involve%20a%20decrease%20in%20sleep.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1999,6 +2375,10 @@
         "A": "Indirect therapy involves changing the patient's environment/support system - not just medication.",
         "C": "Biopsychosocial would consider the move, stress, and isolation - not just neurochemistry.",
         "D": "Biopsychosocial with direct is contradictory - biopsychosocial inherently includes indirect factors."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'Biomedical approach with direct therapy' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27Biomedical%20approach%20with%20direct%20therapy%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2020,6 +2400,10 @@
         "A": "Depersonalization/derealization is feeling unreal, not losing identity and traveling.",
         "B": "DID involves multiple personalities - the patient has no personalities, not multiple.",
         "C": "Somatic symptom disorder involves physical symptoms, not memory/identity loss."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'dissociative amnesia with dissociative fugue.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27dissociative%20amnesia%20with%20dissociative%20fugue.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2041,6 +2425,10 @@
         "A": "OCD involves obsessions/compulsions - not specifically fear of public places.",
         "B": "Avoidant PD involves social inhibition - but agoraphobia is about escape, not social judgment.",
         "C": "GAD is pervasive worry - not specifically fear of places where escape is difficult."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'Panic disorder' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27Panic%20disorder%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2062,6 +2450,10 @@
         "A": "45 out of 50 would be 90% - phobias are common but not THAT common.",
         "B": "15 out of 50 would be 30% - overestimates phobia prevalence.",
         "C": "10 out of 50 would be 20% - still overestimates the ~9% prevalence."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why '5' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%275%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2083,6 +2475,10 @@
         "B": "Amnesia isn't a distinguishing feature between depression and bipolar disorder.",
         "C": "Phobias are anxiety disorders - not relevant to depression vs. bipolar distinction.",
         "D": "Task difficulty relates to dementia, not depression vs. bipolar differential."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'Major depressive and bipolar disorders' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27Major%20depressive%20and%20bipolar%20disorders%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2104,6 +2500,10 @@
         "A": "Amnesia isn't relevant to distinguishing depression from bipolar disorder.",
         "C": "Phobias are anxiety symptoms - not distinguishing features for mood disorders.",
         "D": "Difficulty with tasks is more relevant to cognitive disorders like dementia."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'Whether the patient has also had manic episodes' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27Whether%20the%20patient%20has%20also%20had%20manic%20episodes%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2125,6 +2525,10 @@
         "A": "Extra beta-amyloid precursor gene copies (Down syndrome) DO increase Alzheimer's risk.",
         "C": "Tau protein tangles ARE a hallmark of Alzheimer's pathology.",
         "D": "Reduced blood flow to parietal lobes IS seen in Alzheimer's disease."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'Decreased abundance of serotonin and norepinephrine.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27Decreased%20abundance%20of%20serotonin%20and%20norepinephrine.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2146,6 +2550,10 @@
         "A": "Antisocial PD involves disregard for others - not idealization/devaluation patterns.",
         "C": "Histrionic PD involves attention-seeking and drama - not splitting.",
         "D": "Narcissistic PD involves grandiosity - not the all-good/all-bad pattern."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'Borderline personality disorder' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27Borderline%20personality%20disorder%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2167,6 +2575,10 @@
         "B": "GAD is pervasive worry - the patient shows indifference, not anxiety.",
         "C": "Illness anxiety is excessive worry about having illness - not actual physical symptoms.",
         "D": "Histrionic PD is attention-seeking personality - not about physical symptom conversion."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'conversion disorder.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27conversion%20disorder.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2188,6 +2600,10 @@
         "A": "Epinephrine isn't the primary neurotransmitter deficit in Parkinson's.",
         "B": "Histamine isn't related to Parkinson's motor symptoms.",
         "D": "Serotonin is more related to mood disorders - not movement disorders."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'Dopamine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27Dopamine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2209,6 +2625,10 @@
         "A": "Bipolar is HIGHLY heritable (~80%) - statement I is false.",
         "C": "I is wrong (highly heritable) and III is wrong (Bipolar I doesn't require depression).",
         "D": "III is wrong - Bipolar I only requires one manic episode, no depression needed."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Psychological Disorders: Explain why 'II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Psychological%20Disorders%3A%20Explain%20why%20%27II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2230,6 +2650,10 @@
         "A": "Bystander effect is about NOT helping when others are present - not relevant to the prison experiment.",
         "B": "Internalization alone is incomplete - deindividuation also explains the extreme behavior.",
         "D": "Social loafing is reduced effort in groups - the opposite of what happened (increased aggression)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'II and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27II%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2251,6 +2675,10 @@
         "A": "Social facilitation is about improved performance when observed - not opinion change.",
         "C": "Assimilation is absorbing into a culture - not about opinion polarization.",
         "D": "Socialization is learning social norms - not about group discussion effects."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Group polarization' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Group%20polarization%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2272,6 +2700,10 @@
         "B": "More danger actually INCREASES likelihood of helping.",
         "C": "Knowing the victim INCREASES likelihood of helping.",
         "D": "Being alone INCREASES likelihood of helping (no diffusion of responsibility)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Increasing the number of people in the room' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Increasing%20the%20number%20of%20people%20in%20the%20room%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2293,6 +2725,10 @@
         "A": "Stereotyping outsiders IS a characteristic of groupthink - in-group vs. out-group.",
         "B": "Self-censorship IS part of groupthink - people don't voice disagreement.",
         "C": "Ignoring warnings IS part of groupthink - warnings are dismissed as unnecessary."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'create a sense of negativity against risk taking.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27create%20a%20sense%20of%20negativity%20against%20risk%20taking.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2314,6 +2750,10 @@
         "B": "Secondary socialization teaches prison-specific norms and rules - prisons do this.",
         "C": "Anticipatory socialization prepares inmates for release - prisons attempt this.",
         "D": "Resocialization changes behavior by replacing old patterns - the main goal of rehabilitation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'primary socialization.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27primary%20socialization.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2335,6 +2775,10 @@
         "A": "Lowball is agreeing to something, then learning it costs more - not escalating requests.",
         "B": "That's-not-all adds extras before you decide - 'But wait, there's more!'",
         "D": "Door-in-the-face starts with HUGE request, then reduces - opposite pattern."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Foot-in-the-door technique' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Foot-in-the-door%20technique%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2356,6 +2800,10 @@
         "B": "Going to see a movie is BEHAVIORAL - taking action.",
         "C": "Comparing genres is COGNITIVE - thoughts and beliefs about movies.",
         "D": "Planning to rent is BEHAVIORAL - intended action."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why '\u201cI love action movies.\u201d' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27%E2%80%9CI%20love%20action%20movies.%E2%80%9D%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2377,6 +2825,10 @@
         "A": "Knowledge route isn't a real term in the elaboration likelihood model.",
         "B": "Adaptive route isn't a standard term in persuasion research.",
         "C": "Central route processing focuses on argument CONTENT and logic - not appearance."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Peripheral route processing' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Peripheral%20route%20processing%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2398,6 +2850,10 @@
         "A": "Deviance is violating social norms - the subjects were following authority.",
         "C": "Conformity is matching peer behavior - not following an authority figure.",
         "D": "Compliance is agreeing to a direct request - less about authority hierarchy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Obedience' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Obedience%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2419,6 +2875,10 @@
         "A": "Normative conformity is changing behavior to fit in - but not truly believing it.",
         "B": "Identification is conforming to be like someone you admire - not about genuine belief change.",
         "D": "Compliance is agreeing publicly without private acceptance - opposite of internalization."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Internalization' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Internalization%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2440,6 +2900,10 @@
         "A": "Knowledge IS one of the four functions - attitudes help us understand the world.",
         "C": "Ego defense IS one of the four functions - attitudes protect self-esteem.",
         "D": "Ego expression IS one of the four functions - attitudes express values."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Acceptance' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Acceptance%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2461,6 +2925,10 @@
         "B": "Peer pressure implies the group is pushing behavior - but they performed better independently.",
         "C": "Identification is conforming to be like someone - not about performance improvement.",
         "D": "Group polarization is about opinions becoming extreme - not about physical performance."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Social facilitation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Social%20facilitation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2482,6 +2950,10 @@
         "A": "Normative socialization isn't a standard term - anticipatory is the correct one.",
         "B": "Informative socialization isn't a standard term in sociology.",
         "C": "Resocialization occurs AFTER entering a new environment - not before."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Anticipatory socialization' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Anticipatory%20socialization%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2503,6 +2975,10 @@
         "A": "Neither term specifically refers to 'positive changes' or how they occur.",
         "C": "Internal vs. external factors isn't the distinction between these terms.",
         "D": "Individual vs. group benefit isn't the core distinction either."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Social action refers to the effects of a group on an individual\u2019s behavior; social interaction refers to the effects that multiple individuals all have on each other.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Social%20action%20refers%20to%20the%20effects%20of%20a%20group%20on%20an%20individual%E2%80%99s%20behavior%3B%20social%20interaction%20refers%20to%20the%20effects%20that%20multiple%20individuals%20all%20have%20on%20each%20other.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2524,6 +3000,10 @@
         "A": "Illusion of invulnerability is believing the group can't fail - not about forcing agreement.",
         "B": "Illusion of morality is believing the group is inherently ethical - not about pressure.",
         "D": "Self-censorship is individuals voluntarily staying quiet - not active pressure from the group."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Processes, Attitudes, and Behavior: Explain why 'Pressure for conformity' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Processes%2C%20Attitudes%2C%20and%20Behavior%3A%20Explain%20why%20%27Pressure%20for%20conformity%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2545,6 +3025,10 @@
         "A": "Emotional state is mood/feelings - not sociological status.",
         "B": "Expectations for a title describe ROLE, not status - status is the position itself.",
         "D": "Describing peers would be about group membership, not individual status."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'A position in society used to classify an individual' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27A%20position%20in%20society%20used%20to%20classify%20an%20individual%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2566,6 +3050,10 @@
         "A": "Ascribed status is given at birth (race, gender, family) - not earned through effort.",
         "C": "Master status dominates all others (like 'convict') - college grad usually isn't this defining.",
         "D": "Cardinal status isn't a sociological term - 'cardinal trait' is from psychology."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'achieved status.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27achieved%20status.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2587,6 +3075,10 @@
         "A": "Immediate networks are close personal connections - bureaucracies are impersonal.",
         "B": "Primary groups have strong bonds - bureaucracies are secondary/formal structures.",
         "D": "Reference groups are those we compare ourselves to - not formal work structures."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'organization.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27organization.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2608,6 +3100,10 @@
         "A": "Rigid procedures ARE a bureaucratic characteristic - standardization is key.",
         "B": "Requirement for credentials/degrees IS a bureaucratic feature.",
         "C": "Regular salary increases based on seniority IS a bureaucratic characteristic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'Election by constituents' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27Election%20by%20constituents%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2629,6 +3125,10 @@
         "A": "Facial expressions are nonverbal communication - no words involved.",
         "B": "Eye contact is nonverbal - it communicates without words.",
         "D": "Body language is nonverbal - posture and gestures aren't words."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'Written text' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27Written%20text%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2650,6 +3150,10 @@
         "A": "Following expected behaviors is role performance - not explaining unexpected behavior.",
         "B": "Cognitive dissonance is internal conflict - not explaining behavior to others.",
         "D": "Group conformity is about following others - not individual behavior management."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'Providing socially acceptable reasons to explain unexpected behavior' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27Providing%20socially%20acceptable%20reasons%20to%20explain%20unexpected%20behavior%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2671,6 +3175,10 @@
         "A": "Managing appearances is about how YOU look - not assigning roles to others.",
         "C": "Ingratiation is flattery to gain favor - this is more like manipulation.",
         "D": "Self-disclosure is revealing personal information - not role assignment."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'Alter-casting' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27Alter-casting%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2692,6 +3200,10 @@
         "A": "Rural neighborhood is Gemeinschaft - bonded by location and tradition.",
         "C": "Family is Gemeinschaft - bonded by kinship and shared history.",
         "D": "Ethnic enclave is Gemeinschaft - bonded by shared heritage and culture."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'A large corporation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27A%20large%20corporation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2713,6 +3225,10 @@
         "A": "Characteristic institutions are social structures - not emotional expression rules.",
         "C": "Authentic self is your true self - not cultural rules about expression.",
         "D": "Peer groups are social circles - not cultural norms about emotional display."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'display rules.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27display%20rules.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2734,6 +3250,10 @@
         "A": "Friendliness vs. unfriendliness IS one of SYMLOG's three dimensions.",
         "B": "Dominance vs. submission IS one of SYMLOG's three dimensions.",
         "D": "Instrumentally controlled vs. emotionally expressive IS one of SYMLOG's three dimensions."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'Conformity vs. contrast' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27Conformity%20vs.%20contrast%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2755,6 +3275,10 @@
         "A": "Front to back would be making public self private - opposite of what happens.",
         "C": "Removing front stage would mean no public image at all - but they still have one.",
         "D": "Removing back stage would mean nothing private left - but backstage still exists."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'bringing the back stage self to the front stage.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27bringing%20the%20back%20stage%20self%20to%20the%20front%20stage.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2776,6 +3300,10 @@
         "A": "Ideal self is who YOU want to be - not others' expectations.",
         "C": "Authentic self is your true self - opposite of performing for others.",
         "D": "Presented self combines all three (ideal, tactical, authentic) - not just ought self."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'The tactical self' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27The%20tactical%20self%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2797,6 +3325,10 @@
         "B": "Social construction model explicitly REJECTS biological/evolutionary basis for emotions.",
         "C": "Only basic model uses evolutionary support - not both.",
         "D": "Basic model definitely uses evolutionary support - it's not 'neither.'"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'The basic model only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27The%20basic%20model%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2818,6 +3350,10 @@
         "A": "Dog barking at stranger is interspecific (different species) communication.",
         "B": "Anglerfish attracting prey is interspecific - predator to prey of different species.",
         "C": "Echolocation is autocommunication - same individual sends and receives (not between individuals)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'A cat who uses scent glands to mark his territory for other cats' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27A%20cat%20who%20uses%20scent%20glands%20to%20mark%20his%20territory%20for%20other%20cats%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2839,6 +3375,10 @@
         "A": "Primary groups are typically LONGER-lived - relationships endure over time.",
         "B": "Primary groups are SMALLER - intimate bonds don't work with large numbers.",
         "D": "Both can be chosen or assigned - family is assigned but close friends are chosen."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Interaction: Explain why 'primary groups are formed of stronger bonds than secondary groups.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Interaction%3A%20Explain%20why%20%27primary%20groups%20are%20formed%20of%20stronger%20bonds%20than%20secondary%20groups.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2860,6 +3400,10 @@
         "B": "Reciprocity is mutual liking - important but not about physical closeness.",
         "C": "Self-disclosure builds intimacy - but proximity gets you together first.",
         "D": "Similarity helps maintain friendships - but proximity initiates them."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Proximity' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Proximity%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2881,6 +3425,10 @@
         "A": "Increased prefrontal activity would DECREASE aggression - it provides control.",
         "C": "Decreased amygdala would decrease aggression - less emotional reactivity.",
         "D": "This combination would decrease aggression - less drive, more control."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'I and IV only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27I%20and%20IV%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2902,6 +3450,10 @@
         "A": "Avoidant attachment shows little reaction to parent leaving or returning.",
         "B": "Ambivalent shows distress but isn't easily comforted on return.",
         "C": "Disorganized shows confused, contradictory behaviors - no clear pattern."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Secure attachment' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Secure%20attachment%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2923,6 +3475,10 @@
         "A": "Polyandry is one female with multiple males - opposite pattern.",
         "C": "Monogamy is one partner for both sexes - not what's described.",
         "D": "Promiscuity lacks exclusive relationships - these are exclusive to the male."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Polygyny' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Polygyny%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2944,6 +3500,10 @@
         "A": "Empathy isn't related to ventromedial hypothalamus function.",
         "B": "Empathy isn't related to this brain region.",
         "D": "Decreased eating would come from LATERAL hypothalamus damage (hunger center)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Increased food intake' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Increased%20food%20intake%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2965,6 +3525,10 @@
         "A": "Runaway selection is when a trait becomes exaggerated just because it's preferred.",
         "B": "Sensory bias is preference based on pre-existing sensory capabilities.",
         "C": "Direct benefits would be resources, territory, or protection - not offspring quality."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Indirect phenotypic benefits' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Indirect%20phenotypic%20benefits%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2986,6 +3550,10 @@
         "B": "Direct benefits are personal gains - this is sacrificing for others.",
         "C": "Sensory bias is about mate attraction preferences - not self-sacrifice.",
         "D": "Foraging is food-seeking behavior - not about self-sacrifice for others."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Inclusive fitness' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Inclusive%20fitness%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3007,6 +3575,10 @@
         "A": "Target IS one of the three components - who/what is being perceived.",
         "B": "Situation IS one of the three components - the context of perception.",
         "C": "Perceiver IS one of the three components - who is doing the perceiving."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'The process' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27The%20process%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3028,6 +3600,10 @@
         "B": "Recency effect would favor the LATER (friendly) impressions.",
         "C": "Central traits are key characteristics that color other judgments - not about timing.",
         "D": "Proximity is about physical closeness increasing attraction - not about impression timing."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Primacy effect' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Primacy%20effect%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3049,6 +3625,10 @@
         "A": "Central traits are specific characteristics that influence impressions - not one trait coloring all.",
         "B": "Direct benefits is about mate selection - not about judging cookies.",
         "D": "Similarity is about attraction to similar others - not about assuming quality."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Halo effect' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Halo%20effect%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3070,6 +3650,10 @@
         "A": "Just-world hypothesis is believing people get what they deserve.",
         "B": "Fundamental attribution error is about judging OTHERS - not ourselves.",
         "D": "Esteem bias isn't a standard term - self-serving bias is correct."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Self-serving bias' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Self-serving%20bias%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3091,6 +3675,10 @@
         "A": "Internal/situational is contradictory - internal and situational are opposites.",
         "B": "Internal/dispositional would mean his personality changed - not what we're assuming.",
         "D": "External/dispositional is contradictory - dispositional means personality (internal)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'II and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27II%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3112,6 +3700,10 @@
         "A": "Institutional discrimination is systemic barriers - not individual performance anxiety.",
         "C": "Prejudice is negative attitudes - the mechanism here is about self-consciousness.",
         "D": "Just-world hypothesis is about deservingness - not stereotype effects on performance."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'Stereotype threat' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27Stereotype%20threat%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3133,6 +3725,10 @@
         "A": "Stereotyping is cognitive categorization - beliefs, not behaviors.",
         "B": "Cultural relativism is judging cultures by their own standards - not about negative treatment.",
         "C": "Prejudice is the negative ATTITUDE - discrimination is the resulting BEHAVIOR."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'discrimination.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27discrimination.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3154,6 +3750,10 @@
         "A": "Central traits are about impression formation - not strategic decision-making.",
         "B": "Behavior attribution is about explaining causes of behavior - not decision strategies.",
         "D": "Self-enhancement is about maintaining positive self-image - not decision modeling."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Thinking: Explain why 'decision-making behavior.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Thinking%3A%20Explain%20why%20%27decision-making%20behavior.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3175,6 +3775,10 @@
         "B": "Intended negative effect would be a dysfunction by design - rare and problematic.",
         "C": "Unintended positive effect = LATENT function - happy accident.",
         "D": "Unintended negative effect = LATENT DYSFUNCTION - unplanned harm."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'An intended positive effect on a system' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27An%20intended%20positive%20effect%20on%20a%20system%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3196,6 +3800,10 @@
         "A": "Demographic transition is about birth/death rate changes over time.",
         "B": "Expectancy theory is about motivation - expecting effort leads to reward.",
         "D": "Demographic shift is population change - not about gesture meanings."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'Symbolic interactionism' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27Symbolic%20interactionism%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3217,6 +3825,10 @@
         "A": "Autonomy is respecting patient's right to make decisions.",
         "B": "Beneficence is actively doing good - beyond just avoiding harm.",
         "C": "Justice is fair distribution of resources and treatment."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'Nonmaleficence' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27Nonmaleficence%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3238,6 +3850,10 @@
         "A": "Race describes physical features - preferences are about culture/ethnicity.",
         "B": "Ethnicity alone is incomplete - culture also describes these preferences.",
         "D": "Race is about physical features - preferences don't determine race."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'II and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27II%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3259,6 +3875,10 @@
         "A": "Personal beliefs are individual - this is about societal expectations.",
         "B": "Patient autonomy is about making medical decisions - not about hugging.",
         "C": "Social values are what's considered important - norms are specific behavioral expectations."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'social norms.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27social%20norms.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3280,6 +3900,10 @@
         "A": "Birth rate alone is incomplete - mortality rate also uses this measure.",
         "C": "Fertility rate uses children per woman - it's statement II that's wrong.",
         "D": "Fertility rate (II) uses a different measurement - children per woman, not per 1000."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'I and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27I%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3301,6 +3925,10 @@
         "A": "Latent functions are unintended positive effects - healing ceremonies are intentional.",
         "C": "Cultural barriers prevent healthcare access - these ceremonies ARE healthcare in their culture.",
         "D": "Social movements aim to change society - rituals maintain tradition."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'rituals.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27rituals.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3322,6 +3950,10 @@
         "B": "Population is getting OLDER, not younger - baby boomers are aging.",
         "C": "Population is growing, not shrinking - and more diverse, not less.",
         "D": "Population is growing, not shrinking."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'bigger, older, and more diverse.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27bigger%2C%20older%2C%20and%20more%20diverse.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3343,6 +3975,10 @@
         "A": "Traditional clothing is a physical artifact = material culture.",
         "B": "Cuisine (food) is a physical artifact = material culture.",
         "D": "Sand paintings are physical artifacts = material culture."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'American values' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27American%20values%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3364,6 +4000,10 @@
         "A": "Stage 1 has HIGH birth and HIGH death rates - preindustrial.",
         "B": "Stage 2 has HIGH birth but death starts DROPPING.",
         "C": "Stage 3 has DROPPING birth rates, already low death rates."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'Stage 4' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27Stage%204%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3385,6 +4025,10 @@
         "A": "Conflict theory alone is incomplete - social movement and institution are also present.",
         "B": "Missing that social institutions (government) are involved in legalizing gambling.",
         "C": "Missing that this IS conflict theory - groups competing for power/influence."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3406,6 +4050,10 @@
         "A": "0 is exclusively heterosexual - opposite of what's described.",
         "B": "1 is predominantly heterosexual - opposite of what's described.",
         "D": "6 is exclusively homosexual - but he has had some heterosexual attractions."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why '5' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%275%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3427,6 +4075,10 @@
         "A": "Gender is socially constructed - can differ from biological sex.",
         "C": "Ethnicity is a social construct based on cultural factors.",
         "D": "Sexual orientation's origins are debated - not purely biological."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'Sex' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27Sex%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3448,6 +4100,10 @@
         "A": "Fertility rate less than 2 would mean each woman has <2 children - population decline.",
         "C": "Increased mortality rate means more deaths - population decline.",
         "D": "Decreased birth rate means fewer babies - population decline."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'An immigration rate larger than emigration rate' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27An%20immigration%20rate%20larger%20than%20emigration%20rate%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3469,6 +4125,10 @@
         "B": "Increased disease transmission IS a negative effect - crowding spreads infection.",
         "C": "Decreased air quality/sanitation IS a negative effect of urbanization.",
         "D": "Increased violent crime IS a negative effect in many urban areas."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Structure and Demographics: Explain why 'decreased opportunity for social interaction.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Structure%20and%20Demographics%3A%20Explain%20why%20%27decreased%20opportunity%20for%20social%20interaction.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3490,6 +4150,10 @@
         "A": "Ascribed status is given at birth - race, gender, family background.",
         "B": "Meritocratic competition is ONE way to achieve status, but not the only definition.",
         "C": "Anomic conditions are breakdown of social norms - unrelated to status achievement."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Achieved status' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Achieved%20status%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3511,6 +4175,10 @@
         "A": "High networking would typically lead to HIGH social capital, not low.",
         "B": "High mobility and low capital don't directly correlate - mobility comes from capital.",
         "D": "Low networking would lead to LOW social capital, not high."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Low social class and low social capital' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Low%20social%20class%20and%20low%20social%20capital%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3532,6 +4200,10 @@
         "A": "Hazardous waste facilities ARE more common in low-income areas - environmental injustice.",
         "B": "TB and poor living conditions DO coincide - poverty increases disease.",
         "C": "Pollution IS more common in underrepresented communities - environmental injustice."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Globalization and global equality' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Globalization%20and%20global%20equality%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3553,6 +4225,10 @@
         "A": "Low income DOES correlate with higher mortality - this is true.",
         "C": "Low-income mothers DO have lower birth weight babies - this is true.",
         "D": "Low-income groups DO have higher cancer rates - this is true."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Life expectancy is decreased in groups with high income.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Life%20expectancy%20is%20decreased%20in%20groups%20with%20high%20income.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3574,6 +4250,10 @@
         "A": "This is incidence formula - new cases over at-risk population without disease.",
         "B": "Using total population (1000) ignores that only males can get prostate cancer.",
         "C": "20 was the OLD cases; we need total current cases (30 = 20 old + 10 new)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why '30 \u00f7 500' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%2730%20%C3%B7%20500%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3595,6 +4275,10 @@
         "B": "Using 1000 includes females who can't get prostate cancer.",
         "C": "20/500 is prevalence of OLD cases, not incidence of new ones.",
         "D": "30 is total cases; we need only NEW cases (10) for incidence."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why '10 \u00f7 480' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%2710%20%C3%B7%20480%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3616,6 +4300,10 @@
         "A": "Upward mobility would mean children rise to higher class.",
         "B": "Downward mobility would mean children fall to lower class.",
         "C": "Social exclusion is being shut out of opportunities - related but different concept."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'social reproduction.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27social%20reproduction.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3637,6 +4325,10 @@
         "A": "Below poverty line is ABSOLUTE poverty - specific dollar threshold.",
         "B": "Downward mobility isn't inherent to relative poverty - just being poorer than neighbors.",
         "D": "Upward mobility isn't inherent to relative poverty."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Individuals in relative poverty may be in the upper class.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Individuals%20in%20relative%20poverty%20may%20be%20in%20the%20upper%20class.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3658,6 +4350,10 @@
         "A": "Urban centers tend to have larger underrepresented populations.",
         "B": "Urban centers tend to have higher poverty rates.",
         "D": "Urban centers tend to have higher crime rates."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'larger upper- and middle-class populations.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27larger%20upper-%20and%20middle-class%20populations.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3679,6 +4375,10 @@
         "B": "Mortality is about deaths - rate of dying from illness.",
         "C": "Second sickness is social factors worsening health outcomes.",
         "D": "Chronicity is about duration of illness - how long it lasts."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Morbidity' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Morbidity%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3700,6 +4400,10 @@
         "A": "African Americans tend to have worse health profiles on most measures.",
         "C": "Hispanic Americans have mixed results - better on some, worse on others.",
         "D": "American Indians have mixed results - not consistently better overall."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Asian Americans' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Asian%20Americans%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3721,6 +4425,10 @@
         "A": "Neither program specifically targets immigrants or those without employer insurance.",
         "B": "This reverses the populations - Medicare isn't for immigrants.",
         "D": "This reverses Medicare and Medicaid populations."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Medicare: mostly patients in older age groups; Medicaid: mostly patients with low socioeconomic status' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Medicare%3A%20mostly%20patients%20in%20older%20age%20groups%3B%20Medicaid%3A%20mostly%20patients%20with%20low%20socioeconomic%20status%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3742,6 +4450,10 @@
         "A": "Obesity DOES increase morbidity - causes many chronic diseases.",
         "B": "Less healthcare access DOES increase morbidity - diseases go untreated.",
         "D": "Less physical activity DOES increase morbidity - leads to health problems."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'higher rates of homicide.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27higher%20rates%20of%20homicide.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3763,6 +4475,10 @@
         "B": "Lower threshold catches MORE cases, not fewer - prevalence increases.",
         "C": "Changing criteria definitely changes prevalence numbers.",
         "D": "We have enough information - more inclusive criteria = more cases."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'The prevalence would increase.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27The%20prevalence%20would%20increase.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3784,6 +4500,10 @@
         "A": "Females being more insured IS a documented trend.",
         "C": "Low-income difficulty accessing care IS documented.",
         "D": "LGBTQ healthcare barriers ARE documented disparities."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Behavioral Sciences - Social Stratification: Explain why 'Primary care use is more likely among males than females.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Behavioral%20Sciences%20-%20Social%20Stratification%3A%20Explain%20why%20%27Primary%20care%20use%20is%20more%20likely%20among%20males%20than%20females.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     }
   ]

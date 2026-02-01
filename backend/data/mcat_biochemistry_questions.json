@@ -25,6 +25,10 @@
         "A": "Only positively charged if pH is very low (below pI). At neutral pH, the carboxyl group loses its proton.",
         "C": "Only negatively charged if pH is very high (above pI). At neutral pH, the amino group stays protonated.",
         "D": "Amino acids have polar groups (NH3+ and COO-) making them hydrophilic, not hydrophobic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'zwitterions.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27zwitterions.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -46,6 +50,10 @@
         "A": "-2 would require both side chain carboxyls deprotonated AND the amino group neutral, which doesn't happen at pH 7.",
         "C": "Zero charge would mean equal positive and negative charges - but glutamic acid has an EXTRA carboxyl group.",
         "D": "+1 would require a very acidic pH where all carboxyls are protonated."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why '\u20131.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27%E2%80%931.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -67,6 +75,10 @@
         "A": "Nonpolar means hydrophobic, not hydrophilic. Water-fearing groups don't like being exposed.",
         "B": "Double wrong - nonpolar groups are hydrophobic AND they hide inside, not on surfaces.",
         "D": "Nonpolar groups avoid protein surfaces because surfaces contact water."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'They are hydrophobic and found buried within proteins.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27They%20are%20hydrophobic%20and%20found%20buried%20within%20proteins.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -88,6 +100,10 @@
         "B": "Secondary structure involves hydrogen bonding patterns that require complex algorithms to predict accurately.",
         "C": "Tertiary structure involves all side chain interactions - extremely difficult to predict from sequence alone.",
         "D": "Quaternary structure requires knowing how multiple subunits interact - impossible to predict just from one cDNA."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'Primary structure' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27Primary%20structure%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -109,6 +125,10 @@
         "A": "One arrangement ignores that order matters in peptides - the N-terminus and C-terminus are different.",
         "B": "Three only counts cyclic permutations, but peptides are linear with distinct ends.",
         "D": "27 (3^3) would be if you could reuse amino acids, but you only have one of each."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why '6' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%276%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -130,6 +150,10 @@
         "A": "Protein becomes more ordered during folding, so its entropy DECREASES, not increases.",
         "C": "Water entropy increases as hydration shells around hydrophobic residues are released.",
         "D": "Water entropy definitely increases - those organized water cages break apart when hydrophobic groups hide inside."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'Entropy of the water increases; entropy of the protein decreases.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27Entropy%20of%20the%20water%20increases%3B%20entropy%20of%20the%20protein%20decreases.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -151,6 +175,10 @@
         "A": "Disulfide bonds are covalent S-S bonds between cysteines - they stabilize tertiary structure, not alpha helices.",
         "B": "Hydrophobic effects are important for tertiary structure protein folding, not secondary structure.",
         "D": "Side chain ionic interactions contribute to tertiary structure; alpha helices are held by backbone H-bonds."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'hydrogen bonds.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27hydrogen%20bonds.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -172,6 +200,10 @@
         "A": "100 degrees C gives proteins enough energy to break non-covalent bonds - classic denaturation.",
         "B": "8M urea disrupts hydrogen bonds by competing for them - a powerful denaturant.",
         "D": "SDS is a detergent that disrupts hydrophobic interactions and coats proteins with negative charges."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'Moving it to a more hypotonic environment' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27Moving%20it%20to%20a%20more%20hypotonic%20environment%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -193,6 +225,10 @@
         "A": "Glutamate has a negatively charged carboxyl side chain - would be repelled by hydrophobic membrane interior.",
         "B": "Lysine has a positively charged amino side chain - charged groups don't mix with hydrophobic membranes.",
         "D": "Aspartate has a negatively charged carboxyl side chain - another charged amino acid that avoids membranes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'Phenylalanine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27Phenylalanine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -214,6 +250,10 @@
         "A": "Serine has a hydroxyl side chain but no chiral carbon in it - the beta carbon has two identical hydrogens.",
         "B": "Correct that threonine has a chiral side chain, but incomplete - isoleucine also does!",
         "D": "Serine's side chain (-CH2-OH) has no chiral carbon - not asymmetric."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'II and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27II%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -235,6 +275,10 @@
         "A": "The monomers are already fully folded (tertiary) before dimerization, not just secondary structure.",
         "C": "Primary to secondary would be initial folding from a linear chain - these proteins are already folded.",
         "D": "Can't skip tertiary - a folded monomer must have tertiary structure before it can dimerize."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'tertiary to quaternary.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27tertiary%20to%20quaternary.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -256,6 +300,10 @@
         "B": "Leucine has a branched hydrocarbon side chain - no ionizable groups, purely hydrophobic.",
         "C": "Proline has a cyclic side chain connected to the backbone nitrogen - no ionizable groups.",
         "D": "Threonine has a hydroxyl group but it's not ionizable at physiological pH (pKa too high)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'Histidine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27Histidine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -277,6 +325,10 @@
         "A": "5.5 would be for a neutral amino acid - lysine is basic with an extra amino group.",
         "B": "6.2 is too low for a basic amino acid - that's closer to neutral amino acid pI values.",
         "C": "7.4 ignores the basic side chain - lysine's pI must be above 7 because it's basic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why '9.8.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%279.8.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -298,6 +350,10 @@
         "A": "Correct but incomplete - conjugation does more than just organelle targeting.",
         "B": "Correct but incomplete - lipid tags do direct to membranes, but conjugation serves other purposes too.",
         "C": "Correct but incomplete - heme groups are conjugated cofactors, but that's not the only reason for conjugation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -319,6 +375,10 @@
         "A": "Proline is common in collagen but causes kinks, not reduced steric hindrance. Its ring is bulky.",
         "C": "Threonine has a hydroxyl side chain - too bulky for the cramped triple helix interior.",
         "D": "Cysteine forms disulfide bonds but isn't small enough - glycine's tiny H side chain wins."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Amino Acids, Peptides, and Proteins: Explain why 'Glycine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Amino%20Acids%2C%20Peptides%2C%20and%20Proteins%3A%20Explain%20why%20%27Glycine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -340,6 +400,10 @@
         "A": "Enzymes aren't consumed - they're catalysts that can be reused. Reaction continues until equilibrium.",
         "B": "0 degrees C would slow most human enzymes - they work best at body temperature (37 degrees C).",
         "C": "Dehydrogenases transfer electrons (redox), not components. Nothing from the enzyme is transferred."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'The free energy change (\u0394G) of the catalyzed reaction is the same as for the uncatalyzed reaction.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27The%20free%20energy%20change%20%28%CE%94G%29%20of%20the%20catalyzed%20reaction%20is%20the%20same%20as%20for%20the%20uncatalyzed%20reaction.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -361,6 +425,10 @@
         "B": "TRUE statement - human enzymes are optimized for body temperature (37 degrees C).",
         "C": "TRUE statement - ES complex can either proceed to product or fall apart back to E + S.",
         "D": "TRUE statement - most human enzymes work best at physiological pH around 7.4."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'An increase in the substrate concentration (at constant enzyme concentration) leads to proportional increases in the rate of the reaction.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27An%20increase%20in%20the%20substrate%20concentration%20%28at%20constant%20enzyme%20concentration%29%20leads%20to%20proportional%20increases%20in%20the%20rate%20of%20the%20reaction.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -382,6 +450,10 @@
         "A": "Holoenzyme is the COMPLETE active enzyme WITH its cofactor attached.",
         "C": "Coenzyme is the organic cofactor itself, not the enzyme missing it.",
         "D": "Zymoenzyme isn't a real term - you might be thinking of zymogen (inactive enzyme precursor)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'apoenzyme.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27apoenzyme.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -403,6 +475,10 @@
         "B": "Km measures affinity, not specificity. An enzyme can have high specificity but varying Km values.",
         "C": "Cofactors help with catalysis but don't determine which substrate fits in the active site.",
         "D": "Prosthetic groups assist function but the active site shape determines substrate specificity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'The three-dimensional shape of the active site' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27The%20three-dimensional%20shape%20of%20the%20active%20site%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -424,6 +500,10 @@
         "B": "Activity increases as temperature rises from freezer to body temp - doesn't start by decreasing.",
         "C": "Can't plateau at high temps - the enzyme denatures and loses activity above optimal temperature.",
         "D": "Activity doesn't recover after denaturation - once the enzyme unfolds, it's typically damaged."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'Increases then decreases' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27Increases%20then%20decreases%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -445,6 +525,10 @@
         "A": "Allosteric inhibition means binding at a different site than substrate - NOT competition for active site.",
         "B": "Allosteric interactions are typically reversible - the inhibitor binds and releases.",
         "C": "Feedback ENHANCEMENT would mean the product speeds up its own production - opposite of what happens."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'Negative feedback' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27Negative%20feedback%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -467,6 +551,10 @@
         "B": "At 1.0 mM, the rate is 67 - that's above half-max, so Km must be lower.",
         "C": "At 10.0 mM, rate is 95 - way past half-max, almost at Vmax already.",
         "D": "50 is the rate at Km, not the Km itself! Don't confuse the y-value with the x-value."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why '0.5' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%270.5%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -488,6 +576,10 @@
         "B": "20 would be Vmax - you only get that when substrate concentration is much higher than Km.",
         "C": "30 exceeds Vmax - impossible! No amount of substrate can exceed maximum velocity.",
         "D": "40 is double Vmax - definitely impossible for any enzyme."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why '10 .' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%2710%20.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -509,6 +601,10 @@
         "A": "10 is half-max velocity - only happens when [S] = Km, not 100x Km.",
         "B": "15 is 75% of Vmax - with 100x excess substrate, you'd be much closer to full speed.",
         "D": "30 exceeds Vmax of 20 - impossible regardless of substrate concentration."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why '20 .' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%2720%20.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -531,6 +627,10 @@
         "A": "The drugs show different patterns - oseltamivir is competitive (same Vmax, higher Km), zanamivir is noncompetitive.",
         "C": "Zanamivir (noncompetitive) DECREASES Vmax, doesn't increase it compared to oseltamivir.",
         "D": "They're different types! Oseltamivir is competitive, zanamivir is noncompetitive."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'Oseltamivir increases the Km value for the substrate compared to Relenza.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27Oseltamivir%20increases%20the%20Km%20value%20for%20the%20substrate%20compared%20to%20Relenza.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -552,6 +652,10 @@
         "A": "Ligases JOIN two molecules using ATP - here ATP itself is being converted, not used to join things.",
         "B": "Hydrolases use WATER to break bonds - this reaction doesn't add water.",
         "D": "Transferases move functional groups between molecules - nothing is being transferred here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'Lyase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27Lyase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -573,6 +677,10 @@
         "A": "TRUE method - active sites create favorable charge environments for transition states.",
         "B": "TRUE method - temporary covalent bonds can stabilize intermediates.",
         "C": "TRUE method - enzymes can donate or accept electrons to facilitate reactions."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'Breaking bonds in the enzyme irreversibly to provide energy' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27Breaking%20bonds%20in%20the%20enzyme%20irreversibly%20to%20provide%20energy%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -594,6 +702,10 @@
         "A": "We don't know if affinity JUST changed - could be mid-binding, not right after a new substrate bound.",
         "B": "Positive cooperativity means affinity increases with binding, doesn't decrease.",
         "C": "Affinity isn't simply proportional to occupied sites - it's not linear math."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'The affinity of the enzyme for the substrate is greater than with one substrate bound.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27The%20affinity%20of%20the%20enzyme%20for%20the%20substrate%20is%20greater%20than%20with%20one%20substrate%20bound.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -615,6 +727,10 @@
         "B": "TRUE - oxidoreductases (like dehydrogenases) are essential for metabolism's redox reactions.",
         "C": "TRUE - magnesium is a common cofactor for many enzymes, especially those using ATP.",
         "D": "TRUE - transferases move functional groups, essential in many metabolic pathways."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'Triacylglycerol acting as a coenzyme' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27Triacylglycerol%20acting%20as%20a%20coenzyme%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -636,6 +752,10 @@
         "A": "Enzymes denature at high temps, so enzyme-catalyzed reactions have LOWER optimal temperatures.",
         "C": "The ideal temperature depends on the ENZYME's stability, not just the reaction thermodynamics.",
         "D": "General principles apply - enzyme-catalyzed reactions always have lower optimal temps due to denaturation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'The ideal temperature is generally lower with a catalyst than without.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27The%20ideal%20temperature%20is%20generally%20lower%20with%20a%20catalyst%20than%20without.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -657,6 +777,10 @@
         "A": "At pH 2.5, all three proteins would be positively charged - no separation possible.",
         "B": "At pH 3.5, protein A is still slightly positive or neutral - poor separation from impurities.",
         "C": "At pH 4.5 (protein A's pI), protein A has no charge and won't migrate - it stays in the well."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why '5.5' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%275.5%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -678,6 +802,10 @@
         "A": "SDS doesn't stabilize the gel - it denatures and coats the proteins with negative charges.",
         "C": "SDS doesn't change pH - it's a detergent that binds to proteins and gives uniform charge.",
         "D": "SDS gives NEGATIVE charges (from its sulfate group), not positive charges."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'SDS solubilizes proteins to give them uniformly negative charges, so the separation is based purely on size.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27SDS%20solubilizes%20proteins%20to%20give%20them%20uniformly%20negative%20charges%2C%20so%20the%20separation%20is%20based%20purely%20on%20size.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -699,6 +827,10 @@
         "A": "Dynein is a motor protein that helps cells move by walking along microtubules.",
         "B": "Flagella are whip-like structures that propel cells - definitely involved in migration.",
         "C": "Actin forms the cell's skeleton and is crucial for cell crawling and movement."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Centrioles' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Centrioles%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -720,6 +852,10 @@
         "A": "Tubulin makes microtubules INSIDE cells - part of the cytoskeleton.",
         "B": "Myosin is a motor protein that works with actin INSIDE cells for muscle contraction.",
         "D": "Actin forms microfilaments INSIDE cells - key part of the internal cytoskeleton."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Collagen' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Collagen%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -741,6 +877,10 @@
         "A": "Ligand-gated ion channels provide direct 1:1 signaling - no amplification cascade.",
         "B": "G protein-coupled receptors DO use second messengers - but so do enzyme-linked receptors!",
         "D": "Ligand-gated channels don't amplify signals - they're not part of the strong hormone response."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'II and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27II%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -762,6 +902,10 @@
         "A": "Sodium must be FREE to create action potentials - can't be bound to proteins.",
         "B": "Potassium must be FREE to flow through channels during action potentials.",
         "C": "Chloride flows freely and is easily excreted - not typically protein-bound."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Calcium' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Calcium%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -783,6 +927,10 @@
         "B": "TRUE - opsonization! Antibodies tag pathogens for destruction by phagocytes.",
         "C": "TRUE - agglutination! Antibodies can cross-link multiple antigens, clumping them together.",
         "D": "TRUE - antibodies have the classic Y-shape with 2 heavy and 2 light chains."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Antibodies bind to more than one distinct antigen.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Antibodies%20bind%20to%20more%20than%20one%20distinct%20antigen.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -804,6 +952,10 @@
         "B": "Voltage-gated channels open during action potentials - they CHANGE the membrane potential.",
         "C": "Ligand-gated channels open when signaling molecules bind - for signal transduction, not rest.",
         "D": "Ion channels ARE needed - the Na+/K+ leak channels maintain the resting potential."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Ungated channels' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Ungated%20channels%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -825,6 +977,10 @@
         "A": "G-alpha IS a core component of all trimeric G proteins - it binds GDP/GTP.",
         "B": "G-beta IS a core component - it forms a stable dimer with G-gamma.",
         "C": "G-gamma IS a core component - always paired with G-beta in the beta-gamma complex."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Gi' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Gi%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -846,6 +1002,10 @@
         "A": "Ion-exchange separates by charge - but these proteins have nearly identical pI values!",
         "C": "Isoelectric focusing separates by pI - useless when pI values are so similar (6.3-6.6).",
         "D": "Native PAGE is for small samples and also depends on charge and size - chromatography handles large volumes better."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Size-exclusion chromatography' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Size-exclusion%20chromatography%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -867,6 +1027,10 @@
         "A": "Incomplete - both lysine AND arginine are basic amino acids that affect pI.",
         "B": "Glycine's hydrogen side chain has no ionizable group - it doesn't contribute to pI.",
         "D": "Glycine doesn't contribute to pI - its side chain is just a hydrogen atom."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'I and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27I%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -888,6 +1052,10 @@
         "A": "Larger pores wouldn't help - the magic is in the pH gradient, not pore size.",
         "B": "SDS-PAGE uses SDS for uniform charge - IEF uses pH gradient for charge-based separation.",
         "D": "The gel IS different - it contains immobilized pH gradient chemicals (ampholytes)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Isoelectric focusing uses a gel with a pH gradient that encourages a variable charge.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Isoelectric%20focusing%20uses%20a%20gel%20with%20a%20pH%20gradient%20that%20encourages%20a%20variable%20charge.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -909,6 +1077,10 @@
         "A": "Peptide bond planarity creates some UV absorption, but not enough for concentration measurements.",
         "B": "Light scattering would interfere with measurements, not help determine concentration.",
         "D": "Not all organic molecules absorb UV - you need conjugated double bonds or aromatic rings."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Proteins contain aromatic groups in certain amino acids.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Proteins%20contain%20aromatic%20groups%20in%20certain%20amino%20acids.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -930,6 +1102,10 @@
         "A": "Bradford assay measures protein concentration accurately - if it shows high protein, there IS protein.",
         "C": "The protein was collected (eluted) - it's not still stuck on the column.",
         "D": "If collected by affinity chromatography for this enzyme, it should catalyze the expected reaction."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'The active site is occupied by free ligand.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27The%20active%20site%20is%20occupied%20by%20free%20ligand.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -951,6 +1127,10 @@
         "B": "Sensitivity refers to detection limits, not controlled cleavage at specific sites.",
         "C": "Turnover is how fast an enzyme works - doesn't help with sequencing specificity.",
         "D": "Inhibition would PREVENT digestion - the opposite of what you need for sequencing."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Nonenzymatic Protein Function and Protein Analysis: Explain why 'Selectivity' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Nonenzymatic%20Protein%20Function%20and%20Protein%20Analysis%3A%20Explain%20why%20%27Selectivity%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -972,6 +1152,10 @@
         "A": "Aldoketose isn't a real term! Glucose is an aldose (aldehyde), not a ketose.",
         "B": "Pentose means 5 carbons - glucose has 6 carbons (hexose).",
         "C": "Glucose has 4 chiral carbons (C2, C3, C4, C5), not 5. The aldehyde C1 isn't chiral."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'is one of a group of 16 stereoisomers.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27is%20one%20of%20a%20group%20of%2016%20stereoisomers.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -993,6 +1177,10 @@
         "A": "TRUE - epimers are defined by differing at only ONE stereocenter.",
         "B": "TRUE - as diastereomers, epimers have different (not opposite) properties.",
         "C": "TRUE - epimers are diastereomers (except glyceraldehyde which only has one chiral center)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'they have equal but opposite optical activities.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27they%20have%20equal%20but%20opposite%20optical%20activities.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1014,6 +1202,10 @@
         "A": "Aldonic acids are already oxidized - they CAN'T be oxidized further at the aldehyde position.",
         "B": "Being reduced means gaining electrons - aldonic acids were oxidized, not reduced.",
         "D": "Reducing agents DONATE electrons - aldonic acids donated electrons when they were oxidized."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'have been oxidized, and have acted as reducing agents.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27have%20been%20oxidized%2C%20and%20have%20acted%20as%20reducing%20agents.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1035,6 +1227,10 @@
         "A": "Glycosidation is forming a glycosidic bond with another molecule - not isomerization.",
         "C": "Enantiomerization would flip ALL stereocenters - anomers only differ at C1.",
         "D": "Racemization creates a 50/50 mix of enantiomers - anomers aren't enantiomers."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'mutarotation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27mutarotation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1056,6 +1252,10 @@
         "B": "Ketone groups cannot be directly oxidized like aldehydes can - they need tautomerization first.",
         "C": "Anomerization is ring closure - it doesn't explain how ketoses become reducing sugars.",
         "D": "Reduction would ADD electrons to the ketose - that's not how reducing sugars work."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'Ketose sugars undergo tautomerization.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27Ketose%20sugars%20undergo%20tautomerization.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1084,6 +1284,10 @@
         "A": "Wrong carbon - check that the methoxy group is attached to the anomeric carbon (C1).",
         "C": "Wrong position - the methoxy group should be on C1, the anomeric carbon.",
         "D": "Too many carbons or wrong attachment point - glycoside forms specifically at the anomeric position."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'Methyl \u03b1-D-glucoside (an acetal)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27Methyl%20%CE%B1-D-glucoside%20%28an%20acetal%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1105,6 +1309,10 @@
         "A": "Alpha-amylase cuts randomly throughout the chain - produces a mix of products including glucose.",
         "C": "Debranching enzyme removes branch points - doesn't exclusively yield maltose.",
         "D": "Glycogen phosphorylase releases glucose-1-phosphate, not maltose."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why '\u03b2-Amylase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27%CE%B2-Amylase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1133,6 +1341,10 @@
         "A": "Check the orientation of hydroxyl groups - must match the Fischer projection rules.",
         "B": "Verify anomeric carbon configuration matches the beta form (equatorial -OH).",
         "D": "Ensure all substituents are correctly placed according to the right=down, left=up rule."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'The CH\u2082OH group will be above the ring plane' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27The%20CH%E2%82%82OH%20group%20will%20be%20above%20the%20ring%20plane%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1154,6 +1366,10 @@
         "A": "Metabolic preference doesn't determine which anomer forms more - thermodynamics does.",
         "C": "The ALPHA anomer is LESS stable due to axial -OH creating steric strain.",
         "D": "Alpha vs beta distribution is about stability, not D vs L configuration."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'The \u03b2-anomer undergoes less electron repulsion.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27The%20%CE%B2-anomer%20undergoes%20less%20electron%20repulsion.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1175,6 +1391,10 @@
         "A": "Cellulose uses beta-1,4 linkages - completely different from amylopectin's alpha linkages.",
         "B": "Amylose only has alpha-1,4 linkages - no branches (alpha-1,6) like glycogen has.",
         "C": "Amylose (unbranched, alpha-1,4) and cellulose (beta-1,4) have different linkage types."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'Glycogen and amylopectin' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27Glycogen%20and%20amylopectin%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1196,6 +1416,10 @@
         "A": "Lactose is glucose + galactose - two different monosaccharides.",
         "B": "Sucrose is glucose + fructose - two different monosaccharides.",
         "D": "Cellobiose is glucose + glucose but with BETA linkage - humans lack the enzyme to digest it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'Maltose' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27Maltose%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1218,6 +1442,10 @@
         "A": "The reaction shows ring OPENING from hemiacetal, not aldehyde formation from scratch.",
         "B": "Hemiketals form from ketones - glucose has an aldehyde, forming hemiacetal.",
         "D": "No glycosidic bond exists here - this is a monosaccharide undergoing ring opening/closing."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'mutarotation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27mutarotation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1246,6 +1474,10 @@
         "B": "Check C-4 stereochemistry - if it matches glucose, it's not the correct epimer.",
         "C": "Multiple stereocenters might be different - galactose only differs at C-4.",
         "D": "Verify that ONLY C-4 configuration is inverted from glucose."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'The hydroxyl at C-4 points in the opposite direction' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27The%20hydroxyl%20at%20C-4%20points%20in%20the%20opposite%20direction%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1267,6 +1499,10 @@
         "A": "TRUE - unbranched glycogen is less soluble because chains can pack together more tightly.",
         "B": "TRUE - glycogen phosphorylase needs branch points to work efficiently on multiple ends.",
         "C": "TRUE - branches allow more glucose storage per glycogen molecule."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'glycogen devoid of \u03b1-1,4 linkages.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27glycogen%20devoid%20of%20%CE%B1-1%2C4%20linkages.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1288,6 +1524,10 @@
         "A": "Only aldoses form hemiacetals - ketoses form hemiketals. Both occur!",
         "B": "Acetals have TWO -OR groups - cyclic sugars still have one -OH (hemiacetal/hemiketal).",
         "D": "Acetals don't form until glycosidic bonds form between sugars."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Structure and Function: Explain why 'I and II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Structure%20and%20Function%3A%20Explain%20why%20%27I%20and%20II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1309,6 +1549,10 @@
         "A": "Cerebroside = sphingosine + fatty acid + single sugar = definitely a glycolipid.",
         "B": "Globoside = sphingosine + fatty acid + multiple sugars = glycolipid.",
         "C": "Ganglioside = sphingosine + fatty acid + complex sugars including sialic acid = glycolipid."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'Sphingomyelin' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27Sphingomyelin%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1330,6 +1574,10 @@
         "A": "Condensation BUILDS triglycerides - saponification BREAKS them apart.",
         "C": "Strong BASE (NaOH, KOH), not acid, is used in saponification.",
         "D": "Albumin binding is for transport in blood - unrelated to soap making."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'triacylglycerols undergo ester hydrolysis.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27triacylglycerols%20undergo%20ester%20hydrolysis.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1351,6 +1599,10 @@
         "A": "Backwards! It's three 6-membered rings and one 5-membered ring.",
         "C": "The four-ring structure is CONSTANT in all steroids - only the substituents vary.",
         "D": "Steroids have FOUR rings, not three."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'Three cyclohexane rings, one cyclopentane ring' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27Three%20cyclohexane%20rings%2C%20one%20cyclopentane%20ring%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1372,6 +1624,10 @@
         "A": "Lysosomes are cellular organelles - not related to soap bubbles!",
         "C": "Phospholipid bilayers need two leaflets - micelles are single-layer spheres.",
         "D": "Hydrogen bonds help with water structure but don't explain soap bubble formation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'micelles.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27micelles.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1393,6 +1649,10 @@
         "A": "TRUE - steroid hormone receptors are highly specific for their hormone.",
         "B": "TRUE - steroids are made in endocrine glands and travel through blood to targets.",
         "D": "Correct statements I and II - steroid receptors (not hormones directly) bind DNA."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'I and II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27I%20and%20II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1414,6 +1674,10 @@
         "A": "Fats are hydrophobic = NOT hydrated! No water weight = more efficient storage.",
         "B": "Fatty acid chains vary in length - not always short, often 16-18 carbons.",
         "D": "Polysaccharides (glycogen) ARE used for storage - but fats are more energy-dense."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'The carbon atoms of the fatty acid chains are highly reduced and therefore yield more energy upon oxidation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27The%20carbon%20atoms%20of%20the%20fatty%20acid%20chains%20are%20highly%20reduced%20and%20therefore%20yield%20more%20energy%20upon%20oxidation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1435,6 +1699,10 @@
         "A": "Mix-up: Vitamin D is for calcium regulation, Vitamin E is the antioxidant.",
         "B": "Statements I and II are swapped - D is calcium, E is antioxidant.",
         "D": "Statement II is wrong - Vitamin E (not D) is the biological antioxidant."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'III and IV only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27III%20and%20IV%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1456,6 +1724,10 @@
         "A": "In nonpolar solvents, amphipathic molecules flip - hydrophilic heads go INSIDE!",
         "B": "This describes specific phospholipids - fatty acid salts are also amphipathic with one chain.",
         "D": "Glycerol backbone is specific to some lipids - fatty acid salts don't have glycerol."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'They are important to the formation of the phospholipid bilayer and soap bubbles.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27They%20are%20important%20to%20the%20formation%20of%20the%20phospholipid%20bilayer%20and%20soap%20bubbles.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1477,6 +1749,10 @@
         "A": "Sphingomyelin is a phospholipid, but glycosphingolipids are NOT - they have sugars instead.",
         "C": "Not all sphingolipids have sphingosine - some have related sphingoid bases.",
         "D": "Only statement III is correct - not all sphingolipids are phospholipids or have sphingosine."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1498,6 +1774,10 @@
         "A": "TRUE - saturation refers to the presence/absence of double bonds in fatty acid tails.",
         "B": "TRUE - membrane fluidity is directly affected by fatty acid saturation levels.",
         "D": "TRUE - saturated = all single bonds = maximum hydrogen atoms on carbons."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'More saturated fatty acids make for a more fluid solution.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27More%20saturated%20fatty%20acids%20make%20for%20a%20more%20fluid%20solution.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1519,6 +1799,10 @@
         "A": "Glycerophospholipids have glycerol backbone - sphingolipids have sphingosine. Never both!",
         "C": "Sphingolipids (not glycerophospholipids) determine ABO blood types.",
         "D": "Glycerophospholipids have TWO fatty acid tails, not one."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'Glycerophospholipids are merely a subset of phospholipids.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27Glycerophospholipids%20are%20merely%20a%20subset%20of%20phospholipids.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1540,6 +1824,10 @@
         "A": "TRUE - terpenes are volatile and often protective (like menthol, citronella).",
         "B": "TRUE - squalene (triterpene) is a precursor to cholesterol and steroids.",
         "D": "TRUE - terpenes are synthesized by plants and insects (essential oils, pheromones)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'A triterpene is made of three isoprene moieties, and therefore has 15 carbons.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27A%20triterpene%20is%20made%20of%20three%20isoprene%20moieties%2C%20and%20therefore%20has%2015%20carbons.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1561,6 +1849,10 @@
         "A": "Cholesterol can INCREASE or DECREASE fluidity depending on temperature - it's a buffer.",
         "C": "Cholesterol makes vitamin D, not vitamin A. Vitamin A comes from beta-carotene.",
         "D": "Cholesterol interacts with BOTH hydrophobic tails AND hydrophilic heads of phospholipids."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'Cholesterol is a steroid hormone precursor.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27Cholesterol%20is%20a%20steroid%20hormone%20precursor.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1582,6 +1874,10 @@
         "A": "TRUE - prostaglandins regulate cAMP through G-protein coupled receptors.",
         "B": "TRUE - NSAIDs (aspirin, ibuprofen) inhibit COX enzymes that make prostaglandins.",
         "C": "TRUE - prostaglandins mediate pain, inflammation, fever, and smooth muscle contraction."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'Prostaglandins are endocrine hormones, like steroid hormones.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27Prostaglandins%20are%20endocrine%20hormones%2C%20like%20steroid%20hormones.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1603,6 +1899,10 @@
         "A": "TRUE - waxes are solid at room temperature (that's why they're waxy!).",
         "C": "TRUE - waxes waterproof surfaces and provide barrier protection against parasites.",
         "D": "TRUE - waxes are esters formed from long-chain fatty acids and long-chain alcohols."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid Structure and Function: Explain why 'Waxes are produced only in plants and insects and therefore must be consumed by humans.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20Structure%20and%20Function%3A%20Explain%20why%20%27Waxes%20are%20produced%20only%20in%20plants%20and%20insects%20and%20therefore%20must%20be%20consumed%20by%20humans.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1624,6 +1924,10 @@
         "A": "Hydrogen bonds connect complementary BASES between two strands, not nucleotides within one strand.",
         "C": "Ionic bonds don't connect nucleotides - the sugar-phosphate backbone uses covalent phosphodiester bonds.",
         "D": "Van der Waals forces are weak attractions between bases - not the main structural bond."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'phosphodiester bonds.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27phosphodiester%20bonds.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1645,6 +1949,10 @@
         "A": "TRUE - cellular DNA is double-stranded, RNA is typically single-stranded.",
         "B": "TRUE - DNA has thymine (T), RNA has uracil (U) instead.",
         "C": "TRUE - DNA sugar lacks 2'-OH (deoxyribose), RNA has it (ribose)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'DNA strands replicate in a 5\u2032 to 3\u2032 direction, whereas RNA is synthesized in a 3\u2032 to 5\u2032 direction.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27DNA%20strands%20replicate%20in%20a%205%E2%80%B2%20to%203%E2%80%B2%20direction%2C%20whereas%20RNA%20is%20synthesized%20in%20a%203%E2%80%B2%20to%205%E2%80%B2%20direction.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1666,6 +1974,10 @@
         "B": "Count the G/C content - this sequence has more A/T, so lower melting temperature.",
         "C": "Even more A/T than B - lower melting temperature than A.",
         "D": "Highest A/T content - lowest melting temperature of all options."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'CGCAACCATCCG' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27CGCAACCATCCG%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1687,6 +1999,10 @@
         "A": "Proteins contain aromatic amino acids (Phe, Tyr, Trp) with benzene rings.",
         "B": "Purines (A, G) have fused aromatic rings - definitely aromatic!",
         "D": "Pyrimidines (C, T, U) have a single aromatic ring - aromatic!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'Carbohydrates' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27Carbohydrates%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1708,6 +2024,10 @@
         "A": "TRUE - aromatic compounds must be cyclic (ring structure).",
         "B": "TRUE - Huckel's rule: 4n+2 pi electrons for aromaticity.",
         "D": "TRUE - the ring must be planar for p-orbital overlap."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'the molecule contains alternating single and double bonds.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27the%20molecule%20contains%20alternating%20single%20and%20double%20bonds.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1729,6 +2049,10 @@
         "A": "Primase makes RNA primers to start DNA synthesis - definitely involved in replication.",
         "B": "DNA ligase joins Okazaki fragments on the lagging strand - essential for replication.",
         "D": "Telomerase extends telomeres at chromosome ends - crucial for complete replication."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'RNA polymerase I' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27RNA%20polymerase%20I%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1750,6 +2074,10 @@
         "A": "DNA doesn't have introns removed - that happens to RNA. cDNA is made FROM processed RNA.",
         "C": "dC is deoxycytidine - just a nucleotide, not cDNA.",
         "D": "Circular bacterial DNA is the chromosome or plasmid - not called cDNA."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'cDNA results from the reverse transcription of processed mRNA.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27cDNA%20results%20from%20the%20reverse%20transcription%20of%20processed%20mRNA.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1771,6 +2099,10 @@
         "B": "TRUE - primers must be complementary to sequences flanking the DNA region of interest.",
         "C": "TRUE - thermal cycling (heating/cooling) replaces the need for helicase to separate strands.",
         "D": "TRUE - each PCR cycle doubles the DNA, giving exponential amplification."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'Human DNA polymerase is used because it is the most accurate.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27Human%20DNA%20polymerase%20is%20used%20because%20it%20is%20the%20most%20accurate.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1792,6 +2124,10 @@
         "A": "TRUE but incomplete - restriction endonucleases cut DNA for gene therapy vector construction.",
         "B": "TRUE but incomplete - Southern blotting uses restriction enzymes to cut DNA before gel separation.",
         "C": "TRUE but incomplete - endonucleases are used in DNA repair to excise damaged sections."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1813,6 +2149,10 @@
         "A": "TRUE but incomplete - prokaryotes lack histones and nucleosomes.",
         "B": "TRUE but incomplete - only linear eukaryotic DNA has telomeres at chromosome ends.",
         "C": "TRUE but incomplete - prokaryotic and eukaryotic DNA polymerases are different enzymes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'I, II, and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1834,6 +2174,10 @@
         "A": "Uracil is actually easier to synthesize - that's not why it's excluded from DNA.",
         "B": "Uracil binds adenine with the same strength as thymine - binding isn't the issue.",
         "D": "Uracil isn't an activator - it's just a base that would confuse repair systems if used in DNA."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'Cytosine degradation results in uracil.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27Cytosine%20degradation%20results%20in%20uracil.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1855,6 +2199,10 @@
         "B": "Gain of function turns on oncogenes - tumor suppressors need to be LOST to cause cancer.",
         "C": "Overexpression would actually PREVENT cancer - more tumor suppressor = more growth control.",
         "D": "Proto-oncogenes become oncogenes when activated - tumor suppressors are different genes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'loss of function mutations.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27loss%20of%20function%20mutations.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1876,6 +2224,10 @@
         "A": "Gene sequencing is minimally invasive - usually just a cheek swab or blood sample.",
         "C": "Modern sequencing is highly accurate - low error rates.",
         "D": "False negatives are rare with good sequencing - the bigger issue is privacy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'Gene sequencing impacts relatives, thus privacy concerns may be raised.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27Gene%20sequencing%20impacts%20relatives%2C%20thus%20privacy%20concerns%20may%20be%20raised.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1897,6 +2249,10 @@
         "A": "TRUE - euchromatin can be transcribed, heterochromatin is generally silent.",
         "B": "TRUE - heterochromatin is densely packed, euchromatin is more open.",
         "C": "TRUE - dense heterochromatin stains darkly, open euchromatin stains lightly."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'Heterochromatin is found in the nucleus, whereas euchromatin is in the cytoplasm.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27Heterochromatin%20is%20found%20in%20the%20nucleus%2C%20whereas%20euchromatin%20is%20in%20the%20cytoplasm.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1918,6 +2274,10 @@
         "A": "G1 phase actively repairs damage before DNA replication begins in S phase.",
         "B": "S phase has proofreading during replication and mismatch repair.",
         "C": "G2 phase has checkpoint controls to catch any remaining errors before mitosis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - DNA and Biotechnology: Explain why 'M' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20DNA%20and%20Biotechnology%3A%20Explain%20why%20%27M%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1939,6 +2299,10 @@
         "A": "Initiation factors transport the first tRNA - peptidyl transferase just makes bonds.",
         "B": "Elongation factors help the ribosome move - peptidyl transferase is just for bond formation.",
         "C": "Chaperones help with protein folding - peptidyl transferase only makes peptide bonds."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'It catalyzes the formation of a peptide bond.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27It%20catalyzes%20the%20formation%20of%20a%20peptide%20bond.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1960,6 +2324,10 @@
         "A": "Operator mutation would INCREASE expression (repressor can't bind).",
         "B": "Regulatory gene mutation would INCREASE expression (no functional repressor made).",
         "D": "Structural gene mutation affects the enzyme, not its expression level."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'Promoter' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27Promoter%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1981,6 +2349,10 @@
         "B": "Post-transcriptional processing involves splicing, capping, tailing - not topoisomerases.",
         "C": "Translation uses ribosomes - topoisomerases work on DNA, not during protein synthesis.",
         "D": "Post-translational processing modifies proteins - topoisomerases work on DNA topology."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'DNA replication and transcription.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27DNA%20replication%20and%20transcription.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2003,6 +2375,10 @@
         "A": "CAU ends in AU, not AC - wouldn't pair correctly with valine codons.",
         "B": "AUC doesn't end in AC - wrong anticodon sequence.",
         "D": "GUG is actually a valine CODON, not an anticodon!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'UAC' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27UAC%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2024,6 +2400,10 @@
         "B": "Enhancers are gene-specific - they boost one promoter, not multiple promoters.",
         "C": "Spliceosomes work on RNA after transcription - enhancers work BEFORE transcription.",
         "D": "Transcription factors DO bind both enhancers AND RNA polymerase - that's how enhancers work."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'RNA polymerase at a single promoter site.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27RNA%20polymerase%20at%20a%20single%20promoter%20site.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2045,6 +2425,10 @@
         "A": "Silent mutation would give the same amino acid - UAG codes for STOP, not tyrosine.",
         "B": "Missense changes one amino acid to another - UAG is STOP, not an amino acid.",
         "D": "Frameshift requires insertion/deletion - this is a single base substitution."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'Nonsense mutation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27Nonsense%20mutation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2066,6 +2450,10 @@
         "A": "Gene duplication creates more copies of a gene - increases expression potential.",
         "B": "Histone acetylation opens up chromatin - INCREASES transcription.",
         "D": "Enhancers INCREASE transcription by recruiting transcription factors."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'DNA methylation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27DNA%20methylation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2087,6 +2475,10 @@
         "A": "Lack of tryptophan means the repressor CAN'T bind - transcription continues.",
         "C": "Lack of lactose means repressor IS bound - blocks transcription (opposite of our scenario).",
         "D": "Abundance of lactose removes the repressor - this is an inducible system, not repressible."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'trp operon during abundance of tryptophan' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27trp%20operon%20during%20abundance%20of%20tryptophan%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2108,6 +2500,10 @@
         "A": "snRNA (small nuclear RNA) IS part of the spliceosome - helps recognize splice sites.",
         "B": "hnRNA (heterogeneous nuclear RNA) IS the pre-mRNA being spliced.",
         "D": "snRNPs (small nuclear ribonucleoproteins) ARE the spliceosome components."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'shRNA' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27shRNA%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2130,6 +2526,10 @@
         "B": "Looking at the codon table, the lost codon (UUU) codes for phenylalanine, not leucine.",
         "C": "Deleting exactly 3 bases maintains the reading frame - C-terminus sequence unchanged.",
         "D": "Phenylalanine (not leucine) is lost, and the reading frame is preserved."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'Deletion of a phenylalanine residue with no change in the C-terminus sequence' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27Deletion%20of%20a%20phenylalanine%20residue%20with%20no%20change%20in%20the%20C-terminus%20sequence%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2151,6 +2551,10 @@
         "A": "150 is the number of amino acids, not nucleotides.",
         "C": "650 incorrectly includes UTRs - they don't get translated.",
         "D": "1750 incorrectly includes introns - they're spliced out before translation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why '450' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27450%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2172,6 +2576,10 @@
         "A": "Ester bonds have C=O connected to O, not N - found in fats, not proteins.",
         "C": "Anhydride bonds link two carbonyl groups - like in ATP, not peptides.",
         "D": "Ether bonds are C-O-C without a carbonyl - found in carbohydrates, not peptides."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'Amide' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27Amide%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2193,6 +2601,10 @@
         "B": "tRNA is made by RNA polymerase III, not I.",
         "C": "snRNA is made by RNA polymerase II (it's processed like mRNA).",
         "D": "hnRNA (pre-mRNA) is made by RNA polymerase II, not I."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'rRNA' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27rRNA%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2214,6 +2626,10 @@
         "A": "This sequence is complementary but in the wrong direction - check the 5' and 3' ends.",
         "C": "This has thymine instead of uracil - it would be DNA, not mRNA!",
         "D": "This has thymine and wrong orientation - needs to be RNA with correct polarity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why '5\u2032\u2014GGAUGUCUCAAAGA\u20143\u2032' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%275%E2%80%B2%E2%80%94GGAUGUCUCAAAGA%E2%80%943%E2%80%B2%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2235,6 +2651,10 @@
         "A": "Identical mRNA has the same sequence - it won't bind complementarily.",
         "C": "DNA bases (with thymine) wouldn't base-pair properly with RNA uracil.",
         "D": "Sense mRNA is the same direction as the original - won't form double-stranded RNA."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'Antisense mRNA to the one produced' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27Antisense%20mRNA%20to%20the%20one%20produced%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2256,6 +2676,10 @@
         "A": "Active transport requires energy (ATP) - the question says no energy required.",
         "B": "Simple diffusion can't move large polar molecules through the hydrophobic membrane.",
         "D": "Exocytosis is for secretion, requires energy, and uses vesicles."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'Facilitated diffusion' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27Facilitated%20diffusion%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2277,6 +2701,10 @@
         "A": "This question is about sodium/potassium, not calcium.",
         "B": "Na+ would build up INSIDE (not pumped out), K+ would be low inside (not pumped in).",
         "D": "Na+ would INCREASE inside when the pump is blocked - it can't be pumped out."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'Treatment with ouabain increases intracellular concentrations of sodium.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27Treatment%20with%20ouabain%20increases%20intracellular%20concentrations%20of%20sodium.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2298,6 +2726,10 @@
         "A": "True but incomplete - differential distribution alone isn't enough without pumps and channels.",
         "B": "True for I and III but active transport (II) is also essential to maintain gradients.",
         "C": "True for II and III but differential ion distribution (I) is also required."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2319,6 +2751,10 @@
         "A": "TRUE - membrane proteins anchor to the cytoskeleton through the membrane.",
         "C": "TRUE - channels, transporters, and the lipid bilayer regulate what crosses.",
         "D": "TRUE - phospholipids like PIP2 are cleaved to make second messengers."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'Protein synthesis' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27Protein%20synthesis%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2340,6 +2776,10 @@
         "B": "Flip-flop (transverse movement) is slow - polar heads must cross hydrophobic interior.",
         "C": "Proteins are much larger and move more slowly than small phospholipids.",
         "D": "Exocytosis involves vesicles and membranes - much slower than lateral lipid movement."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'phospholipids moving within the plane of the membrane.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27phospholipids%20moving%20within%20the%20plane%20of%20the%20membrane.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2361,6 +2801,10 @@
         "A": "Unsaturated lipids have kinks that INCREASE fluidity.",
         "C": "Cholesterol acts as a fluidity buffer - prevents extremes in both directions.",
         "D": "Unsaturated sphingolipids also have kinks that increase fluidity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'trans glycerophospholipids' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27trans%20glycerophospholipids%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2382,6 +2826,10 @@
         "A": "Embedded proteins might not span the whole membrane - receptors need to reach both sides.",
         "B": "Sequestration activity is for binding/holding molecules, not signal transduction.",
         "C": "Membrane-associated proteins are on the surface - receptors need to be transmembrane."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'transmembrane protein with catalytic activity.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27transmembrane%20protein%20with%20catalytic%20activity.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2403,6 +2851,10 @@
         "A": "Desmosomes ARE animal cell junctions - they anchor cells together like spot welds.",
         "B": "Gap junctions ARE animal cell junctions - they allow direct cell-to-cell communication.",
         "D": "Tight junctions ARE animal cell junctions - they seal cells together to prevent leaks."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'Plasmodesmata' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27Plasmodesmata%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2424,6 +2876,10 @@
         "B": "Each molecule only 'sees' its own concentration gradient, not all compounds.",
         "C": "With one solute, water moves toward high solute (osmosis) while solute moves toward low solute (diffusion) - opposite directions!",
         "D": "Diffusion and osmosis absolutely can (and do) occur simultaneously."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'Diffusion and osmosis rely on the concentration gradient of only the compound of interest.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27Diffusion%20and%20osmosis%20rely%20on%20the%20concentration%20gradient%20of%20only%20the%20compound%20of%20interest.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2445,6 +2901,10 @@
         "A": "Phagocytosis is cell EATING - taking in SOLIDS, not liquids.",
         "C": "Exocytosis is the opposite - releasing materials OUT of the cell.",
         "D": "Drinking is the macroscopic term - pinocytosis is the cellular process."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'pinocytosis.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27pinocytosis.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2466,6 +2926,10 @@
         "A": "-70 mV is a typical resting membrane potential for neurons.",
         "B": "-55 mV is close to threshold potential - possible for some cells.",
         "D": "+35 mV is during action potential peak - not resting, but a real membrane state."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why '0 mV' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%270%20mV%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2487,6 +2951,10 @@
         "A": "The OUTER membrane is more permeable (has porins), not the inner.",
         "C": "Inner membrane is LESS permeable, not more.",
         "D": "Inner membrane LACKS cholesterol, which is unusual for membranes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'The inner mitochondrial membrane is less permeable and lacks cholesterol.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27The%20inner%20mitochondrial%20membrane%20is%20less%20permeable%20and%20lacks%20cholesterol.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2508,6 +2976,10 @@
         "A": "Sign is wrong - more cation outside creates positive equilibrium potential.",
         "B": "This would be for a monovalent ion - calcium is divalent (z=2).",
         "C": "Magnitude is wrong - need to account for z=2 in the Nernst equation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why '+123 mV' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27%2B123%20mV%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2529,6 +3001,10 @@
         "B": "TRUE - 'mosaic' refers to the mix of lipids, proteins, and carbohydrates.",
         "C": "TRUE - hydrophobic interactions between fatty acid tails hold the bilayer together.",
         "D": "TRUE - proteins are unevenly distributed, giving membrane asymmetry."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'The cell membrane is static in structure.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27The%20cell%20membrane%20is%20static%20in%20structure.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2550,6 +3026,10 @@
         "A": "Lecithin (phosphatidylcholine) has a GLYCEROL backbone - it's a glycerophospholipid.",
         "B": "Phosphatidylinositol has a GLYCEROL backbone - it's a glycerophospholipid.",
         "C": "Cholesterol is a STEROL with a 4-ring structure - not a sphingolipid."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Biological Membranes: Explain why 'Ganglioside' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Biological%20Membranes%3A%20Explain%20why%20%27Ganglioside%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2571,6 +3051,10 @@
         "A": "GLUT 1 is for basal glucose uptake - found in most cells, not specialized for high glucose.",
         "C": "GLUT 3 is in neurons - high affinity (low Km) for constant glucose supply.",
         "D": "GLUT 4 is insulin-responsive in muscle/fat - not in liver or pancreatic sensing."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'GLUT 2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27GLUT%202%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2592,6 +3076,10 @@
         "A": "RBCs have no mitochondria - they depend 100% on blood glucose for glycolysis.",
         "B": "Brain requires constant glucose (though it can use ketones in starvation).",
         "C": "Pancreas needs glucose to sense blood sugar levels and regulate insulin."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Liver' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Liver%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2613,6 +3101,10 @@
         "A": "GLUT 1 is insulin-independent - always present for basal glucose uptake.",
         "B": "GLUT 2 is in liver/pancreas - not insulin-responsive.",
         "C": "GLUT 3 is in neurons - not insulin-responsive."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'GLUT 4' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27GLUT%204%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2634,6 +3126,10 @@
         "A": "Malate dehydrogenase is active in both fed and fasted states (citric acid cycle).",
         "C": "Alpha-ketoglutarate dehydrogenase stays active in citric acid cycle.",
         "D": "PFK-1 would still function in tissues doing glycolysis with gluconeogenic glucose."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Glucokinase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Glucokinase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2655,6 +3151,10 @@
         "A": "Hexokinase traps glucose by adding the first phosphate - can't escape after that!",
         "B": "Galactokinase traps galactose by phosphorylation.",
         "D": "Fructokinase traps fructose by phosphorylation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Phosphofructokinase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Phosphofructokinase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2676,6 +3176,10 @@
         "A": "PEP is made FROM oxaloacetate, not directly from pyruvate.",
         "B": "High acetyl-CoA INHIBITS pyruvate dehydrogenase - no need for more acetyl-CoA.",
         "D": "Lactate forms during anaerobic conditions - beta-oxidation means plenty of oxygen."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'carboxylated to oxaloacetate for entry into gluconeogenesis.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27carboxylated%20to%20oxaloacetate%20for%20entry%20into%20gluconeogenesis.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2697,6 +3201,10 @@
         "A": "Glycogen phosphorylase works on alpha-1,4 bonds and stops 4 residues from a branch - it's working.",
         "B": "Branching enzyme ADDS branches during synthesis - not involved in breakdown.",
         "C": "Transferase moves blocks of glucose near branches - it's working (only 1 glucose left at branches)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why '\u03b1-1,6 glucosidase (part of debranching enzyme complex).' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27%CE%B1-1%2C6%20glucosidase%20%28part%20of%20debranching%20enzyme%20complex%29.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2718,6 +3226,10 @@
         "A": "Fructose-2,6-bisphosphatase is regulated by glucagon/insulin, not directly by citrate.",
         "B": "Isocitrate dehydrogenase is in mitochondria with the citrate - citrate is its substrate, not inhibitor.",
         "D": "Pyruvate carboxylase is ACTIVATED by acetyl-CoA, not inhibited by citrate."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Phosphofructokinase-1' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Phosphofructokinase-1%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2739,6 +3251,10 @@
         "A": "ADP would be HIGH (ATP used up), and that actually ACTIVATES PDH through its kinase.",
         "B": "High acetyl-CoA INHIBITS PDH - negative feedback.",
         "C": "High NADH/NAD+ ratio INHIBITS PDH - indicates cell has enough energy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'increased pyruvate concentration.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27increased%20pyruvate%20concentration.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2760,6 +3276,10 @@
         "A": "Lactose breaks down to glucose and galactose - both go through PFK-1.",
         "C": "Glucose enters at the top of glycolysis - definitely goes through PFK-1.",
         "D": "Galactose is converted to glucose-6-P - goes through PFK-1."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Fructose' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Fructose%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2781,6 +3301,10 @@
         "A": "F-1,6-BPase is gluconeogenesis - wouldn't cause hemolysis.",
         "C": "Hexokinase deficiency would affect glycolysis - different symptoms.",
         "D": "Pyruvate kinase deficiency also causes hemolysis but for different reasons (energy deficit)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Glucose-6-phosphate dehydrogenase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Glucose-6-phosphate%20dehydrogenase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2802,6 +3326,10 @@
         "B": "Pyruvate dehydrogenase isn't technically glycolysis - it's the link to citric acid cycle.",
         "C": "Hexokinase's reverse is glucose-6-phosphatase, not glucokinase (that's just liver hexokinase).",
         "D": "Pyruvate kinase's reverse is pyruvate carboxylase + PEPCK, not G6Pase."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Phosphofructokinase-1 / fructose-1,6-bisphosphatase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Phosphofructokinase-1%20/%20fructose-1%2C6-bisphosphatase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2823,6 +3351,10 @@
         "A": "Glycolysis rate in liver actually decreases to spare glucose for other tissues.",
         "C": "Glycogenesis (glycogen synthesis) is for the FED state - it would be suppressed during fasting.",
         "D": "Glycerol synthesis is for fat storage - not a fasting priority."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Glycogenolysis' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Glycogenolysis%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2844,6 +3376,10 @@
         "B": "Decreased ratio would mean fewer 1,4 or more 1,6 - but we have normal 1,4 and ZERO 1,6.",
         "C": "There IS a difference - glycogen has very different structure without branches.",
         "D": "We CAN determine - the math clearly shows elevated ratio."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'Elevated' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27Elevated%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2865,6 +3401,10 @@
         "B": "TRUE - glycogen synthase IS the rate-limiting step of glycogen synthesis.",
         "C": "TRUE - G6PD IS the rate-limiting step of pentose phosphate pathway.",
         "D": "TRUE - F-1,6-BPase IS the rate-limiting step of gluconeogenesis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism I: Glycolysis, Glycogen, Gluconeogenesis, and the Pentose Phosphate Pathway: Explain why 'hexokinase.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20I%3A%20Glycolysis%2C%20Glycogen%2C%20Gluconeogenesis%2C%20and%20the%20Pentose%20Phosphate%20Pathway%3A%20Explain%20why%20%27hexokinase.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2886,6 +3426,10 @@
         "A": "Succinate dehydrogenase is in citric acid cycle AND ETC - both need oxygen.",
         "C": "Isocitrate dehydrogenase is in citric acid cycle - needs oxygen for net ATP production.",
         "D": "Pyruvate dehydrogenase links glycolysis to citric acid cycle - aerobic process."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Phosphofructokinase-1' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Phosphofructokinase-1%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2907,6 +3451,10 @@
         "A": "ATP levels DECREASE - protons bypass ATP synthase.",
         "C": "ATP synthase activity DECREASES - less proton gradient to drive it.",
         "D": "PDH activity INCREASES - body needs more fuel to compensate for wasted protons."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Increased oxygen utilization' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Increased%20oxygen%20utilization%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2928,6 +3476,10 @@
         "A": "TRUE - glycolysis occurs in the cytoplasm/cytosol.",
         "C": "TRUE - ATP is made in cytosol (glycolysis) and mitochondria (oxidative phosphorylation).",
         "D": "TRUE - electron transport chain is on inner mitochondrial membrane."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Citric acid cycle\u2014outer mitochondrial membrane' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Citric%20acid%20cycle%E2%80%94outer%20mitochondrial%20membrane%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2949,6 +3501,10 @@
         "A": "Pyruvate decarboxylation produces acetyl-CoA - this reaction USES acetyl-CoA.",
         "B": "Fermentation produces lactate or ethanol, not CO2 and reduced carriers.",
         "D": "ETC uses NADH/FADH2 as inputs - this reaction PRODUCES them."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Tricarboxylic acid cycle' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Tricarboxylic%20acid%20cycle%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2970,6 +3526,10 @@
         "B": "Glycolysis makes 2 ATP without oxygen - oxygen isn't needed for ALL ATP synthesis.",
         "C": "Water is PRODUCED (2H+ + 2e- + 1/2 O2 -> H2O), not consumed.",
         "D": "Substrate-level phosphorylation in glycolysis doesn't need the proton gradient."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'oxygen is the final electron acceptor.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27oxygen%20is%20the%20final%20electron%20acceptor.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2991,6 +3551,10 @@
         "A": "Glycerol comes from fat breakdown but is the backbone, not the fatty acids themselves.",
         "B": "Adipose tissue STORES fats - it's not the form fatty acids take for catabolism.",
         "D": "Ketone bodies are MADE FROM acetyl-CoA, not the form fatty acids directly become."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'acetyl-CoA.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27acetyl-CoA.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3012,6 +3576,10 @@
         "A": "TRUE - pyruvate decarboxylation by PDH complex produces acetyl-CoA.",
         "B": "TRUE - ketogenic amino acids are broken down to acetyl-CoA.",
         "D": "TRUE - alcohol metabolism produces acetyl-CoA (through acetaldehyde)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Reduction of fatty acids' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Reduction%20of%20fatty%20acids%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3033,6 +3601,10 @@
         "A": "The matrix is inside - cytochrome c is in the intermembrane space, associated with inner membrane.",
         "B": "Outer membrane is too far from ETC complexes - cytochrome c needs to be near III and IV.",
         "D": "Cytosol is completely outside mitochondria - way too far from the ETC."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Inner mitochondrial membrane' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Inner%20mitochondrial%20membrane%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3054,6 +3626,10 @@
         "A": "1 ATP from FADH2 is too low - it's 1.5 ATP.",
         "C": "3 ATP from NADH is the old number - modern calculation is 2.5 ATP.",
         "D": "3.5 ATP from NADH is too high - it's 2.5 ATP."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'FADH2 \u2192 1.5 ATP' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27FADH2%20%E2%86%92%201.5%20ATP%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3075,6 +3651,10 @@
         "A": "Oxygen conservation isn't the reason - thioesters have better energetics.",
         "C": "Regular ester hydrolysis definitely occurs in vivo - it's just less energetic.",
         "D": "Thioester HYDROLYSIS releases more energy - FORMATION requires energy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Thioester hydrolysis has a higher energy yield.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Thioester%20hydrolysis%20has%20a%20higher%20energy%20yield.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3096,6 +3676,10 @@
         "A": "Phosphatases REMOVE phosphates - we need to ADD one to GDP.",
         "C": "Isocitrate dehydrogenase is a citric acid cycle enzyme - makes NADH and CO2.",
         "D": "Pyruvate dehydrogenase converts pyruvate to acetyl-CoA - not related to GTP."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Nucleosidediphosphate kinase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Nucleosidediphosphate%20kinase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3117,6 +3701,10 @@
         "A": "Not ALWAYS - malate-aspartate shuttle preserves full NADH energy.",
         "B": "NADH itself doesn't cross the membrane - electrons are shuttled by carrier molecules.",
         "D": "No energy cost for transport - the difference is which shuttle pathway is used."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Electron transfer from cytosol to matrix can take more than one pathway.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Electron%20transfer%20from%20cytosol%20to%20matrix%20can%20take%20more%20than%20one%20pathway.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3138,6 +3726,10 @@
         "B": "Uncoupling definitely affects energy balance - glycogen will be mobilized.",
         "C": "Can't store more glycogen when you're burning everything trying to make ATP!",
         "D": "All cells with glycogen will deplete it - the effect is consistent."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'It causes depletion of glycogen stores.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27It%20causes%20depletion%20of%20glycogen%20stores.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3159,6 +3751,10 @@
         "A": "Complex I pumps 4 H+ across the inner membrane.",
         "C": "Complex III pumps 4 H+ across the inner membrane.",
         "D": "Complex IV pumps 2 H+ across the inner membrane."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'Complex II' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27Complex%20II%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3180,6 +3776,10 @@
         "A": "ETC transfers electrons and CREATES the gradient - but the gradient directly makes ATP.",
         "C": "Acetyl-CoA oxidation produces NADH/FADH2 - still one step removed from ATP synthesis.",
         "D": "Beta-oxidation produces acetyl-CoA and NADH/FADH2 - even further upstream."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Carbohydrate Metabolism II: Aerobic Respiration: Explain why 'An electrochemical proton gradient' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Carbohydrate%20Metabolism%20II%3A%20Aerobic%20Respiration%3A%20Explain%20why%20%27An%20electrochemical%20proton%20gradient%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3201,6 +3801,10 @@
         "A": "Insulin DIRECTLY inhibits HSL - when insulin is low, HSL becomes active.",
         "C": "Epinephrine DIRECTLY activates HSL through cAMP signaling.",
         "D": "Cortisol DIRECTLY activates HSL for stress-induced fat mobilization."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'Glucagon' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27Glucagon%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3222,6 +3826,10 @@
         "B": "Chylomicrons enter LYMPH first, then blood - not directly into circulation.",
         "C": "Long-chain FAs need chylomicrons - they can't just diffuse across cells.",
         "D": "Long-chain FAs take the lymphatic route, not direct blood entry."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'Transport into chylomicrons released into the lymphatic system' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27Transport%20into%20chylomicrons%20released%20into%20the%20lymphatic%20system%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3243,6 +3851,10 @@
         "A": "True but incomplete - HSL activation leads to fatty acid release too.",
         "B": "Adipocytes CANNOT do gluconeogenesis - they lack key enzymes.",
         "D": "Adipocytes can't do gluconeogenesis (III is false)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'I and II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27I%20and%20II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3264,6 +3876,10 @@
         "A": "Both contain apolipoproteins - they're both lipoproteins!",
         "C": "Both primarily transport triglycerides - LDL is the main cholesterol carrier.",
         "D": "Chylomicron remnants are processed in the liver - VLDL is a different particle entirely."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'Chylomicrons are synthesized in the intestine, VLDL are synthesized in the liver.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27Chylomicrons%20are%20synthesized%20in%20the%20intestine%2C%20VLDL%20are%20synthesized%20in%20the%20liver.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3285,6 +3901,10 @@
         "A": "True but incomplete - apolipoproteins also enable uptake and cholesterol transfer.",
         "B": "True but incomplete - secretion and cholesterol transfer also need apolipoproteins.",
         "C": "True but incomplete - cholesterol transfer (III) also requires apolipoproteins."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3306,6 +3926,10 @@
         "B": "Triglycerides are different from cholesterol - statins target cholesterol synthesis.",
         "C": "Statins would WORSEN low cholesterol - they're for high cholesterol.",
         "D": "Statins affect cholesterol, not directly fat storage or obesity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'hypercholesterolemia (high cholesterol).' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27hypercholesterolemia%20%28high%20cholesterol%29.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3327,6 +3951,10 @@
         "B": "HMG-CoA reductase produces cholesterol - LCAT modifies it.",
         "C": "CETP (cholesteryl ester transfer protein) transfers esters - LCAT makes them.",
         "D": "Cholesterol transfer is done by CETP - LCAT esterifies cholesterol."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'LCAT catalyzes the production of cholesteryl esters.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27LCAT%20catalyzes%20the%20production%20of%20cholesteryl%20esters.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3348,6 +3976,10 @@
         "A": "12:0 (lauric acid) requires shortening palmitate - humans can't do this efficiently.",
         "C": "16:1 needs desaturase to add double bond - though humans can do this, it's modifying 16:0.",
         "D": "18:3 (alpha-linolenic acid) is an ESSENTIAL fatty acid - must be eaten!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why '16:0' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%2716%3A0%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3369,6 +4001,10 @@
         "A": "Missing the activation step and bond formation.",
         "B": "Activation comes before bond formation, not reduction first.",
         "D": "The first step after bond formation is REDUCTION, not oxidation - we're building, not breaking!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'Activation followed by bond formation, reduction, dehydration, and reduction' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27Activation%20followed%20by%20bond%20formation%2C%20reduction%2C%20dehydration%2C%20and%20reduction%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3390,6 +4026,10 @@
         "A": "Peroxisomes do beta-oxidation of very long chains - ketogenesis is in mitochondria.",
         "B": "Acetone is NOT used for energy - it's exhaled (fruity breath in diabetic ketoacidosis).",
         "D": "Muscles use ketones before brain does - brain only switches when ketones are abundant."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'Ketone bodies are produced in the mitochondria of liver cells after prolonged fasting.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27Ketone%20bodies%20are%20produced%20in%20the%20mitochondria%20of%20liver%20cells%20after%20prolonged%20fasting.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3411,6 +4051,10 @@
         "A": "Adipocytes store fat but don't synthesize most of it - they receive it from liver.",
         "B": "Dietary fat is significant but less than liver synthesis in the fed state.",
         "C": "Ketone bodies are used for energy, not converted to triglycerides."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'synthesis in the liver.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27synthesis%20in%20the%20liver.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3432,6 +4076,10 @@
         "A": "Saturated fatty acids have no double bonds - don't need dienoyl reductase.",
         "B": "Monounsaturated FAs have one double bond - only need isomerase.",
         "D": "Cholesterol oxidation uses different pathways (cytochrome P450)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'polyunsaturated fatty acids.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27polyunsaturated%20fatty%20acids.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3453,6 +4101,10 @@
         "A": "Ketolysis occurs in brain AND muscle - not only brain.",
         "B": "Liver MAKES ketones but CANNOT break them down - lacks thiolase for this.",
         "D": "Ketolysis DECREASES glucose need - ketones substitute for glucose."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'Ketolysis generates acetyl-CoA.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27Ketolysis%20generates%20acetyl-CoA.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3474,6 +4126,10 @@
         "A": "Glycine is tiny (just H side chain) - minimal energy contribution.",
         "B": "Alanine has a small methyl group - less energy than isoleucine.",
         "C": "Valine is larger than alanine but smaller than isoleucine, and only glucogenic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'Isoleucine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27Isoleucine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3495,6 +4151,10 @@
         "B": "TRUE - gluconeogenesis from amino acids produces glucose during starvation.",
         "C": "TRUE - excess acetyl-CoA from amino acids makes acetoacetate.",
         "D": "TRUE - acetoacetate can be reduced to 3-hydroxybutyrate."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Lipid and Amino Acid Metabolism: Explain why 'Fatty acids' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Lipid%20and%20Amino%20Acid%20Metabolism%3A%20Explain%20why%20%27Fatty%20acids%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3516,6 +4176,10 @@
         "A": "TRUE - adding heat increases internal energy in a closed system.",
         "B": "TRUE - heat increases molecular motion (kinetic energy of molecules).",
         "D": "TRUE - at constant pressure, added heat equals increased enthalpy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'cause the system to do work to maintain a fixed internal energy.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27cause%20the%20system%20to%20do%20work%20to%20maintain%20a%20fixed%20internal%20energy.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3537,6 +4201,10 @@
         "A": "delta G is LESS than delta G* when Q < 1 (low product concentration).",
         "C": "Negative delta G means spontaneous, not nonspontaneous.",
         "D": "delta G is less (more negative), and reaction IS spontaneous."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why '\u0394G is less than \u0394G\u00b0, thus the reaction is spontaneous.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27%CE%94G%20is%20less%20than%20%CE%94G%C2%B0%2C%20thus%20the%20reaction%20is%20spontaneous.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3558,6 +4226,10 @@
         "A": "ATP hydrolysis IS pH-dependent - protonation affects the negative charge repulsion.",
         "B": "One creatine phosphate = one ADP phosphorylated. Not enough energy for two.",
         "D": "Two hydrolysis reactions give AMP (adenosine MONOphosphate), not cyclic AMP."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'The free energy of hydrolysis of ATP is nearly the same as for ADP.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27The%20free%20energy%20of%20hydrolysis%20of%20ATP%20is%20nearly%20the%20same%20as%20for%20ADP.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3579,6 +4251,10 @@
         "B": "NADPH losing an electron is OXIDATION, not reduction.",
         "C": "NADP+ gaining electrons forms NADPH - this is in pentose phosphate pathway, not ETC.",
         "D": "Ubiquinone to ubiquinol is a mid-chain step, not the FINAL electron acceptor."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'O2+ 4e\u2013+ 4 H+\u21922 H2O' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27O2%2B%204e%E2%80%93%2B%204%20H%2B%E2%86%922%20H2O%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3600,6 +4276,10 @@
         "A": "ATP gains/loses phosphate groups - not typically oxidized/reduced.",
         "C": "Regulatory enzymes are phosphorylated/dephosphorylated - not redox reactions.",
         "D": "Peptide hormones signal through receptors - not involved in electron transfer."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'electron carriers.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27electron%20carriers.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3621,6 +4301,10 @@
         "A": "Absorptive is during/right after eating - one missed meal ends this.",
         "C": "Starvation requires days of fasting with protein breakdown and ketosis.",
         "D": "Vegetative state is a neurological condition, not a metabolic state."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'Postabsorptive' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27Postabsorptive%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3642,6 +4326,10 @@
         "A": "Liver uses glucose and amino acids in fed state - ketones are for fasting.",
         "B": "Adipose tissue uses glucose in fed state - storing fat, not burning it.",
         "C": "Brain uses glucose (not amino acids) - it can use ketones only in prolonged fasting."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'Cardiac muscle - fatty acids' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27Cardiac%20muscle%20-%20fatty%20acids%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3663,6 +4351,10 @@
         "B": "Hormones are systemic (travel in blood to whole body), not local.",
         "C": "Hormonal control IS systemic, but involves covalent (not noncovalent) modification.",
         "D": "Hormones are neither local nor noncovalent - they're systemic and covalent."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'Hormonal control is systemic and covalent.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27Hormonal%20control%20is%20systemic%20and%20covalent.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3684,6 +4376,10 @@
         "A": "Active muscle has insulin-INDEPENDENT glucose uptake via contraction-activated pathways.",
         "C": "Cardiac muscle preferentially uses fatty acids - less dependent on insulin.",
         "D": "Smooth muscle has various energy sources - not the most insulin-dependent."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'Resting skeletal muscle' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27Resting%20skeletal%20muscle%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3705,6 +4401,10 @@
         "A": "Glucocorticoids don't directly increase appetite - that's more ghrelin/neuropeptide Y.",
         "B": "Glucocorticoids ARE catabolic initially but the insulin response causes fat storage.",
         "D": "Leptin receptor interference is not the main mechanism of glucocorticoid weight gain."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'they increase glucose levels, which causes insulin secretion.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27they%20increase%20glucose%20levels%2C%20which%20causes%20insulin%20secretion.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3726,6 +4426,10 @@
         "A": "Skin has low metabolic demands and can tolerate reduced oxygen longer.",
         "C": "RBCs don't use oxygen themselves - they carry it! They use glycolysis anaerobically.",
         "D": "Liver has high metabolism but also significant glycogen stores and regenerative capacity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'Brain' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27Brain%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3747,6 +4451,10 @@
         "A": "Carbohydrates have RQ of 1.0 - equal O2 consumed and CO2 produced.",
         "C": "Nucleic acids don't significantly contribute to respiratory quotient.",
         "D": "Amino acids have RQ around 0.8-0.9, not 0.7."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'Lipids' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27Lipids%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3768,6 +4476,10 @@
         "B": "Leptin DECREASES appetite - it's a satiety signal.",
         "C": "Leptin-related drowsiness isn't really irritability - more like fatigue.",
         "D": "Leptin doesn't cause fever - it's not an inflammatory signal."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'Drowsiness' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27Drowsiness%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3789,6 +4501,10 @@
         "A": "TRUE - growth hormone is part of glucose counterregulation with glucagon and cortisol.",
         "B": "TRUE - T4 must be converted to T3 (more active form), so it acts more slowly.",
         "D": "TRUE - catecholamines (epi/norepi) activate sympathetic 'fight or flight' response."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'ATP stores are turned over more than 10,000 times daily.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27ATP%20stores%20are%20turned%20over%20more%20than%2010%2C000%20times%20daily.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3810,6 +4526,10 @@
         "A": "Ketone use by brain is LATE in starvation - days, not earliest.",
         "B": "Glycogen storage halt requires enzyme regulation first - it's the second step.",
         "C": "Protein breakdown is intermediate - after glycogen depletion, before major ketosis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biochemistry - Bioenergetics and Regulation of Metabolism: Explain why 'Enzyme phosphorylation and dephosphorylation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Bioenergetics%20and%20Regulation%20of%20Metabolism%3A%20Explain%20why%20%27Enzyme%20phosphorylation%20and%20dephosphorylation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     }
   ]

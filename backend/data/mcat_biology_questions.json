@@ -26,6 +26,10 @@
         "A": "Obligate aerobes REQUIRE oxygen to survive, so increasing oxygen would help them thrive, not kill them.",
         "B": "Facultative anaerobes can survive with OR without oxygen - they're flexible, so oxygen wouldn't necessarily kill them.",
         "C": "Aerotolerant anaerobes can tolerate oxygen even though they don't use it - the name says 'tolerant,' so they'd survive."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'obligate anaerobic bacteria.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27obligate%20anaerobic%20bacteria.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -47,6 +51,10 @@
         "B": "Connective tissue cells DO secrete ECM components like collagen and elastin - this is actually their defining characteristic.",
         "C": "The stroma (supportive framework) of organs IS formed by connective tissue - 'stroma' means 'bed' or 'support.'",
         "D": "Connective tissue absolutely provides structural support for epithelial cells in organs."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'They account for most cells in muscles, bones, and tendons.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27They%20account%20for%20most%20cells%20in%20muscles%2C%20bones%2C%20and%20tendons.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -68,6 +76,10 @@
         "A": "Too restrictive - while ssRNA viruses exist (like influenza), this ignores DNA viruses entirely.",
         "B": "Too restrictive - while dsDNA viruses exist (like herpes), this ignores RNA viruses and ssDNA viruses.",
         "C": "Close but incomplete - this misses ssDNA viruses like parvoviruses, which definitely exist."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -89,6 +101,10 @@
         "A": "Pasteur's experiment didn't examine what living things are made of - it examined where cells come from.",
         "B": "The experiment didn't test cellular function - it tested the origin of cells.",
         "D": "DNA wasn't even discovered yet, and the experiment didn't analyze genetic material."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Cells arise only from preexisting cells.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Cells%20arise%20only%20from%20preexisting%20cells.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -108,6 +124,10 @@
       "short_reason": "Think of mitochondria as 'captured bacteria' - they have circular, double-stranded DNA that replicates independently, just like their bacterial ancestors.",
       "wrong_answer_explanations": {
         "D": "mtDNA is double-stranded, not single-stranded. The endosymbiotic theory predicts bacterial-like DNA, and bacteria have dsDNA."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'I and II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27I%20and%20II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -129,6 +149,10 @@
         "A": "Lipid synthesis IS a major function of smooth ER - think of liver cells making cholesterol.",
         "B": "Detoxification IS a smooth ER function - liver smooth ER processes drugs and alcohol.",
         "D": "Transport of proteins through vesicles IS a smooth ER function - it's part of the secretory pathway."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Protein synthesis' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Protein%20synthesis%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -150,6 +174,10 @@
         "A": "The nucleus contains DNA but doesn't have digestive enzymes for autophagy.",
         "B": "Ribosomes make proteins; they don't contain digestive enzymes.",
         "C": "The ER is for protein/lipid synthesis and transport, not for digestion of cellular components."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Ribosomal RNA synthesis' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Ribosomal%20RNA%20synthesis%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -171,6 +199,10 @@
         "A": "Nuclear pores DO exist and allow regulated transport of molecules in and out.",
         "B": "The envelope IS continuous with the ER - they're connected, allowing coordination of protein synthesis.",
         "D": "The nuclear envelope is fundamentally a lipid bilayer structure (two of them, actually)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Lysosomes' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Lysosomes%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -192,6 +224,10 @@
         "B": "ATP synthesis occurs in mitochondria (oxidative phosphorylation) and cytoplasm (glycolysis), not the cytoskeleton.",
         "C": "While the cytoskeleton is involved in cell division (spindle fibers), its primary role is structural support.",
         "D": "Lipid transport involves the ER and Golgi apparatus, not primarily the cytoskeleton."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Presence of a membrane on the outside surface of the cell' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Presence%20of%20a%20membrane%20on%20the%20outside%20surface%20of%20the%20cell%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -213,6 +249,10 @@
         "A": "9+0 is the centriole/basal body arrangement, not flagella.",
         "B": "There's no 9+1 arrangement in cellular structures.",
         "D": "There's no 9+3 arrangement in standard cellular structures."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Microfilaments' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Microfilaments%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -234,6 +274,10 @@
         "A": "Cilia formation involves basal bodies (which are related to centrioles) but isn't the main spindle-organizing function.",
         "B": "Cell motility involves the whole cytoskeleton, not specifically centriole function.",
         "D": "Lipid synthesis occurs in the smooth ER, not centrioles."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Herpes simplex virus adds its genetic information to the genetic information of the cell.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Herpes%20simplex%20virus%20adds%20its%20genetic%20information%20to%20the%20genetic%20information%20of%20the%20cell.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -255,6 +299,10 @@
         "A": "Mitochondria do NOT use mitosis - they use binary fission like bacteria.",
         "C": "Mitochondria don't use meiosis - that's for producing gametes in eukaryotes.",
         "D": "Budding is used by yeast and some other organisms, not mitochondria."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'II and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27II%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -276,6 +324,10 @@
         "A": "Both plant and animal cells have mitochondria for cellular respiration.",
         "B": "Both cell types have ribosomes - all cells need to make proteins!",
         "D": "Both plant and animal cells have an endoplasmic reticulum system."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Conjugation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Conjugation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -297,6 +349,10 @@
         "A": "Bacteria can be found in extreme environments but aren't uniquely adapted to them like Archaea.",
         "B": "Eukaryotes generally don't thrive in extreme conditions - they're too complex.",
         "D": "Viruses require host cells, so they can't independently live in extreme environments."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Prions' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Prions%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -318,6 +374,10 @@
         "A": "Multiple linear chromosomes are found in EUKARYOTES, not prokaryotes.",
         "C": "A single linear chromosome isn't typical - prokaryotic chromosomes are circular.",
         "D": "Multiple circular chromosomes aren't the standard - prokaryotes typically have ONE circular chromosome."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cell: Explain why 'Double-stranded DNA' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cell%3A%20Explain%20why%20%27Double-stranded%20DNA%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -339,6 +399,10 @@
         "A": "4n would mean doubling the chromosome number, which doesn't happen in mitosis.",
         "C": "n (haploid) results from meiosis, not mitosis.",
         "D": "2n is correct, so this isn't the answer we're looking for."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'Spermatogonium\u21921\u00b0 spermatocyte\u21922\u00b0 spermatocyte\u2192spermatid\u2192spermatozoan' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27Spermatogonium%E2%86%921%C2%B0%20spermatocyte%E2%86%922%C2%B0%20spermatocyte%E2%86%92spermatid%E2%86%92spermatozoan%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -360,6 +424,10 @@
         "A": "G1 is for cell growth and preparation, not DNA replication.",
         "C": "G2 is for preparing to divide after DNA has already been copied.",
         "D": "M phase is actual mitosis (cell division), not DNA replication."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'At ovulation\u2014metaphase II' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27At%20ovulation%E2%80%94metaphase%20II%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -381,6 +449,10 @@
         "A": "In prophase, chromosomes condense but haven't lined up yet.",
         "C": "In anaphase, chromosomes are being PULLED apart, not lined up.",
         "D": "In telophase, chromosomes are already at opposite poles."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'Prophase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27Prophase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -402,6 +474,10 @@
         "A": "Prophase: chromosomes condense, nuclear envelope breaks down.",
         "B": "Metaphase: chromosomes align in the middle.",
         "D": "Telophase: nuclear envelopes reform, chromosomes decondense."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'S' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27S%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -423,6 +499,10 @@
         "B": "Sister chromatids separate in Meiosis II, not Meiosis I.",
         "C": "This happens in mitosis, not meiosis.",
         "D": "Chromosomes don't duplicate during meiosis itself - that happened before in S phase."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'Endometrium' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27Endometrium%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -444,6 +524,10 @@
         "B": "Metaphase I: chromosomes are lined up, but crossing over already happened.",
         "C": "Anaphase I: homologs are being separated, too late for crossing over.",
         "D": "Telophase I: division is completing, crossing over is long finished."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'abdominal cavity.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27abdominal%20cavity.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -465,6 +549,10 @@
         "A": "Mitosis produces 2 diploid cells, not meiosis.",
         "B": "Meiosis produces 4 cells, not 2.",
         "D": "Meiosis produces haploid cells (n), not diploid (2n)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -486,6 +574,10 @@
         "A": "DNA synthesis occurs in S phase, not G0.",
         "B": "Active division is M phase, the opposite of G0.",
         "D": "Cells in G0 are alive and metabolically active, just not dividing."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'Prostate gland\u2014surrounded by muscle to raise and lower the testes' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27Prostate%20gland%E2%80%94surrounded%20by%20muscle%20to%20raise%20and%20lower%20the%20testes%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -507,6 +599,10 @@
         "A": "CDKs don't fluctuate much - it's the cyclins that cycle!",
         "B": "Cyclins are proteins, not enzymes that phosphorylate.",
         "D": "Both are absolutely involved in cell cycle regulation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'During telophase I' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27During%20telophase%20I%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -528,6 +624,10 @@
         "A": "p53 is a tumor SUPPRESSOR, not a promoter of cell growth.",
         "B": "p53 stops the cycle to ALLOW repair, not to prevent it.",
         "D": "p53 promotes apoptosis of damaged cells, it doesn't prevent cell death."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'Replication of the DNA during S stage' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27Replication%20of%20the%20DNA%20during%20S%20stage%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -549,6 +649,10 @@
         "A": "DNA replication checkpoint is in S phase, not during mitosis.",
         "B": "The G1 checkpoint checks for DNA damage before S phase.",
         "C": "The G2 checkpoint verifies DNA replication is complete before mitosis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'During metaphase of mitosis, centromeres are present directly on the metaphase plate; during metaphase of meiosis I, there are no centromeres on the metaphase plate.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27During%20metaphase%20of%20mitosis%2C%20centromeres%20are%20present%20directly%20on%20the%20metaphase%20plate%3B%20during%20metaphase%20of%20meiosis%20I%2C%20there%20are%20no%20centromeres%20on%20the%20metaphase%20plate.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -570,6 +674,10 @@
         "B": "Cell plate formation occurs in PLANT cells, not animal cells.",
         "C": "Nuclear division is karyokinesis, which happens before cytokinesis.",
         "D": "Chromosome condensation is part of prophase, not cytokinesis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'The nucleoli disappear.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27The%20nucleoli%20disappear.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -591,6 +699,10 @@
         "B": "Stem cells CAN divide - that's how they self-renew!",
         "C": "Stem cells can differentiate into MULTIPLE cell types, not just one.",
         "D": "Stem cells are found in both embryos AND adults (adult stem cells exist in bone marrow, skin, etc.)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why '45,X' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%2745%2CX%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -612,6 +724,10 @@
         "B": "Apoptosis is specifically programmed, not accidental.",
         "C": "Actually it's the opposite - apoptosis doesn't cause inflammation, necrosis does.",
         "D": "Apoptosis is characterized by cell SHRINKAGE, not swelling."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'Luteal phase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27Luteal%20phase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -633,6 +749,10 @@
         "A": "Tumor suppressors STOP cell division - oncogenes PROMOTE it.",
         "C": "Oncogenes, when mutated, CAUSE cancer, not prevent it.",
         "D": "Oncogenes promote growth, not apoptosis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Reproduction: Explain why 'High levels of GnRH throughout the pregnancy' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Reproduction%3A%20Explain%20why%20%27High%20levels%20of%20GnRH%20throughout%20the%20pregnancy%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -654,6 +774,10 @@
         "A": "Actually, spermatogenesis produces MORE functional cells (4 vs 1).",
         "B": "Both processes involve meiosis to produce haploid gametes.",
         "D": "Oogenesis CAN resume after puberty - it just pauses at different stages."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Oxytocin and prostaglandins' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Oxytocin%20and%20prostaglandins%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -675,6 +799,10 @@
         "B": "ATP is produced by mitochondria in the midpiece, not the acrosome.",
         "C": "Swimming is powered by the flagellum, not the acrosome.",
         "D": "DNA is in the head/nucleus, not released by the acrosome."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Ectoderm\u2014fingernails' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Ectoderm%E2%80%94fingernails%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -696,6 +824,10 @@
         "A": "The cortical reaction FOLLOWS fertilization, it doesn't initiate it.",
         "B": "Mitosis begins much later during cleavage, not from the cortical reaction.",
         "D": "The egg is already activated by the sperm entering; cortical reaction blocks additional sperm."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Mesoderm' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Mesoderm%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -717,6 +849,10 @@
         "A": "Cleavage is MITOTIC division, not meiotic.",
         "B": "Cells get SMALLER during cleavage because there's no growth between divisions.",
         "D": "Cleavage occurs BEFORE gastrulation, not after."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'induction.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27induction.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -738,6 +874,10 @@
         "A": "Cleavage creates more cells but not distinct layers.",
         "C": "Neurulation forms the neural tube from ectoderm, after germ layers exist.",
         "D": "Organogenesis is organ formation, which requires germ layers to already exist."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Progesterone produced by placental cells' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Progesterone%20produced%20by%20placental%20cells%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -759,6 +899,10 @@
         "B": "Digestive tract lining comes from ENDODERM (endo = inside).",
         "C": "Heart comes from MESODERM (meso = middle).",
         "D": "Kidneys come from MESODERM."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Paracrine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Paracrine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -780,6 +924,10 @@
         "A": "Epidermis comes from ECTODERM.",
         "B": "Brain comes from ECTODERM (nervous system).",
         "D": "Lung lining comes from ENDODERM (it's internal gut tube derivative)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Telomerase' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Telomerase%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -801,6 +949,10 @@
         "A": "Skeletal muscle comes from MESODERM.",
         "B": "Blood vessels come from MESODERM.",
         "C": "Nervous system comes from ECTODERM."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'First trimester' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27First%20trimester%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -822,6 +974,10 @@
         "A": "Gastrulation creates germ layers, not the neural tube.",
         "B": "Cleavage creates more cells, not specific structures.",
         "D": "Organogenesis is later and involves all organs, not specifically the neural tube."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'They retain inherent pluripotency if harvested from selected organs.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27They%20retain%20inherent%20pluripotency%20if%20harvested%20from%20selected%20organs.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -843,6 +999,10 @@
         "B": "Somites form from mesoderm, not neural crest.",
         "C": "Gut tube forms from endoderm, not neural crest.",
         "D": "While neural crest cells migrate, that's their behavior, not what they form."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'apoptosis.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27apoptosis.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -864,6 +1024,10 @@
         "A": "Determination happens BEFORE differentiation, not after.",
         "C": "Determination is commitment, not flexibility.",
         "D": "They are different stages - determination sets the path, differentiation walks it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'incomplete regeneration.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27incomplete%20regeneration.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -885,6 +1049,10 @@
         "A": "That describes morphogenesis or development, not specifically induction.",
         "C": "Self-renewal is a stem cell property, not induction.",
         "D": "Gene expression control is too general - induction specifically involves cell-to-cell signaling."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Ectoderm' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Ectoderm%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -906,6 +1074,10 @@
         "A": "Pluripotent cells can become any BODY cell, but not placental tissues.",
         "B": "Multipotent cells can only become cells within one lineage/tissue type.",
         "D": "Unipotent cells can only become one cell type."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Morula \u2192 blastula \u2192 gastrula' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Morula%20%E2%86%92%20blastula%20%E2%86%92%20gastrula%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -927,6 +1099,10 @@
         "A": "Growth involves cell proliferation, not cell death.",
         "B": "Metabolism is cellular chemistry, not developmental sculpting.",
         "C": "Cell movement is migration, not the removal of structures."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Respiratory distress at birth, but no long-term effects' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Respiratory%20distress%20at%20birth%2C%20but%20no%20long-term%20effects%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -948,6 +1124,10 @@
         "A": "Housekeeping genes are expressed in ALL cells for basic functions.",
         "B": "Tumor suppressors prevent cancer, not body plan specification.",
         "D": "Cell cycle genes control division, not body segment identity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Embryogenesis and Development: Explain why 'Blood flow in the ductus arteriosus is from the aorta to the pulmonary artery.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Embryogenesis%20and%20Development%3A%20Explain%20why%20%27Blood%20flow%20in%20the%20ductus%20arteriosus%20is%20from%20the%20aorta%20to%20the%20pulmonary%20artery.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -969,6 +1149,10 @@
         "B": "Glial cells support neurons but don't transmit signals.",
         "C": "Neurotransmitters are chemicals, not cells.",
         "D": "Myelin is the insulating sheath, not a cell type (it's made BY cells)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'I and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27I%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -990,6 +1174,10 @@
         "A": "Axons transmit signals AWAY from the cell body.",
         "C": "The cell body (soma) contains the nucleus and organelles, it's the 'hub' not the receiver.",
         "D": "Myelin insulates axons, it doesn't receive signals."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'increased magnitude of the potential difference during an action potential.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27increased%20magnitude%20of%20the%20potential%20difference%20during%20an%20action%20potential.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1011,6 +1199,10 @@
         "A": "+70 mV would be reversed polarity, not resting state.",
         "B": "0 mV means no charge difference - that's not the resting state.",
         "C": "-30 mV is too depolarized for a resting neuron."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Once an action potential is triggered, an impulse of a given magnitude and speed is produced.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Once%20an%20action%20potential%20is%20triggered%2C%20an%20impulse%20of%20a%20given%20magnitude%20and%20speed%20is%20produced.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1032,6 +1224,10 @@
         "B": "More negative is HYPERpolarization, not depolarization.",
         "C": "No change in potential doesn't describe depolarization.",
         "D": "Reaching resting potential from a more positive state would be repolarization."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Nerves may carry more than one type of information; tracts can only carry one type of information.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Nerves%20may%20carry%20more%20than%20one%20type%20of%20information%3B%20tracts%20can%20only%20carry%20one%20type%20of%20information.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1053,6 +1249,10 @@
         "B": "K+ channels open AFTER Na+ channels during repolarization.",
         "C": "Ca2+ channels are important in synapses and muscle, not the initial depolarization of neurons.",
         "D": "Cl- channels aren't the primary drivers of action potential initiation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Sensory neurons are afferent and enter the spinal cord on the dorsal side.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Sensory%20neurons%20are%20afferent%20and%20enter%20the%20spinal%20cord%20on%20the%20dorsal%20side.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1074,6 +1274,10 @@
         "A": "Refractory period PREVENTS immediate re-firing.",
         "B": "The refractory period ensures ONE-way propagation, not bi-directional.",
         "D": "Myelin handles speed, not the refractory period."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'inhibit the spread of the action potential to other sensory neurons.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27inhibit%20the%20spread%20of%20the%20action%20potential%20to%20other%20sensory%20neurons.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1095,6 +1299,10 @@
         "A": "Myelin SPEEDS UP conduction, not slows it.",
         "B": "Myelin increases the EFFICIENCY of energy use.",
         "C": "Myelin doesn't affect neurotransmitter release - that happens at the synapse."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'hyperpolarization.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27hyperpolarization.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1116,6 +1324,10 @@
         "A": "The cell body is where the nucleus is, not related to signal jumping.",
         "C": "Axon terminals are at the end for synapsing, not signal regeneration along the axon.",
         "D": "Dendrites receive signals, they're not involved in saltatory conduction."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Its pathways always involve more than two neurons.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Its%20pathways%20always%20involve%20more%20than%20two%20neurons.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1137,6 +1349,10 @@
         "A": "The axon hillock is where action potentials initiate, on the presynaptic neuron.",
         "B": "Nodes of Ranvier are on the axon for saltatory conduction.",
         "D": "Dendrites are on the receiving neuron, not the gap itself."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Decreasing heart rate and blood pressure' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Decreasing%20heart%20rate%20and%20blood%20pressure%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1158,6 +1374,10 @@
         "A": "Mitochondria provide energy but don't store neurotransmitters.",
         "B": "The nucleus stores DNA, not neurotransmitters.",
         "D": "The ER makes proteins but doesn't store ready-to-release neurotransmitters."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Acetylcholine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Acetylcholine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1179,6 +1399,10 @@
         "B": "GABA is inhibitory, primarily in the brain, not at neuromuscular junctions.",
         "C": "Dopamine is for reward/movement pathways in the brain, not NMJ.",
         "D": "Serotonin is for mood/sleep regulation in the brain."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Soma' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Soma%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1200,6 +1424,10 @@
         "A": "Glutamate is the main EXCITATORY neurotransmitter.",
         "B": "Acetylcholine is excitatory, especially at NMJ.",
         "D": "Norepinephrine is excitatory, involved in alertness."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Flaccid paralysis (inability to contract the muscles)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Flaccid%20paralysis%20%28inability%20to%20contract%20the%20muscles%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1221,6 +1449,10 @@
         "B": "LESS likely to fire describes IPSPs (inhibitory).",
         "C": "Guaranteed firing only happens when threshold is reached, not from any single EPSP.",
         "D": "EPSPs depolarize (make less negative), not hyperpolarize."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'summation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27summation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1242,6 +1474,10 @@
         "A": "Multiple neurons contributing simultaneously is SPATIAL summation.",
         "C": "This describes one action potential, not summation.",
         "D": "This describes an inhibitory response, not summation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'Central nervous system' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27Central%20nervous%20system%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1263,6 +1499,10 @@
         "B": "Relaxation and digestion are PARASYMPATHETIC functions ('rest and digest').",
         "C": "Voluntary muscle control is the SOMATIC nervous system.",
         "D": "Immune responses aren't directly controlled by sympathetic activation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Nervous System: Explain why 'I and II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Nervous%20System%3A%20Explain%20why%20%27I%20and%20II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1284,6 +1524,10 @@
         "B": "Pituitary receives commands FROM hypothalamus.",
         "C": "Thyroid is controlled BY pituitary, not the master controller.",
         "D": "Adrenal glands are controlled by pituitary (ACTH) and sympathetic nervous system."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'ADH\u2014mineralocorticoid' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27ADH%E2%80%94mineralocorticoid%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1305,6 +1549,10 @@
         "B": "Insulin is released by pancreatic beta cells, not pituitary.",
         "C": "Testosterone is released by testes, not pituitary.",
         "D": "Cortisol is released by adrenal cortex, not pituitary."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'GH' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27GH%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1326,6 +1574,10 @@
         "A": "Anterior pituitary makes its OWN hormones, doesn't store hypothalamic ones.",
         "C": "TSH is MADE by anterior pituitary, not stored from hypothalamus.",
         "D": "FSH is MADE by anterior pituitary."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'an increase in renal calcium reabsorption.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27an%20increase%20in%20renal%20calcium%20reabsorption.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1347,6 +1599,10 @@
         "B": "Insulin regulates blood glucose from pancreas, not growth.",
         "C": "T3 is thyroid hormone for metabolism, not primary growth control.",
         "D": "Testosterone contributes to growth but isn't THE growth hormone."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'Chain of amino acids that signals through a second messenger' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27Chain%20of%20amino%20acids%20that%20signals%20through%20a%20second%20messenger%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1368,6 +1624,10 @@
         "A": "INCREASING release when levels are high would be POSITIVE feedback.",
         "C": "Constant release ignores feedback entirely.",
         "D": "Pulsatile release is a pattern, not the feedback mechanism itself."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'cretinism.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27cretinism.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1389,6 +1649,10 @@
         "A": "Insulin regulates blood glucose, not basal metabolic rate.",
         "B": "Cortisol handles stress response, not baseline metabolism.",
         "D": "Melatonin regulates sleep cycles, not metabolic rate."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'High levels of T4 from thyroid replacement medications' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27High%20levels%20of%20T4%20from%20thyroid%20replacement%20medications%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1410,6 +1674,10 @@
         "B": "DECREASING calcium would be calcitonin's job.",
         "C": "PTH works on Ca2+, not glucose.",
         "D": "Metabolism is thyroid's domain, not parathyroid."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'Steroid hormone' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27Steroid%20hormone%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1431,6 +1699,10 @@
         "A": "INCREASING calcium is PTH's job.",
         "C": "Calcitonin works on calcium, not glucose.",
         "D": "Calcitonin doesn't regulate metabolism."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'It is always inhibitory.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27It%20is%20always%20inhibitory.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1452,6 +1724,10 @@
         "B": "Epinephrine is from adrenal MEDULLA, for immediate fight-or-flight.",
         "C": "Aldosterone regulates salt/water balance, not stress response.",
         "D": "Testosterone is a sex hormone, not a stress hormone."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'insulin secretion to stop and an increase in blood glucose concentration.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27insulin%20secretion%20to%20stop%20and%20an%20increase%20in%20blood%20glucose%20concentration.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1473,6 +1749,10 @@
         "A": "ADH retains WATER directly, while aldosterone retains SODIUM (water follows).",
         "B": "Atrial natriuretic peptide (ANP) actually DECREASES sodium retention - opposite of aldosterone.",
         "D": "Cortisol has minor mineralocorticoid effects but isn't the primary sodium regulator."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'A decrease in blood oxygen concentrations stimulates renin production.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27A%20decrease%20in%20blood%20oxygen%20concentrations%20stimulates%20renin%20production.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1494,6 +1774,10 @@
         "A": "Cortisol is from cortex and handles longer-term stress.",
         "C": "Aldosterone regulates sodium, not acute stress response.",
         "D": "Testosterone is a sex hormone from gonads."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'Peptide hormone' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27Peptide%20hormone%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1515,6 +1799,10 @@
         "B": "RAISING blood sugar is glucagon's job.",
         "C": "Lipid metabolism is secondary; glucose is the primary target.",
         "D": "Protein synthesis is growth hormone's domain."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'Parathyroid hormone' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27Parathyroid%20hormone%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1536,6 +1824,10 @@
         "A": "LOWERING blood sugar is insulin's job.",
         "C": "Glycogen SYNTHESIS is what happens when glucose is HIGH (insulin's effect).",
         "D": "Lipogenesis happens when energy is abundant, not when you need glucose."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'peptide hormones produced by the hypothalamus and released by the pituitary.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27peptide%20hormones%20produced%20by%20the%20hypothalamus%20and%20released%20by%20the%20pituitary.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1557,6 +1849,10 @@
         "A": "Estrogen is the primary female sex hormone.",
         "B": "Progesterone maintains pregnancy and prepares for implantation.",
         "D": "LH triggers testosterone production but isn't the testosterone itself."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'Increased secretion of prolactin' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27Increased%20secretion%20of%20prolactin%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1578,6 +1874,10 @@
         "A": "Testosterone is the primary male sex hormone.",
         "B": "Progesterone maintains pregnancy but isn't the primary 'feminizing' hormone.",
         "C": "FSH stimulates follicle development but isn't the sex steroid itself."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Endocrine System: Explain why 'Adrenal cortex' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Endocrine%20System%3A%20Explain%20why%20%27Adrenal%20cortex%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1599,6 +1899,10 @@
         "B": "Digestion of nutrients is the digestive system's job.",
         "C": "Gas exchange occurs in the RESPIRATORY system (lungs).",
         "D": "Filtering waste is the EXCRETORY system (kidneys)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'active transporters in alveolar cells.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27active%20transporters%20in%20alveolar%20cells.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1620,6 +1924,10 @@
         "A": "Oxygenated blood from lungs enters the LEFT side.",
         "C": "Pumping to the body is the LEFT side's job.",
         "D": "Blood to the liver isn't directly pumped by the right side."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'Exhalation\u2014external intercostal muscles relax' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27Exhalation%E2%80%94external%20intercostal%20muscles%20relax%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1641,6 +1949,10 @@
         "A": "Right atrium receives blood from the body (vena cavae).",
         "B": "Right ventricle pumps to lungs only (shorter distance, less pressure needed).",
         "D": "Left atrium receives oxygenated blood from lungs."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'residual volume.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27residual%20volume.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1662,6 +1974,10 @@
         "A": "The SA node initiates the heartbeat, not the AV node.",
         "C": "Electrical signals in ventricles are conducted by Bundle of His and Purkinje fibers.",
         "D": "Heart rate is primarily controlled by the SA node's firing rate."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'inhalation, because the expansion of the chest cavity causes expansion of the intrapleural space, decreasing its pressure.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27inhalation%2C%20because%20the%20expansion%20of%20the%20chest%20cavity%20causes%20expansion%20of%20the%20intrapleural%20space%2C%20decreasing%20its%20pressure.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1683,6 +1999,10 @@
         "A": "Veins carry blood TOWARD the heart.",
         "B": "Arteries are high pressure, veins are low pressure.",
         "D": "Arteries have thick walls, veins have thin walls with valves."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'the parietal pleura and the visceral pleura.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27the%20parietal%20pleura%20and%20the%20visceral%20pleura.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1704,6 +2024,10 @@
         "A": "Arteries carry blood, they don't allow exchange through walls.",
         "B": "Veins return blood; exchange doesn't occur through their walls.",
         "D": "Lymphatic vessels collect excess fluid; capillaries do the primary exchange."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'the pharynx contains two vocal cords, which are controlled by skeletal muscle and cartilage.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27the%20pharynx%20contains%20two%20vocal%20cords%2C%20which%20are%20controlled%20by%20skeletal%20muscle%20and%20cartilage.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1725,6 +2049,10 @@
         "A": "Arteries don't need valves - high pressure keeps blood moving forward.",
         "B": "Arterioles regulate resistance with smooth muscle, not valves.",
         "D": "Capillaries are too small for valves and blood flows through via diffusion."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'Pharynx \u2192 larynx \u2192 trachea \u2192 bronchi \u2192 alveoli' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27Pharynx%20%E2%86%92%20larynx%20%E2%86%92%20trachea%20%E2%86%92%20bronchi%20%E2%86%92%20alveoli%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1746,6 +2074,10 @@
         "A": "Plasma carries dissolved gases but only small amounts - hemoglobin carries most O2.",
         "C": "White blood cells fight infection, they don't carry oxygen.",
         "D": "Platelets are for clotting, not oxygen transport."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1767,6 +2099,10 @@
         "A": "Oxygen transport is red blood cell function.",
         "B": "Clotting is platelet function.",
         "D": "Nutrient transport is done by plasma proteins and blood in general."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'Increased susceptibility to certain infections' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27Increased%20susceptibility%20to%20certain%20infections%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1788,6 +2124,10 @@
         "A": "Fighting infection is white blood cell function.",
         "B": "Oxygen transport is red blood cell function.",
         "C": "Hormone transport is done by plasma."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'No diffusion will occur in the affected area.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27No%20diffusion%20will%20occur%20in%20the%20affected%20area.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1809,6 +2149,10 @@
         "B": "Pulmonary veins carry oxygenated blood FROM lungs.",
         "C": "Aorta carries oxygenated blood to body.",
         "D": "Vena cava brings deoxygenated blood TO heart, not from heart to lungs."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'Hyperventilation causes a decrease in blood carbon dioxide, and breathing the air in the bag helps to readjust blood levels of carbon dioxide.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27Hyperventilation%20causes%20a%20decrease%20in%20blood%20carbon%20dioxide%2C%20and%20breathing%20the%20air%20in%20the%20bag%20helps%20to%20readjust%20blood%20levels%20of%20carbon%20dioxide.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1830,6 +2174,10 @@
         "A": "DEoxygenated blood is carried BY pulmonary ARTERIES to lungs.",
         "C": "Pulmonary veins go to LEFT atrium, not right.",
         "D": "Blood from body goes to right atrium via vena cava, not pulmonary veins."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'The patient may be descending into respiratory failure.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27The%20patient%20may%20be%20descending%20into%20respiratory%20failure.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1851,6 +2199,10 @@
         "A": "Blood from heart to body is systemic circulation via aorta.",
         "B": "Blood to lungs is pulmonary circulation.",
         "D": "Blood from lungs to heart is also pulmonary circulation (pulmonary veins)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'Premature infants lack surfactant.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27Premature%20infants%20lack%20surfactant.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1872,6 +2224,10 @@
         "A": "Veins have LOWEST pressure, not highest.",
         "C": "Capillaries have low pressure to allow slow exchange.",
         "D": "Arterioles regulate resistance but don't have the lowest pressure."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'Increased residual volume' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27Increased%20residual%20volume%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1893,6 +2249,10 @@
         "A": "Carrying oxygenated blood is artery function.",
         "B": "Fighting pathogens is immune cell function (though lymph nodes contain immune cells).",
         "D": "Nutrient delivery is primarily blood circulation's job."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Respiratory System: Explain why 'Mast cells' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Respiratory%20System%3A%20Explain%20why%20%27Mast%20cells%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1914,6 +2274,10 @@
         "B": "Bronchioles are airways that lead to alveoli, but exchange happens in alveoli.",
         "C": "Bronchi are larger airways, too thick for gas exchange.",
         "D": "Trachea is the windpipe - way too far from blood for exchange."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'The nuclei of erythrocytes are located in the middle of the biconcave disc.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27The%20nuclei%20of%20erythrocytes%20are%20located%20in%20the%20middle%20of%20the%20biconcave%20disc.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1935,6 +2299,10 @@
         "B": "Relaxing the diaphragm causes exhalation, not inhalation.",
         "C": "Contracting the diaphragm INCREASES volume, causing air to flow IN.",
         "D": "Diaphragm relaxing DECREASES volume, pushing air OUT."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'SA node \u2192 atria \u2192 AV node \u2192 bundle of His \u2192 Purkinje fibers \u2192 ventricles' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27SA%20node%20%E2%86%92%20atria%20%E2%86%92%20AV%20node%20%E2%86%92%20bundle%20of%20His%20%E2%86%92%20Purkinje%20fibers%20%E2%86%92%20ventricles%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1956,6 +2324,10 @@
         "B": "Maximum air after forced exhale is residual volume.",
         "C": "Maximum air after deepest breath is total lung capacity.",
         "D": "Extra air forcefully exhaled is expiratory reserve volume."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'decreases as blood pH decreases.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27decreases%20as%20blood%20pH%20decreases.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1977,6 +2349,10 @@
         "A": "Normal breath volume is tidal volume.",
         "C": "Max air in lungs after deep breath is total lung capacity.",
         "D": "Dead space is air in airways that doesn't participate in gas exchange."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'Superior vena cava \u2192 right atrium \u2192 right ventricle \u2192 pulmonary artery \u2192 lungs \u2192 pulmonary veins \u2192 left atrium \u2192 left ventricle \u2192 aorta' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27Superior%20vena%20cava%20%E2%86%92%20right%20atrium%20%E2%86%92%20right%20ventricle%20%E2%86%92%20pulmonary%20artery%20%E2%86%92%20lungs%20%E2%86%92%20pulmonary%20veins%20%E2%86%92%20left%20atrium%20%E2%86%92%20left%20ventricle%20%E2%86%92%20aorta%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1998,6 +2374,10 @@
         "A": "Increasing surface tension would make breathing HARDER.",
         "C": "Mucus traps particles, not surfactant.",
         "D": "Surfactant doesn't transport O2 - hemoglobin does that."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'is greater than the hydrostatic pressure.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27is%20greater%20than%20the%20hydrostatic%20pressure.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2019,6 +2399,10 @@
         "A": "CO2 affects the curve position (Bohr effect) but pO2 determines saturation.",
         "C": "pH shifts the curve but doesn't determine saturation directly.",
         "D": "Temperature affects affinity but pO2 is the main determinant."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why '150' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27150%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2040,6 +2424,10 @@
         "A": "INCREASED CO2 causes O2 release, not decreased.",
         "B": "Increased pH would increase O2 affinity, opposite of Bohr effect.",
         "D": "Low pO2 alone doesn't describe the Bohr effect - it's about CO2/pH shifting the curve."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'O\u2013' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27O%E2%80%93%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2061,6 +2449,10 @@
         "A": "Dissolved CO2 is only about 7-10% of transport.",
         "B": "Carbaminohemoglobin carries about 20-25% of CO2.",
         "D": "Carboxyhemoglobin is CO bound to hemoglobin (carbon monoxide poisoning)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'The blood pressure in the aorta is always higher than the pressure in the superior vena cava.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27The%20blood%20pressure%20in%20the%20aorta%20is%20always%20higher%20than%20the%20pressure%20in%20the%20superior%20vena%20cava.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2082,6 +2474,10 @@
         "A": "Cerebrum handles conscious thought, not automatic breathing.",
         "B": "Cerebellum coordinates movement and balance.",
         "D": "Hypothalamus regulates homeostasis (temperature, hormones) but not breathing rhythm."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'Relative lack of smooth muscle in the wall' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27Relative%20lack%20of%20smooth%20muscle%20in%20the%20wall%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2103,6 +2499,10 @@
         "A": "O2 levels aren't the primary driver unless SEVERELY low.",
         "C": "Nitrogen isn't monitored - it's inert in our bodies.",
         "D": "Blood pressure is monitored by baroreceptors, not chemoreceptors."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'Carbon dioxide produced from metabolism' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27Carbon%20dioxide%20produced%20from%20metabolism%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2124,6 +2524,10 @@
         "A": "Gas exchange is done by LOWER respiratory tract (alveoli).",
         "C": "Voice production is larynx function specifically, not the whole upper tract.",
         "D": "Immune function involves lymphoid tissue but isn't the primary purpose."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'Decreased oncotic pressure' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27Decreased%20oncotic%20pressure%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2145,6 +2549,10 @@
         "A": "Filtering is done by nose and airways with mucus/cilia.",
         "C": "Gas exchange is in alveoli, way down in the lungs.",
         "D": "Warming air is primarily the nasal passages' job."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'right ventricle into the right atrium.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27right%20ventricle%20into%20the%20right%20atrium.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2166,6 +2574,10 @@
         "A": "Sound production is vocal cord function.",
         "B": "Air warming is done in nasal passages.",
         "D": "Mucus secretion is done by goblet cells throughout the respiratory tract."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'Decreased pH' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27Decreased%20pH%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2187,6 +2599,10 @@
         "A": "Gas exchange happens by diffusion in alveoli, no cilia involved.",
         "B": "Cilia don't produce surfactant - type II pneumocytes do.",
         "D": "Cilia don't warm air - blood vessels in nasal passages do."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'Bundle of His' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27Bundle%20of%20His%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2208,6 +2624,10 @@
         "B": "Breathing in and out is VENTILATION, not external respiration.",
         "C": "Cellular respiration is ATP production in mitochondria.",
         "D": "External respiration is lung exchange specifically, not between blood and tissues."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Cardiovascular System: Explain why 'Arterioles' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Cardiovascular%20System%3A%20Explain%20why%20%27Arterioles%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2229,6 +2649,10 @@
         "B": "The glomerulus is PART of the nephron (the filtering cluster of capillaries).",
         "C": "The collecting duct collects filtrate from multiple nephrons.",
         "D": "The ureter carries urine from kidney to bladder - not a filtering unit."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Viruses' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Viruses%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2250,6 +2674,10 @@
         "A": "The proximal tubule does reabsorption and secretion, not initial filtration.",
         "C": "Loop of Henle concentrates urine, doesn't do initial filtration.",
         "D": "Collecting duct is where final concentration and collection occurs."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Plasma cells' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Plasma%20cells%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2271,6 +2699,10 @@
         "A": "Only water filtering would just remove water, but many solutes also filter.",
         "C": "Proteins are TOO LARGE to filter through the glomerulus.",
         "D": "Red blood cells are way too large to pass through - their presence indicates kidney damage."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'transports chylomicrons to the circulatory system.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27transports%20chylomicrons%20to%20the%20circulatory%20system.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2292,6 +2724,10 @@
         "A": "Glomerulus only filters; it doesn't reabsorb.",
         "C": "Loop of Henle creates concentration gradient but PCT does most reabsorption.",
         "D": "Distal tubule fine-tunes, but PCT does the heavy lifting."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Plasma cells' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Plasma%20cells%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2313,6 +2749,10 @@
         "A": "Initial filtration is the glomerulus's job.",
         "B": "Glucose reabsorption is mainly PCT function.",
         "D": "Acid-base balance fine-tuning is mainly DCT and collecting duct."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Recognizes unique features of a pathogen' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Recognizes%20unique%20features%20of%20a%20pathogen%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2334,6 +2774,10 @@
         "A": "MORE dilute urine happens WITHOUT ADH.",
         "C": "Sodium reabsorption is aldosterone's main job.",
         "D": "Blood pressure regulation is more indirect - ADH affects water balance."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Memory B-cells generated through vaccination are activated when their antigen is encountered.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Memory%20B-cells%20generated%20through%20vaccination%20are%20activated%20when%20their%20antigen%20is%20encountered.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2355,6 +2799,10 @@
         "A": "ADH directly increases water reabsorption, not aldosterone.",
         "B": "Aldosterone INCREASES sodium reabsorption, not decreases.",
         "D": "Aldosterone acts on kidney tubules, not glomerular filtration."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Active immunity requires weeks to build, whereas passive immunity is acquired immediately.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Active%20immunity%20requires%20weeks%20to%20build%2C%20whereas%20passive%20immunity%20is%20acquired%20immediately.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2376,6 +2824,10 @@
         "A": "Adding substances BACK to blood is reabsorption.",
         "C": "Removing blood cells would be abnormal - they shouldn't be in filtrate.",
         "D": "Creating urine concentration is loop of Henle's countercurrent function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Thymus' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Thymus%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2397,6 +2849,10 @@
         "A": "The bladder STORES urine, ureters transport it there.",
         "C": "The urethra carries urine from bladder OUT of the body.",
         "D": "Collecting ducts are inside the kidney, ureters are outside."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Natural killer cells induce apoptosis of affected cells.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Natural%20killer%20cells%20induce%20apoptosis%20of%20affected%20cells.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2418,6 +2874,10 @@
         "A": "Filtering blood is the kidney's job.",
         "B": "Concentrating urine happens in the kidney, not bladder.",
         "D": "Reabsorbing water is kidney tubule function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Secretion of cytotoxic chemicals' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Secretion%20of%20cytotoxic%20chemicals%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2439,6 +2899,10 @@
         "A": "Urine output rate is affected by GFR but isn't the same thing - most filtrate is reabsorbed.",
         "C": "Blood flow to kidney is renal blood flow, not GFR.",
         "D": "Reabsorption rate is a separate process after filtration."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Macrophages' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Macrophages%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2460,6 +2924,10 @@
         "A": "ADH is released from posterior pituitary, not JGA.",
         "B": "Aldosterone is released from adrenal cortex, triggered by angiotensin II.",
         "D": "Erythropoietin is released by kidney cells but not specifically from JGA."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'clonal selection.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27clonal%20selection.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2481,6 +2949,10 @@
         "A": "Angiotensin II is formed by ACE acting on angiotensin I, not by renin.",
         "C": "Aldosterone is released by adrenal cortex in response to angiotensin II.",
         "D": "ADH is released by posterior pituitary in response to osmolarity, not directly by renin."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Neutrophils' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Neutrophils%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2502,6 +2974,10 @@
         "A": "Vasodilation would LOWER blood pressure - angiotensin II does the opposite.",
         "B": "Renin converts angiotensinogen to angiotensin I - angiotensin II doesn't make renin.",
         "D": "ADH release can be stimulated but isn't the main effect of angiotensin II."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Humoral immunity' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Humoral%20immunity%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2523,6 +2999,10 @@
         "A": "Lungs regulate pH by adjusting CO2 levels - kidneys use H+ and HCO3-.",
         "B": "Kidneys don't produce buffers themselves; they regulate existing buffer systems.",
         "D": "This describes enzyme regulation, not kidney acid-base function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Immune System: Explain why 'Cytotoxic T-cells destroy cells displaying foreign antigens.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Immune%20System%3A%20Explain%20why%20%27Cytotoxic%20T-cells%20destroy%20cells%20displaying%20foreign%20antigens.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2544,6 +3024,10 @@
         "B": "Breaking chemical bonds is CHEMICAL digestion.",
         "C": "Absorbing nutrients through intestinal wall is absorption, not digestion.",
         "D": "Eliminating waste is egestion/defecation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Chief cells\u2014pepsinogen' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Chief%20cells%E2%80%94pepsinogen%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2565,6 +3049,10 @@
         "A": "Physical breakdown is MECHANICAL digestion.",
         "C": "Movement through GI tract is peristalsis/motility.",
         "D": "Secretion of mucus is protection, not chemical digestion."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Cecum' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Cecum%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2586,6 +3074,10 @@
         "A": "Protein digestion starts in the stomach with pepsin.",
         "B": "Fat digestion starts in the small intestine with lipase.",
         "D": "Nucleic acid digestion occurs in the small intestine."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'aminopeptidase.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27aminopeptidase.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2607,6 +3099,10 @@
         "A": "Neutral pH (7) is blood/cytoplasm, not stomach.",
         "B": "Slightly acidic (6) isn't low enough for stomach function.",
         "D": "Basic pH (8+) is the small intestine environment."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Lipase\u2014emulsifies fats' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Lipase%E2%80%94emulsifies%20fats%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2628,6 +3124,10 @@
         "A": "Trypsin digests protein but works in the small intestine.",
         "B": "Amylase digests starch, and stomach acid inactivates it.",
         "D": "Lipase digests fats, primarily in the small intestine."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Stomach and small intestine' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Stomach%20and%20small%20intestine%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2649,6 +3149,10 @@
         "A": "Stomach mainly does digestion (protein); very limited absorption.",
         "C": "Large intestine absorbs water and some vitamins, not most nutrients.",
         "D": "Esophagus just transports food - no significant absorption."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Sucrase\u2014salivary glands' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Sucrase%E2%80%94salivary%20glands%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2670,6 +3174,10 @@
         "A": "Secreting enzymes is done by intestinal cells and pancreas.",
         "C": "Peristalsis is done by smooth muscle, not villi.",
         "D": "Storing bile is the gallbladder's job."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Pyloric sphincter' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Pyloric%20sphincter%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2691,6 +3199,10 @@
         "A": "Bile is produced by the LIVER (stored in gallbladder).",
         "C": "HCl is produced by stomach parietal cells.",
         "D": "Mucus is produced by goblet cells throughout the GI tract."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Diarrhea' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Diarrhea%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2712,6 +3224,10 @@
         "A": "The pancreas produces digestive enzymes, not the liver.",
         "C": "The stomach stores food temporarily.",
         "D": "The gallbladder STORES bile, the liver MAKES it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why '1\u2014pepsin; 2\u2014carboxypeptidase B' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%271%E2%80%94pepsin%3B%202%E2%80%94carboxypeptidase%20B%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2733,6 +3249,10 @@
         "A": "Bile EMULSIFIES fat; LIPASE digests it.",
         "B": "Bicarbonate neutralizes acid, not bile.",
         "D": "Protein digestion is done by proteases, not bile."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'M\u00e9n\u00e9trier\u2019s disease, in which rugae thicken and overlying glands lose secretory ability' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27M%C3%A9n%C3%A9trier%E2%80%99s%20disease%2C%20in%20which%20rugae%20thicken%20and%20overlying%20glands%20lose%20secretory%20ability%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2754,6 +3274,10 @@
         "A": "The liver PRODUCES bile.",
         "B": "The pancreas makes enzymes and bicarbonate.",
         "D": "The stomach doesn't store bile - it produces HCl."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Chylomicrons\u2014lacteals' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Chylomicrons%E2%80%94lacteals%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2775,6 +3299,10 @@
         "A": "Nutrient absorption mainly happens in small intestine.",
         "B": "Protein digestion happens in stomach and small intestine.",
         "D": "The small intestine produces most digestive enzymes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'chemical digestion.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27chemical%20digestion.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2797,6 +3325,10 @@
         "A": "CCK INCREASES gallbladder contraction to release bile.",
         "B": "CCK stimulates enzyme secretion, not inhibits it.",
         "D": "Stomach acid secretion is stimulated by gastrin."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Cholecalciferol (vitamin D)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Cholecalciferol%20%28vitamin%20D%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2818,6 +3350,10 @@
         "A": "Gastrin stimulates stomach acid production.",
         "B": "Bile release is stimulated by CCK.",
         "D": "Gastric motility is reduced by secretin, not increased."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Ghrelin' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Ghrelin%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2839,6 +3375,10 @@
         "A": "Amino acids are absorbed into blood capillaries.",
         "B": "Glucose is absorbed into blood capillaries.",
         "D": "Minerals are absorbed into blood capillaries."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Digestive System: Explain why 'Low concentrations of clotting factors in the blood' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Digestive%20System%3A%20Explain%20why%20%27Low%20concentrations%20of%20clotting%20factors%20in%20the%20blood%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2860,6 +3400,10 @@
         "B": "Gas exchange is respiratory system function.",
         "C": "Digestion is GI system function.",
         "D": "Hormone production is endocrine system (though bones produce some hormones)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Monosaccharides' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Monosaccharides%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2881,6 +3425,10 @@
         "A": "Spongy bone is LESS dense, found inside bones.",
         "C": "Compact bone is solid, not filled with air spaces.",
         "D": "Spongy bone contains marrow but isn't made of only marrow."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Thin portion of the ascending limb of the loop of Henle' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Thin%20portion%20of%20the%20ascending%20limb%20of%20the%20loop%20of%20Henle%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2902,6 +3450,10 @@
         "A": "Breaking down bone is done by osteoCLASTS.",
         "C": "Storing minerals is a bone tissue function, not specific to osteoblasts.",
         "D": "Producing blood cells is done in red bone marrow."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Cortex' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Cortex%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2923,6 +3475,10 @@
         "A": "Building bone is osteoBLAST function.",
         "B": "Maintaining bone matrix is osteoCYTE function.",
         "D": "Producing cartilage is chondroblast function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Renal artery \u2192 afferent arterioles \u2192 glomerulus \u2192 efferent arterioles \u2192 vasa recta \u2192 renal vein' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Renal%20artery%20%E2%86%92%20afferent%20arterioles%20%E2%86%92%20glomerulus%20%E2%86%92%20efferent%20arterioles%20%E2%86%92%20vasa%20recta%20%E2%86%92%20renal%20vein%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2944,6 +3500,10 @@
         "A": "Building new bone is osteoblast function.",
         "B": "Breaking down bone is osteoclast function.",
         "D": "Producing blood cells happens in marrow, not osteocytes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'ADH acts directly on the proximal convoluted tubule.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27ADH%20acts%20directly%20on%20the%20proximal%20convoluted%20tubule.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2965,6 +3525,10 @@
         "A": "Diaphysis is the shaft - bones grow in WIDTH there, not length.",
         "C": "Periosteum is the outer covering - involved in width growth.",
         "D": "Medullary cavity is the hollow center containing marrow."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'reabsorption.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27reabsorption.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2986,6 +3550,10 @@
         "A": "Yellow marrow stores fat, doesn't produce blood cells.",
         "C": "Compact bone provides structure, doesn't produce cells.",
         "D": "Cartilage provides cushioning, not blood cell production."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Hypothalamus' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Hypothalamus%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3007,6 +3575,10 @@
         "A": "Bone has extensive blood supply and contains mineral matrix.",
         "B": "Tendons are dense connective tissue connecting muscle to bone.",
         "D": "Ligaments connect bone to bone, not provide cushioning at joints."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'proximal convoluted tubule.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27proximal%20convoluted%20tubule.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3028,6 +3600,10 @@
         "A": "Structural support comes from bones and ligaments.",
         "B": "Producing blood cells is bone marrow's job.",
         "D": "Connecting bones is done by ligaments."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'hypertonic to the blood.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27hypertonic%20to%20the%20blood.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3049,6 +3625,10 @@
         "A": "Movement in one plane only is a HINGE joint (elbow, knee).",
         "B": "No movement describes fixed/fibrous joints (skull sutures).",
         "D": "Sliding movement is GLIDING joints (vertebrae)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Glomerulus' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Glomerulus%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3070,6 +3650,10 @@
         "A": "Smooth muscle is INVOLUNTARY and NON-striated.",
         "B": "Cardiac muscle is INVOLUNTARY (your heart beats automatically).",
         "D": "Smooth muscle is found in organs/vessels, not attached to skeleton."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Papillary layer' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Papillary%20layer%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3091,6 +3675,10 @@
         "A": "The whole muscle fiber is made of many sarcomeres.",
         "B": "Myofibrils contain many sarcomeres in series.",
         "D": "Motor neurons control muscles but aren't the contractile unit."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Bicarbonate ions' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Bicarbonate%20ions%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3112,6 +3700,10 @@
         "A": "Actin and myosin don't get longer - the sliding makes sarcomere shorter.",
         "B": "Filaments slide TOGETHER, not apart (that would be relaxation).",
         "D": "Sarcomeres SHORTEN during contraction."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Stratum basale' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Stratum%20basale%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3133,6 +3725,10 @@
         "A": "Sodium is important for action potentials, not the contraction mechanism itself.",
         "B": "Potassium helps maintain resting potential but isn't the trigger.",
         "D": "Chloride helps with inhibitory signaling but not muscle contraction trigger."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Increased potassium reabsorption' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Increased%20potassium%20reabsorption%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3154,6 +3750,10 @@
         "A": "Binding doesn't require ATP - the myosin head naturally binds exposed sites.",
         "B": "Calcium release from SR doesn't directly require ATP (though pumping it back does).",
         "D": "Action potential generation uses ion gradients, not direct ATP hydrolysis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Homeostasis: Explain why 'Increased urination and increased sweating' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Homeostasis%3A%20Explain%20why%20%27Increased%20urination%20and%20increased%20sweating%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3175,6 +3775,10 @@
         "B": "Sensation is ONE function of skin, not the only one.",
         "C": "Vitamin D synthesis is ONE function, not the only one.",
         "D": "Temperature regulation is ONE function, not the only one."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why '2, 3, and 4 only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%272%2C%203%2C%20and%204%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3196,6 +3800,10 @@
         "A": "The dermis is BELOW the epidermis, contains blood vessels and nerves.",
         "C": "Hypodermis (subcutaneous) is the deepest layer with fat.",
         "D": "Stratum corneum is just the outermost PART of the epidermis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'the A-band.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27the%20A-band.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3217,6 +3825,10 @@
         "A": "Keratinocytes produce keratin, a protective protein.",
         "B": "Langerhans cells are immune cells in the epidermis.",
         "D": "Merkel cells are touch receptors."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why '4' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%274%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3238,6 +3850,10 @@
         "A": "The epidermis is avascular (no blood vessels).",
         "C": "Hypodermis contains fat for insulation.",
         "D": "Stratum corneum is dead cells for protection."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'Troponin' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27Troponin%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3259,6 +3875,10 @@
         "A": "Hair provides some insulation but doesn't cool the body.",
         "C": "Sebaceous glands produce oil for skin moisture, not cooling.",
         "D": "Blood vessels can dilate to release heat but aren't specifically for evaporative cooling."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'Osteoblasts\u2014bone cells involved in the secretion of bone matrix' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27Osteoblasts%E2%80%94bone%20cells%20involved%20in%20the%20secretion%20of%20bone%20matrix%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3280,6 +3900,10 @@
         "A": "Epidermis contains hair shafts passing through but roots are in dermis.",
         "C": "Hypodermis is too deep for hair follicles.",
         "D": "Stratum corneum is just the surface layer."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'Epiphysis' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27Epiphysis%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3301,6 +3925,10 @@
         "A": "Sweat glands produce sweat for cooling.",
         "B": "Mucous glands produce mucus in respiratory/digestive tracts.",
         "D": "Mammary glands produce milk."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'White fibers\u2014predominantly use aerobic respiration' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27White%20fibers%E2%80%94predominantly%20use%20aerobic%20respiration%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3322,6 +3950,10 @@
         "A": "Protection from UV is the epidermis (melanin) function.",
         "B": "Producing sweat is sweat gland function in dermis.",
         "C": "Sensation is primarily nerve endings in dermis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'Articular cartilage' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27Articular%20cartilage%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3343,6 +3975,10 @@
         "A": "Melanin provides pigment/UV protection.",
         "B": "Sebum is oil that moisturizes.",
         "D": "Collagen provides strength and structure in dermis."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3364,6 +4000,10 @@
         "A": "Melanin production is melanocyte function.",
         "B": "Touch sensation is Merkel cell function.",
         "D": "Keratin production is keratinocyte function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'I and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27I%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3385,6 +4025,10 @@
         "A": "Filtering blood is kidney function.",
         "C": "Hair pigment comes from melanocytes in hair follicle.",
         "D": "Sweat production is sweat gland function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'contains predominantly adipose tissue.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27contains%20predominantly%20adipose%20tissue.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3406,6 +4050,10 @@
         "A": "Size matters for total body surface area assessment but isn't how degrees are classified.",
         "C": "Cause (thermal, chemical, electrical) isn't how degrees are classified.",
         "D": "Pain level can indicate depth but isn't the classification criterion."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'The periosteum secretes fluid into the joint cavity.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27The%20periosteum%20secretes%20fluid%20into%20the%20joint%20cavity.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3427,6 +4075,10 @@
         "A": "Vitamin A is from diet (carotenoids), not made in skin.",
         "C": "Vitamin E is from diet (oils, nuts).",
         "D": "Vitamin K is from gut bacteria or diet."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'The sternum, or breastbone' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27The%20sternum%2C%20or%20breastbone%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3448,6 +4100,10 @@
         "A": "Melanin production protects against UV, not temperature.",
         "B": "Keratin production provides protection, not temperature regulation.",
         "D": "Hair growth rate doesn't significantly affect temperature regulation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'intramembranous ossification.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27intramembranous%20ossification.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3469,6 +4125,10 @@
         "A": "Melanin is a pigment, not nail material.",
         "B": "Collagen is in dermis/connective tissue, not nails.",
         "D": "Elastin provides elasticity to skin, not nail hardness."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - The Musculoskeletal System: Explain why 'Parathyroid' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20The%20Musculoskeletal%20System%3A%20Explain%20why%20%27Parathyroid%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3490,6 +4150,10 @@
         "A": "Innate immunity includes macrophages, neutrophils, NK cells - not B cells.",
         "B": "B cells produce antibodies, not directly kill pathogens.",
         "D": "B cells are for acquired (adaptive) immunity, which is specific."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'NPMO' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27NPMO%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3511,6 +4175,10 @@
         "A": "B cells mature in Bone marrow.",
         "C": "T cells don't produce antibodies - B cells do.",
         "D": "T cells are for adaptive immunity, not innate."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'BbCc' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27BbCc%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3532,6 +4200,10 @@
         "A": "T cells don't produce antibodies - they coordinate immune responses.",
         "C": "Macrophages are phagocytes, not antibody producers.",
         "D": "Neutrophils are phagocytes, not antibody producers."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why '50%' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%2750%25%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3553,6 +4225,10 @@
         "A": "Directly killing infected cells is CYTOTOXIC T cell function.",
         "B": "Producing antibodies is PLASMA (B) cell function.",
         "D": "Phagocytosis is macrophage/neutrophil function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'It must be genotypically heterozygous.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27It%20must%20be%20genotypically%20heterozygous.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3574,6 +4250,10 @@
         "A": "Activating B cells is HELPER T cell function.",
         "B": "Producing antibodies is PLASMA cell function.",
         "D": "Presenting antigens is done by APCs (macrophages, dendritic cells)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'Expressivity\u2014the percentage of individuals in the population carrying the allele who do not express the phenotype associated with it' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27Expressivity%E2%80%94the%20percentage%20of%20individuals%20in%20the%20population%20carrying%20the%20allele%20who%20do%20not%20express%20the%20phenotype%20associated%20with%20it%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3595,6 +4275,10 @@
         "A": "Producing antibodies is B cell function.",
         "B": "Releasing histamine is mast cell function.",
         "D": "Maturing in thymus describes T cells."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'Incomplete dominance' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27Incomplete%20dominance%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3616,6 +4300,10 @@
         "A": "Producing antibodies is B cell function.",
         "B": "Destroying pathogens directly isn't MHC's role.",
         "D": "Secreting cytokines is various immune cells' function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'The muscular strength gained by a weight lifter over a lifetime is inherited by the weight lifter\u2019s children.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27The%20muscular%20strength%20gained%20by%20a%20weight%20lifter%20over%20a%20lifetime%20is%20inherited%20by%20the%20weight%20lifter%E2%80%99s%20children.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3637,6 +4325,10 @@
         "A": "Adaptive immunity takes days to develop, inflammation is immediate.",
         "C": "Inflammation doesn't directly destroy pathogens - immune cells do.",
         "D": "Antibody production is part of adaptive, not innate inflammatory response."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'Favorable genetic variations become more and more common in individuals throughout their lives.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27Favorable%20genetic%20variations%20become%20more%20and%20more%20common%20in%20individuals%20throughout%20their%20lives.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3658,6 +4350,10 @@
         "A": "Initial response is primary, not memory.",
         "B": "Macrophages are innate immunity, not specific memory.",
         "D": "Inflammation is non-specific innate response."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'Monogamous mating partners' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27Monogamous%20mating%20partners%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3679,6 +4375,10 @@
         "A": "Infection producing antibodies is ACTIVE immunity.",
         "B": "Vaccination is ACTIVE immunity (you make your own antibodies).",
         "D": "T cell memory is ACTIVE immunity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'Directional selection' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27Directional%20selection%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3700,6 +4400,10 @@
         "A": "Ready-made antibodies is PASSIVE immunity (like from mother's milk).",
         "C": "Weakened forms cause immune response, not actual disease.",
         "D": "Vaccines don't directly strengthen innate immunity - they train adaptive immunity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'When they can no longer produce viable, fertile offspring' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27When%20they%20can%20no%20longer%20produce%20viable%2C%20fertile%20offspring%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3721,6 +4425,10 @@
         "A": "Allergies involve OVER-response, not underresponse.",
         "C": "Autoimmunity is attacking self-tissues, not harmless external substances.",
         "D": "Cancer involves abnormal cell growth, not immune hypersensitivity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why '9% RR, 42% Rr, 49% rr' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%279%25%20RR%2C%2042%25%20Rr%2C%2049%25%20rr%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3742,6 +4450,10 @@
         "A": "Recognizing foreign antigens is NORMAL function.",
         "B": "Overreaction to allergens is allergy/hypersensitivity.",
         "D": "Inability to fight infections is immunodeficiency."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why '48%' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%2748%25%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3763,6 +4475,10 @@
         "A": "Overactive immunity describes autoimmunity or allergies.",
         "B": "Attacking own tissues is autoimmunity.",
         "D": "Strong response to vaccines indicates normal immunity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'Frameshift mutation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27Frameshift%20mutation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3784,6 +4500,10 @@
         "A": "Producing red blood cells is bone marrow function.",
         "C": "Secreting hormones is endocrine system function.",
         "D": "Blood transport is circulatory system function."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Biology - Genetics and Evolution: Explain why 'Translocation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biology%20-%20Genetics%20and%20Evolution%3A%20Explain%20why%20%27Translocation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     }
   ]

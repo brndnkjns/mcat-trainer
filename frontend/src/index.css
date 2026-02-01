@@ -143,6 +143,39 @@ h3 { font-size: 1.25rem; }
   background: var(--gray-300);
 }
 
+.btn-ai {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-3) var(--space-5);
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: var(--radius-md);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn-ai:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+}
+
+.learn-with-ai-section {
+  margin-top: var(--space-6);
+  padding: var(--space-4);
+  background: linear-gradient(135deg, #f5f7ff 0%, #f0e6ff 100%);
+  border-radius: var(--radius-lg);
+  text-align: center;
+  border: 1px solid #e0e7ff;
+}
+
+.learn-with-ai-hint {
+  margin-top: var(--space-2);
+  font-size: 0.85rem;
+  color: var(--gray-500);
+}
+
 .btn-success {
   background: var(--success);
   color: white;

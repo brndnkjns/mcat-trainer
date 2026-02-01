@@ -365,6 +365,7 @@ async def submit_answer(request: AnswerRequest):
         "explanation": question['explanation'],
         "short_reason": question.get('short_reason', ''),
         "wrong_answer_explanations": question.get('wrong_answer_explanations', {}),
+        "learn_with_ai": question.get('learn_with_ai', {}),
         "citation": citation,
         "session_progress": {
             "answered": len(attempts),

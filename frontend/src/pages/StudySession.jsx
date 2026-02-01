@@ -353,6 +353,23 @@ function StudySession({ user }) {
                 📚 Source: {result.citation.source}, Chapter {result.citation.chapter}:{' '}
                 {result.citation.chapter_title}, Question {result.citation.question_number}
               </div>
+
+              {/* Learn with AI Button - shows when answer is wrong */}
+              {!result.correct && result.learn_with_ai?.url && (
+                <div className="learn-with-ai-section">
+                  <a
+                    href={result.learn_with_ai.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn btn-ai"
+                  >
+                    🤖 Learn This Topic with AI
+                  </a>
+                  <p className="learn-with-ai-hint">
+                    Opens Google Gemini in Guided Learning mode
+                  </p>
+                </div>
+              )}
             </div>
 
             <div className="flex gap-4 mt-6">

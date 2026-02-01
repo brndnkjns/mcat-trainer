@@ -25,6 +25,10 @@
         "B": "This incorrectly removes electrons from the 3d subshell. Electrons are removed from the highest principal quantum number (4s) first, not d orbitals.",
         "C": "This is the configuration of neutral zinc (Zn0), not the Zn2+ cation. Two electrons must be removed.",
         "D": "This shows removal of 4 electrons total - two from 4s and two from 3d. Zn2+ only loses 2 electrons (from 4s)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why '1s22s22p63s23p64s03d10' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%271s22s22p63s23p64s03d10%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -46,6 +50,10 @@
         "A": "When n=2, l can only be 0 or 1 (l < n). Having l=2 violates this fundamental rule.",
         "C": "When l=0 (s orbital), ml can only be 0. There's only one s orbital per subshell - ml cannot be -1.",
         "D": "Same as C - when l=0, the only valid ml is 0. You cannot have ml=1 in an s orbital."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'n = 2; l = 1; ml = \u22121; m s = + 1 2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27n%20%3D%202%3B%20l%20%3D%201%3B%20ml%20%3D%20%E2%88%921%3B%20m%20s%20%3D%20%2B%201%202%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -67,6 +75,10 @@
         "A": "2n would give 2 for n=1, 4 for n=2 - but n=2 actually holds 8 electrons. Too few!",
         "B": "2n+2 gives 4 for n=1 (should be 2) and 6 for n=2 (should be 8). Doesn't match periodic table.",
         "D": "2n^2+2 would give 4 for n=1 (should be 2). The +2 doesn't belong in this formula."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why '2n2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%272n2%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -88,6 +100,10 @@
         "A": "2l+2 would give 2 for s (correct), 4 for p (wrong - should be 6), 6 for d (wrong - should be 10).",
         "C": "2l^2 would give 0 for s orbital (l=0) when s actually holds 2 electrons.",
         "D": "2l^2+2 would give 2 for s (correct) but 4 for p (should be 6) - pattern breaks after s."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why '4l + 2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%274l%20%2B%202%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -109,6 +125,10 @@
         "A": "Sodium (Na) has configuration [Ne]3s^1 - that single 3s electron is unpaired, making it paramagnetic.",
         "B": "Iron (Fe) has [Ar]4s^2 3d^6 with four unpaired d electrons. It's famously magnetic!",
         "C": "Cobalt (Co) has [Ar]4s^2 3d^7 with three unpaired d electrons - definitely paramagnetic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'Helium' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27Helium%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -130,6 +150,10 @@
         "A": "This is energy for a single photon (3.98 x 10^-19 J), not for one mole. Forgot to multiply by NA!",
         "B": "Calculation error - this doesn't account for the proper conversion of wavelength to energy per mole.",
         "C": "Off by a factor of 100 - likely a unit conversion error with wavelength (nm to m)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why '2.39 \u00d7 105 J' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%272.39%20%C3%97%20105%20J%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -151,6 +175,10 @@
         "A": "Photon absorption occurs when electrons GAIN energy and jump UP. Here the electron is falling DOWN.",
         "C": "The n=1 shell only has an s orbital (l=0). There are no p orbitals at n=1.",
         "D": "D orbitals require l=2, which requires n >= 3. The n=1 shell cannot have d orbitals."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'A photon is emitted.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27A%20photon%20is%20emitted.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -172,6 +200,10 @@
         "B": "Carbon-12 is the most abundant isotope of carbon (about 99%) - very stable with 6 protons and 6 neutrons.",
         "C": "Carbon-13 exists naturally (about 1%) with 6 protons and 7 neutrons - stable isotope.",
         "D": "Carbon-14 exists in trace amounts and is used for dating - radioactive but naturally occurring."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why '6C' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%276C%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -193,6 +225,10 @@
         "A": "The uncertainty principle isn't about imprecise definitions of units - it's a fundamental quantum limitation.",
         "B": "Even with perfect instruments, we still couldn't measure both simultaneously - it's not a technology problem.",
         "D": "Mass defect is about nuclear binding energy, not about measuring electron properties."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'Error in one variable is increased by attempts to measure the other' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27Error%20in%20one%20variable%20is%20increased%20by%20attempts%20to%20measure%20the%20other%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -214,6 +250,10 @@
         "A": "Going from n=6 to n=2 releases energy (photon emission) - the electron LOSES energy.",
         "C": "This is a smaller upward jump (one level) compared to the four-level jump in choice B.",
         "D": "Going from n=4 to n=3 releases energy - the electron is falling down, not climbing up."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'An electron moves from n = 2 to n = 6.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27An%20electron%20moves%20from%20n%20%3D%202%20to%20n%20%3D%206.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -236,6 +276,10 @@
         "B": "Heisenberg uncertainty is about position/momentum measurement, not electron orbital filling order.",
         "C": "The Bohr model describes electron energy levels in hydrogen, not filling patterns in multi-electron atoms.",
         "D": "Rutherford model describes the dense positive nucleus, not electron configuration rules."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'Hund\u2019s rule' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27Hund%E2%80%99s%20rule%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -257,6 +301,10 @@
         "B": "55 would be the electron count for neutral Cs, not the Cs+ cation which has lost one electron.",
         "C": "78 is the atomic number of platinum - completely wrong element!",
         "D": "132 is close to cesium's mass number, not its electron count. Don't confuse mass with electrons!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why '54' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%2754%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -278,6 +326,10 @@
         "A": "92% H would give an atomic weight of about 1.08 - way too heavy!",
         "C": "0.08% D is ten times too little - the atomic weight would be too close to 1.000.",
         "D": "0.008% D is a hundred times too little - virtually no contribution to atomic weight."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why '99.2% H, 0.8% D' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%2799.2%25%20H%2C%200.8%25%20D%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -299,6 +351,10 @@
         "B": "Opposite would mean one +1/2 and one -1/2 - but both have +1/2 here.",
         "C": "Antiparallel means opposite spins (one up, one down) - these are the same direction.",
         "D": "Paired electrons must be in the SAME orbital with opposite spins - these are in different orbitals (different n and ml)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'Parallel' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27Parallel%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -320,6 +376,10 @@
         "A": "Statement I is actually correct - Cr does have this configuration due to half-filled d orbital stability.",
         "C": "Statement II is correct but III is wrong - Fe2+ removes two 4s electrons first, giving [Ar]3d^6, not 4s^1 3d^5.",
         "D": "Fe2+ cannot have this configuration - it has 24 electrons and would be [Ar]3d^6 after losing both 4s electrons."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'I and II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27I%20and%20II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -341,6 +401,10 @@
         "A": "Many metals form positive ions - this is too general and doesn't explain their SIMILAR properties.",
         "C": "Li and Na are in different periods (rows), not the same one. They're in the same GROUP (column).",
         "D": "Low atomic weight doesn't determine chemical reactivity - oxygen is light but behaves very differently."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'Lithium and sodium are in the same group of the periodic table.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27Lithium%20and%20sodium%20are%20in%20the%20same%20group%20of%20the%20periodic%20table.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -362,6 +426,10 @@
         "B": "Silicon is LARGER than carbon because it has an additional electron shell, not smaller.",
         "C": "C and Si have the SAME number of valence electrons (4) - they're in Group IVA.",
         "D": "Again, same group means same valence electron count. Both have 4 valence electrons."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'Carbon has a smaller atomic radius than silicon.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27Carbon%20has%20a%20smaller%20atomic%20radius%20than%20silicon.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -383,6 +451,10 @@
         "A": "Mg is a metal on the left side - metals have LOW electronegativity, not high.",
         "C": "Zn is a transition metal with moderate electronegativity - nowhere near the halogens.",
         "D": "Iodine is below chlorine in Group VIIA - going down decreases electronegativity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'Cl' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27Cl%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -404,6 +476,10 @@
         "A": "This incorrectly puts Be's first IE below Li's first IE - Be is to the RIGHT and has higher first IE.",
         "B": "Second IE of Be must be highest - removing an electron from Be+ breaks into the noble gas core.",
         "D": "This puts first IE of Be higher than second IE - second ionization energy is ALWAYS higher than first."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'First ionization energy of Li < first ionization energy of Be < second ionization energy of Be' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27First%20ionization%20energy%20of%20Li%20%3C%20first%20ionization%20energy%20of%20Be%20%3C%20second%20ionization%20energy%20of%20Be%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -425,6 +501,10 @@
         "A": "Sb is too far right to be a true metal - it's on the metalloid borderline.",
         "C": "Halogens are in Group VIIA - Sb is in Group VA, not a halogen.",
         "D": "Sb is not far enough right to be a true nonmetal - it still has some metallic properties."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'Metalloid' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27Metalloid%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -446,6 +526,10 @@
         "A": "Statement I (electronegativity) IS correct - it increases toward upper right.",
         "B": "Statement II (atomic radius) is WRONG - radius DEcreases in this direction (atoms get smaller).",
         "D": "Statement II is incorrect - atomic radius follows the OPPOSITE trend (decreases up and right)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'I and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27I%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -467,6 +551,10 @@
         "A": "Malleability is about physical shaping, not electrical conductivity.",
         "B": "Low electronegativity explains why metals LOSE electrons, but not how those electrons conduct electricity.",
         "D": "High melting points relate to bond strength, not electron mobility for current flow."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'Metals have valence electrons that can move freely.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27Metals%20have%20valence%20electrons%20that%20can%20move%20freely.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -489,6 +577,10 @@
         "A": "Alkali metals (Group IA) are actually better conductors due to lower ionization energy.",
         "C": "Second IE is ALWAYS higher than first IE - removing a second electron is always harder, not easier.",
         "D": "Atomic radii INCREASE going down a group (more shells), they don't decrease."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'These elements form divalent cations.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27These%20elements%20form%20divalent%20cations.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -510,6 +602,10 @@
         "A": "Na+ is too simple with no d orbitals - it just hydrates without forming true complex ions.",
         "C": "Cl- is an anion that doesn't typically form coordination complexes with water molecules.",
         "D": "S2- is an anion - it doesn't have the empty orbitals needed for complex ion formation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'Fe2+' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27Fe2%2B%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -531,6 +627,10 @@
         "A": "Only Group IIA elements have exactly 2 valence electrons - not the whole period.",
         "B": "Only Group IIIA elements have exactly 3 valence electrons.",
         "C": "Valence electrons INCREASE left to right, not decrease."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'The number increases as the atomic number increases.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27The%20number%20increases%20as%20the%20atomic%20number%20increases.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -552,6 +652,10 @@
         "A": "Atomic number (33 vs 15) doesn't determine chemical similarity - valence configuration does.",
         "B": "Total electron count differs, but VALENCE electron count is what matters for bonding behavior.",
         "D": "As is actually larger than P - similar radius isn't what makes them chemically similar."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'Similar valence configuration' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27Similar%20valence%20configuration%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -573,6 +677,10 @@
         "A": "This atom (likely Na or Mg) has low electron affinity - metals don't want MORE electrons.",
         "B": "Fluorine has the second-highest electron affinity, but chlorine actually beats it due to electron repulsion in F's small orbitals.",
         "C": "Oxygen has decent electron affinity but nowhere near the halogens."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'F (fluorine)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27F%20%28fluorine%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -594,6 +702,10 @@
         "A": "Neutral Cl has 17 protons pulling on 17 electrons - Zeff is about +7.",
         "B": "Cl- has 17 protons but 18 electrons - the extra electron reduces effective nuclear charge.",
         "C": "Neutral K has only 1 electron in its outer shell being pulled - very low Zeff for that valence electron."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'K+' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27K%2B%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -615,6 +727,10 @@
         "A": "Halogens have HIGH electron affinity (they WANT electrons), not alkaline earth metals.",
         "B": "Equal sharing describes COVALENT bonds. Ionic bonds involve electron TRANSFER, not sharing.",
         "C": "True statement but doesn't explain ionic bonding - atomic radii relate to size, not bond type."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'The halogens have much higher electron affinities than the alkaline earth metals.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27The%20halogens%20have%20much%20higher%20electron%20affinities%20than%20the%20alkaline%20earth%20metals.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -636,6 +752,10 @@
         "A": "The s-orbital (l=0) is the LOWEST energy subshell in any shell, not highest.",
         "B": "The p-orbital (l=1) is higher than s but lower than d within the n=3 shell.",
         "D": "F-orbitals require l=3, which requires n >= 4. There is no 3f subshell!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'd-orbital' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27d-orbital%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -657,6 +777,10 @@
         "A": "Ionic bonds form between metals and nonmetals with huge electronegativity differences - C and O are both nonmetals.",
         "C": "Nonpolar covalent requires equal electronegativity (like O2 or N2). C and O have different electronegativities.",
         "D": "Coordinate covalent means one atom provides both electrons - CO2 has regular covalent bonds."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'Polar covalent' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27Polar%20covalent%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -678,6 +802,10 @@
         "A": "Water's oxygen has no formal charge - it's neutral with its normal 6 valence electrons.",
         "C": "Ozone (O3) has partial negative charges, but the central O is actually positive. Less negative overall.",
         "D": "Formaldehyde's oxygen has formal charge of 0 in the best Lewis structure."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'CO32\u2013' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27CO32%E2%80%93%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -699,6 +827,10 @@
         "A": "Beryllium often has only 4 electrons in compounds like BeCl2 - it's 'happy' with less than 8.",
         "B": "Sulfur can expand its octet using 3d orbitals (SF6 has 12 electrons around S).",
         "D": "Phosphorus can also expand its octet (PCl5 has 10 electrons around P)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'Na' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27Na%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -720,6 +852,10 @@
         "A": "This order is completely backward - it lists them from high to low BP instead of low to high.",
         "B": "Puts isopropanol before acetone, but H-bonding in alcohols gives higher BP than dipole-dipole in ketones.",
         "C": "Puts ionic KCl in wrong position and reverses the molecular compounds."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'III < I < IV < II' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27III%20%3C%20I%20%3C%20IV%20%3C%20II%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -741,6 +877,10 @@
         "A": "Resonance structures don't determine geometry - electron pairs do. Resonance just shows electron delocalization.",
         "B": "The -2 charge affects electron count but doesn't explain why Cl needs 5 electron domains.",
         "D": "CO3 2- has NO lone pairs on the central carbon - it has only bonding electrons."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'ClF3 has lone pairs on its central atom, while CO32\u2013 has none.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27ClF3%20has%20lone%20pairs%20on%20its%20central%20atom%2C%20while%20CO32%E2%80%93%20has%20none.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -762,6 +902,10 @@
         "A": "Cl and H are both nonmetals - they form covalent bonds (HCl is polar covalent).",
         "C": "O and Cl are both nonmetals with similar electronegativities - they'd form covalent bonds.",
         "D": "O and H are both nonmetals - water is the classic example of polar covalent bonding."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'I and II' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27I%20and%20II%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -783,6 +927,10 @@
         "A": "Bonds between same elements aren't necessarily shorter - electronegativity matters more than element identity.",
         "B": "Neither molecule has meaningful resonance structures - both have clear triple bonds.",
         "C": "Carbon IS more electronegative than hydrogen, but this doesn't explain the C-N vs C-C bond length difference."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'Nitrogen is more electronegative than carbon.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27Nitrogen%20is%20more%20electronegative%20than%20carbon.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -804,6 +952,10 @@
         "A": "Hydrogen has LOW affinity for valence electrons - it's less electronegative than F, O, N.",
         "B": "Having only 2 electrons allowed is about orbital capacity, not the mechanism of H-bonding.",
         "D": "H-bonds are NOT ionic - they're intermolecular attractions, not electron transfer."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'Electronegative atoms disproportionately carry shared electron pairs when bonded to hydrogen.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27Electronegative%20atoms%20disproportionately%20carry%20shared%20electron%20pairs%20when%20bonded%20to%20hydrogen.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -825,6 +977,10 @@
         "A": "NH4+ has FOUR bonds (to 4 hydrogens), not three.",
         "B": "One of the four bonds IS coordinate covalent - the one formed by the N lone pair grabbing H+.",
         "D": "Only ONE bond is coordinate covalent - the original three N-H bonds are regular covalent."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'Four polar covalent bonds, of which one is a coordinate covalent bond' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27Four%20polar%20covalent%20bonds%2C%20of%20which%20one%20is%20a%20coordinate%20covalent%20bond%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -846,6 +1002,10 @@
         "A": "Having 8 electrons already would mean the octet is satisfied, not exceeded.",
         "B": "Octet expansion isn't limited to bonding with transition metals - sulfur expands with any small atoms.",
         "D": "Highly electronegative atoms like F and O are typically the PARTNERS in expanded octets, not the central atoms."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'Atoms that exceed the octet can do so because they have d-orbitals in which extra electrons can reside.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27Atoms%20that%20exceed%20the%20octet%20can%20do%20so%20because%20they%20have%20d-orbitals%20in%20which%20extra%20electrons%20can%20reside.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -867,6 +1027,10 @@
         "A": "Noble gases cannot form hydrogen bonds - they don't bond to hydrogen.",
         "B": "Ion-dipole requires ions - noble gases are neutral atoms.",
         "D": "Dipole-dipole requires permanent dipoles - noble gases are perfectly symmetrical and nonpolar."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'Dispersion forces' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27Dispersion%20forces%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -888,6 +1052,10 @@
         "B": "The charges are NOT equal - that would give a neutral molecule, not PO4 3-.",
         "C": "The oxygens are NEGATIVE (they're more electronegative), not positive.",
         "D": "The apical oxygen has the same -1 formal charge as the others in phosphate."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'The phosphorus atom has the most positive charge.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27The%20phosphorus%20atom%20has%20the%20most%20positive%20charge.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -909,6 +1077,10 @@
         "A": "The O-H bonds are POLAR (not nonpolar) due to oxygen's higher electronegativity.",
         "B": "No ionic bond forms - H3O+ is a covalently bonded species, just with a positive charge.",
         "D": "Hydrogen bonds are intermolecular forces - this is an intramolecular covalent bond forming."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'Coordinate covalent bond' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27Coordinate%20covalent%20bond%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -930,6 +1102,10 @@
         "A": "BF3 is trigonal PLANAR (flat), not pyramidal - it has no lone pairs to push atoms out of plane.",
         "B": "NH3 is actually POLAR (pyramidal = asymmetric). BF3 is nonpolar (symmetrical).",
         "D": "True statement about polarity, but doesn't explain WHY the geometries differ."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'NH3 has three bonded atoms and one lone pair, which makes its geometry trigonal pyramidal.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27NH3%20has%20three%20bonded%20atoms%20and%20one%20lone%20pair%2C%20which%20makes%20its%20geometry%20trigonal%20pyramidal.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -951,6 +1127,10 @@
         "A": "Sucrose has hydrogen bonding between molecules, which is much weaker than ionic bonds.",
         "C": "Glycerol also relies on hydrogen bonding - still weaker than ionic interactions.",
         "D": "Water's H-bonds are strong for an intermolecular force, but nowhere near ionic bond strength."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'NaCl' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27NaCl%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -972,6 +1152,10 @@
         "A": "Ionic compounds don't form discrete molecules - they form extended 3D lattice structures.",
         "B": "We use FORMULA weight (not molecular weight) for ionic compounds because they aren't molecules.",
         "C": "In ionic bonds, electrons are TRANSFERRED, not shared - that's what makes them ionic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'Ionic compounds are three-dimensional arrays of charged particles.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27Ionic%20compounds%20are%20three-dimensional%20arrays%20of%20charged%20particles.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -993,6 +1177,10 @@
         "B": "C4H10O (butanol) = 48 + 10 + 16 = 74 g/mol but this is MOLECULAR weight, not formula weight.",
         "C": "MgCl2 = 24.3 + 71 = 95.3 g/mol - too heavy.",
         "D": "BF3 = 10.8 + 57 = 67.8 g/mol - too light."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'KCl' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27KCl%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1014,6 +1202,10 @@
         "B": "98.1 g is the molar mass, not the gram equivalent weight. Forgot to divide by number of protons!",
         "C": "147.1 g would be molar mass times 1.5 - no physical meaning here.",
         "D": "196.2 g would be double the molar mass - going the wrong direction."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why '49.1 g' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%2749.1%20g%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1036,6 +1228,10 @@
         "A": "Benzene is C6H6 = CH ratio, simplifies perfectly to the empirical formula CH.",
         "B": "Ethyne (acetylene) is C2H2 = CH ratio, also simplifies to CH.",
         "D": "If this is a compound with CH ratio, it would work - the question shows C3H4 structure doesn't fit."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'Propyne (C\u2083H\u2084)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27Propyne%20%28C%E2%82%83H%E2%82%84%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1057,6 +1253,10 @@
         "B": "Ethanol (C2H6O) has only about 52% carbon - not close to 62%.",
         "C": "Propane (C3H8) has about 82% carbon - way too high!",
         "D": "Methanol (CH4O) has only about 38% carbon - too low."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'Acetone' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27Acetone%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1078,6 +1278,10 @@
         "A": "Single displacement has one element replacing another in a compound - not what's happening here.",
         "C": "Double displacement is correct but too general - neutralization is the specific subtype.",
         "D": "Oxidation-reduction involves electron transfer - no oxidation states change here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'Neutralization' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27Neutralization%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1099,6 +1303,10 @@
         "B": "Calculation error - this would mean only 0.25 mol Na2S reacted, but that's what DID react, not what's left.",
         "C": "Wrong species - Na2S is in excess, not AgNO3.",
         "D": "Wrong species and wrong amount - AgNO3 is completely consumed."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why '19.5 g Na2S' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%2719.5%20g%20Na2S%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1120,6 +1328,10 @@
         "B": "Missing the mole ratio - you can't skip from moles of reactant directly to mass of product.",
         "C": "Inverted - this gives moles per gram instead of grams.",
         "D": "Units don't work out - mol^2/gram is not a useful quantity."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why '( grams KClO 3 consumed ) ( 3 moles O 2 ) ( molar mass O 2 ) ( molar mass KCl O 3 ) ( 2 moles KCl O 3 )' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27%28%20grams%20KClO%203%20consumed%20%29%20%28%203%20moles%20O%202%20%29%20%28%20molar%20mass%20O%202%20%29%20%28%20molar%20mass%20KCl%20O%203%20%29%20%28%202%20moles%20KCl%20O%203%20%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1141,6 +1353,10 @@
         "A": "Correct that it's single-displacement, but missing the redox component.",
         "B": "Not a combination reaction - those combine simpler substances into one product.",
         "C": "Not double displacement - only one swap occurs (Al for Ag), not two."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'II and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27II%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1162,6 +1378,10 @@
         "A": "Double displacement does have equal reactants and products (2 compounds swap partners).",
         "B": "Single displacement also typically has 2 reactants and 2 products.",
         "D": "Combination reactions go from MANY reactants to FEWER products (A + B -> AB)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'I and II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27I%20and%20II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1184,6 +1404,10 @@
         "A": "4 CO2 is correct for balancing 4 carbons from Zn(C2H5)2.",
         "B": "5 would mean 10 carbons on product side - way too many.",
         "C": "6 would give 12 carbons - also incorrect."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why '4' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%274%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1205,6 +1429,10 @@
         "A": "30g would mean 1:1 mass conversion - ignores molar masses and stoichiometry.",
         "C": "Way too high - would require more water than we started with.",
         "D": "Impossibly high - would violate conservation of mass."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why '50.0 g' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%2750.0%20g%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1226,6 +1454,10 @@
         "A": "Au2S3 is in excess - there's enough for 5/3 = 1.67 mol Au2S3, but we have 2 mol.",
         "C": "Gold is a product, not a reactant - products can't be limiting reagents.",
         "D": "H2S is also a product - not a limiting reagent."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'H2 (g)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27H2%20%28g%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1247,6 +1479,10 @@
         "A": "Nonpolar covalent compounds don't ionize at all - they're nonelectrolytes.",
         "C": "Small dissociation constant means it barely ionizes - weak electrolyte.",
         "D": "Two +1 and one -2 gives only 3 ions total - less than option B's 4 ions."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why 'An ionic compound composed of one cation with +3 charge and three anions with \u22121 charge.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%27An%20ionic%20compound%20composed%20of%20one%20cation%20with%20%2B3%20charge%20and%20three%20anions%20with%20%E2%88%921%20charge.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1268,6 +1504,10 @@
         "B": "6 N2O has only 6 oxygens on left - doesn't balance the 9 oxygens needed on right.",
         "C": "8 N2O with 2 CS2 - carbon isn't balanced (2 C left, 2 CO2 right - wait, that works, but oxygen doesn't).",
         "D": "7 N2O gives 7 oxygens - can't balance 9 oxygens on product side."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why '8 N2O + 4 CS2 \u2192 S8 + 4 CO2 + 8 N2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%278%20N2O%20%2B%204%20CS2%20%E2%86%92%20S8%20%2B%204%20CO2%20%2B%208%20N2%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1289,6 +1529,10 @@
         "A": "If rate increased, we'd need to increase concentration, not decrease it.",
         "B": "Factor of 4 increase would require doubling a 2nd-order reactant, not halving.",
         "C": "Factor of 2 decrease would be for a 1st-order relationship, but this is 2nd-order."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'It will decrease by a factor of 4.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27It%20will%20decrease%20by%20a%20factor%20of%204.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1310,6 +1554,10 @@
         "A": "Endothermic refers to enthalpy, but this discusses free energy (activation energy).",
         "B": "Exothermic would mean products lower than reactants - opposite of what the activation energies suggest.",
         "C": "Spontaneous (exergonic) would mean \u0394G < 0, but here \u0394G > 0."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'nonspontaneous.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27nonspontaneous.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1331,6 +1579,10 @@
         "A": "Rate would be unchanged only for zero-order reactions.",
         "B": "16x increase assumes [A]^2 dependence, but it could be [A][B].",
         "C": "4x increase assumes [A]^1 dependence within second-order, but might be [A]^2."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'It cannot be determined from the information given.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27It%20cannot%20be%20determined%20from%20the%20information%20given.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1352,6 +1604,10 @@
         "B": "Rate never decreases from adding reactants in any order reaction.",
         "C": "Rate would increase only if concentration appeared in the rate law (1st order or higher).",
         "D": "For zero-order, we CAN determine the effect - it's definitively unchanged."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'It is unchanged.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27It%20is%20unchanged.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1373,6 +1629,10 @@
         "A": "Ice bath slows reactions by decreasing k (Arrhenius equation).",
         "B": "Higher pressure means higher concentration for gases = faster rate (usually).",
         "C": "Solvents can stabilize transition states and affect rates significantly."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'Removing the product of an irreversible reaction.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27Removing%20the%20product%20of%20an%20irreversible%20reaction.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1394,6 +1654,10 @@
         "A": "Rate constant k can't increase without changing temperature or catalyst.",
         "B": "Rate constant never decreases from adding reactants.",
         "C": "With saturated catalyst, neither k nor rate can increase further."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'The reaction rate would be unaffected.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27The%20reaction%20rate%20would%20be%20unaffected.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1415,6 +1679,10 @@
         "B": "Stoichiometric coefficients don't equal rate law exponents - they're determined experimentally.",
         "C": "Catalysts CAN affect rate - statement III is false.",
         "D": "Statements II and III are both false - only statement I is correct."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'I only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27I%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1436,6 +1704,10 @@
         "A": "First order in both would give rate doubling when each doubles - but XH4 doubling quadrupled rate.",
         "B": "Second order in O2 would give 16x rate increase when O2 quadruples - we only see 4x.",
         "D": "Both second order would give 16x increase for 2x change in either - doesn't match data."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'rate = k[XH4]2[O2]' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27rate%20%3D%20k%5BXH4%5D2%5BO2%5D%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1457,6 +1729,10 @@
         "A": "Catalysts are NOT used up - they're regenerated after each catalytic cycle.",
         "C": "Catalysts don't change thermodynamics (\u0394G) - only kinetics (activation energy).",
         "D": "Catalysts LOWER transition state energy, not raise it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'Catalysts increase the rate of the reaction by lowering the activation energy.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27Catalysts%20increase%20the%20rate%20of%20the%20reaction%20by%20lowering%20the%20activation%20energy.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1478,6 +1754,10 @@
         "A": "Zero would mean rate = k with no concentration dependence - but [B] and [C] affect rate.",
         "B": "Two ignores the first-order [C] term.",
         "D": "Four would require an extra order somewhere that doesn't exist in this rate law."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why '3' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%273%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1500,6 +1780,10 @@
         "A": "Point B is a transition state, not related to overall thermodynamics.",
         "B": "Point C is an intermediate - comparing C to A doesn't tell us about products.",
         "C": "D vs E is about second step's activation energy, not overall reaction energy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'exergonic, because point A is higher than point E.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27exergonic%2C%20because%20point%20A%20is%20higher%20than%20point%20E.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1521,6 +1805,10 @@
         "A": "A to B is a smaller climb than E to D on this energy diagram.",
         "C": "C to D (second step forward) is a smaller activation energy than E to D.",
         "D": "D to E is DOWNHILL - that's not activation energy, that's energy release."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'The first step of the reverse reaction' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27The%20first%20step%20of%20the%20reverse%20reaction%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1543,6 +1831,10 @@
         "A": "Reactants are at point A - the starting position on the left.",
         "B": "Products are at point E - the final position on the right.",
         "C": "Transition states are at peaks (points B and D), not valleys."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'intermediates.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27intermediates.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1564,6 +1856,10 @@
         "A": "CO doesn't appear - it's in the fast step and doesn't limit the rate.",
         "B": "CO still doesn't belong in the rate law for the same reason.",
         "C": "NO3 is an intermediate - intermediates shouldn't appear in rate laws."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'rate = k[NO2]2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27rate%20%3D%20k%5BNO2%5D2%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1586,6 +1882,10 @@
         "A": "Reaction A has a higher activation energy than D - slower reaction.",
         "B": "Reaction B has medium activation energy - not the fastest.",
         "C": "Reaction C also has higher activation energy than D."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'D' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27D%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1607,6 +1907,10 @@
         "A": "Irreversible reactions go to completion - they don't stop with reactants remaining.",
         "B": "If reverse rate were too large, products couldn't accumulate at all.",
         "D": "At equilibrium, rates are EQUAL, not with reverse greater than forward."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'The reaction is reversible, and the forward rate is equal to the reverse rate.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27The%20reaction%20is%20reversible%2C%20and%20the%20forward%20rate%20is%20equal%20to%20the%20reverse%20rate.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1628,6 +1932,10 @@
         "A": "Should not include [Cu2SO4] in denominator - it's a solid!",
         "B": "The '2x' isn't how we express Keq - we use exponents, not coefficients as multipliers.",
         "C": "Missing the squared exponent on [Cu+] from the stoichiometric coefficient 2."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why '[Cu + ] 2 [ SO 4 2 \u2212 ]' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27%5BCu%20%2B%20%5D%202%20%5B%20SO%204%202%20%E2%88%92%20%5D%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1649,6 +1957,10 @@
         "B": "Shifting right would INCREASE carbonic acid, not decrease it - opposite of what happens.",
         "C": "O2 and N2 are inert and don't react with carbonic acid under these conditions.",
         "D": "CO2 doesn't react with atmospheric gases spontaneously at room temperature."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'The change in pressure and volume causes the reaction to shift to the left, thereby decreasing the amount of aqueous carbonic acid.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27The%20change%20in%20pressure%20and%20volume%20causes%20the%20reaction%20to%20shift%20to%20the%20left%2C%20thereby%20decreasing%20the%20amount%20of%20aqueous%20carbonic%20acid.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1670,6 +1982,10 @@
         "A": "High temperature speeds equilibration toward thermodynamic product.",
         "C": "Long reaction time allows equilibration to thermodynamic product.",
         "D": "Long time would favor thermodynamic product regardless of temperature."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'Low temperature and short reaction time' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27Low%20temperature%20and%20short%20reaction%20time%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1691,6 +2007,10 @@
         "B": "K >> 1 means products dominate, not reactants.",
         "C": "Equal concentrations would give K = 1, not K >> 1.",
         "D": "Even with large K, the reaction is still reversible - it just lies far to the right."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'the equilibrium mixture will favor products over reactants.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27the%20equilibrium%20mixture%20will%20favor%20products%20over%20reactants.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1712,6 +2032,10 @@
         "A": "pH increases (less acidic), not decreases.",
         "C": "Ka is a constant at fixed temperature - adding salt doesn't change it.",
         "D": "Same reason - Ka (and pKa) are intrinsic properties that don't change."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'Increased pH' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27Increased%20pH%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1733,6 +2057,10 @@
         "B": "Decreasing pressure would shift toward MORE moles of gas, not fewer.",
         "C": "Increasing volume decreases pressure, shifting toward more gas moles.",
         "D": "If pressure is constant despite volume change, there's no equilibrium shift."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'Decreasing the volume of the container' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27Decreasing%20the%20volume%20of%20the%20container%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1754,6 +2082,10 @@
         "A": "Lower temperature decreases ALL rates (Arrhenius), but the relative rates change.",
         "B": "Forward rate increases RELATIVE to reverse, even if absolute rates decrease.",
         "D": "Both rates change in opposite directions relative to each other."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'The forward reaction rate increases while the reverse reaction rate decreases.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27The%20forward%20reaction%20rate%20increases%20while%20the%20reverse%20reaction%20rate%20decreases.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1775,6 +2107,10 @@
         "A": "Heat IS a factor - temperature changes K for exo/endothermic reactions.",
         "C": "Changing concentrations definitely shifts equilibrium position.",
         "D": "Volume changes affect gas-phase equilibria through pressure changes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'Adding or removing a catalyst.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27Adding%20or%20removing%20a%20catalyst.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1796,6 +2132,10 @@
         "B": "Off by factor of 10 - likely forgot to square NH3 concentration.",
         "C": "Off by factor of 100 - major calculation error.",
         "D": "Off by factor of 1000 - possibly forgot (3)^3 in denominator."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why '0.0001' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%270.0001%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1817,6 +2157,10 @@
         "A": "There's no fundamental limit to Keq - it can be astronomically large or small.",
         "C": "Increasing T increases P at constant V (gas law), not decreases.",
         "D": "Irreversible reactions don't have a Keq in the traditional sense."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'The products or reactants can decompose at high temperatures.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27The%20products%20or%20reactants%20can%20decompose%20at%20high%20temperatures.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1838,6 +2182,10 @@
         "A": "The kinetic product is LESS stable, not more, and has SMALLER \u0394G magnitude.",
         "B": "Kinetic product is less stable, not more stable.",
         "C": "Thermodynamic product is MORE stable, not less stable."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'The free energy change for the thermodynamic product is greater since it is more stable.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27The%20free%20energy%20change%20for%20the%20thermodynamic%20product%20is%20greater%20since%20it%20is%20more%20stable.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1859,6 +2207,10 @@
         "A": "HNO3 is a strong acid - acids don't react favorably with other acids.",
         "B": "NO2 is a neutral compound/radical, not a base.",
         "D": "N2O5 is an acidic oxide, not a base."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why 'NH3' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27NH3%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1880,6 +2232,10 @@
         "A": "This would be true if the reactions were identical, not reversed.",
         "B": "K = 1 would mean equal products and reactants - not the case here.",
         "D": "100 would be (1/0.1)^2 - we don't square when reversing."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why '10' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%2710%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1901,6 +2257,10 @@
         "B": "A and B are reactants - cooling shifts AWAY from them, not toward them.",
         "C": "\u0394H is defined by the reaction and doesn't change with temperature.",
         "D": "\u0394H remains constant - only the equilibrium position shifts."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Equilibrium: Explain why '[C] and [D] would increase.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Equilibrium%3A%20Explain%20why%20%27%5BC%5D%20and%20%5BD%5D%20would%20increase.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1923,6 +2283,10 @@
         "B": "Isobaric (constant P) would be a horizontal line on a PV diagram.",
         "C": "Isothermal is curved too, but the problem says temperature changed (cooling).",
         "D": "Isochoric (constant V) would be a vertical line on a PV diagram."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'adiabatic.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27adiabatic.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1944,6 +2308,10 @@
         "B": "Heat IS entering (from heating element) - not adiabatic.",
         "C": "Volume is definitely changing as liquid becomes gas - not isovolumetric.",
         "D": "Gas is expanding, not compressing, and heat is entering."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'Isothermal expansion' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27Isothermal%20expansion%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1965,6 +2333,10 @@
         "A": "K can't be negative - it's a ratio of concentrations.",
         "B": "0 < K < 1 gives positive \u0394G (nonspontaneous).",
         "C": "K = 1 gives \u0394G = 0 (equilibrium, no net reaction)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'Keq > 1' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27Keq%20%3E%201%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -1986,6 +2358,10 @@
         "A": "Ethane (C2) has fewer carbons than pentane (C5).",
         "B": "Propane (C3) still has fewer carbons than pentane.",
         "C": "Butane (C4) is closer but still less than pentane's C5."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'Combustion of n-pentane' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27Combustion%20of%20n-pentane%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2007,6 +2383,10 @@
         "B": "464 would require an imbalance in bonds - but they're equal.",
         "C": "824 would require breaking two extra bonds that aren't compensated.",
         "D": "1288 would mean significant net bond breaking - not the case here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '0' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%270%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2028,6 +2408,10 @@
         "A": "Critical point is where liquid and gas become indistinguishable - only two phases merge.",
         "C": "Deposition is the phase change from gas directly to solid.",
         "D": "State function describes path-independent properties like enthalpy and entropy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'Triple point' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27Triple%20point%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2049,6 +2433,10 @@
         "A": "Uses \u0394T = 40\u00b0C (wrong direction - should be 100-40 = 60\u00b0C).",
         "B": "Multiplies heat of vaporization by temperature change - wrong units.",
         "D": "Both errors: wrong \u0394T and wrong handling of vaporization."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '(10 g)(60oC)(4.2 J/goC) + (2,260 J/g)(10 g)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27%2810%20g%29%2860oC%29%284.2%20J/goC%29%20%2B%20%282%2C260%20J/g%29%2810%20g%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2071,6 +2459,10 @@
         "A": "Can't determine spontaneity without knowing if T\u0394S overcomes \u0394H.",
         "B": "Same issue - the reaction could be spontaneous at high T but not low T.",
         "C": "Equilibrium would require \u0394G = 0, which we can't determine."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'There is not enough information to determine if the reaction is spontaneous.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27There%20is%20not%20enough%20information%20to%20determine%20if%20the%20reaction%20is%20spontaneous.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2092,6 +2484,10 @@
         "B": "Minus sign before RT ln Q is incorrect.",
         "C": "log instead of ln is wrong - thermodynamics uses natural log.",
         "D": "Both minus sign and log errors."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '\u0394G = \u20132000 + (300 K)(8.314)(ln Q)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27%CE%94G%20%3D%20%E2%80%932000%20%2B%20%28300%20K%29%288.314%29%28ln%20Q%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2113,6 +2509,10 @@
         "B": "Endothermic means positive \u0394H - opposite of what we have.",
         "C": "Exergonic (spontaneous) depends on temperature for this case.",
         "D": "Endergonic (nonspontaneous) also temperature-dependent here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'Exothermic' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27Exothermic%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2134,6 +2534,10 @@
         "A": "Positive \u0394G means nonspontaneous - opposite of what we want.",
         "B": "Positive \u0394G means reverse reaction is favored.",
         "D": "Negative \u0394G is right, but K < Q means reaction goes BACKWARD, not forward."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '\u0394G < 0 and Keq > Q' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27%CE%94G%20%3C%200%20and%20Keq%20%3E%20Q%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2155,6 +2559,10 @@
         "A": "2 moles gas becoming 4 moles gas = INCREASE in entropy.",
         "C": "Liquid to liquid plus gas = entropy increase.",
         "D": "Solid + aqueous -> solid + aqueous = minimal entropy change."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '2 Na (s) + Cl2 (g) \u2192 2 NaCl (s)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%272%20Na%20%28s%29%20%2B%20Cl2%20%28g%29%20%E2%86%92%202%20NaCl%20%28s%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2177,6 +2585,10 @@
         "B": "Exothermic would show products BELOW reactants.",
         "C": "Endergonic refers to free energy, but this graph shows potential energy (enthalpy).",
         "D": "Exergonic also refers to free energy, not shown directly here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'Endothermic' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27Endothermic%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2198,6 +2610,10 @@
         "B": "Way too high - would require much more heat or much lower temperature.",
         "C": "Calculation error - perhaps multiplied instead of divided.",
         "D": "All information needed is given - q and T are both provided."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '28 J/K' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%2728%20J/K%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2219,6 +2635,10 @@
         "B": "\u0394H < 0 for explosions - they release massive heat.",
         "C": "\u0394S > 0 - explosions disperse matter and energy over large areas.",
         "D": "Temperature in Kelvin is always positive - no such thing as negative absolute temperature."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '\u0394G < 0.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27%CE%94G%20%3C%200.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2240,6 +2660,10 @@
         "B": "Low T is bad, but large V helps separate molecules - mixed effects.",
         "C": "High P is bad, but large V counteracts it - mixed effects.",
         "D": "Low P + high T is the BEST condition for ideal behavior."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'High pressure and low temperature' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27High%20pressure%20and%20low%20temperature%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2261,6 +2685,10 @@
         "A": "452 g/L would be impossibly dense for any gas at STP.",
         "B": "226 g/L is still way too dense - confused molar mass with density.",
         "C": "1.8 g/L would be double the correct value - calculation error."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why '0.9018' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%270.9018%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2282,6 +2710,10 @@
         "A": "Both Ne and O2 are heavier than He - both leak SLOWER.",
         "B": "Both are heavier, so both are slower - not a split answer.",
         "C": "Still wrong - heavier gases always effuse more slowly."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'Neon will leak slower than helium; oxygen will leak slower than helium.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27Neon%20will%20leak%20slower%20than%20helium%3B%20oxygen%20will%20leak%20slower%20than%20helium.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2303,6 +2735,10 @@
         "A": "Used R = 8.314 instead of 0.0821 - wrong units for atm and L.",
         "C": "Used wrong R AND kept pressure in mmHg instead of converting.",
         "D": "Kept pressure in mmHg without converting to atm."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why '4.09 \u00d7 10\u22123 moles hydrogen' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%274.09%20%C3%97%2010%E2%88%923%20moles%20hydrogen%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2324,6 +2760,10 @@
         "A": "Particles have no volume (negligible), but the GAS has volume.",
         "C": "Both I and II seem to refer to particles - but I is about gas volume, not particle volume.",
         "D": "Gases definitely have mass - PV = nRT uses moles, which have mass."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2345,6 +2785,10 @@
         "A": "Nitrogen is smaller and has WEAKER forces - more ideal, not less.",
         "C": "Fluoromethane is LESS ideal due to larger size and stronger IMFs.",
         "D": "Fluoromethane is larger, not smaller, than N2."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'Nitrogen gas is more ideal because it is smaller and forms weaker intermolecular interactions.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27Nitrogen%20gas%20is%20more%20ideal%20because%20it%20is%20smaller%20and%20forms%20weaker%20intermolecular%20interactions.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2366,6 +2810,10 @@
         "B": "Collisions are elastic in ideal gases - no energy lost.",
         "C": "Gas particles are assumed to occupy negligible space, not discrete areas.",
         "D": "Molecules have a DISTRIBUTION of speeds - not all the same KE."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'the average kinetic energy of a molecule of gas is directly proportional to the temperature of the gas in kelvin.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27the%20average%20kinetic%20energy%20of%20a%20molecule%20of%20gas%20is%20directly%20proportional%20to%20the%20temperature%20of%20the%20gas%20in%20kelvin.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2388,6 +2836,10 @@
         "A": "A is bromine (heavier = slower), B is helium (lighter = faster).",
         "B": "Reasoning is wrong - KE is equal at same T, not greater for heavier gases.",
         "D": "Both the assignment and reasoning are wrong."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'Curve A is bromine and curve B is helium because helium has a smaller molar mass than bromine.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27Curve%20A%20is%20bromine%20and%20curve%20B%20is%20helium%20because%20helium%20has%20a%20smaller%20molar%20mass%20than%20bromine.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2409,6 +2861,10 @@
         "B": "This isn't quite the right calculation for Henry's law.",
         "C": "Higher than sea level value? That's backwards for lower pressure!",
         "D": "Way too high - pressure is LOWER in Denver, so solubility is LOWER."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why '1.00 \u00d7 10\u22123 M' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%271.00%20%C3%97%2010%E2%88%923%20M%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2430,6 +2886,10 @@
         "A": "Off by factor of 1000 - calculation error in handling large numbers.",
         "B": "Off by factor of 10 - still not quite right.",
         "D": "Off by factor of 1000 in the other direction."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why '2.6 \u00d7 107 K' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%272.6%20%C3%97%20107%20K%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2451,6 +2911,10 @@
         "A": "Statement II about filling containers is also true.",
         "C": "Statement I about compressibility is also true.",
         "D": "Statement III is FALSE - many gases are monatomic or polyatomic."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'I and II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27I%20and%20II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2472,6 +2936,10 @@
         "A": "Reduction would DECREASE volume, not increase it.",
         "C": "13.5\u00b0C is way too small a change for 50% volume increase.",
         "D": "Increase is correct, but the magnitude is wrong."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'An increase of 150\u00b0C' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27An%20increase%20of%20150%C2%B0C%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2493,6 +2961,10 @@
         "A": "Both conditions cause DEviations, not ideal behavior.",
         "B": "Both conditions cause deviations - neither leads to more ideal behavior.",
         "C": "Lower temperature definitely causes deviations, not ideal behavior."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'Both lead to deviations in ideal behavior.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27Both%20lead%20to%20deviations%20in%20ideal%20behavior.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2514,6 +2986,10 @@
         "A": "Predictable - cooling at constant V always decreases P.",
         "B": "Predictable - heating at constant V always increases P.",
         "D": "Predictable - both changes decrease P, so it definitely decreases."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'The gas is heated, and the volume is simultaneously increased.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27The%20gas%20is%20heated%2C%20and%20the%20volume%20is%20simultaneously%20increased.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2535,6 +3011,10 @@
         "A": "This is where we started after the decrease - didn't account for the pressure increase.",
         "B": "This would mean the pressure increase exactly offset the decrease.",
         "D": "This would mean the pressure increase multiplied the ORIGINAL, not the decreased value."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'Double the original concentration' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27Double%20the%20original%20concentration%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2556,6 +3036,10 @@
         "B": "Way too low - would require much higher molality.",
         "C": "Calculation error in the mole conversion.",
         "D": "This is close to 2\u00d7 the molar mass - doubled somewhere."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why '358 . 4 g mol' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27358%20.%204%20g%20mol%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2577,6 +3061,10 @@
         "A": "Statement III is also true - gases mix completely.",
         "B": "Statement II is also true - alloys are solid solutions.",
         "C": "Statement I is also true - gas can dissolve in solid."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2599,6 +3087,10 @@
         "A": "The methyl group difference is minor - they're still very similar overall.",
         "C": "The methyl group difference is minor and causes minimal deviation.",
         "D": "Similar benzene rings is a reason they DON'T deviate much, not why they would."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'Yes; the liquids are very similar and, therefore, will not deviate from Raoult\u2019s law.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27Yes%3B%20the%20liquids%20are%20very%20similar%20and%2C%20therefore%2C%20will%20not%20deviate%20from%20Raoult%E2%80%99s%20law.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2620,6 +3112,10 @@
         "A": "Melting point is LOWERED (depressed), not elevated.",
         "B": "Kinetic energy of substance doesn't directly explain lattice disruption.",
         "D": "Solutes INTERFERE with lattice formation, they don't enhance it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'Melting point is depressed because solute particles interfere with lattice formation.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27Melting%20point%20is%20depressed%20because%20solute%20particles%20interfere%20with%20lattice%20formation.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2641,6 +3137,10 @@
         "A": "First step (breaking solute) is ENDOthermic, not EXOthermic.",
         "B": "Both breaking steps are endothermic - exothermic first step is wrong.",
         "C": "Third step (solvation) is EXOthermic due to favorable ion-dipole interactions."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'Endothermic, endothermic, exothermic' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27Endothermic%2C%20endothermic%2C%20exothermic%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2662,6 +3162,10 @@
         "A": "K+ and Cl- are only +1/-1 charges - less water ordering than Be2+.",
         "B": "Cs+ and I- are large monovalent ions - very little water ordering.",
         "D": "Na+ and Cl- are also +1/-1 - less ordering than the dipositive Be2+."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'BeF2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27BeF2%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2683,6 +3187,10 @@
         "A": "More ions in solution don't directly cause AgCl to dissolve - it's the equilibrium shift.",
         "C": "Solubility INCREASES because Ag+ is removed from equilibrium.",
         "D": "Consuming Ag+ shifts equilibrium AWAY from solid, not toward it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'The solubility of AgCl will increase because complex ion formation will consume Ag+ ions and cause the equilibrium to shift away from solid AgCl.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27The%20solubility%20of%20AgCl%20will%20increase%20because%20complex%20ion%20formation%20will%20consume%20Ag%2B%20ions%20and%20cause%20the%20equilibrium%20to%20shift%20away%20from%20solid%20AgCl.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2704,6 +3212,10 @@
         "A": "25% ignores that water density isn't exactly 1.00 g/mL at 80\u00b0C.",
         "C": "33% forgets to add solute mass to the denominator.",
         "D": "34.2% makes both errors - wrong density and wrong formula."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why '25.5%' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%2725.5%25%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2725,6 +3237,10 @@
         "B": "Acetone and water can H-bond - they'd have negative deviation if anything.",
         "C": "Both alcohols can H-bond with each other - minimal deviation expected.",
         "D": "HNO3 and water mix extremely well - negative deviation (lower VP)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'Ethanol and hexane' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27Ethanol%20and%20hexane%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2746,6 +3262,10 @@
         "B": "KCl clearly dissolves (question says so) - it's definitely soluble.",
         "C": "\u0394S must be POSITIVE (large enough) to overcome unfavorable \u0394H.",
         "D": "Adding solute always RAISES boiling point (elevation, not depression)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why '\u0394S\u00b0soln is large enough to overcome the unfavorable \u0394H\u00b0soln.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27%CE%94S%C2%B0soln%20is%20large%20enough%20to%20overcome%20the%20unfavorable%20%CE%94H%C2%B0soln.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2767,6 +3287,10 @@
         "A": "CaSO4 dissociates but may not fully (Ksp is low for sulfates).",
         "C": "Acetic acid is weak - it barely dissociates, so i \u2248 1.",
         "D": "Sucrose doesn't dissociate at all (i = 1, covalent)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why '0.5 mol iron(III) nitrate' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%270.5%20mol%20iron%28III%29%20nitrate%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2788,6 +3312,10 @@
         "A": "23.5 is the calculated osmotic pressure - need MORE to reverse, so 24.5 minimum.",
         "C": "Way too high - units error likely (didn't convert mOsm to M).",
         "D": "Same issue - didn't convert units properly."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why '24.5 atm' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%2724.5%20atm%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2809,6 +3337,10 @@
         "A": "Off by factor of 1000 - likely forgot to convert billion to million somewhere.",
         "C": "This is the molarity answer, but units are g/L in question.",
         "D": "Off by factor of 10 - calculation error."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why '9.7 \u00d7 10\u22127 M Pb2+' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%279.7%20%C3%97%2010%E2%88%927%20M%20Pb2%2B%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2830,6 +3362,10 @@
         "B": "Tl(OH)3 doesn't precipitate because Tl3+ is diluted below saturation.",
         "C": "Co(OH)3 doesn't precipitate because Co3+ is diluted below saturation.",
         "D": "Neither precipitates - both become undersaturated upon dilution."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'Both cobalt(III) hydroxide and thallium(III) hydroxide remain stable in solution.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27Both%20cobalt%28III%29%20hydroxide%20and%20thallium%28III%29%20hydroxide%20remain%20stable%20in%20solution.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2851,6 +3387,10 @@
         "A": "This is Ksp itself - not the molar solubility.",
         "B": "Calculation error in the common ion setup.",
         "C": "This is molar solubility (M) - forgot to multiply by molar mass for g/L."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why '1. 04 \u00d7 10 \u2212 7 g L' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%271.%2004%20%C3%97%2010%20%E2%88%92%207%20g%20L%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2872,6 +3412,10 @@
         "A": "Ammonia accepts H+ to become NH4+ - definitely a Bronsted base.",
         "B": "Fluoride accepts H+ to become HF - also a Bronsted base.",
         "C": "Water accepts H+ to become H3O+ - amphoteric but can act as base."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why 'HNO\u2082 (nitrous acid)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%27HNO%E2%82%82%20%28nitrous%20acid%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2893,6 +3437,10 @@
         "A": "pH = 1 would mean [H+] = 0.1 M - we have 0.01 M.",
         "C": "pH = 3 would mean only 1 mM H+, forgetting the diprotic nature.",
         "D": "pH = 4 would be way too basic for 5 mM strong acid."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why '2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%272%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2914,6 +3462,10 @@
         "B": "ClO3- is the anion (chlorate), not the acid.",
         "C": "HClO2 is chlorOUS acid (from chlorite).",
         "D": "HClO is hypochlorous acid (least oxygens)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why 'HClO3' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%27HClO3%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2935,6 +3487,10 @@
         "A": "KOH is a strong base (complete dissociation) - much stronger than NH3.",
         "C": "Methylamine is stronger than ammonia due to electron donation from CH3.",
         "D": "Ca(OH)2 is also a strong base - much stronger than NH3."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why 'NH3' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%27NH3%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2956,6 +3512,10 @@
         "A": "Buffers can maintain any pH where buffer capacity exists, not just neutral.",
         "C": "Buffers don't slow reactions - they're about equilibrium position, not kinetics.",
         "D": "Buffers don't speed up acid-base reactions - they moderate pH changes."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why 'resist changes in pH when small amounts of acid or base are added.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%27resist%20changes%20in%20pH%20when%20small%20amounts%20of%20acid%20or%20base%20are%20added.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2977,6 +3537,10 @@
         "A": "2.45 is the pOH, not the pH!",
         "B": "4.45 adds 1 to pKb incorrectly - ratio is less than 1, so we subtract.",
         "C": "9.55 would be pH if pOH was 4.45 - both calculations wrong."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why '11.55' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%2711.55%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2998,6 +3562,10 @@
         "B": "2.9 is too high for the first half-equivalence point on this curve.",
         "C": "3.8 is closer to pKa2 region - past the first equivalence point.",
         "D": "4.1 is approximately pKa2, not pKa1."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why '1.9' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%271.9%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3019,6 +3587,10 @@
         "A": "pH 3.0 is before the second equivalence point - still in buffer region.",
         "B": "pH 4.1 is at pKa2, the half-equivalence point, not equivalence.",
         "D": "pH 7.2 is past the second equivalence point."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why 'pH = 5.9' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%27pH%20%3D%205.9%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3040,6 +3612,10 @@
         "A": "3.6 is too early - still in the first buffer region.",
         "C": "5.5 is past pKa2, approaching the second equivalence point.",
         "D": "7.2 is past the second equivalence point entirely."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why '4.1' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%274.1%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3061,6 +3637,10 @@
         "A": "24.5 would be dividing by 4 - but phosphoric acid has only 3 protons.",
         "C": "49 g is dividing by 2 - that's for diprotic acids, not triprotic.",
         "D": "98 g is the full molar mass - didn't divide at all."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why '32.7 g' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%2732.7%20g%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3082,6 +3662,10 @@
         "A": "This is Ka \u00d7 concentration - forgot to take square root.",
         "B": "Calculation error - wrong square root value.",
         "C": "This would be the answer if Ka were 10^-5 instead of 3.2\u00d710^-5."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why '8.0 \u00d7 10\u22123 M' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%278.0%20%C3%97%2010%E2%88%923%20M%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3103,6 +3687,10 @@
         "A": "pH > 7 would mean basic - but Ka = 1 indicates strong acid.",
         "B": "pH = 7 would require a neutral solution, but this is an acid.",
         "D": "We CAN determine it's acidic - Ka > 10^-7 always means acid."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why 'Less than 7' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%27Less%20than%207%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3124,6 +3712,10 @@
         "A": "True - amphoteric species can act as acid OR base depending on partner.",
         "B": "True - accepting/donating protons involves electron transfer (redox).",
         "C": "True - many amphoteric species (H2O, HCO3-) can donate or accept H+."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why 'Amphoteric species are always nonpolar.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%27Amphoteric%20species%20are%20always%20nonpolar.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3145,6 +3737,10 @@
         "A": "4.92 is the pOH, not the pH! Common mistake.",
         "B": "7.50 would mean nearly neutral - but we added strong base.",
         "D": "12.45 would require much higher concentration of NaOH."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why '9.08' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%279.08%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3166,6 +3762,10 @@
         "A": "1.33 L uses molarity directly without considering multiple protons/hydroxides.",
         "B": "12 L forgets to account for Ba(OH)2 being dibasic.",
         "D": "56 L uses wrong normality calculations."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Acids and Bases: Explain why '18 L' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Acids%20and%20Bases%3A%20Explain%20why%20%2718%20L%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3187,6 +3787,10 @@
         "A": "Na is OXIDIZED (0 to +1 in Na3N) - it's the REDUCING agent.",
         "B": "N in NH3 goes from -3 to -3 in Na3N - no change, not the oxidizing agent.",
         "D": "H2 is a product - we're looking at REACTANTS for oxidizing/reducing agents."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'H in NH3' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27H%20in%20NH3%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3208,6 +3812,10 @@
         "A": "2 electrons would only reduce one Cr by 2 oxidation states - not enough.",
         "C": "12 electrons would over-reduce - Cr doesn't go negative.",
         "D": "16 electrons is too many - would require even more negative Cr."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why '8' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%278%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3229,6 +3837,10 @@
         "B": "Oxidizing agents TAKE electrons - hydride wants to GIVE electrons.",
         "C": "A species can't be both - donating and accepting are opposite actions.",
         "D": "LiAlH4 is one of the STRONGEST reducing agents in organic chemistry!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'Strong reducing agent only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27Strong%20reducing%20agent%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3250,6 +3862,10 @@
         "A": "-1 would be Cl in regular chlorides like NaCl - but oxygen changes things.",
         "B": "0 would mean elemental chlorine - but it's bonded here.",
         "D": "+2 would require different formula stoichiometry."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why '+1' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27%2B1%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3271,6 +3887,10 @@
         "A": "4s2 is a filled subshell - stable, doesn't eagerly accept electrons.",
         "B": "Half-filled 3d5 is stable - manganese doesn't easily accept more electrons.",
         "C": "4p1 is more likely to LOSE that electron than gain 5 more."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why '1s22s22p63s23p64s23d104p5' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%271s22s22p63s23p64s23d104p5%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3292,6 +3912,10 @@
         "A": "This is the full equation, not net ionic - includes formula units.",
         "B": "This shows complete ionic but includes spectators - not 'net.'",
         "C": "This cancels to nothing - that's not a reaction!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'Cu + 2 Ag+ \u2192 Cu2+ + 2 Ag' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27Cu%20%2B%202%20Ag%2B%20%E2%86%92%20Cu2%2B%20%2B%202%20Ag%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3313,6 +3937,10 @@
         "A": "110 g is mass of 2 mol Fe atoms only - forgot the sulfate!",
         "B": "220 g might be using FeSO4 formula (wrong iron oxidation state).",
         "D": "500 g is too high - calculation error."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why '400 g' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27400%20g%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3334,6 +3962,10 @@
         "A": "Ar is always 0 (noble gas) - determined immediately.",
         "B": "F is always -1 in compounds (or 0 alone) - determined immediately.",
         "C": "Sr is always +2 in compounds (or 0 alone) - determined immediately."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'Ir' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27Ir%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3355,6 +3987,10 @@
         "B": "Decreasing oxidation number would mean REDUCTION - opposite of what happens.",
         "C": "The oxidation number changes continuously in one direction - doesn't reverse.",
         "D": "Same issue - it only increases, doesn't decrease at any point."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'increases.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27increases.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3376,6 +4012,10 @@
         "A": "K is only +1, not the highest in this compound.",
         "B": "H is +1, also not the highest.",
         "D": "O is -2 (negative), not the highest positive oxidation number."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'P' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27P%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3397,6 +4037,10 @@
         "A": "WO2 has W in +4 state - less acidic than WO3.",
         "C": "W2O3 has W in +3 state - least acidic of tungsten oxides.",
         "D": "W2O5 has W in +5 state - less acidic than +6 in WO3."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'WO3' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27WO3%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3418,6 +4062,10 @@
         "B": "Step III has no disproportionation - each element only appears in one product form.",
         "C": "Only step I shows disproportionation - step III doesn't qualify.",
         "D": "Step II is just acid dissociation - no redox at all."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'I only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27I%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3439,6 +4087,10 @@
         "A": "Acidic indicator gives qualitative color change, not quantitative data.",
         "B": "Basic indicator also gives qualitative color change.",
         "D": "Oxidizing agent is a reactant in redox titrations, not a measuring tool."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why 'pH meter.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27pH%20meter.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3460,6 +4112,10 @@
         "A": "4 is way too small - even the H2O coefficient is bigger!",
         "B": "50 is missing several species or using wrong coefficients.",
         "C": "91 is close but has a calculation error somewhere."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why '115' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%27115%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3481,6 +4137,10 @@
         "A": "0.01 mol is 10\u00d7 too small - ratio calculation error.",
         "B": "0.02 mol uses wrong stoichiometric ratio.",
         "D": "0.20 mol would mean 1:1 ratio with NaCN - not correct."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Oxidation\u2013reduction Reactions: Explain why '0.10 mol' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Oxidation%E2%80%93reduction%20Reactions%3A%20Explain%20why%20%270.10%20mol%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3502,6 +4162,10 @@
         "A": "More positive E\u00b0red means more likely to be REDUCED, not oxidized.",
         "B": "Iron is oxidized (loses electrons), not reduced (gains electrons).",
         "D": "Less positive E\u00b0red means more likely to be OXIDIZED, not reduced."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'Iron has a less positive reduction potential than those metals, making it more likely to donate electrons to oxygen.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27Iron%20has%20a%20less%20positive%20reduction%20potential%20than%20those%20metals%2C%20making%20it%20more%20likely%20to%20donate%20electrons%20to%20oxygen.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3523,6 +4187,10 @@
         "A": "-2.2 V would require doubling something - but we don't double reduction potentials.",
         "C": "+1.1 V would be correct if the reaction were reversed (Ag+ + Cu \u2192 ...).",
         "D": "+2.2 V has both wrong sign and wrong magnitude."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why '\u20131.1 V' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27%E2%80%931.1%20V%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3544,6 +4212,10 @@
         "B": "Same metal for both electrodes needs different concentrations - not given here.",
         "C": "Zn has E\u00b0red = -0.76, LOWER than Cu - would give negative E\u00b0cell.",
         "D": "Al has E\u00b0red = -1.66, even lower - would give even more negative E\u00b0cell."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'Hg' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27Hg%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3565,6 +4237,10 @@
         "A": "Electrons also move to cathode - not just H+ ions.",
         "B": "O2- would go to ANODE (positive electrode), not cathode.",
         "D": "Electrons DO move toward cathode - statement III is true."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'I and III only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27I%20and%20III%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3586,6 +4262,10 @@
         "A": "Keq relates to \u0394G\u00b0 differently - through RT ln K equation.",
         "B": "Q is for non-standard conditions - we want standard \u0394G\u00b0.",
         "C": "Temperature is in the Nernst equation, not the standard \u0394G\u00b0 equation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'Half-reactions of the cells' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27Half-reactions%20of%20the%20cells%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3607,6 +4287,10 @@
         "A": "NaCl dissociates completely into Na+ and Cl- - excellent electrolyte.",
         "C": "MgSO3 gives Mg2+ and SO32- ions - good electrolyte.",
         "D": "NH4NO3 gives NH4+ and NO3- ions - also good electrolyte."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'SO3' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27SO3%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3628,6 +4312,10 @@
         "A": "E\u00b0cell depends only on electrode IDENTITY, not amount.",
         "C": "E\u00b0cell definitely doesn't change with surface area.",
         "D": "Keq is a thermodynamic constant - doesn't depend on electrode amount."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'II only' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27II%20only%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3649,6 +4337,10 @@
         "A": "Mass of electrodes affects current capacity, not emf.",
         "B": "Wire length affects resistance, not standard emf.",
         "C": "Battery size affects capacity and current, not voltage."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'The temperature of the solutions in the half-cells' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27The%20temperature%20of%20the%20solutions%20in%20the%20half-cells%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3670,6 +4362,10 @@
         "A": "In galvanic, Na would be ANODE (oxidized), Cd would be cathode.",
         "C": "E\u00b0cell calculation: |-2.71 - (-0.40)| = 2.31 V, not 3.11 V.",
         "D": "Same calculation error - E\u00b0cell is \u00b12.31 V, not \u00b13.11 V."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'It is an electrolytic cell, and cadmium is the anode.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27It%20is%20an%20electrolytic%20cell%2C%20and%20cadmium%20is%20the%20anode.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3691,6 +4387,10 @@
         "A": "This is -\u0394G\u00b0, not \u0394G\u00b0 - sign is wrong.",
         "B": "This incorrectly solves for E\u00b0cell from the \u0394G\u00b0 equation.",
         "C": "The negative is in the wrong place in this rearrangement."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why '\u0394G\u00b0 = nF(E\u00b0red,anode \u2212 E\u00b0red,cathode)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27%CE%94G%C2%B0%20%3D%20nF%28E%C2%B0red%2Canode%20%E2%88%92%20E%C2%B0red%2Ccathode%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3712,6 +4412,10 @@
         "A": "Negative E\u00b0cell means NONspontaneous, not spontaneous.",
         "B": "Q = Keq means equilibrium - no net reaction, not spontaneous progress.",
         "C": "Concentration cells CAN be spontaneous but aren't NECESSARILY so."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'Keq > 1' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27Keq%20%3E%201%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3733,6 +4437,10 @@
         "B": "Adding product to one half-cell definitely affects emf - not constant.",
         "C": "Increasing product pushes equilibrium backward, DECREASING emf.",
         "D": "The cell will still function - emf just decreases, doesn't become zero."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'The emf would decrease.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27The%20emf%20would%20decrease.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3754,6 +4462,10 @@
         "A": "Entropy change can be either positive or negative - not determined by cell type.",
         "B": "\u0394G\u00b0 must be POSITIVE for nonspontaneous electrolytic cells.",
         "D": "E\u00b0cell must be NEGATIVE for electrolytic cells."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'Keq < 1' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27Keq%20%3C%201%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3775,6 +4487,10 @@
         "A": "Sulfuric acid dissociation doesn't explain why more mass is needed.",
         "B": "Higher energy density would mean LESS mass needed - opposite!",
         "C": "Other electrolytes dissociating less readily would help lead-acid, not hurt it."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'The energy density of lead\u2013acid electrodes is lower than that of other batteries.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27The%20energy%20density%20of%20lead%E2%80%93acid%20electrodes%20is%20lower%20than%20that%20of%20other%20batteries.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3796,6 +4512,10 @@
         "A": "High energy density relates to capacity, not overcharge protection.",
         "B": "Discharging through the circuit is normal operation, not overcharge protection.",
         "D": "High surge current relates to power delivery, not overcharge handling."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Electrochemistry: Explain why 'The Ni\u2013Cd battery will stop accepting electrons from an outside source when its electrodes are recharged.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Electrochemistry%3A%20Explain%20why%20%27The%20Ni%E2%80%93Cd%20battery%20will%20stop%20accepting%20electrons%20from%20an%20outside%20source%20when%20its%20electrodes%20are%20recharged.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     }
   ]
