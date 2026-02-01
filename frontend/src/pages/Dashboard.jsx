@@ -6,6 +6,11 @@ function Dashboard({ user }) {
   const [stats, setStats] = useState(null);
   const [weakTopics, setWeakTopics] = useState([]);
   const [sessions, setSessions] = useState([]);
+  const [streak, setStreak] = useState(null);
+  const [dailyProgress, setDailyProgress] = useState(null);
+  const [recommendations, setRecommendations] = useState(null);
+  const [scoreTrend, setScoreTrend] = useState(null);
+  const [dueReviews, setDueReviews] = useState([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -13,11 +18,21 @@ function Dashboard({ user }) {
       api.getUserStats(user.id),
       api.getUserWeakTopics(user.id, 5),
       api.getUserSessions(user.id, 5),
+      api.getStreak(user.id),
+      api.getDailyProgress(user.id),
+      api.getRecommendations(user.id),
+      api.getScoreTrend(user.id, 14),
+      api.getDueReviews(user.id, 10),
     ])
-      .then(([statsData, topicsData, sessionsData]) => {
+      .then(([statsData, topicsData, sessionsData, streakData, dailyData, recsData, trendData, reviewsData]) => {
         setStats(statsData);
         setWeakTopics(topicsData);
         setSessions(sessionsData);
+        setStreak(streakData);
+        setDailyProgress(dailyData);
+        setRecommendations(recsData);
+        setScoreTrend(trendData);
+        setDueReviews(reviewsData);
       })
       .catch(console.error)
       .finally(() => setLoading(false));
@@ -41,6 +56,76 @@ function Dashboard({ user }) {
         <p className="text-muted">Ready to continue your MCAT prep?</p>
       </div>
 
+      {/* Streak and Daily Progress Row */}
+      <div className="flex gap-4 flex-wrap mb-4">
+        {/* Study Streak */}
+        {streak && streak.current_streak > 0 && (
+          <div className="streak-card" style={{ flex: 1, minWidth: 200 }}>
+            <span className="streak-icon">🔥</span>
+            <div>
+              <div className="streak-count">{streak.current_streak}</div>
+              <div className="streak-label">Day Streak</div>
+            </div>
+          </div>
+        )}
+
+        {/* Daily Progress */}
+        {dailyProgress && (
+          <div className="daily-progress-card" style={{ flex: 2, minWidth: 280 }}>
+            <div className="flex justify-between items-center">
+              <h3>Today's Goal</h3>
+              <span className="text-muted">
+                {dailyProgress.answered}/{dailyProgress.goal} questions
+              </span>
+            </div>
+            <div className="daily-progress-bar">
+              <div
+                className={`daily-progress-fill ${dailyProgress.goal_met ? 'complete' : ''}`}
+                style={{ width: `${dailyProgress.progress_percent}%` }}
+              />
+            </div>
+            {dailyProgress.goal_met ? (
+              <p className="text-success text-small">🎉 Goal achieved! Keep going!</p>
+            ) : (
+              <p className="text-muted text-small">
+                {dailyProgress.goal - dailyProgress.answered} more to reach your goal
+              </p>
+            )}
+          </div>
+        )}
+      </div>
+
+      {/* Smart Recommendation */}
+      {recommendations?.top_recommendation && (
+        <div className="recommendation-card">
+          <h3>💡 What to do next</h3>
+          <p>{recommendations.top_recommendation.message}</p>
+          <Link
+            to={recommendations.top_recommendation.action === 'practice' ? '/study/setup' : '/error-notebook'}
+            className="btn btn-primary"
+          >
+            Let's Go →
+          </Link>
+        </div>
+      )}
+
+      {/* Due Reviews Alert */}
+      {dueReviews.length > 0 && (
+        <div className="card due-reviews-card mb-4">
+          <div className="flex justify-between items-center">
+            <div>
+              <h3>🔔 Review Due</h3>
+              <p className="text-muted">
+                {dueReviews.length} question{dueReviews.length > 1 ? 's' : ''} scheduled for review
+              </p>
+            </div>
+            <Link to="/study/setup" className="btn btn-primary">
+              Review Now
+            </Link>
+          </div>
+        </div>
+      )}
+
       {/* Quick Actions */}
       <div className="card">
         <div className="flex gap-4 flex-wrap">
@@ -50,6 +135,9 @@ function Dashboard({ user }) {
           <Link to="/flashcards/setup" className="btn btn-primary btn-lg">
             🗂️ Study Flashcards
           </Link>
+          <Link to="/error-notebook" className="btn btn-secondary btn-lg">
+            📓 Error Notebook
+          </Link>
           <Link to="/analytics" className="btn btn-secondary btn-lg">
             📊 View Analytics
           </Link>
@@ -58,7 +146,21 @@ function Dashboard({ user }) {
 
       {/* Stats Overview */}
       <div className="card">
-        <h2 className="card-header">Your Progress</h2>
+        <div className="flex justify-between items-center mb-4">
+          <h2 className="card-header" style={{ marginBottom: 0 }}>Your Progress</h2>
+          {scoreTrend && scoreTrend.trend_direction !== 'insufficient_data' && (
+            <span className={`trend-indicator ${scoreTrend.trend_direction}`}>
+              {scoreTrend.trend_direction === 'improving' && '📈'}
+              {scoreTrend.trend_direction === 'declining' && '📉'}
+              {scoreTrend.trend_direction === 'stable' && '➡️'}
+              {' '}
+              {scoreTrend.trend_direction === 'improving' && `+${scoreTrend.trend_percent}%`}
+              {scoreTrend.trend_direction === 'declining' && `${scoreTrend.trend_percent}%`}
+              {scoreTrend.trend_direction === 'stable' && 'Stable'}
+              {' '}this week
+            </span>
+          )}
+        </div>
         <div className="stats-grid">
           <div className="stat-card">
             <div className="stat-value">{stats?.total_attempts || 0}</div>

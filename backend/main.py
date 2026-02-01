@@ -79,6 +79,17 @@ class AnswerRequest(BaseModel):
     selected_answer: str
     time_taken_seconds: float
     timed_out: bool = False
+    error_type: Optional[str] = None
+
+
+class UpdateErrorTypeRequest(BaseModel):
+    attempt_id: int
+    error_type: str
+
+
+class DailyGoalRequest(BaseModel):
+    user_id: int
+    goal: int
 
 
 class QuestionResponse(BaseModel):
@@ -340,8 +351,12 @@ async def submit_answer(request: AnswerRequest):
         correct=correct,
         selected_answer=request.selected_answer,
         time_taken_seconds=request.time_taken_seconds,
-        timed_out=request.timed_out
+        timed_out=request.timed_out,
+        error_type=request.error_type
     )
+
+    # Update study streak
+    db.update_study_streak(request.user_id)
 
     # Update session stats
     session = db.get_session(request.session_id)
@@ -597,6 +612,105 @@ async def get_user_flashcard_stats(user_id: int):
 async def get_user_flashcard_sessions(user_id: int, limit: int = 20):
     """Get recent flashcard sessions for a user."""
     return db.get_user_flashcard_sessions(user_id, limit)
+
+
+# ============== STUDY STREAK ENDPOINTS ==============
+
+@app.get("/api/users/{user_id}/streak")
+async def get_user_streak(user_id: int):
+    """Get the current study streak for a user."""
+    return db.get_study_streak(user_id)
+
+
+# ============== DAILY GOAL ENDPOINTS ==============
+
+@app.get("/api/users/{user_id}/daily-goal")
+async def get_user_daily_goal(user_id: int):
+    """Get the daily goal for a user."""
+    return {"goal": db.get_daily_goal(user_id)}
+
+
+@app.post("/api/users/{user_id}/daily-goal")
+async def set_user_daily_goal(user_id: int, request: DailyGoalRequest):
+    """Set the daily goal for a user."""
+    db.set_daily_goal(user_id, request.goal)
+    return {"goal": request.goal}
+
+
+@app.get("/api/users/{user_id}/daily-progress")
+async def get_user_daily_progress(user_id: int):
+    """Get today's progress toward the daily goal."""
+    return db.get_daily_progress(user_id)
+
+
+# ============== ERROR NOTEBOOK ENDPOINTS ==============
+
+@app.get("/api/users/{user_id}/missed-questions")
+async def get_user_missed_questions(
+    user_id: int,
+    subject: Optional[str] = None,
+    error_type: Optional[str] = None,
+    limit: int = 50,
+    offset: int = 0
+):
+    """Get missed questions for the error notebook."""
+    return db.get_missed_questions(user_id, subject, error_type, limit, offset)
+
+
+@app.get("/api/users/{user_id}/error-stats")
+async def get_user_error_stats(user_id: int):
+    """Get counts of each error type."""
+    return db.get_error_type_stats(user_id)
+
+
+@app.put("/api/attempts/{attempt_id}/error-type")
+async def update_attempt_error_type(attempt_id: int, request: UpdateErrorTypeRequest):
+    """Update the error type for an attempt."""
+    db.update_error_type(attempt_id, request.error_type)
+    return {"updated": True}
+
+
+# ============== LEECH DETECTION ENDPOINTS ==============
+
+@app.get("/api/users/{user_id}/leeches")
+async def get_user_leeches(user_id: int, min_wrong: int = 3):
+    """Get questions that have been missed multiple times (leeches)."""
+    return db.get_leech_questions(user_id, min_wrong)
+
+
+# ============== QUESTION REVIEW ENDPOINTS ==============
+
+@app.get("/api/users/{user_id}/due-reviews")
+async def get_user_due_reviews(user_id: int, limit: int = 20):
+    """Get questions scheduled for review today."""
+    return db.get_due_question_reviews(user_id, limit)
+
+
+@app.post("/api/users/{user_id}/complete-review")
+async def complete_review(user_id: int, question_id: str, review_type: str):
+    """Mark a scheduled review as completed."""
+    db.complete_question_review(user_id, question_id, review_type)
+    return {"completed": True}
+
+
+# ============== ENHANCED ANALYTICS ENDPOINTS ==============
+
+@app.get("/api/users/{user_id}/time-stats")
+async def get_user_time_stats(user_id: int):
+    """Get time vs accuracy statistics."""
+    return db.get_time_accuracy_stats(user_id)
+
+
+@app.get("/api/users/{user_id}/score-trend")
+async def get_user_score_trend(user_id: int, days: int = 30):
+    """Get score trends over time."""
+    return db.get_score_trend(user_id, days)
+
+
+@app.get("/api/users/{user_id}/recommendations")
+async def get_user_recommendations(user_id: int):
+    """Get smart recommendations for what to do next."""
+    return db.get_smart_recommendation(user_id)
 
 
 if __name__ == "__main__":

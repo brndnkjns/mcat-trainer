@@ -9,6 +9,7 @@ import Analytics from './pages/Analytics';
 import FlashcardSetup from './pages/FlashcardSetup';
 import FlashcardSession from './pages/FlashcardSession';
 import FlashcardSummary from './pages/FlashcardSummary';
+import ErrorNotebook from './pages/ErrorNotebook';
 
 function App() {
   const [currentUser, setCurrentUser] = useState(null);
@@ -139,6 +140,16 @@ function App() {
           element={
             currentUser ? (
               <FlashcardSummary user={currentUser} />
+            ) : (
+              <Navigate to="/" replace />
+            )
+          }
+        />
+        <Route
+          path="/error-notebook"
+          element={
+            currentUser ? (
+              <ErrorNotebook user={currentUser} />
             ) : (
               <Navigate to="/" replace />
             )

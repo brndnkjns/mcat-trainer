@@ -73,6 +73,50 @@ export const api = {
   getTrendAnalytics: (userId, days = 30) =>
     fetchAPI(`/api/users/${userId}/analytics/trends?days=${days}`),
 
+  // Study Streak
+  getStreak: (userId) => fetchAPI(`/api/users/${userId}/streak`),
+
+  // Daily Goal
+  getDailyGoal: (userId) => fetchAPI(`/api/users/${userId}/daily-goal`),
+  setDailyGoal: (userId, goal) =>
+    fetchAPI(`/api/users/${userId}/daily-goal`, {
+      method: 'POST',
+      body: JSON.stringify({ user_id: userId, goal }),
+    }),
+  getDailyProgress: (userId) => fetchAPI(`/api/users/${userId}/daily-progress`),
+
+  // Error Notebook
+  getMissedQuestions: (userId, subject = null, errorType = null, limit = 50, offset = 0) => {
+    let url = `/api/users/${userId}/missed-questions?limit=${limit}&offset=${offset}`;
+    if (subject) url += `&subject=${encodeURIComponent(subject)}`;
+    if (errorType) url += `&error_type=${encodeURIComponent(errorType)}`;
+    return fetchAPI(url);
+  },
+  getErrorStats: (userId) => fetchAPI(`/api/users/${userId}/error-stats`),
+  updateErrorType: (attemptId, errorType) =>
+    fetchAPI(`/api/attempts/${attemptId}/error-type`, {
+      method: 'PUT',
+      body: JSON.stringify({ attempt_id: attemptId, error_type: errorType }),
+    }),
+
+  // Leech Detection
+  getLeeches: (userId, minWrong = 3) =>
+    fetchAPI(`/api/users/${userId}/leeches?min_wrong=${minWrong}`),
+
+  // Question Reviews
+  getDueReviews: (userId, limit = 20) =>
+    fetchAPI(`/api/users/${userId}/due-reviews?limit=${limit}`),
+  completeReview: (userId, questionId, reviewType) =>
+    fetchAPI(`/api/users/${userId}/complete-review?question_id=${questionId}&review_type=${reviewType}`, {
+      method: 'POST',
+    }),
+
+  // Enhanced Analytics
+  getTimeStats: (userId) => fetchAPI(`/api/users/${userId}/time-stats`),
+  getScoreTrend: (userId, days = 30) =>
+    fetchAPI(`/api/users/${userId}/score-trend?days=${days}`),
+  getRecommendations: (userId) => fetchAPI(`/api/users/${userId}/recommendations`),
+
   // Flashcards
   getFlashcardSubjects: () => fetchAPI('/api/flashcards/subjects'),
   getFlashcardChapters: (subject) =>

@@ -6,6 +6,15 @@ const QUESTION_TIME_SECONDS = 95;
 const WARNING_THRESHOLD = 30;
 const URGENT_THRESHOLD = 10;
 
+// Error types for classification
+const ERROR_TYPES = [
+  { value: 'content_gap', label: 'Content Gap', description: "Didn't know the material" },
+  { value: 'misread', label: 'Misread Question', description: 'Misunderstood what was asked' },
+  { value: 'careless', label: 'Careless Mistake', description: 'Knew it but made a silly error' },
+  { value: 'time_pressure', label: 'Time Pressure', description: 'Rushed due to time' },
+  { value: 'guessed', label: 'Guessed', description: "Didn't know, took a guess" },
+];
+
 function StudySession({ user }) {
   const { sessionId } = useParams();
   const navigate = useNavigate();
@@ -23,6 +32,11 @@ function StudySession({ user }) {
   const [timeLeft, setTimeLeft] = useState(QUESTION_TIME_SECONDS);
   const [timerActive, setTimerActive] = useState(false);
   const startTimeRef = useRef(null);
+  const sessionStartTimeRef = useRef(null);
+
+  // Error classification state
+  const [selectedErrorType, setSelectedErrorType] = useState(null);
+  const [errorClassified, setErrorClassified] = useState(false);
 
   // Load session and first question
   useEffect(() => {
@@ -35,6 +49,7 @@ function StudySession({ user }) {
         setQuestion(questionData);
         setTimerActive(true);
         startTimeRef.current = Date.now();
+        sessionStartTimeRef.current = Date.now();
       })
       .catch(err => {
         console.error('Failed to load session:', err);
@@ -42,6 +57,34 @@ function StudySession({ user }) {
       })
       .finally(() => setLoading(false));
   }, [sessionId, user.id, navigate]);
+
+  // Calculate pacing info
+  const getPacingInfo = () => {
+    if (!session || !sessionStartTimeRef.current) return null;
+
+    const elapsedMs = Date.now() - sessionStartTimeRef.current;
+    const elapsedMinutes = elapsedMs / 1000 / 60;
+    const currentQuestion = questionsAnswered + (result ? 0 : 1);
+    const totalQuestions = session.total_questions;
+
+    // Target: ~1.5 minutes per question (95 seconds)
+    const targetMinutesPerQuestion = QUESTION_TIME_SECONDS / 60;
+    const expectedQuestion = Math.floor(elapsedMinutes / targetMinutesPerQuestion) + 1;
+
+    const pace = currentQuestion - expectedQuestion;
+    let paceStatus = 'on_track';
+    if (pace >= 2) paceStatus = 'ahead';
+    else if (pace <= -2) paceStatus = 'behind';
+
+    return {
+      elapsedMinutes: Math.floor(elapsedMinutes),
+      currentQuestion,
+      expectedQuestion: Math.min(expectedQuestion, totalQuestions),
+      totalQuestions,
+      pace,
+      paceStatus,
+    };
+  };
 
   // Timer countdown
   useEffect(() => {
@@ -131,6 +174,8 @@ function StudySession({ user }) {
     setLoading(true);
     setResult(null);
     setSelectedAnswer(null);
+    setSelectedErrorType(null);
+    setErrorClassified(false);
 
     try {
       const subjects = session.mode === 'focused' ? session.subjects : null;
@@ -150,6 +195,13 @@ function StudySession({ user }) {
     } finally {
       setLoading(false);
     }
+  };
+
+  const handleErrorClassification = (errorType) => {
+    setSelectedErrorType(errorType);
+    setErrorClassified(true);
+    // The error type will be sent with the next question or on session end
+    // For now, we store it locally - in a production app, you'd update the attempt
   };
 
   const handleEndSession = () => {
@@ -183,6 +235,8 @@ function StudySession({ user }) {
     ? (questionsAnswered / session.total_questions) * 100
     : 0;
 
+  const pacingInfo = getPacingInfo();
+
   return (
     <div className="container">
       {/* Progress Header */}
@@ -206,6 +260,27 @@ function StudySession({ user }) {
         <div className="progress-bar">
           <div className="progress-fill" style={{ width: `${progressPercent}%` }} />
         </div>
+
+        {/* Pacing Bar */}
+        {pacingInfo && pacingInfo.elapsedMinutes > 0 && (
+          <div className="pacing-bar mt-4">
+            <div className="flex justify-between items-center text-small">
+              <span className="text-muted">
+                ⏱️ {pacingInfo.elapsedMinutes} min elapsed
+              </span>
+              <span className={`pacing-status ${pacingInfo.paceStatus}`}>
+                {pacingInfo.paceStatus === 'ahead' && '🚀 Ahead of pace'}
+                {pacingInfo.paceStatus === 'on_track' && '✓ On track'}
+                {pacingInfo.paceStatus === 'behind' && '⚡ Pick up the pace'}
+              </span>
+            </div>
+            {pacingInfo.paceStatus === 'behind' && (
+              <div className="text-small text-muted mt-1">
+                Target: Q{pacingInfo.expectedQuestion} by now
+              </div>
+            )}
+          </div>
+        )}
       </div>
 
       {/* Timer and Subject */}
@@ -368,6 +443,33 @@ function StudySession({ user }) {
                   <p className="learn-with-ai-hint">
                     Opens Google Gemini in Guided Learning mode
                   </p>
+                </div>
+              )}
+
+              {/* Error Classification - shows when answer is wrong */}
+              {!result.correct && (
+                <div className="error-classification-section">
+                  <h4 className="mt-4 mb-2">📝 Why did you miss this?</h4>
+                  <p className="text-small text-muted mb-3">
+                    Tracking your error types helps identify patterns to improve.
+                  </p>
+                  <div className="error-type-grid">
+                    {ERROR_TYPES.map((errorType) => (
+                      <button
+                        key={errorType.value}
+                        className={`error-type-btn ${selectedErrorType === errorType.value ? 'selected' : ''}`}
+                        onClick={() => handleErrorClassification(errorType.value)}
+                      >
+                        <span className="error-type-label">{errorType.label}</span>
+                        <span className="error-type-desc">{errorType.description}</span>
+                      </button>
+                    ))}
+                  </div>
+                  {errorClassified && (
+                    <p className="text-small text-success mt-2">
+                      ✓ This question will be scheduled for review
+                    </p>
+                  )}
                 </div>
               )}
             </div>

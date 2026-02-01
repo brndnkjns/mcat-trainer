@@ -6,7 +6,7 @@ Uses SQLite for persistence
 import sqlite3
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Optional, List, Dict, Any
 from contextlib import contextmanager
@@ -97,6 +97,7 @@ def init_db():
                 time_taken_seconds REAL,
                 timed_out BOOLEAN DEFAULT FALSE,
                 answered_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+                error_type TEXT,
                 FOREIGN KEY (user_id) REFERENCES users(id),
                 FOREIGN KEY (question_id) REFERENCES questions(id),
                 FOREIGN KEY (session_id) REFERENCES sessions(id)
@@ -167,6 +168,51 @@ def init_db():
         columns = [col[1] for col in cursor.fetchall()]
         if 'learn_with_ai' not in columns:
             cursor.execute("ALTER TABLE questions ADD COLUMN learn_with_ai TEXT")
+
+        # Migration: Add error_type column to attempts if it doesn't exist
+        cursor.execute("PRAGMA table_info(attempts)")
+        attempt_columns = [col[1] for col in cursor.fetchall()]
+        if 'error_type' not in attempt_columns:
+            cursor.execute("ALTER TABLE attempts ADD COLUMN error_type TEXT")
+
+        # Study streaks table
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS study_streaks (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_id INTEGER NOT NULL UNIQUE,
+                current_streak INTEGER DEFAULT 0,
+                longest_streak INTEGER DEFAULT 0,
+                last_study_date DATE,
+                FOREIGN KEY (user_id) REFERENCES users(id)
+            )
+        """)
+
+        # Daily goals table
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS daily_goals (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_id INTEGER NOT NULL UNIQUE,
+                daily_question_goal INTEGER DEFAULT 30,
+                FOREIGN KEY (user_id) REFERENCES users(id)
+            )
+        """)
+
+        # Question review schedule table (for spaced repetition of missed questions)
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS question_reviews (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                user_id INTEGER NOT NULL,
+                question_id TEXT NOT NULL,
+                scheduled_date DATE NOT NULL,
+                review_type TEXT NOT NULL,
+                completed BOOLEAN DEFAULT FALSE,
+                completed_at TIMESTAMP,
+                FOREIGN KEY (user_id) REFERENCES users(id),
+                FOREIGN KEY (question_id) REFERENCES questions(id)
+            )
+        """)
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_question_reviews_user_date ON question_reviews(user_id, scheduled_date)")
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_question_reviews_question ON question_reviews(question_id)")
 
         # Create default users (Brandon and Porter)
         cursor.execute("INSERT OR IGNORE INTO users (name) VALUES (?)", ("Brandon",))
@@ -389,17 +435,23 @@ def get_user_sessions(user_id: int, limit: int = 20) -> List[Dict[str, Any]]:
 # Attempt operations
 def record_attempt(user_id: int, question_id: str, session_id: int,
                    correct: bool, selected_answer: str,
-                   time_taken_seconds: float, timed_out: bool = False):
+                   time_taken_seconds: float, timed_out: bool = False,
+                   error_type: str = None):
     """Record a question attempt."""
     with get_connection() as conn:
         cursor = conn.cursor()
         cursor.execute("""
             INSERT INTO attempts
             (user_id, question_id, session_id, correct, selected_answer,
-             time_taken_seconds, timed_out)
-            VALUES (?, ?, ?, ?, ?, ?, ?)
+             time_taken_seconds, timed_out, error_type)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         """, (user_id, question_id, session_id, correct, selected_answer,
-              time_taken_seconds, timed_out))
+              time_taken_seconds, timed_out, error_type))
+
+        # If incorrect, schedule reviews at 1 day and 7 days
+        if not correct:
+            schedule_question_review(user_id, question_id, 1, 'day_1')
+            schedule_question_review(user_id, question_id, 7, 'day_7')
 
 
 def get_session_attempts(session_id: int) -> List[Dict[str, Any]]:
@@ -882,6 +934,437 @@ def get_user_flashcard_sessions(user_id: int, limit: int = 20) -> List[Dict[str,
             s['subjects'] = json.loads(s['subjects']) if s['subjects'] else []
             sessions.append(s)
         return sessions
+
+
+# ============== STUDY STREAK OPERATIONS ==============
+
+def update_study_streak(user_id: int):
+    """Update the study streak for a user after they answer a question."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        today = datetime.now().strftime('%Y-%m-%d')
+
+        # Get current streak info
+        cursor.execute("""
+            SELECT current_streak, longest_streak, last_study_date
+            FROM study_streaks WHERE user_id = ?
+        """, (user_id,))
+        row = cursor.fetchone()
+
+        if not row:
+            # First time studying
+            cursor.execute("""
+                INSERT INTO study_streaks (user_id, current_streak, longest_streak, last_study_date)
+                VALUES (?, 1, 1, ?)
+            """, (user_id, today))
+        else:
+            last_date = row['last_study_date']
+            current = row['current_streak']
+            longest = row['longest_streak']
+
+            if last_date == today:
+                # Already studied today, no change
+                pass
+            elif last_date == (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d'):
+                # Studied yesterday, increment streak
+                current += 1
+                longest = max(longest, current)
+                cursor.execute("""
+                    UPDATE study_streaks
+                    SET current_streak = ?, longest_streak = ?, last_study_date = ?
+                    WHERE user_id = ?
+                """, (current, longest, today, user_id))
+            else:
+                # Streak broken, start over
+                cursor.execute("""
+                    UPDATE study_streaks
+                    SET current_streak = 1, last_study_date = ?
+                    WHERE user_id = ?
+                """, (today, user_id))
+
+
+def get_study_streak(user_id: int) -> Dict[str, Any]:
+    """Get the current study streak for a user."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT current_streak, longest_streak, last_study_date
+            FROM study_streaks WHERE user_id = ?
+        """, (user_id,))
+        row = cursor.fetchone()
+
+        if not row:
+            return {"current_streak": 0, "longest_streak": 0, "last_study_date": None}
+
+        # Check if streak is still valid
+        today = datetime.now().strftime('%Y-%m-%d')
+        yesterday = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
+
+        if row['last_study_date'] not in [today, yesterday]:
+            # Streak is broken
+            return {"current_streak": 0, "longest_streak": row['longest_streak'], "last_study_date": row['last_study_date']}
+
+        return dict(row)
+
+
+# ============== DAILY GOAL OPERATIONS ==============
+
+def get_daily_goal(user_id: int) -> int:
+    """Get the daily question goal for a user."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("SELECT daily_question_goal FROM daily_goals WHERE user_id = ?", (user_id,))
+        row = cursor.fetchone()
+        return row['daily_question_goal'] if row else 30
+
+
+def set_daily_goal(user_id: int, goal: int):
+    """Set the daily question goal for a user."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            INSERT INTO daily_goals (user_id, daily_question_goal)
+            VALUES (?, ?)
+            ON CONFLICT(user_id) DO UPDATE SET daily_question_goal = ?
+        """, (user_id, goal, goal))
+
+
+def get_daily_progress(user_id: int) -> Dict[str, Any]:
+    """Get today's progress toward the daily goal."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        today = datetime.now().strftime('%Y-%m-%d')
+
+        cursor.execute("""
+            SELECT COUNT(*) as answered, SUM(CASE WHEN correct THEN 1 ELSE 0 END) as correct
+            FROM attempts
+            WHERE user_id = ? AND DATE(answered_at) = ?
+        """, (user_id, today))
+        row = cursor.fetchone()
+
+        goal = get_daily_goal(user_id)
+        answered = row['answered'] or 0
+        correct = row['correct'] or 0
+
+        return {
+            "goal": goal,
+            "answered": answered,
+            "correct": correct,
+            "progress_percent": min(100, (answered / goal * 100)) if goal > 0 else 0,
+            "goal_met": answered >= goal
+        }
+
+
+# ============== QUESTION REVIEW SCHEDULING ==============
+
+def schedule_question_review(user_id: int, question_id: str, days_from_now: int, review_type: str):
+    """Schedule a question for review after X days."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        scheduled_date = (datetime.now() + timedelta(days=days_from_now)).strftime('%Y-%m-%d')
+
+        # Check if already scheduled
+        cursor.execute("""
+            SELECT id FROM question_reviews
+            WHERE user_id = ? AND question_id = ? AND review_type = ? AND completed = FALSE
+        """, (user_id, question_id, review_type))
+
+        if not cursor.fetchone():
+            cursor.execute("""
+                INSERT INTO question_reviews (user_id, question_id, scheduled_date, review_type)
+                VALUES (?, ?, ?, ?)
+            """, (user_id, question_id, scheduled_date, review_type))
+
+
+def get_due_question_reviews(user_id: int, limit: int = 20) -> List[Dict[str, Any]]:
+    """Get questions due for review today or earlier."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        today = datetime.now().strftime('%Y-%m-%d')
+
+        cursor.execute("""
+            SELECT qr.*, q.subject, q.chapter, q.chapter_title, q.question_text
+            FROM question_reviews qr
+            JOIN questions q ON qr.question_id = q.id
+            WHERE qr.user_id = ? AND qr.scheduled_date <= ? AND qr.completed = FALSE
+            ORDER BY qr.scheduled_date ASC
+            LIMIT ?
+        """, (user_id, today, limit))
+
+        return [dict(row) for row in cursor.fetchall()]
+
+
+def complete_question_review(user_id: int, question_id: str, review_type: str):
+    """Mark a scheduled review as completed."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            UPDATE question_reviews
+            SET completed = TRUE, completed_at = CURRENT_TIMESTAMP
+            WHERE user_id = ? AND question_id = ? AND review_type = ? AND completed = FALSE
+        """, (user_id, question_id, review_type))
+
+
+# ============== ERROR NOTEBOOK & LEECH DETECTION ==============
+
+def update_error_type(attempt_id: int, error_type: str):
+    """Update the error type for an attempt."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            UPDATE attempts SET error_type = ? WHERE id = ?
+        """, (error_type, attempt_id))
+
+
+def get_missed_questions(user_id: int, subject: str = None, error_type: str = None,
+                          limit: int = 50, offset: int = 0) -> List[Dict[str, Any]]:
+    """Get all missed questions for the error notebook."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+
+        query = """
+            SELECT a.id as attempt_id, a.question_id, a.selected_answer, a.error_type,
+                   a.time_taken_seconds, a.answered_at, a.session_id,
+                   q.subject, q.chapter, q.chapter_title, q.question_text,
+                   q.correct_answer, q.explanation, q.short_reason
+            FROM attempts a
+            JOIN questions q ON a.question_id = q.id
+            WHERE a.user_id = ? AND a.correct = FALSE
+        """
+        params = [user_id]
+
+        if subject:
+            query += " AND q.subject = ?"
+            params.append(subject)
+
+        if error_type:
+            query += " AND a.error_type = ?"
+            params.append(error_type)
+
+        query += " ORDER BY a.answered_at DESC LIMIT ? OFFSET ?"
+        params.extend([limit, offset])
+
+        cursor.execute(query, params)
+        return [dict(row) for row in cursor.fetchall()]
+
+
+def get_error_type_stats(user_id: int) -> Dict[str, int]:
+    """Get counts of each error type."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT error_type, COUNT(*) as count
+            FROM attempts
+            WHERE user_id = ? AND correct = FALSE AND error_type IS NOT NULL
+            GROUP BY error_type
+        """, (user_id,))
+
+        return {row['error_type']: row['count'] for row in cursor.fetchall()}
+
+
+def get_leech_questions(user_id: int, min_wrong_count: int = 3) -> List[Dict[str, Any]]:
+    """Get questions that have been missed 3+ times (leeches)."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        cursor.execute("""
+            SELECT q.*, COUNT(*) as wrong_count,
+                   MAX(a.answered_at) as last_wrong
+            FROM attempts a
+            JOIN questions q ON a.question_id = q.id
+            WHERE a.user_id = ? AND a.correct = FALSE
+            GROUP BY a.question_id
+            HAVING COUNT(*) >= ?
+            ORDER BY wrong_count DESC
+        """, (user_id, min_wrong_count))
+
+        results = []
+        for row in cursor.fetchall():
+            q = dict(row)
+            q['options'] = json.loads(q['options'])
+            if q.get('wrong_answer_explanations'):
+                try:
+                    q['wrong_answer_explanations'] = json.loads(q['wrong_answer_explanations'])
+                except:
+                    q['wrong_answer_explanations'] = {}
+            results.append(q)
+        return results
+
+
+# ============== ENHANCED STATS ==============
+
+def get_time_accuracy_stats(user_id: int) -> Dict[str, Any]:
+    """Get time vs accuracy statistics."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+
+        # Average time by correctness
+        cursor.execute("""
+            SELECT correct, AVG(time_taken_seconds) as avg_time, COUNT(*) as count
+            FROM attempts
+            WHERE user_id = ? AND time_taken_seconds IS NOT NULL
+            GROUP BY correct
+        """, (user_id,))
+
+        by_correct = {bool(row['correct']): {'avg_time': row['avg_time'], 'count': row['count']}
+                      for row in cursor.fetchall()}
+
+        # Time by subject
+        cursor.execute("""
+            SELECT q.subject, AVG(a.time_taken_seconds) as avg_time,
+                   SUM(CASE WHEN a.correct THEN 1 ELSE 0 END) as correct,
+                   COUNT(*) as total
+            FROM attempts a
+            JOIN questions q ON a.question_id = q.id
+            WHERE a.user_id = ? AND a.time_taken_seconds IS NOT NULL
+            GROUP BY q.subject
+        """, (user_id,))
+
+        by_subject = {row['subject']: {
+            'avg_time': row['avg_time'],
+            'accuracy': row['correct'] / row['total'] if row['total'] > 0 else 0,
+            'total': row['total']
+        } for row in cursor.fetchall()}
+
+        # Slow + Wrong questions (took > 60 seconds and got wrong)
+        cursor.execute("""
+            SELECT a.question_id, q.subject, q.chapter, q.chapter_title,
+                   q.question_text, a.time_taken_seconds
+            FROM attempts a
+            JOIN questions q ON a.question_id = q.id
+            WHERE a.user_id = ? AND a.correct = FALSE AND a.time_taken_seconds > 60
+            ORDER BY a.time_taken_seconds DESC
+            LIMIT 10
+        """, (user_id,))
+
+        slow_wrong = [dict(row) for row in cursor.fetchall()]
+
+        return {
+            "by_correctness": by_correct,
+            "by_subject": by_subject,
+            "slow_and_wrong": slow_wrong
+        }
+
+
+def get_score_trend(user_id: int, days: int = 30) -> Dict[str, Any]:
+    """Get score trends over time."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+
+        # Daily accuracy over time
+        cursor.execute("""
+            SELECT DATE(answered_at) as date,
+                   COUNT(*) as total,
+                   SUM(CASE WHEN correct THEN 1 ELSE 0 END) as correct
+            FROM attempts
+            WHERE user_id = ? AND answered_at >= DATE('now', ?)
+            GROUP BY DATE(answered_at)
+            ORDER BY date
+        """, (user_id, f'-{days} days'))
+
+        daily_stats = []
+        for row in cursor.fetchall():
+            daily_stats.append({
+                'date': row['date'],
+                'total': row['total'],
+                'correct': row['correct'],
+                'accuracy': (row['correct'] / row['total'] * 100) if row['total'] > 0 else 0
+            })
+
+        # Calculate trend (improvement over time)
+        if len(daily_stats) >= 2:
+            first_half = daily_stats[:len(daily_stats)//2]
+            second_half = daily_stats[len(daily_stats)//2:]
+
+            first_accuracy = sum(d['correct'] for d in first_half) / max(1, sum(d['total'] for d in first_half)) * 100
+            second_accuracy = sum(d['correct'] for d in second_half) / max(1, sum(d['total'] for d in second_half)) * 100
+
+            trend = second_accuracy - first_accuracy
+            trend_direction = 'improving' if trend > 2 else ('declining' if trend < -2 else 'stable')
+        else:
+            trend = 0
+            trend_direction = 'insufficient_data'
+
+        return {
+            "daily_stats": daily_stats,
+            "trend_percent": round(trend, 1),
+            "trend_direction": trend_direction
+        }
+
+
+def get_smart_recommendation(user_id: int) -> Dict[str, Any]:
+    """Generate a smart 'what to do next' recommendation."""
+    with get_connection() as conn:
+        cursor = conn.cursor()
+        today = datetime.now().strftime('%Y-%m-%d')
+
+        recommendations = []
+
+        # Check daily progress
+        daily = get_daily_progress(user_id)
+        remaining = daily['goal'] - daily['answered']
+        if remaining > 0:
+            recommendations.append({
+                "type": "daily_goal",
+                "priority": 1,
+                "message": f"Complete {remaining} more questions to hit your daily goal",
+                "action": "practice"
+            })
+
+        # Check for due reviews
+        due_reviews = get_due_question_reviews(user_id, limit=100)
+        if due_reviews:
+            recommendations.append({
+                "type": "review_due",
+                "priority": 2,
+                "message": f"You have {len(due_reviews)} questions scheduled for review today",
+                "action": "review",
+                "count": len(due_reviews)
+            })
+
+        # Check for leeches
+        leeches = get_leech_questions(user_id)
+        if leeches:
+            recommendations.append({
+                "type": "leeches",
+                "priority": 3,
+                "message": f"You have {len(leeches)} difficult questions that need extra attention",
+                "action": "leech_review",
+                "count": len(leeches)
+            })
+
+        # Find weakest subject
+        cursor.execute("""
+            SELECT q.subject,
+                   SUM(CASE WHEN a.correct THEN 1 ELSE 0 END) as correct,
+                   COUNT(*) as total
+            FROM attempts a
+            JOIN questions q ON a.question_id = q.id
+            WHERE a.user_id = ?
+            GROUP BY q.subject
+            HAVING total >= 5
+            ORDER BY (1.0 * correct / total) ASC
+            LIMIT 1
+        """, (user_id,))
+        weakest = cursor.fetchone()
+
+        if weakest:
+            accuracy = (weakest['correct'] / weakest['total']) * 100
+            if accuracy < 70:
+                recommendations.append({
+                    "type": "weak_subject",
+                    "priority": 4,
+                    "message": f"Focus on {weakest['subject']} ({accuracy:.0f}% accuracy)",
+                    "action": "practice_subject",
+                    "subject": weakest['subject']
+                })
+
+        # Sort by priority
+        recommendations.sort(key=lambda x: x['priority'])
+
+        return {
+            "recommendations": recommendations,
+            "top_recommendation": recommendations[0] if recommendations else None
+        }
 
 
 if __name__ == "__main__":
