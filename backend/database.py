@@ -65,7 +65,8 @@ def init_db():
                 explanation TEXT NOT NULL,
                 short_reason TEXT,
                 wrong_answer_explanations TEXT,
-                image_filename TEXT
+                image_filename TEXT,
+                learn_with_ai TEXT
             )
         """)
 
@@ -161,6 +162,12 @@ def init_db():
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_flashcard_reviews_flashcard ON flashcard_reviews(flashcard_id)")
         cursor.execute("CREATE INDEX IF NOT EXISTS idx_flashcard_reviews_next ON flashcard_reviews(user_id, next_review_date)")
 
+        # Migration: Add learn_with_ai column if it doesn't exist
+        cursor.execute("PRAGMA table_info(questions)")
+        columns = [col[1] for col in cursor.fetchall()]
+        if 'learn_with_ai' not in columns:
+            cursor.execute("ALTER TABLE questions ADD COLUMN learn_with_ai TEXT")
+
         # Create default users (Brandon and Porter)
         cursor.execute("INSERT OR IGNORE INTO users (name) VALUES (?)", ("Brandon",))
         cursor.execute("INSERT OR IGNORE INTO users (name) VALUES (?)", ("Porter",))
@@ -199,8 +206,8 @@ def load_questions_from_json():
                     INSERT OR REPLACE INTO questions
                     (id, subject, chapter, chapter_title, question_number,
                      question_text, options, correct_answer, explanation,
-                     short_reason, wrong_answer_explanations, image_filename)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                     short_reason, wrong_answer_explanations, image_filename, learn_with_ai)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """, (
                     question_id,
                     subject,
@@ -213,7 +220,8 @@ def load_questions_from_json():
                     q['explanation'],
                     q.get('short_reason', ''),
                     json.dumps(q.get('wrong_answer_explanations', {})),
-                    q.get('image_filename', '')
+                    q.get('image_filename', ''),
+                    json.dumps(q.get('learn_with_ai', {}))
                 ))
 
         # Get count
@@ -267,6 +275,14 @@ def get_question_by_id(question_id: str) -> Optional[Dict[str, Any]]:
                     q['wrong_answer_explanations'] = {}
             else:
                 q['wrong_answer_explanations'] = {}
+            # Parse learn_with_ai JSON if present
+            if q.get('learn_with_ai'):
+                try:
+                    q['learn_with_ai'] = json.loads(q['learn_with_ai'])
+                except (json.JSONDecodeError, TypeError):
+                    q['learn_with_ai'] = {}
+            else:
+                q['learn_with_ai'] = {}
             return q
         return None
 
@@ -291,6 +307,14 @@ def get_all_questions(subject: Optional[str] = None) -> List[Dict[str, Any]]:
                     q['wrong_answer_explanations'] = {}
             else:
                 q['wrong_answer_explanations'] = {}
+            # Parse learn_with_ai JSON if present
+            if q.get('learn_with_ai'):
+                try:
+                    q['learn_with_ai'] = json.loads(q['learn_with_ai'])
+                except (json.JSONDecodeError, TypeError):
+                    q['learn_with_ai'] = {}
+            else:
+                q['learn_with_ai'] = {}
             questions.append(q)
         return questions
 
