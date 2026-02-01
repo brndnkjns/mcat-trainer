@@ -448,10 +448,11 @@ def record_attempt(user_id: int, question_id: str, session_id: int,
         """, (user_id, question_id, session_id, correct, selected_answer,
               time_taken_seconds, timed_out, error_type))
 
-        # If incorrect, schedule reviews at 1 day and 7 days
-        if not correct:
-            schedule_question_review(user_id, question_id, 1, 'day_1')
-            schedule_question_review(user_id, question_id, 7, 'day_7')
+    # Schedule reviews AFTER the connection is closed to avoid nested connections
+    # SQLite doesn't handle concurrent writes well
+    if not correct:
+        schedule_question_review(user_id, question_id, 1, 'day_1')
+        schedule_question_review(user_id, question_id, 7, 'day_7')
 
 
 def get_session_attempts(session_id: int) -> List[Dict[str, Any]]:
