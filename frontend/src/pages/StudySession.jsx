@@ -242,14 +242,24 @@ function StudySession({ user }) {
           ))}
         </div>
 
-        {/* Question Image (if any) */}
-        {question?.image_url && (
-          <div className="question-image-container mb-6">
-            <img
-              src={`${import.meta.env.VITE_API_URL}${question.image_url}`}
-              alt="Question diagram"
-              className="question-image"
-            />
+        {/* Question Images (if any) */}
+        {question?.images && question.images.length > 0 && (
+          <div className="question-images-container mb-6">
+            {question.images.map((imgUrl, idx) => (
+              <img
+                key={idx}
+                src={imgUrl}
+                alt={`Question figure ${idx + 1}`}
+                className="question-image"
+                style={{
+                  maxWidth: '100%',
+                  height: 'auto',
+                  marginBottom: question.images.length > 1 ? '1rem' : 0,
+                  borderRadius: 'var(--radius-md)',
+                  border: '1px solid var(--gray-200)'
+                }}
+              />
+            ))}
           </div>
         )}
 

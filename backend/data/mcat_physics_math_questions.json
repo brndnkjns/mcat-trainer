@@ -207,6 +207,35 @@
       }
     },
     {
+      "id": "ch1_q9",
+      "chapter": 1,
+      "chapter_title": "Kinematics and Dynamics",
+      "question_number": 9,
+      "question_text": "The diagram below shows two vectors.   If a student uses the formula ab \u2219 sin (60o), where a and b are the magnitudes of the respective vectors A and B, then which of the following best describes the computed value?",
+      "options": {
+        "A": "Positive scalar",
+        "B": "Negative scalar",
+        "C": "Vector into the page",
+        "D": "Vector out of the page"
+      },
+      "correct_answer": "D",
+      "explanation": "Since the equation uses the sine of the angle, this equation computes a cross product. The output of the cross product is another vector quantity. To find the direction of the resultant vector, use the right hand rule. The thumb of the right hand points in the direction of vector A, the fingers point in the direction of vector B, and the palm reveals the direction of the vector product. In this problem, the right hand rule indicates that the direction of the resulting vector is out of the page, consistent with (D). Note that since the cross product always produces another vector, choices (A) and (B) can be immediately eliminated.",
+      "image_filename": "physics_and_math_ch1_q9.png",
+      "short_reason": "Cross product uses SINE, produces VECTOR. Right-hand rule: thumb=A, fingers=B, palm=direction. A to B counterclockwise = OUT of page.",
+      "wrong_answer_explanations": {
+        "A": "Cross products NEVER produce scalars - they always produce vectors.",
+        "B": "Cross products NEVER produce scalars - the sine formula indicates a cross product, not dot product.",
+        "C": "Direction is out of page, not into - verify with right-hand rule: A to B sweeps counterclockwise."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Kinematics and Dynamics: Explain why 'Vector out of the page' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Kinematics%20and%20Dynamics%3A%20Explain%20why%20%27Vector%20out%20of%20the%20page%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch1_q9_mc20q0121stem.png"
+      ]
+    },
+    {
       "id": "ch1_q10",
       "chapter": 1,
       "chapter_title": "Kinematics and Dynamics",
@@ -480,6 +509,35 @@
         "prompt": "MCAT Physics and Math - Work and Energy: Explain why '0 J' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Work%20and%20Energy%3A%20Explain%20why%20%270%20J%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch2_q6",
+      "chapter": 2,
+      "chapter_title": "Work and Energy",
+      "question_number": 6,
+      "question_text": "In the pulley system shown below, which of the following is closest to the tension force in each rope if the mass of the object is 10 kg and the object is accelerating upwards at 2 ms2?",
+      "options": {
+        "A": "50 N",
+        "B": "60 N",
+        "C": "100 N",
+        "D": "120 N"
+      },
+      "correct_answer": "B",
+      "explanation": "To calculate the tension force in each rope, first draw a free body diagram: From the force diagram, notice that there are two tension forces pulling the mass up. The net force for this system (Fnet) is equal to 2T \u2013 mg. Now we can use Newton\u2019s second law: Fnet=ma2T\u2212mg=maT=m(a+g)2\u2248(10 kg)(2 ms2+10 ms2)2=5\u00d712=60 N",
+      "image_filename": "physics_and_math_ch2_q6.png",
+      "short_reason": "Two ropes = 2T upward. Net force: 2T - mg = ma. Solve: T = m(a+g)/2 = 10(2+10)/2 = 60N. Pulleys divide the load!",
+      "wrong_answer_explanations": {
+        "A": "50 N assumes no acceleration (T = mg/2) - but object IS accelerating upward.",
+        "C": "100 N is the full weight - this ignores that TWO ropes share the load.",
+        "D": "120 N is the total upward force (2T) - each rope only carries half of this."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Work and Energy: Explain why '60 N' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Work%20and%20Energy%3A%20Explain%20why%20%2760%20N%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch2_q6_phy_ch02_figure_text_un74.png"
+      ]
     },
     {
       "id": "ch2_q7",
@@ -982,6 +1040,35 @@
       }
     },
     {
+      "id": "ch3_q12",
+      "chapter": 3,
+      "chapter_title": "Thermodynamics",
+      "question_number": 12,
+      "question_text": "The figure shown depicts a thick metal container with two compartments. Compartment A is full of a hot gas, while compartment B is full of a cold gas. What is the primary mode of heat transfer in this system?",
+      "options": {
+        "A": "Radiation",
+        "B": "Convection",
+        "C": "Conduction",
+        "D": "Enthalpy"
+      },
+      "correct_answer": "C",
+      "explanation": "In this situation, heat will transfer from the warm gas to the metal and then to the cold gas. Convection requires flow of a fluid to cause heat transfer, invalidating (B) as an answer. In this case, the gas is not flowing, but rather is in contact with the metal. (A) is an invalid answer because heat transfer through radiation is also implausible not only because gases are unlikely to emit heat in the form of waves but also because the radiation would be unlikely to penetrate the thick metal container. Enthalpy, (D), is not a form of heat transfer. Conduction, (C), is the most likely option; it happens when two substances make direct contact with one another. Here, gas A makes contact with the metal container, which makes contact with gas B.",
+      "image_filename": "physics_and_math_ch3_q12.png",
+      "short_reason": "Direct contact through metal wall = CONDUCTION. Gas isn't flowing (not convection), walls block radiation. 'Solids conduct, fluids convect, vacuum radiates.'",
+      "wrong_answer_explanations": {
+        "A": "Radiation would need direct line-of-sight or transparent medium - thick metal blocks it.",
+        "B": "Convection requires fluid FLOW - the gases are separated and stationary.",
+        "D": "Enthalpy is a thermodynamic property, not a heat transfer mechanism!"
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Thermodynamics: Explain why 'Conduction' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Thermodynamics%3A%20Explain%20why%20%27Conduction%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch3_q12_phy_ch03_figure_text_106-02.png"
+      ]
+    },
+    {
       "id": "ch3_q13",
       "chapter": 3,
       "chapter_title": "Thermodynamics",
@@ -1182,6 +1269,35 @@
       }
     },
     {
+      "id": "ch4_q6",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 6,
+      "question_text": "The figure shown represents a section through a horizontal pipe of varying diameters into which four open vertical pipes connect. If water is allowed to flow through the pipe in the direction indicated, in which of the vertical pipes will the water level be lowest?",
+      "options": {
+        "A": "Pipe 1",
+        "B": "Pipe 2",
+        "C": "Pipe 3",
+        "D": "Pipe 4"
+      },
+      "correct_answer": "B",
+      "explanation": "It is not necessary to do any calculations to answer this question. The open vertical pipes are exposed to the same atmospheric pressure; therefore, differences in the heights of the columns of water in the vertical pipes are dependent only on the differences in hydrostatic pressures in the horizontal pipe. Because the horizontal pipe has variable cross-sectional area, water will flow the fastest and the hydrostatic pressure will have its lowest value where the horizontal pipe is narrowest; this is called the Venturi effect. As a result, pipe 2 will have the lowest water level.",
+      "image_filename": "physics_and_math_ch4_q6.png",
+      "short_reason": "Venturi Effect: Faster flow = Lower pressure. Narrowest pipe = Fastest flow = Lowest pressure = Lowest water column. 'Squeeze faster, pressure drops!'",
+      "wrong_answer_explanations": {
+        "A": "Pipe 1 is wider, so flow is slower and pressure is higher - water level is higher.",
+        "C": "Pipe 3 is wider than pipe 2, so pressure is higher there - higher water level.",
+        "D": "Pipe 4 is the widest, so slowest flow and highest pressure - highest water level."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Fluids: Explain why 'Pipe 2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Fluids%3A%20Explain%20why%20%27Pipe%202%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch4_q6_phy_ch04_figure_text_un142-01.png"
+      ]
+    },
+    {
       "id": "ch4_q7",
       "chapter": 4,
       "chapter_title": "Fluids",
@@ -1281,6 +1397,35 @@
         "prompt": "MCAT Physics and Math - Fluids: Explain why '16 N' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Fluids%3A%20Explain%20why%20%2716%20N%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch4_q11",
+      "chapter": 4,
+      "chapter_title": "Fluids",
+      "question_number": 11,
+      "question_text": "Balls A and B of equal mass (shown below) are fully submerged in a swimming pool. Which ball will produce the greater buoyant force?",
+      "options": {
+        "A": "Ball A",
+        "B": "Ball B",
+        "C": "The forces will be equal",
+        "D": "It is impossible to know without knowing the exact volume of each ball."
+      },
+      "correct_answer": "A",
+      "explanation": "The buoyant force (Fbuoy) is equal to the weight of water displaced, which is quantitatively expressed as Fbuoy = mfluid displacedg = \u03c1fluidVfluid displacedg The volume of displaced fluid is equal to the volume of the ball. The density of the fluid remains constant. Therefore, because ball A has a larger volume, it will displace more water and experience a larger buoyant force.",
+      "image_filename": "physics_and_math_ch4_q11.png",
+      "short_reason": "Buoyancy = rho_fluid * V_displaced * g. Same fluid density, larger volume = larger buoyant force. Ball A is bigger (lower density means larger volume for same mass).",
+      "wrong_answer_explanations": {
+        "B": "Ball B is denser, so for equal mass, it has SMALLER volume and less buoyancy.",
+        "C": "Different volumes mean different buoyant forces - they can't be equal.",
+        "D": "We can determine this! Equal mass + different density = different volumes = different buoyancy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Fluids: Explain why 'Ball A' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Fluids%3A%20Explain%20why%20%27Ball%20A%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch4_q11_phy_ch04_figure_text_un143.png"
+      ]
     },
     {
       "id": "ch4_q12",
@@ -1383,6 +1528,35 @@
       }
     },
     {
+      "id": "ch5_q1",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 1,
+      "question_text": "In the figure, the magnitude of the electric force on R due to S is:",
+      "options": {
+        "A": "F2",
+        "B": "F",
+        "C": "2F",
+        "D": "4F"
+      },
+      "correct_answer": "B",
+      "explanation": "According to Newton\u2019s third law, if R exerts a force on S, then S exerts a force with equal magnitude but opposite direction back on R. Therefore, the magnitude of the force on R due to S is F.",
+      "image_filename": "physics_and_math_ch5_q1.png",
+      "short_reason": "Newton's 3rd Law applies to all forces! If R pushes S with force F, then S pushes R with force F. Action-reaction pairs are always equal and opposite.",
+      "wrong_answer_explanations": {
+        "A": "F/2 would violate Newton's 3rd Law - action-reaction forces are always equal.",
+        "C": "2F would violate Newton's 3rd Law - the forces must be equal in magnitude.",
+        "D": "4F would violate Newton's 3rd Law - no scaling factor applies to action-reaction pairs."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Electrostatics and Magnetism: Explain why 'F.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Electrostatics%20and%20Magnetism%3A%20Explain%20why%20%27F.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch5_q1_phy_ch05_figure_text_un180-01.png"
+      ]
+    },
+    {
       "id": "ch5_q2",
       "chapter": 5,
       "chapter_title": "Electrostatics and Magnetism",
@@ -1458,6 +1632,35 @@
       }
     },
     {
+      "id": "ch5_q5",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 5,
+      "question_text": "A positive charge of + Q is fixed at point R a distance d away from another positive charge of +2 Q fixed at point S. Point A is located midway between the charges, and point B is a distance d2 from +2 Q , as shown below. In which direction will a positive charge move if placed at point A and point B, respectively?",
+      "options": {
+        "A": "Toward the +Q charge for both",
+        "B": "Toward the +2Q charge for both",
+        "C": "Toward the +Q charge at point A, and toward the right at point B",
+        "D": "Toward the +2Q charge at point A, and toward the right at point B"
+      },
+      "correct_answer": "C",
+      "explanation": "A positive charge placed at A will experience two forces: a force to the left due to +2Q and a force to the right due to +Q. Because point A is the same distance from +Q and +2Q, the force due to +2Q will be larger than that due to +Q, and there will be a net force to the left (toward +Q). At point B, the forces from both +Q and +2Q will point to the right, so there will be a net force to the right.",
+      "image_filename": "physics_and_math_ch5_q5.png",
+      "short_reason": "At point A: +2Q exerts stronger repulsion (closer = stronger). Net force toward +Q. At B: both charges repel rightward. 'Bigger charge at same distance wins!'",
+      "wrong_answer_explanations": {
+        "A": "At point B, both forces point right (away from each positive charge) - not toward +Q.",
+        "B": "At point A, +2Q pushes harder because it's the same distance but has more charge.",
+        "D": "Reversed at A - the larger charge (+2Q) dominates at equal distances."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Electrostatics and Magnetism: Explain why 'Toward the +Q charge at point A, and toward the right at point B' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Electrostatics%20and%20Magnetism%3A%20Explain%20why%20%27Toward%20the%20%2BQ%20charge%20at%20point%20A%2C%20and%20toward%20the%20right%20at%20point%20B%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch5_q5_phy_ch05_figure_text_un180-02.png"
+      ]
+    },
+    {
       "id": "ch5_q6",
       "chapter": 5,
       "chapter_title": "Electrostatics and Magnetism",
@@ -1481,6 +1684,35 @@
         "prompt": "MCAT Physics and Math - Electrostatics and Magnetism: Explain why '2.4 \u00d7 10\u20135 J' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Electrostatics%20and%20Magnetism%3A%20Explain%20why%20%272.4%20%C3%97%2010%E2%80%935%20J%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch5_q7",
+      "chapter": 5,
+      "chapter_title": "Electrostatics and Magnetism",
+      "question_number": 7,
+      "question_text": "The negative charge in the figure below (\u22121 \u03bc C) moves from y = \u22125 to y = +5 and is made to follow the dashed line. What is the work required to move the negative charge along this dashed line?",
+      "options": {
+        "A": "\u201310 J",
+        "B": "\u22125 J",
+        "C": "0 J",
+        "D": "10 J"
+      },
+      "correct_answer": "C",
+      "explanation": "There will be work done in moving the negative charge from its initial position to y = 0. However, in moving the negative charge from y = 0 to the final position, the same amount of work is done but with the opposite sign. This is because the force changes direction as the electron crosses y = 0. Therefore, the two quantities of work cancel each other out. This argument depends crucially on the symmetry of the initial and final positions.",
+      "image_filename": "physics_and_math_ch5_q7.png",
+      "short_reason": "Symmetric path: work to center + work from center. By symmetry, these are equal and opposite, so total work = 0! 'Symmetric paths cancel out.'",
+      "wrong_answer_explanations": {
+        "A": "-10 J ignores the symmetry - the second half undoes the first half's work.",
+        "B": "-5 J is half of what might be done to center - but it's all cancelled out.",
+        "D": "10 J would require net energy input - but symmetric path returns same energy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Electrostatics and Magnetism: Explain why '0 J' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Electrostatics%20and%20Magnetism%3A%20Explain%20why%20%270%20J%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch5_q7_phy_ch05_figure_text_un181-01.png"
+      ]
     },
     {
       "id": "ch5_q8",
@@ -1814,6 +2046,35 @@
       }
     },
     {
+      "id": "ch6_q6",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 6,
+      "question_text": "Given that R 1 = 20 \u2126, R 2 = 4 \u2126, R 3 = R 4 = 32 \u2126, R 5 = 15 \u2126, and R 6 = 5 \u2126, what is the total resistance in the setup shown below?",
+      "options": {
+        "A": "0.15 \u2126",
+        "B": "6.67 \u2126",
+        "C": "16.7 \u2126",
+        "D": "60 \u2126"
+      },
+      "correct_answer": "B",
+      "explanation": "The fastest way to tackle these kinds of questions is to simplify the circuit bit by bit. For example, notice that R3 and R4 are in parallel with each other and are in series with R2; similarly, R5 and R6 are in series. If we determine the total resistance in each branch, we will be left with three branches in parallel. To start, find the total resistance in the middle branch: 1R3 + 4=1R3+1R4=132\u03a9+132\u03a9\u2192R3 + 4=16\u03a9R2 + 3 + 4=R2+R3 + 4=4\u03a9+16\u03a9=20\u03a9 Next, take a look at the total resistance in the bottom branch: R5+6 = R5 + R6 = 15 \u2126 + 5 \u2126 = 20 \u2126 The circuit can now be viewed as three resistors in parallel, each providing a resistance of 20 \u2126. The total resistance in the circuit is thus 1Rtot=1R1+1R2 + 3 + 4+1R5 + 6=120 \u03a9+120 \u03a9+120 \u03a9\u2192203 \u03a9=6.67 \u03a9",
+      "image_filename": "physics_and_math_ch6_q6.png",
+      "short_reason": "Simplify step by step: R3||R4 = 16 ohms, plus R2 in series = 20 ohms. R5+R6 = 20 ohms. Three 20-ohm branches in parallel: R_total = 20/3 = 6.67 ohms.",
+      "wrong_answer_explanations": {
+        "A": "0.15 ohms is 1/R_total, not R_total - don't forget the final inversion for parallel!",
+        "C": "16.7 ohms might come from incomplete simplification - finish all parallel combinations.",
+        "D": "60 ohms adds all in series - but there ARE parallel branches here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Circuits: Explain why '6.67 \u2126' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Circuits%3A%20Explain%20why%20%276.67%20%E2%84%A6%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch6_q6_phy_ch06_figure_text_un216-01.png"
+      ]
+    },
+    {
       "id": "ch6_q7",
       "chapter": 6,
       "chapter_title": "Circuits",
@@ -1939,6 +2200,35 @@
         "prompt": "MCAT Physics and Math - Circuits: Explain why '120 J' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Circuits%3A%20Explain%20why%20%27120%20J%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch6_q12",
+      "chapter": 6,
+      "chapter_title": "Circuits",
+      "question_number": 12,
+      "question_text": "In the figure below, six currents meet at point P . What is the magnitude and direction of the current between points P and x ?",
+      "options": {
+        "A": "2 A, toward x",
+        "B": "2 A, toward P",
+        "C": "10 A, toward x",
+        "D": "10 A, toward P"
+      },
+      "correct_answer": "A",
+      "explanation": "Kirchhoff\u2019s junction rule states that the sum of all currents directed into a point is always equal to the sum of all currents directed out of the point. The currents directed into point P are 8 A, 2 A, and 3 A, so the sum is 13 A. The currents directed out of point P are 5 A and 6 A, so the total is 11 A. Because the two numbers must always be equal, an additional current of 2 A must be directed away from point P toward point x.",
+      "image_filename": "physics_and_math_ch6_q12.png",
+      "short_reason": "Kirchhoff's Junction Rule: Current in = Current out. In: 8+2+3 = 13A. Out: 5+6 = 11A. Missing: 13-11 = 2A leaving toward x.",
+      "wrong_answer_explanations": {
+        "B": "2A toward P would add to input, making 15A in vs 11A out - unbalanced!",
+        "C": "10A toward x comes from wrong arithmetic - recheck: 13-11 = 2A.",
+        "D": "10A toward P would be massively unbalanced - junction rule requires balance."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Circuits: Explain why '2 A, toward x' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Circuits%3A%20Explain%20why%20%272%20A%2C%20toward%20x%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch6_q12_phy_ch06_figure_text_un217-01.png"
+      ]
     },
     {
       "id": "ch6_q13",
@@ -2864,6 +3154,35 @@
         "prompt": "MCAT Physics and Math - Atomic and Nuclear Phenomena: Explain why '1.22 \u00d7 10\u22127 m' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Atomic%20and%20Nuclear%20Phenomena%3A%20Explain%20why%20%271.22%20%C3%97%2010%E2%88%927%20m%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch9_q5",
+      "chapter": 9,
+      "chapter_title": "Atomic and Nuclear Phenomena",
+      "question_number": 5,
+      "question_text": "The figure below illustrates an electron with initial energy of \u201310 eV moving from point A to point B. What change accompanies the movement of the electron?",
+      "options": {
+        "A": "Absorption of a photon",
+        "B": "Emission of a photon",
+        "C": "Decrease in the atom\u2019s work function",
+        "D": "Increase in the atom\u2019s total energy"
+      },
+      "correct_answer": "B",
+      "explanation": "The electron moves from a higher energy level to a lower energy level; this can only occur if the extra energy is dissipated through the emission of a photon. If the electron moved from B to A, it would absorb a photon and increase the atom\u2019s total energy; however, the opposite is occurring, so (A) and (D) can be eliminated. The work function is the amount of energy required to eject an electron from a material; when moving from A to B, the electrical potential energy of the atom decreases, meaning that more energy will be required to free the electron from the atom, eliminating (C).",
+      "image_filename": "physics_and_math_ch9_q5.png",
+      "short_reason": "Moving from higher to lower energy = releasing energy = EMISSION of photon. Electron loses potential energy, photon carries it away. 'Falling down? Light comes out!'",
+      "wrong_answer_explanations": {
+        "A": "Absorption would INCREASE electron energy - this electron is losing energy.",
+        "C": "Work function is material property - electron movement doesn't change it.",
+        "D": "Total energy DECREASES when photon is emitted - energy leaves the atom."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Atomic and Nuclear Phenomena: Explain why 'Emission of a photon' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Atomic%20and%20Nuclear%20Phenomena%3A%20Explain%20why%20%27Emission%20of%20a%20photon%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch9_q5_phy_ch09_figure_text_un325.png"
+      ]
     },
     {
       "id": "ch9_q6",
@@ -4167,6 +4486,35 @@
         "prompt": "MCAT Physics and Math - Data-Based and Statistical Reasoning: Explain why 'Yes; both 1575 and 2600 are outliers.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Data-Based%20and%20Statistical%20Reasoning%3A%20Explain%20why%20%27Yes%3B%20both%201575%20and%202600%20are%20outliers.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch12_q13",
+      "chapter": 12,
+      "chapter_title": "Data-Based and Statistical Reasoning",
+      "question_number": 13,
+      "question_text": "A gas station attendant notices that there are more assaults near the station on the days that a lot of ice cream is sold and hypothesizes that the ingestion of excess glucose leads to an increase in violent behavior. The attendant begins to tally how much ice cream is sold on a daily basis and checks the daily crime statistics to generate the graph below.   The attendant analyzes the data and concludes that the hypothesis is true. Are there any flaws in this conclusion?",
+      "options": {
+        "A": "No, the number of assaults increases as the pints of ice cream sold increase.",
+        "B": "No, the study is appropriately controlled.",
+        "C": "Yes, the study is missing a positive control.",
+        "D": "Yes, the attendant has proved correlation, but not a causal link."
+      },
+      "correct_answer": "D",
+      "explanation": "The attendant hypothesized that glucose in ice cream was the cause of the increase in violent behavior and designed an observational study. While there was an increase in assaults with an increase in ice cream sales, this relationship is a correlation. Correlation does not prove causation. Thus, the conclusion that glucose was the cause is a significant flaw, making (D) the correct answer.",
+      "image_filename": "physics_and_math_ch12_q13.png",
+      "short_reason": "Correlation does NOT prove causation! Ice cream sales and assaults both increase in summer (confounding variable: temperature/season). The glucose hypothesis has no causal evidence.",
+      "wrong_answer_explanations": {
+        "A": "Correlation exists but doesn't prove the causal mechanism (glucose).",
+        "B": "Observational study isn't controlled - no random assignment to ice cream consumption.",
+        "C": "Missing controls is a problem, but main issue is claiming causation from correlation."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Physics and Math - Data-Based and Statistical Reasoning: Explain why 'Yes, the attendant has proved correlation, but not a causal link.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Data-Based%20and%20Statistical%20Reasoning%3A%20Explain%20why%20%27Yes%2C%20the%20attendant%20has%20proved%20correlation%2C%20but%20not%20a%20causal%20link.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch12_q13_mc20q0316.png"
+      ]
     },
     {
       "id": "ch12_q14",

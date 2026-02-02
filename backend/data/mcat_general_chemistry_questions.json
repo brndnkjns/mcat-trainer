@@ -333,6 +333,31 @@
       }
     },
     {
+      "id": "ch1_q14",
+      "chapter": 1,
+      "chapter_title": "Atomic Structure",
+      "question_number": 14,
+      "question_text": "Consider the two sets of quantum numbers shown in the table, which describe two different electrons in the same atom.  n l ml ms 2 1 1 + 1 2 3 1 \u22121 + 1 2  Which of the following terms best describes these two electrons?",
+      "options": {
+        "A": "Parallel",
+        "B": "Opposite",
+        "C": "Antiparallel",
+        "D": "Paired"
+      },
+      "correct_answer": "A",
+      "explanation": "The terms in the answer choices refer to the magnetic spin of the two electrons. The quantum number ms represents this property as a measure of an electron\u2019s intrinsic spin. These electrons\u2019 spins are parallel, in that their spins are aligned in the same direction (ms = + for both species).",
+      "short_reason": "Both have ms = +1/2, meaning spins point the same way. 'Same spin = parallel!' Like two arrows pointing up together.",
+      "wrong_answer_explanations": {
+        "B": "Opposite would mean one +1/2 and one -1/2 - but both have +1/2 here.",
+        "C": "Antiparallel means opposite spins (one up, one down) - these are the same direction.",
+        "D": "Paired electrons must be in the SAME orbital with opposite spins - these are in different orbitals (different n and ml)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Atomic Structure: Explain why 'Parallel' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Atomic%20Structure%3A%20Explain%20why%20%27Parallel%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      }
+    },
+    {
       "id": "ch1_q15",
       "chapter": 1,
       "chapter_title": "Atomic Structure",
@@ -632,6 +657,37 @@
         "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'Similar valence configuration' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27Similar%20valence%20configuration%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch2_q12",
+      "chapter": 2,
+      "chapter_title": "The Periodic Table",
+      "question_number": 12,
+      "question_text": "Of the four atoms depicted here, which has the highest electron affinity?",
+      "options": {
+        "A": "Li (lithium)",
+        "B": "Na (sodium)",
+        "C": "Cl (chlorine)",
+        "D": "F (fluorine)"
+      },
+      "correct_answer": "D",
+      "explanation": "The correct answer to this question may be surprising because this question illustrates an important exception to a trend. Electron affinity generally increases as one moves up and to the right on the periodic table. Based on this trend alone, one might expect that the atom fluorine, depicted in (B), would be correct. However, the correct answer is chlorine, (D), even despite the fact that chlorine is below fluorine on the periodic table. The diagrams in the answer choices help make sense of this apparent exception: Fluorine and chlorine have the same valence electron configuration and have a similar amount of effective nuclear charge. However, when an electron is added to fluorine's valence shell, that negative charge is added to the second energy shell, which is quite small in physical size, meaning that the new electron is crowded into a small energy shell with seven other electrons. As a result, energy is still released when an electron is added to fluorine, but not as much energy as might be predicted by the general trend alone. By contrast, when an additional electron is added to a chlorine atom, that new electron adds to the third energy shell, so there is less repulsion among the valence electrons, leading to a slightly greater electron affinity for chlorine. Thus, chlorine, (D), has the highest electron affinity and is the right answer.",
+      "short_reason": "'Chlorine beats fluorine at electron affinity!' Fluorine's tiny 2p orbital is too crowded - adding an electron creates repulsion. Chlorine's 3p has more room.",
+      "wrong_answer_explanations": {
+        "A": "This atom (likely Na or Mg) has low electron affinity - metals don't want MORE electrons.",
+        "B": "Fluorine has the second-highest electron affinity, but chlorine actually beats it due to electron repulsion in F's small orbitals.",
+        "C": "Oxygen has decent electron affinity but nowhere near the halogens."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'F (fluorine)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27F%20%28fluorine%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch2_q12_gc_ch02_figure_text_un65-02.png",
+        "/images/questions/ch2_q12_gc_ch02_figure_text_un65-03.png",
+        "/images/questions/ch2_q12_gc_ch02_figure_text_un65-04.png",
+        "/images/questions/ch2_q12_gc_ch02_figure_text_un65-05.png"
+      ]
     },
     {
       "id": "ch2_q13",
@@ -984,6 +1040,34 @@
       }
     },
     {
+      "id": "ch3_q12",
+      "chapter": 3,
+      "chapter_title": "Bonding and Chemical Interactions",
+      "question_number": 12,
+      "question_text": "In the structure shown, which atom(s) have the most positive charge?",
+      "options": {
+        "A": "The phosphorus atom has the most positive charge.",
+        "B": "All atoms share the charge equally.",
+        "C": "The four oxygen atoms share the highest charge.",
+        "D": "The oxygen atom at the peak of the trigonal pyramidal geometry has the most positive charge."
+      },
+      "correct_answer": "A",
+      "explanation": "In this Lewis diagram, the phosphate molecule has an overall formal charge of \u22123. The four oxygen atoms would each be assigned a formal charge of \u22121. Given the overall charge of \u22123 and the \u22121 charge on each oxygen, the phosphorus must have a formal charge of +1.",
+      "short_reason": "'Phosphorus is positive!' With 4 oxygens each at -1 and total charge of -3, phosphorus must be +1 to balance: +1 + 4(-1) = -3.",
+      "wrong_answer_explanations": {
+        "B": "The charges are NOT equal - that would give a neutral molecule, not PO4 3-.",
+        "C": "The oxygens are NEGATIVE (they're more electronegative), not positive.",
+        "D": "The apical oxygen has the same -1 formal charge as the others in phosphate."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Bonding and Chemical Interactions: Explain why 'The phosphorus atom has the most positive charge.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Bonding%20and%20Chemical%20Interactions%3A%20Explain%20why%20%27The%20phosphorus%20atom%20has%20the%20most%20positive%20charge.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch3_q12_gc_ch03_figure_text_un104-01.png"
+      ]
+    },
+    {
       "id": "ch3_q13",
       "chapter": 3,
       "chapter_title": "Bonding and Chemical Interactions",
@@ -1310,6 +1394,35 @@
       }
     },
     {
+      "id": "ch4_q11",
+      "chapter": 4,
+      "chapter_title": "Compounds and Stoichiometry",
+      "question_number": 11,
+      "question_text": "Diethyl zinc is a very unstable compound. When exposed to air, it reacts with oxygen to produce zinc oxide, carbon dioxide, and water. The unbalanced reaction is shown below.  Z n ( C 2 H 5 ) 2 + O 2 \u2192 Z n O + C O 2 + H 2 O  What is the coefficient for carbon dioxide in the balanced reaction?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correct_answer": "A",
+      "explanation": "In the unbalanced reaction given in the question stem, zinc is already balanced. Next check carbon. There are 4 carbon atoms in the reactants and 1 in the product, so add a coefficient of 4 to carbon dioxide on the product side. Next, check hydrogen. There are 10 hydrogen atoms in the reactants and 2 in the products, so add a coefficient of 5 to water on the product side. Finally, check oxygen. There are 2 oxygen atoms in the reactants and 14 in the products, so add a coefficient of 7 to molecular oxygen on the reactant side. These alterations yield the balanced reaction Zn(C 2 H 5 ) 2 + 7 O 2 \u2192 ZnO + 4 CO 2 + 5 H 2 O Because of the coefficient of 4 in front of the CO2 molecule on the product side, the answer is (A).",
+      "image_filename": "general_chemistry_ch4_q11.jpg",
+      "short_reason": "'Balance oxygen last!' Start with carbons (4 CO2), then hydrogens (5 H2O), then count oxygens: 4(2) + 5(1) + 1 = 14 oxygens needed = 7 O2.",
+      "wrong_answer_explanations": {
+        "A": "4 CO2 is correct for balancing 4 carbons from Zn(C2H5)2.",
+        "B": "5 would mean 10 carbons on product side - way too many.",
+        "C": "6 would give 12 carbons - also incorrect."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Compounds and Stoichiometry: Explain why '4' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Compounds%20and%20Stoichiometry%3A%20Explain%20why%20%274%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch4_q11_p149-1.jpg"
+      ]
+    },
+    {
       "id": "ch4_q12",
       "chapter": 4,
       "chapter_title": "Compounds and Stoichiometry",
@@ -1585,6 +1698,31 @@
       }
     },
     {
+      "id": "ch5_q8",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 8,
+      "question_text": "The following data shown in the table were collected for the combustion of the theoretical compound XH4:  XH4 + 2 O2 \u2192 XO2 + 2 H2O  Trial [XH4]initial (M) [O2]initial (M) Rate initial ( M min ) 1 0.6 0.6 12.4 2 0.6 2.4 49.9 3 1.2 2.4 198.3  What is the rate law for the reaction described here?",
+      "options": {
+        "A": "rate = k[XH4][O2]",
+        "B": "rate = k[XH4][O2]2",
+        "C": "rate = k[XH4]2[O2]",
+        "D": "rate = k[XH4]2[O2]2"
+      },
+      "correct_answer": "C",
+      "explanation": "Start with the generic rate law: rate = k[XH4]x[O2]y. In the first two trials, the concentration of XH4 is held constant while the concentration of O2 is multiplied by 4, and the rate of the reaction also increases by a factor of approximately 4. This gives the proportion \u0394rate = [O 2 ] y , or 4 = 4 y , meaning y = 1. The rate law can be updated to: rate = k[XH4]x[O2]1. In the last two trials, the concentration of O2 is held constant while the concentration of XH4 is doubled, and the rate of the reaction is increased by a factor of approximately 4. This gives \u0394rate = [XH 4 ] x , or 4 = 2 x , and x = 2. The rate law can be updated to: rate = k[XH4]2[O2]1. The final version of the rate law is: rate = k[XH4]2[O2].",
+      "short_reason": "'Compare trials systematically!' When [O2] x4, rate x4 = first order in O2. When [XH4] x2, rate x4 = second order in XH4.",
+      "wrong_answer_explanations": {
+        "A": "First order in both would give rate doubling when each doubles - but XH4 doubling quadrupled rate.",
+        "B": "Second order in O2 would give 16x rate increase when O2 quadruples - we only see 4x.",
+        "D": "Both second order would give 16x increase for 2x change in either - doesn't match data."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'rate = k[XH4]2[O2]' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27rate%20%3D%20k%5BXH4%5D2%5BO2%5D%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      }
+    },
+    {
       "id": "ch5_q9",
       "chapter": 5,
       "chapter_title": "Chemical Kinetics",
@@ -1633,6 +1771,35 @@
         "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why '3' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%273%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch5_q11",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 11,
+      "question_text": "The overall reaction depicted by this energy diagram is:",
+      "options": {
+        "A": "endergonic, because point B is higher than point A.",
+        "B": "endergonic, because point C is higher than point A.",
+        "C": "exergonic, because point D is higher than point E.",
+        "D": "exergonic, because point A is higher than point E."
+      },
+      "correct_answer": "D",
+      "explanation": "A system is exergonic if energy is released by the reaction. For exergonic reactions, the net energy change is negative, and the free energy of the final products is lower than the free energy of the initial reactants. Point E, which represents the energy of the final products, is lower on the energy diagram than point A, which represents the energy of initial reactants. Thus, energy must have been given off, and the reaction is exergonic.",
+      "image_filename": "general_chemistry_ch5_q11.png",
+      "short_reason": "'Products lower than reactants = energy released!' Point E (products) is below point A (reactants), so \u0394G is negative = exergonic.",
+      "wrong_answer_explanations": {
+        "A": "Point B is a transition state, not related to overall thermodynamics.",
+        "B": "Point C is an intermediate - comparing C to A doesn't tell us about products.",
+        "C": "D vs E is about second step's activation energy, not overall reaction energy."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'exergonic, because point A is higher than point E.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27exergonic%2C%20because%20point%20A%20is%20higher%20than%20point%20E.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch5_q11_gc_ch05_figure_text_un172-01.png"
+      ]
     },
     {
       "id": "ch5_q12",
@@ -1709,6 +1876,35 @@
         "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'rate = k[NO2]2' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27rate%20%3D%20k%5BNO2%5D2%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch5_q15",
+      "chapter": 5,
+      "chapter_title": "Chemical Kinetics",
+      "question_number": 15,
+      "question_text": "The potential energy diagram shown represents four different reactions.    Assuming identical conditions, which of the reactions displayed on the energy diagram proceeds the fastest?",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "correct_answer": "D",
+      "explanation": "The faster a reaction can reach its activation energy, the faster it will proceed to completion. Because this question states that all conditions are equal, the reaction with the lowest activation energy will have the fastest rate. In the diagram, (D) has the lowest activation energy.",
+      "image_filename": "general_chemistry_ch5_q15.png",
+      "short_reason": "'Lowest Ea = fastest reaction!' With identical conditions, the reaction needing least activation energy will have the highest rate.",
+      "wrong_answer_explanations": {
+        "A": "Reaction A has a higher activation energy than D - slower reaction.",
+        "B": "Reaction B has medium activation energy - not the fastest.",
+        "C": "Reaction C also has higher activation energy than D."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Chemical Kinetics: Explain why 'D' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Chemical%20Kinetics%3A%20Explain%20why%20%27D%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch5_q15_gc_ch05_figure_text_un172-02.png"
+      ]
     },
     {
       "id": "ch6_q1",
@@ -2086,6 +2282,35 @@
       }
     },
     {
+      "id": "ch7_q1",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 1,
+      "question_text": "Consider the cooling of an ideal gas in a closed system. This process is illustrated in the pressure\u2013volume graph shown in the following figure.   Based on this information, the process may be:",
+      "options": {
+        "A": "adiabatic",
+        "B": "isobaric",
+        "C": "isothermal",
+        "D": "isochoric"
+      },
+      "correct_answer": "A",
+      "explanation": "This process may be adiabatic. Given that the gas was cooled, it did not maintain constant temperature, eliminating (C). Isobaric and isovolumetric processes appear as horizontal and vertical lines in pressure\u2013volume graphs, respectively, eliminating (B) and (D). Adiabatic processes appear hyperbolic on pressure\u2013volume graphs, as illustrated here.",
+      "image_filename": "general_chemistry_ch7_q1.png",
+      "short_reason": "'Curved line = adiabatic!' The hyperbolic curve on a PV diagram indicates an adiabatic process where no heat enters or leaves the system.",
+      "wrong_answer_explanations": {
+        "B": "Isobaric (constant P) would be a horizontal line on a PV diagram.",
+        "C": "Isothermal is curved too, but the problem says temperature changed (cooling).",
+        "D": "Isochoric (constant V) would be a vertical line on a PV diagram."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'adiabatic.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27adiabatic.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch7_q1_gc_ch07_figure_text_un141.png"
+      ]
+    },
+    {
       "id": "ch7_q2",
       "chapter": 7,
       "chapter_title": "Thermochemistry",
@@ -2161,6 +2386,31 @@
       }
     },
     {
+      "id": "ch7_q5",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 5,
+      "question_text": "Methanol reacts with acetic acid to form methyl acetate and water.  Type of Bond Bond Dissociation Energy ( kJ mol ) C \u2013 C 348 C \u2013 H 415 C = O 805 O \u2013 H 463 C \u2013 O 360  Based on the values in the table above, what is the heat of reaction in kJ mol ?",
+      "options": {
+        "A": "0",
+        "B": "464",
+        "C": "824",
+        "D": "1288"
+      },
+      "correct_answer": "A",
+      "explanation": "At first glance, this might seem like a math-heavy problem, but it really doesn\u2019t require any calculations at all. We just have to keep track of which bonds are broken and which bonds are formed. Remember, breaking bonds requires energy, while forming bonds releases energy. Two bonds are broken: a C\u2013O bond between the carbonyl carbon and oxygen of acetic acid , and an O\u2013H bond between the hydroxyl oxygen and hydrogen of methanol . Two bonds are also formed: a C\u2013O bond between the carbonyl carbon and the oxygen of methyl acetate , and an O\u2013H bond between a hydroxyl group and a hydrogen to form water . Given that the same two bonds are broken and formed in this reaction, the energy change must be 0 kJ mol .",
+      "short_reason": "'Same bonds broken and formed!' One C-O and one O-H break, one C-O and one O-H form. Net energy change = zero.",
+      "wrong_answer_explanations": {
+        "B": "464 would require an imbalance in bonds - but they're equal.",
+        "C": "824 would require breaking two extra bonds that aren't compensated.",
+        "D": "1288 would mean significant net bond breaking - not the case here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '0' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%270%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      }
+    },
+    {
       "id": "ch7_q6",
       "chapter": 7,
       "chapter_title": "Thermochemistry",
@@ -2209,6 +2459,35 @@
         "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '(10 g)(60oC)(4.2 J/goC) + (2,260 J/g)(10 g)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27%2810%20g%29%2860oC%29%284.2%20J/goC%29%20%2B%20%282%2C260%20J/g%29%2810%20g%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch7_q8",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 8,
+      "question_text": "Consider the chemical reaction in the vessel depicted in the following diagram.",
+      "options": {
+        "A": "The reaction is spontaneous",
+        "B": "The reaction is nonspontaneous",
+        "C": "The reaction is at equilibrium",
+        "D": "There is not enough information to determine if the reaction is spontaneous."
+      },
+      "correct_answer": "D",
+      "explanation": "There is not enough information available to determine the free energy of this reaction. While the entropy is clearly increasing (there are more particles in the system), it is unclear what the enthalpy change is. Because bonds are breaking, the reaction should be endothermic, meaning that both \u0394S and \u0394H are positive. In this case, it is a temperature-dependent process, and\u2014without a temperature given\u2014we cannot determine the sign on \u0394G.",
+      "image_filename": "general_chemistry_ch7_q8.png",
+      "short_reason": "'Need both \u0394H and \u0394S!' With molecules increasing (\u0394S positive) and bonds breaking (\u0394H positive), spontaneity depends on temperature.",
+      "wrong_answer_explanations": {
+        "A": "Can't determine spontaneity without knowing if T\u0394S overcomes \u0394H.",
+        "B": "Same issue - the reaction could be spontaneous at high T but not low T.",
+        "C": "Equilibrium would require \u0394G = 0, which we can't determine."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'There is not enough information to determine if the reaction is spontaneous.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27There%20is%20not%20enough%20information%20to%20determine%20if%20the%20reaction%20is%20spontaneous.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch7_q8_gc_ch07_figure_text_un142.png"
+      ]
     },
     {
       "id": "ch7_q9",
@@ -2309,6 +2588,35 @@
         "prompt": "MCAT General Chemistry - Thermochemistry: Explain why '2 Na (s) + Cl2 (g) \u2192 2 NaCl (s)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%272%20Na%20%28s%29%20%2B%20Cl2%20%28g%29%20%E2%86%92%202%20NaCl%20%28s%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch7_q13",
+      "chapter": 7,
+      "chapter_title": "Thermochemistry",
+      "question_number": 13,
+      "question_text": "A reaction coordinate for a chemical reaction is displayed in the graph below.    Which of the following terms describes the energy of this reaction?",
+      "options": {
+        "A": "Endothermic",
+        "B": "Exothermic",
+        "C": "Endergonic",
+        "D": "Exergonic"
+      },
+      "correct_answer": "A",
+      "explanation": "Eliminate (C) and (D), which describe the free energy of reaction and cannot be determined from this graph. While most reaction coordinate graphs we\u2019ve explored in this book use free energy for the y-axis, this one uses potential energy (enthalpy). If the heat of formation of the products is greater than that of the reactants, the reaction is endothermic. We can determine this information from their relative positions on the graph: because the products are higher than the reactants, this is an endothermic reaction.",
+      "image_filename": "general_chemistry_ch7_q13.png",
+      "short_reason": "'Products above reactants = uphill = endothermic!' On a potential energy diagram, higher products mean heat was absorbed.",
+      "wrong_answer_explanations": {
+        "B": "Exothermic would show products BELOW reactants.",
+        "C": "Endergonic refers to free energy, but this graph shows potential energy (enthalpy).",
+        "D": "Exergonic also refers to free energy, not shown directly here."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Thermochemistry: Explain why 'Endothermic' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Thermochemistry%3A%20Explain%20why%20%27Endothermic%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch7_q13_gc_ch07_figure_text_un143.png"
+      ]
     },
     {
       "id": "ch7_q14",
@@ -2536,6 +2844,35 @@
       }
     },
     {
+      "id": "ch8_q8",
+      "chapter": 8,
+      "chapter_title": "The Gas Phase",
+      "question_number": 8,
+      "question_text": "The plots of two gases at STP are shown below. One of the gases is 1.0 L of helium, and the other is 1.0 L of bromine. Which plot corresponds to each gas and why?",
+      "options": {
+        "A": "Curve A is helium and curve B is bromine because helium has a smaller molar mass than bromine.",
+        "B": "Curve A is helium and curve B is bromine because the average kinetic energy of bromine is greater than the average kinetic energy of helium.",
+        "C": "Curve A is bromine and curve B is helium because helium has a smaller molar mass than bromine.",
+        "D": "Curve A is bromine and curve B is helium because the average kinetic energy of bromine is greater than the average kinetic energy of helium."
+      },
+      "correct_answer": "C",
+      "explanation": "At STP, the difference between the distribution of speeds for helium and bromine gas is due to the difference in molar mass. Helium has a smaller molar mass than bromine. Particles with small masses travel faster than those with large masses, so the helium gas corresponds to curve B, which has a higher average speed. Because the gases are at the same temperature (273 K), they have the same average kinetic energy, eliminating (B) and (D).",
+      "image_filename": "general_chemistry_ch8_q8.png",
+      "short_reason": "'Light = fast!' At same T, lighter molecules (He) have higher average speeds to maintain equal average KE. Curve B is shifted right (faster).",
+      "wrong_answer_explanations": {
+        "A": "A is bromine (heavier = slower), B is helium (lighter = faster).",
+        "B": "Reasoning is wrong - KE is equal at same T, not greater for heavier gases.",
+        "D": "Both the assignment and reasoning are wrong."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - The Gas Phase: Explain why 'Curve A is bromine and curve B is helium because helium has a smaller molar mass than bromine.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Gas%20Phase%3A%20Explain%20why%20%27Curve%20A%20is%20bromine%20and%20curve%20B%20is%20helium%20because%20helium%20has%20a%20smaller%20molar%20mass%20than%20bromine.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch8_q8_gc_ch08_figure_text_un280.png"
+      ]
+    },
+    {
       "id": "ch8_q9",
       "chapter": 8,
       "chapter_title": "The Gas Phase",
@@ -2759,6 +3096,35 @@
         "prompt": "MCAT General Chemistry - Solutions: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch9_q3",
+      "chapter": 9,
+      "chapter_title": "Solutions",
+      "question_number": 3,
+      "question_text": "Two organic liquids, pictured in the figure below, are combined to form a solution. Based on their structures, will the solution closely obey Raoult\u2019s law?",
+      "options": {
+        "A": "Yes; the liquids differ due to the additional methyl group on toluene and, therefore, will not deviate from Raoult\u2019s law.",
+        "B": "Yes; the liquids are very similar and, therefore, will not deviate from Raoult\u2019s law.",
+        "C": "No; the liquids differ due to the additional methyl group on toluene and, therefore, will deviate from Raoult\u2019s law.",
+        "D": "No; the liquids both contain benzene rings, which will interact with each other and cause deviation from Raoult\u2019s law."
+      },
+      "correct_answer": "B",
+      "explanation": "Benzene and toluene are both organic liquids and have very similar properties. They are both nonpolar and are almost exactly the same size. Raoult\u2019s law states that ideal solution behavior is observed when solute\u2013solute, solvent\u2013solvent, and solute\u2013solvent interactions are all very similar. Therefore, benzene and toluene in solution will be predicted to behave as a nearly ideal solution.",
+      "image_filename": "general_chemistry_ch9_q3.png",
+      "short_reason": "'Like dissolves like - closely!' Benzene and toluene are both nonpolar aromatics. Nearly identical properties = nearly ideal solution.",
+      "wrong_answer_explanations": {
+        "A": "The methyl group difference is minor - they're still very similar overall.",
+        "C": "The methyl group difference is minor and causes minimal deviation.",
+        "D": "Similar benzene rings is a reason they DON'T deviate much, not why they would."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT General Chemistry - Solutions: Explain why 'Yes; the liquids are very similar and, therefore, will not deviate from Raoult\u2019s law.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20Solutions%3A%20Explain%20why%20%27Yes%3B%20the%20liquids%20are%20very%20similar%20and%2C%20therefore%2C%20will%20not%20deviate%20from%20Raoult%E2%80%99s%20law.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch9_q3_gc_fig9.12.png"
+      ]
     },
     {
       "id": "ch9_q4",

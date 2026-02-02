@@ -100,6 +100,7 @@ class QuestionResponse(BaseModel):
     question_number: int
     question_text: str
     options: dict
+    images: Optional[List[str]] = None  # Image URLs for questions with figures/diagrams
     # Note: correct_answer and explanation are NOT included here
     # They're only revealed after answering
 

@@ -109,6 +109,35 @@
       }
     },
     {
+      "id": "ch1_q5",
+      "chapter": 1,
+      "chapter_title": "Nomenclature",
+      "question_number": 5,
+      "question_text": "The IUPAC name for the following structure ends in what suffix?",
+      "options": {
+        "A": "\u2013ol",
+        "B": "\u2013one",
+        "C": "\u2013oic acid",
+        "D": "\u2013yne"
+      },
+      "correct_answer": "C",
+      "explanation": "Among the functional groups presented, carboxylic acids have the highest priority, and their compounds end with an \u2013oic acid suffix. (A) denotes an alcohol, (B) a ketone, and (D) an alkyne, all of which have lower priorities than carboxylic acids. The MCAT does not test nomenclature of halides or ethers, but note that these must have lower priority than a carboxylic acid because they are less oxidized groups.",
+      "image_filename": "oc_ch1_q5_oc_ch01_figure_text_un24-03.png",
+      "short_reason": "Carboxylic acids are KING of functional group priority! Remember: -oic acid suffix means COOH is present and takes charge.",
+      "wrong_answer_explanations": {
+        "A": "-ol denotes alcohols, which have lower priority than carboxylic acids in naming.",
+        "B": "-one denotes ketones, which rank below carboxylic acids in the priority hierarchy.",
+        "D": "-yne denotes alkynes (triple bonds), which are very low priority - just modifiers, not main suffixes when acids are present."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Nomenclature: Explain why '\u2013oic acid' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Nomenclature%3A%20Explain%20why%20%27%E2%80%93oic%20acid%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch1_q5_oc_ch01_figure_text_un24-03.png"
+      ]
+    },
+    {
       "id": "ch1_q6",
       "chapter": 1,
       "chapter_title": "Nomenclature",
@@ -189,6 +218,93 @@
         "prompt": "MCAT Organic Chemistry - Nomenclature: Explain why 'Form\u2013' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Nomenclature%3A%20Explain%20why%20%27Form%E2%80%93%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch1_q9",
+      "chapter": 1,
+      "chapter_title": "Nomenclature",
+      "question_number": 9,
+      "question_text": "What is the IUPAC name for the following structure?",
+      "options": {
+        "A": "2,5-dimethylheptane",
+        "B": "2-ethyl-5-methylhexane",
+        "C": "3,6-dimethylheptane",
+        "D": "5-ethyl-2-methylhexane"
+      },
+      "correct_answer": "A",
+      "explanation": "The first task in naming a compound is identifying the longest carbon chain. In this case, the longest chain has seven carbons, so the parent alkane ends in \u2013heptane. (B) and (D) can therefore be eliminated. Then, we must make sure that the carbons are numbered so that the substituents\u2019 position numbers are as small as possible. This compound has two methyl groups; minimizing their position numbers requires us to number the chain from right to left. These methyl groups are attached to carbons 2 and 5, so the correct IUPAC name is 2,5-dimethylheptane. (C) is incorrect because the position numbers of the substituents are not minimized.",
+      "image_filename": "oc_ch1_q9_oc_ch01_figure_text_un25-06.png",
+      "short_reason": "Step 1: Find LONGEST chain (7 carbons = heptane). Step 2: Number to give LOWEST substituent positions (2,5 < 3,6). Alphabetize substituents in name!",
+      "wrong_answer_explanations": {
+        "B": "This creates a 6-carbon chain with ethyl substituent when a 7-carbon chain exists - not the longest chain!",
+        "C": "While correctly identifying heptane, numbering 3,6 gives higher position numbers than 2,5.",
+        "D": "Same error as B - ethyl as substituent means you didn't find the longest possible chain."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Nomenclature: Explain why '2,5-dimethylheptane' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Nomenclature%3A%20Explain%20why%20%272%2C5-dimethylheptane%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch1_q9_oc_ch01_figure_text_un25-06.png"
+      ]
+    },
+    {
+      "id": "ch1_q10",
+      "chapter": 1,
+      "chapter_title": "Nomenclature",
+      "question_number": 10,
+      "question_text": "What is the IUPAC name for the following structure?",
+      "options": {
+        "A": "4-isopropyl-2-methylhexane",
+        "B": "3-isopropyl-5-methylhexane",
+        "C": "2,2,5-trimethyl-3-ethylhexane",
+        "D": "3-ethyl-2,2,5-trimethylhexane"
+      },
+      "correct_answer": "D",
+      "explanation": "We begin by finding the longest carbon chain; because there are no non-alkyl groups, we don\u2019t need to worry about any other groups\u2019 priorities. We then number our carbons such that the lowest possible combination of numbers is given to the various substituents. Then substituents are organized alphabetically, not numerically\u2014eliminating (C).",
+      "image_filename": "oc_ch1_q10_oc_ch01_figure_text_un25-06.png",
+      "short_reason": "Alphabetize substituents (Ethyl before Methyl), then number for lowest positions. Ignore 'iso' and 'di/tri' prefixes when alphabetizing!",
+      "wrong_answer_explanations": {
+        "A": "Isopropyl groups should be broken into their component methyl and ethyl substituents for correct naming.",
+        "B": "Numbers are reversed - always number to give lowest position numbers for substituents.",
+        "C": "Substituents must be listed alphabetically (ethyl before trimethyl), not numerically."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Nomenclature: Explain why '3-ethyl-2,2,5-trimethylhexane' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Nomenclature%3A%20Explain%20why%20%273-ethyl-2%2C2%2C5-trimethylhexane%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch1_q10_oc_ch01_figure_text_un25-07.png"
+      ]
+    },
+    {
+      "id": "ch1_q11",
+      "chapter": 1,
+      "chapter_title": "Nomenclature",
+      "question_number": 11,
+      "question_text": "The IUPAC name for the following structure starts with what prefix?",
+      "options": {
+        "A": "3-methyl-",
+        "B": "2-methyl-",
+        "C": "2-hydroxy-",
+        "D": "3-hydroxy-"
+      },
+      "correct_answer": "B",
+      "explanation": "We know right away that (C) and (D) will be incorrect because a hydroxyl group is of higher priority than a methyl group. We also know that we will number the carbon chain so that the hydroxyl group receives the lowest possible position. Therefore, this molecule is 2-methyl-2-butanol, which starts with the prefix 2-methyl.",
+      "image_filename": "oc_ch1_q11_oc_ch01_figure_text_un25-08.png",
+      "short_reason": "High priority groups get numbered FIRST! -OH (alcohol) outranks -CH3 (methyl), so the alcohol position determines the numbering direction.",
+      "wrong_answer_explanations": {
+        "A": "3-methyl would mean numbering from the wrong end - alcohol should get the lower number.",
+        "C": "Hydroxy isn't used as a prefix when -OH is the highest priority group - it becomes the suffix (-ol).",
+        "D": "Same issue - hydroxy as prefix means you're not treating alcohol as the main functional group."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Nomenclature: Explain why '2-methyl-' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Nomenclature%3A%20Explain%20why%20%272-methyl-%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch1_q11_oc_ch01_figure_text_un25-08.png"
+      ]
     },
     {
       "id": "ch1_q12",
@@ -378,6 +494,35 @@
         "prompt": "MCAT Organic Chemistry - Isomers: Explain why 'meso-tartaric acid (internal plane of symmetry)' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Isomers%3A%20Explain%20why%20%27meso-tartaric%20acid%20%28internal%20plane%20of%20symmetry%29%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch2_q4",
+      "chapter": 2,
+      "chapter_title": "Isomers",
+      "question_number": 4,
+      "question_text": "Cholesterol, shown below, contains how many chiral centers?",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correct_answer": "C",
+      "explanation": "To be considered a chiral center, a carbon must have four different substituents. There are eight stereocenters in this molecule, which are marked below with asterisks. The other carbons are not chiral for various reasons. Many are bonded to two hydrogens; others participate in double bonds, which count as two bonds to the same atom.",
+      "image_filename": "organic_chemistry_ch2_q4.png",
+      "short_reason": "Chiral = 4 DIFFERENT substituents! Carbons in double bonds, attached to 2 H's, or at ring junctions with identical paths are NOT chiral.",
+      "wrong_answer_explanations": {
+        "A": "5 is too few - look more carefully at ring junction carbons.",
+        "B": "7 is close but misses one stereocenter.",
+        "D": "9 overcounts - some carbons don't have 4 different groups attached."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Isomers: Explain why '8' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Isomers%3A%20Explain%20why%20%278%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch2_q4_oc_ch02_figure_text_un53-02.png"
+      ]
     },
     {
       "id": "ch2_q5",
@@ -3113,6 +3258,35 @@
       }
     },
     {
+      "id": "ch9_q6",
+      "chapter": 9,
+      "chapter_title": "Carboxylic Acid Derivatives",
+      "question_number": 6,
+      "question_text": "How might succinic anhydride, shown below, be formed from succinic acid (butanedioic acid)?",
+      "options": {
+        "A": "Catalytic acid",
+        "B": "Catalytic base",
+        "C": "Heat",
+        "D": "Oxidation"
+      },
+      "correct_answer": "C",
+      "explanation": "Anhydrides, particularly cyclic anhydrides, will form spontaneously from dicarboxylic acids when heated.",
+      "image_filename": "organic_chemistry_ch9_q6.png",
+      "short_reason": "HEAT drives cyclic anhydride formation! Two COOH groups in the same molecule lose water when heated, forming a ring anhydride.",
+      "wrong_answer_explanations": {
+        "A": "Acid would protonate the carboxylate but not drive cyclization as effectively.",
+        "B": "Base would deprotonate and might cause other reactions.",
+        "D": "Oxidation adds oxygen - anhydride formation is condensation (removes water)."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Carboxylic Acid Derivatives: Explain why 'Heat' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Carboxylic%20Acid%20Derivatives%3A%20Explain%20why%20%27Heat%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch9_q6_oc_ch09_figure_text_un219-01.png"
+      ]
+    },
+    {
       "id": "ch9_q7",
       "chapter": 9,
       "chapter_title": "Carboxylic Acid Derivatives",
@@ -3235,6 +3409,56 @@
       "learn_with_ai": {
         "prompt": "MCAT Organic Chemistry - Carboxylic Acid Derivatives: Explain why 'Acid environment' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Carboxylic%20Acid%20Derivatives%3A%20Explain%20why%20%27Acid%20environment%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      }
+    },
+    {
+      "id": "ch9_q12",
+      "chapter": 9,
+      "chapter_title": "Carboxylic Acid Derivatives",
+      "question_number": 12,
+      "question_text": "A positive charge on the molecule shown would have greater stability than a positive charge on a straight-chain alkane version of the same molecule. What property most explains this effect?",
+      "options": {
+        "A": "Steric hindrance",
+        "B": "Nitrogen electronegativity",
+        "C": "Induction",
+        "D": "Conjugation"
+      },
+      "correct_answer": "D",
+      "explanation": "This molecule is more stable with a positive charge than a straight-chain alkane due to the conjugation of the benzene ring. This permits delocalization of the charge through resonance. Although induction, (C), does have an effect on the stabilization of the molecule, this effect is much less significant than the impact of having a conjugated system. The electronegativity of nitrogen, (B), which primarily affects induction, is also not a vital component of the stabilization by this molecule of a positive charge because oxygen is more electronegative. Steric hindrance, (A), would affect the reactivity of a molecule, but not its ability to stabilize charge.",
+      "short_reason": "Benzene ring allows CONJUGATION - the charge can spread out over the aromatic ring through resonance. More delocalization = more stability!",
+      "wrong_answer_explanations": {
+        "A": "Steric hindrance affects reactivity, not charge stabilization.",
+        "B": "Nitrogen electronegativity is less important than resonance here.",
+        "C": "Induction is much weaker than conjugation/resonance effects."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Carboxylic Acid Derivatives: Explain why 'Conjugation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Carboxylic%20Acid%20Derivatives%3A%20Explain%20why%20%27Conjugation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      }
+    },
+    {
+      "id": "ch9_q13",
+      "chapter": 9,
+      "chapter_title": "Carboxylic Acid Derivatives",
+      "question_number": 13,
+      "question_text": "The molecule shown is:\nI. synthesizable from a \u03b3-hydroxycarboxylic acid.\nII. a lactone.\nIII. a form of an ester.",
+      "options": {
+        "A": "I only",
+        "B": "I and II only",
+        "C": "II and III only",
+        "D": "I, II, and III"
+      },
+      "correct_answer": "D",
+      "explanation": "The molecule shown, \u03b3-nonalactone, is a cyclic ester, also called a lactone. This molecule could arise from intramolecular attack in a \u03b3-hydroxycarboxylic acid.",
+      "short_reason": "Lactone = cyclic ESTER. Gamma-hydroxy acid (OH at 4th carbon) cyclizes to form 5-membered lactone ring. Classic intramolecular esterification!",
+      "wrong_answer_explanations": {
+        "A": "Gamma-hydroxy acid is correct, not delta.",
+        "B": "It IS a lactone AND an ester - statement III is also correct.",
+        "C": "Synthesis from gamma-hydroxy acid (statement I) is also true."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Carboxylic Acid Derivatives: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Carboxylic%20Acid%20Derivatives%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -3411,6 +3635,35 @@
         "prompt": "MCAT Organic Chemistry - Nitrogen- and Phosphorus-Containing Compounds: Explain why 'amide.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Nitrogen-%20and%20Phosphorus-Containing%20Compounds%3A%20Explain%20why%20%27amide.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
+    },
+    {
+      "id": "ch10_q6",
+      "chapter": 10,
+      "chapter_title": "Nitrogen- and Phosphorus-Containing Compounds",
+      "question_number": 6,
+      "question_text": "A biochemist is synthesizing valine, shown below, using the Strecker synthesis. Which of the following carbonyl-containing compounds would be an appropriate starting reactant in this synthesis?",
+      "options": {
+        "A": "2-Propanone",
+        "B": "Propanal",
+        "C": "2-Methylpropanal",
+        "D": "Butanal"
+      },
+      "correct_answer": "C",
+      "explanation": "The Strecker synthesis creates an amino acid from an aldehyde. The carbonyl carbon ultimately becomes the \u03b1-carbon of the amino acid. Any remaining alkyl chain becomes the R group, as shown below. The starting compound is therefore 2-methylpropanal (isobutyraldehyde).",
+      "image_filename": "organic_chemistry_ch10_q6.png",
+      "short_reason": "Strecker makes amino acid from aldehyde. The aldehyde's carbonyl carbon becomes the alpha carbon. Valine's R is isopropyl, so start with isobutyraldehyde!",
+      "wrong_answer_explanations": {
+        "A": "2-Propanone (acetone) is a ketone, not an aldehyde - wrong starting material.",
+        "B": "Propanal would give alanine (methyl side chain), not valine.",
+        "D": "Butanal would give a straight-chain R group, not branched like valine."
+      },
+      "learn_with_ai": {
+        "prompt": "MCAT Organic Chemistry - Nitrogen- and Phosphorus-Containing Compounds: Explain why '2-Methylpropanal' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
+        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Nitrogen-%20and%20Phosphorus-Containing%20Compounds%3A%20Explain%20why%20%272-Methylpropanal%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
+      },
+      "images": [
+        "/images/questions/ch10_q6_oc_ch10_figure_text_un240.png"
+      ]
     },
     {
       "id": "ch10_q7",
