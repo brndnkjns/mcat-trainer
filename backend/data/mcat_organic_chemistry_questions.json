@@ -382,10 +382,10 @@
       "question_number": 15,
       "question_text": "Consider the name 2,3-diethylpentane. Based on the structure implied by this name, the correct IUPAC name for this molecule is:",
       "options": {
-        "A": "2,3-diethylpentane.",
-        "B": "1,2-diethylbutane.",
-        "C": "3-ethyl-4-methylhexane.",
-        "D": "3-methyl-4-ethylhexane."
+        "A": "2,3-diethylpentane",
+        "B": "1,2-diethylbutane",
+        "C": "3-ethyl-4-methylhexane",
+        "D": "3-methyl-4-ethylhexane"
       },
       "correct_answer": "C",
       "explanation": "Draw out the molecule, and you will see that the longest carbon chain with the substituents at the lowest possible carbon numbers is actually different from the one chosen in the original name. The correct IUPAC name for this molecule is 3-ethyl-4-methylhexane.",
@@ -519,7 +519,7 @@
         "A": "Chair with both methyl groups axial",
         "B": "Chair with both methyl groups equatorial (trans)",
         "C": "Chair with one methyl axial, one equatorial",
-        "D": "They are all equally stable."
+        "D": "They are all equally stable"
       },
       "correct_answer": "B",
       "explanation": "This molecule is a chair conformation in which the two equatorial methyl groups are trans to each other. Because the axial methyl hydrogens do not compete for the same space as the hydrogens attached to the ring, this conformation ensures the least amount of steric strain. (A) would be less stable because the diaxial methyl group hydrogens are closer to the hydrogens on the ring, causing greater steric strain. (C) is incorrect because it is in the more unstable boat conformation.",
@@ -573,10 +573,10 @@
       "question_number": 7,
       "question_text": "The following molecules are considered to be:",
       "options": {
-        "A": "enantiomers.",
-        "B": "diastereomers.",
-        "C": "meso compounds.",
-        "D": "structural isomers."
+        "A": "enantiomers",
+        "B": "diastereomers",
+        "C": "meso compounds",
+        "D": "structural isomers"
       },
       "correct_answer": "A",
       "explanation": "These compounds are nonsuperimposable mirror images. To make analysis a bit easier, we can rotate structure II 180\u00b0 to look like structure III. Structures I and III more clearly have opposite stereochemistry at every chiral center, meaning that they are enantiomers. (B) is incorrect because diastereomers are stereoisomers that are not mirror images of each other. (C) is incorrect because meso compounds must contain a plane of symmetry, which neither of these molecules has. (D) is incorrect because structural isomers are compounds with the same molecular formula but different atomic connections. The connectivity in these two molecules is the same, which means that they are stereoisomers, not structural isomers.",
@@ -599,10 +599,10 @@
       "question_number": 8,
       "question_text": "(+)-Glyceraldehyde and (\u2013)-glyceraldehyde refer to the (R) and (S) forms of 2,3-dihydroxypropanal, respectively. These molecules are considered:",
       "options": {
-        "A": "enantiomers.",
-        "B": "diastereomers.",
-        "C": "meso compounds.",
-        "D": "structural isomers."
+        "A": "enantiomers",
+        "B": "diastereomers",
+        "C": "meso compounds",
+        "D": "structural isomers"
       },
       "correct_answer": "A",
       "explanation": "(+)-Glyceraldehyde and (\u2013)-glyceraldehyde, or (R)- and (S)-2,3-dihydroxypropanal, are enantiomers. Enantiomers are nonsuperimposable mirror images. Each has only one chiral center (C-2), which has opposite absolute configuration in these two molecules.",
@@ -649,10 +649,10 @@
       "question_number": 10,
       "question_text": "3-methylpentane and hexane are related in that they are:",
       "options": {
-        "A": "enantiomers.",
-        "B": "diastereomers.",
-        "C": "constitutional isomers.",
-        "D": "conformational isomers."
+        "A": "enantiomers",
+        "B": "diastereomers",
+        "C": "constitutional isomers",
+        "D": "conformational isomers"
       },
       "correct_answer": "C",
       "explanation": "Because they have the same molecular formula but different atomic connectivity, 3-methylpentane and hexane are constitutional isomers.",
@@ -674,10 +674,10 @@
       "question_number": 11,
       "question_text": "(R)-2-chloro-(S)-3-bromobutane and (S)-2-chloro-(S)-3-bromobutane are:",
       "options": {
-        "A": "enantiomers.",
-        "B": "diastereomers.",
-        "C": "meso compounds.",
-        "D": "the same molecule."
+        "A": "enantiomers",
+        "B": "diastereomers",
+        "C": "meso compounds",
+        "D": "the same molecule"
       },
       "correct_answer": "B",
       "explanation": "These two molecules are stereoisomers of one another, but are not nonsuperimposable mirror images. Therefore, they are diastereomers. Note that these molecules differ by at least one, but not all, chiral carbons.",
@@ -774,10 +774,10 @@
       "question_number": 15,
       "question_text": "If the methyl groups of butane are 120\u00b0 apart, as seen in a Newman projection, this molecule is in its:",
       "options": {
-        "A": "highest-energy gauche form.",
-        "B": "lowest-energy staggered form.",
-        "C": "middle-energy eclipsed form.",
-        "D": "highest-energy eclipsed form."
+        "A": "highest-energy gauche form",
+        "B": "lowest-energy staggered form",
+        "C": "middle-energy eclipsed form",
+        "D": "highest-energy eclipsed form"
       },
       "correct_answer": "C",
       "explanation": "In butane, the position at which the two methyl groups are 120\u00b0 apart is an eclipsed conformation. This has a moderate amount of energy, although not as high as a totally eclipsed conformation in which the two methyl groups are 0\u00b0 apart.",
@@ -852,7 +852,7 @@
         "A": "hybridization between the s-orbital and one p-orbital.",
         "B": "hybridization between the s-orbital and two p-orbitals.",
         "C": "hybridization between the s-orbital and three p-orbitals.",
-        "D": "unhybridized s character."
+        "D": "unhybridized s character"
       },
       "correct_answer": "B",
       "explanation": "In a carbon with one double bond, sp2 hybridization occurs\u2014that is, one s-orbital hybridizes with two p-orbitals to form three sp2-hybridized orbitals. The third p-orbital of the carbon atom remains unhybridized and takes part in the formation of the \u03c0 bond of the double bond. Although there is an unhybridized p-orbital, there are no unhybridized s-orbitals, eliminating (D).",
@@ -874,10 +874,10 @@
       "question_number": 4,
       "question_text": "The hybridizations of the carbon and nitrogen atoms in CN\u2212 are:",
       "options": {
-        "A": "sp3 and sp3, respectively.",
-        "B": "sp3 and sp, respectively.",
-        "C": "sp and sp3, respectively.",
-        "D": "sp and sp, respectively."
+        "A": "sp3 and sp3, respectively",
+        "B": "sp3 and sp, respectively",
+        "C": "sp and sp3, respectively",
+        "D": "sp and sp, respectively"
       },
       "correct_answer": "D",
       "explanation": "The carbon and nitrogen atoms are connected by a triple bond in CN\u2013 (:C\u2261N:\u2013). A triple-bonded atom is sp hybridized; one s-orbital hybridizes with one p-orbital to form two sp-hybridized orbitals. The two remaining unhybridized p-orbitals take part in the formation of two \u03c0 bonds.",
@@ -949,9 +949,9 @@
       "question_number": 7,
       "question_text": "Molecular orbitals can contain a maximum of:",
       "options": {
-        "A": "one electron.",
-        "B": "two electrons.",
-        "C": "four electrons.",
+        "A": "one electron",
+        "B": "two electrons",
+        "C": "four electrons",
         "D": "2n2 electrons, where n is the principal quantum number of the combining atomic orbitals."
       },
       "correct_answer": "B",
@@ -1025,10 +1025,10 @@
       "question_number": 10,
       "question_text": "The four C\u2013H bonds of CH4 point toward the vertices of a tetrahedron. This indicates that the hybridization of the carbon atom in methane is:",
       "options": {
-        "A": "sp.",
-        "B": "sp2.",
-        "C": "sp3.",
-        "D": "sp3d."
+        "A": "sp",
+        "B": "sp2",
+        "C": "sp3",
+        "D": "sp3d"
       },
       "correct_answer": "C",
       "explanation": "The four bonds point to the vertices of a tetrahedron, which means that the angle between two bonds is 109.5\u00b0, a characteristic of sp3 orbitals. Hence, the carbon atom of CH4 is sp3-hybridized.",
@@ -1075,10 +1075,10 @@
       "question_number": 12,
       "question_text": "The p character of the bonds formed by the carbon atom in HCN is:",
       "options": {
-        "A": "25%.",
-        "B": "50%.",
-        "C": "67%.",
-        "D": "75%."
+        "A": "25%",
+        "B": "50%",
+        "C": "67%",
+        "D": "75%"
       },
       "correct_answer": "B",
       "explanation": "The carbon bond in hydrogen cyanide (H\u2013C\u2261N:) is triple-bonded, and because triple bonds require two unhybridized p-orbitals, the carbon must be sp-hybridized; sp-hybridized orbitals have 50% s character and 50% p character.",
@@ -1150,10 +1150,10 @@
       "question_number": 15,
       "question_text": "Compared to single bonds, triple bonds are:",
       "options": {
-        "A": "weaker.",
-        "B": "longer.",
+        "A": "weaker",
+        "B": "longer",
         "C": "made up of fewer \u03c3 bonds.",
-        "D": "more rigid."
+        "D": "more rigid"
       },
       "correct_answer": "D",
       "explanation": "\u03c0 bonds do not permit free rotation, unlike \u03c3 bonds; this makes triple bonds more rigid than single bonds. Triple bonds are stronger and shorter bonds than single bonds, eliminating (A) and (B). Both single and triple bonds contain one \u03c3 bond, eliminating (C).",
@@ -1329,7 +1329,7 @@
         "A": "Reduction, resulting in the formation of butene",
         "B": "Oxidation, resulting in the formation of butanoic acid",
         "C": "Oxidation, resulting in the formation of butanone",
-        "D": "No reaction would occur."
+        "D": "No reaction would occur"
       },
       "correct_answer": "C",
       "explanation": "Because 2-butanol is a secondary alcohol, oxidation by a strong oxidizing agent like dichromate will result in a ketone, butanone.",
@@ -1513,10 +1513,10 @@
       "question_number": 14,
       "question_text": "Aldehydes are generally more reactive than equivalent ketones to nucleophiles. This is likely due to differences in:",
       "options": {
-        "A": "steric hindrance.",
-        "B": "leaving group ability.",
-        "C": "resonance stabilization.",
-        "D": "electron-withdrawing character."
+        "A": "steric hindrance",
+        "B": "leaving group ability",
+        "C": "resonance stabilization",
+        "D": "electron-withdrawing character"
       },
       "correct_answer": "A",
       "explanation": "Aldehydes have one alkyl group connected to the carbonyl carbon, whereas ketones have two. This creates more steric hindrance in ketones, which lowers their reactivity to nucleophiles. Ketones are also less reactive because their carbonyl carbon has less positive charge character; the additional alkyl group can donate electron density\u2014the opposite of (D)\u2014which decreases the electrophilicity of the compound.",
@@ -1591,7 +1591,7 @@
         "A": "there is no hydrogen attached to the carbon with the hydroxyl group.",
         "B": "there is no hydrogen attached to the \u03b1-carbon of the carbonyl.",
         "C": "tertiary alcohols contain hydroxyl groups with no polarization.",
-        "D": "they are relatively inert."
+        "D": "they are relatively inert"
       },
       "correct_answer": "A",
       "explanation": "Tertiary alcohols can be oxidized only under extreme conditions because their substrate carbons do not have spare hydrogens to give up. Alcohol oxidation involves the removal of such a hydrogen so that carbon can instead make another bond to oxygen. If no hydrogen is present, a carbon\u2013carbon bond must be cleaved, which requires a great deal of energy and will, therefore, occur only under extreme conditions. (B) is incorrect because alcohols are not carbonyl-containing compounds and would more properly describe a carbonyl-containing compound that is unable to form an enolate. (C) is incorrect because the hydroxyl group of the tertiary carbon is still polarized. (D) is a false statement; tertiary alcohols are still involved in other reactions, such as SN1 reactions.",
@@ -1613,10 +1613,10 @@
       "question_number": 3,
       "question_text": "The IUPAC name of this molecule is:",
       "options": {
-        "A": "ethane-1,2-diol.",
-        "B": "propane-1,2-diol.",
-        "C": "dimethanol.",
-        "D": "dipropanol."
+        "A": "ethane-1,2-diol",
+        "B": "propane-1,2-diol",
+        "C": "dimethanol",
+        "D": "dipropanol"
       },
       "correct_answer": "B",
       "explanation": "Remember, diols are named after the parent alkane, with the position of the alcohols indicated, and ending in the suffix \u2013diol. Here the carbon chain is three carbons, with a hydroxyl group on carbons 1 and 2. Thus, the name is propane-1,2-diol.",
@@ -1639,10 +1639,10 @@
       "question_number": 4,
       "question_text": "The IUPAC name of this molecule is:",
       "options": {
-        "A": "2-methylcyclohexanol.",
-        "B": "m-methylphenol.",
-        "C": "p-methylphenol.",
-        "D": "3-methylcyclohexanol."
+        "A": "2-methylcyclohexanol",
+        "B": "m-methylphenol",
+        "C": "p-methylphenol",
+        "D": "3-methylcyclohexanol"
       },
       "correct_answer": "B",
       "explanation": "This molecule is a phenol, not a hexanol, because the cyclic group has aromatic double bonds rather than single bonds. The methyl group is separated from the hydroxyl carbon by one carbon in between, making this molecule m-methylphenol.",
@@ -1765,10 +1765,10 @@
       "question_number": 9,
       "question_text": "Successfully converting 3-phenylpropanol to 3-phenylpropanoic acid by the Jones oxidation requires the oxidizing agent, the solvent, and:",
       "options": {
-        "A": "dilute sulfuric acid.",
-        "B": "dilute sodium hydroxide.",
-        "C": "anhydrous conditions.",
-        "D": "high temperature."
+        "A": "dilute sulfuric acid",
+        "B": "dilute sodium hydroxide",
+        "C": "anhydrous conditions",
+        "D": "high temperature"
       },
       "correct_answer": "A",
       "explanation": "Acidic conditions, provided by dilute sulfuric acid, are required to complete the Jones oxidation. This reaction is carried out in aqueous conditions, eliminating (C). While heat may speed up the reaction, high temperatures are not required for this reaction, eliminating (D).",
@@ -1790,10 +1790,10 @@
       "question_number": 10,
       "question_text": "Treating 2-methyl-1-propanol with methylsulfonyl chloride in base, followed by reaction with pyridinium chlorochromate, and a final step in strong acid, will give an end product of:",
       "options": {
-        "A": "2-methyl-1-propanol.",
-        "B": "2-methylpropanal.",
-        "C": "2-methylpropanoic acid.",
-        "D": "2-methyl-1-propane."
+        "A": "2-methyl-1-propanol",
+        "B": "2-methylpropanal",
+        "C": "2-methylpropanoic acid",
+        "D": "2-methyl-1-propane"
       },
       "correct_answer": "A",
       "explanation": "Methylsulfonyl chloride serves as a protecting group for alcohols, which are converted into mesylates. Reacting with this reagent before continuing with what would normally be an oxidation reaction keeps the alcohol from reacting; when the protecting group is then removed using strong acid, the resultant product is the same as the initial reactant. Neither of the oxidation products in (B) or (C), nor the reduction product in (D), will be formed.",
@@ -1815,10 +1815,10 @@
       "question_number": 11,
       "question_text": "Reaction of 1-phenylethanone with ethylene glycol, also known as ethane-1,2-diol, in aqueous H2SO4 will result in the formation of:",
       "options": {
-        "A": "a ketal.",
-        "B": "a carboxylic acid.",
-        "C": "an aldehyde.",
-        "D": "a hemiacetal."
+        "A": "a ketal",
+        "B": "a carboxylic acid",
+        "C": "an aldehyde",
+        "D": "a hemiacetal"
       },
       "correct_answer": "A",
       "explanation": "This reaction will create a ketal. This is the first step of the protection of aldehydes or ketones using dialcohols.",
@@ -1941,8 +1941,8 @@
       "question_number": 1,
       "question_text": "All of the following are true with respect to carbonyls EXCEPT:",
       "options": {
-        "A": "the carbonyl carbon is electrophilic.",
-        "B": "the carbonyl oxygen is electron-withdrawing.",
+        "A": "the carbonyl carbon is electrophilic",
+        "B": "the carbonyl oxygen is electron-withdrawing",
         "C": "a resonance structure of the functional group places a positive charge on the carbonyl carbon.",
         "D": "the \u03c0 electrons are mobile and are pulled toward the carbonyl carbon."
       },
@@ -2169,10 +2169,10 @@
       "question_number": 9,
       "question_text": "In a hemiacetal, the central carbon is bonded to:",
       "options": {
-        "A": "\u2013OH, \u2013OR, \u2013H and \u2013R.",
-        "B": "\u2013H, \u2013OR, \u2013OR, and \u2013R.",
-        "C": "\u2013OH, \u2013OR, \u2013R, and \u2013R.",
-        "D": "\u2013OR, \u2013OR, \u2013R, and \u2013R."
+        "A": "\u2013OH, \u2013OR, \u2013H and \u2013R",
+        "B": "\u2013H, \u2013OR, \u2013OR, and \u2013R",
+        "C": "\u2013OH, \u2013OR, \u2013R, and \u2013R",
+        "D": "\u2013OR, \u2013OR, \u2013R, and \u2013R"
       },
       "correct_answer": "A",
       "explanation": "A hemiacetal is a molecule in which one equivalent of alcohol has been added to a carbonyl (\u2013OR) and the carbonyl oxygen has been protonated (\u2013OH). Otherwise, there is the same alkyl group (\u2013R) and hydrogen atom (\u2013H) as the parent aldehyde. (B) describes an acetal, (C) a hemiketal, and (D) a ketal.",
@@ -2197,7 +2197,7 @@
         "A": "Butyraldehyde and hydrogen cyanide",
         "B": "Ethylmethylketone and butyraldehyde",
         "C": "Hydrogen cyanide and ethylmethylketone",
-        "D": "No reaction will occur."
+        "D": "No reaction will occur"
       },
       "correct_answer": "A",
       "explanation": "Although both the aldehyde and ketone listed will be reactive with the strongly nucleophilic hydrogen cyanide, aldehydes are slightly more reactive toward nucleophiles than ketones for steric reasons, so the aldehyde and HCN will form the major product (which will be a cyanohydrin).",
@@ -2319,10 +2319,10 @@
       "question_number": 15,
       "question_text": "Imines naturally tautomerize to form:",
       "options": {
-        "A": "oximes.",
-        "B": "hydrazones.",
-        "C": "semicarbazones.",
-        "D": "enamines."
+        "A": "oximes",
+        "B": "hydrazones",
+        "C": "semicarbazones",
+        "D": "enamines"
       },
       "correct_answer": "D",
       "explanation": "During tautomerization, the double bond between the carbon and nitrogen in an imine is moved to lie between two carbons. This results in an enamine\u2014a compound with a double bond and an amine.",
@@ -2376,10 +2376,10 @@
       "question_number": 2,
       "question_text": "The reaction below is an example of:",
       "options": {
-        "A": "esterification.",
-        "B": "tautomerization.",
-        "C": "elimination.",
-        "D": "dehydration."
+        "A": "esterification",
+        "B": "tautomerization",
+        "C": "elimination",
+        "D": "dehydration"
       },
       "correct_answer": "B",
       "explanation": "Tautomerization is the interconversion of two isomers in which a hydrogen and a double bond are moved. The keto and enol tautomers of aldehydes and ketones are common examples of tautomers seen on Test Day. Note that the equilibrium lies to the left because the keto form is more stable. Esterification, (A), is the formation of esters from carboxylic acids and alcohols. Elimination, (C), is a reaction in which a part of a reactant is removed and a new multiple bond is introduced. Dehydration, (D), is a reaction in which a molecule of water is eliminated.",
@@ -2679,9 +2679,9 @@
       "question_number": 14,
       "question_text": "3-Hydroxybutanal can be formed by the reaction of:",
       "options": {
-        "A": "methanol in diethyl ether.",
+        "A": "methanol in diethyl ether",
         "B": "ethanal in base, then in acid.",
-        "C": "butanal in strong acid.",
+        "C": "butanal in strong acid",
         "D": "methanal and ethanal in catalytic base."
       },
       "correct_answer": "B",
@@ -2861,10 +2861,10 @@
       "question_number": 6,
       "question_text": "Carboxylic acids can be reacted with one reagent (in addition to acid) to form all of the following compounds EXCEPT:",
       "options": {
-        "A": "esters.",
-        "B": "amides.",
-        "C": "alkenes.",
-        "D": "alcohols."
+        "A": "esters",
+        "B": "amides",
+        "C": "alkenes",
+        "D": "alcohols"
       },
       "correct_answer": "C",
       "explanation": "Carboxylic acids cannot be converted into alkenes with just one reagent. Esters, (A), are formed in nucleophilic acyl substitution reactions with alcohols. Amides, (B), are formed by nucleophilic acyl substitution reactions with ammonia. Alcohols, (D), may be formed using a variety of reducing agents, most notably lithium aluminum hydride. To form alkenes, carboxylic acids may be reduced to alcohols, which can then be transformed into alkenes by elimination in a second step with addition of another reagent.",
@@ -2911,7 +2911,7 @@
       "question_number": 8,
       "question_text": "Which of the following is true with respect to a micelle in a hydrophilic environment?",
       "options": {
-        "A": "The interior is hydrophilic.",
+        "A": "The interior is hydrophilic",
         "B": "The structure, as a whole, is hydrophobic.",
         "C": "It is composed of short-chain fatty acids with polar heads.",
         "D": "It can dissolve nonpolar molecules deep in its core."
@@ -2936,10 +2936,10 @@
       "question_number": 9,
       "question_text": "In the presence of an acid catalyst, the major product of butanoic acid and 1-pentanol is:",
       "options": {
-        "A": "1-butoxy-1-pentanol.",
-        "B": "butyl pentanoate.",
-        "C": "1-pentoxy-1-butanol.",
-        "D": "pentyl butanoate."
+        "A": "1-butoxy-1-pentanol",
+        "B": "butyl pentanoate",
+        "C": "1-pentoxy-1-butanol",
+        "D": "pentyl butanoate"
       },
       "correct_answer": "D",
       "explanation": "The reaction described is esterification, in which the nucleophilic oxygen atom of 1-pentanol attacks the electrophilic carbonyl carbon of butanoic acid, ultimately displacing water to form pentyl butanoate. The acid catalyst is regenerated from 1-pentanol's released proton. (A) reverses the carbon chains, considering the butyl tail to be the esterifying group. Ethers do not form under these conditions, so (B) and (C) are also incorrect.",
@@ -3011,10 +3011,10 @@
       "question_number": 12,
       "question_text": "The intramolecular reaction of 5-aminopentanoic acid through nucleophilic acyl substitution would result in a(n):",
       "options": {
-        "A": "anhydride.",
-        "B": "lactone.",
-        "C": "lactam.",
-        "D": "carboxylic acid."
+        "A": "anhydride",
+        "B": "lactone",
+        "C": "lactam",
+        "D": "carboxylic acid"
       },
       "correct_answer": "C",
       "explanation": "5-aminopentanoic acid contains a carboxylic acid and an amine. If this molecule undergoes intramolecular nucleophilic acyl substitution, it will form a cyclic amide. These molecules are called lactams. Lactones, (B), are cyclic esters, not amides.",
@@ -3086,10 +3086,10 @@
       "question_number": 15,
       "question_text": "The reaction of ammonia with caprylic acid, found in coconuts, would produce a(n):",
       "options": {
-        "A": "ester.",
-        "B": "anhydride.",
-        "C": "alcohol.",
-        "D": "water molecule."
+        "A": "ester",
+        "B": "anhydride",
+        "C": "alcohol",
+        "D": "water molecule"
       },
       "correct_answer": "D",
       "explanation": "Based on its name, caprylic acid must be a carboxylic acid. The reaction between a carboxylic acid and ammonia (NH3) would produce an amide\u2014which is not one of the options listed. Instead, we should take a look at the type of reaction occurring. The production of an amide from a carboxylic acid and ammonia occurs through a condensation reaction in which a molecule of water is removed as a leaving group.",
@@ -3199,9 +3199,9 @@
       "question_number": 4,
       "question_text": "Each of the acyl compounds listed below contains a six-membered ring EXCEPT:",
       "options": {
-        "A": "\u03b4-lactam.",
-        "B": "cyclohexane carboxylic acid.",
-        "C": "\u03b3-butyrolactone.",
+        "A": "\u03b4-lactam",
+        "B": "cyclohexane carboxylic acid",
+        "C": "\u03b3-butyrolactone",
         "D": "the anhydride formed from intramolecular ring closure of pentanedioic acid."
       },
       "correct_answer": "C",
@@ -3350,10 +3350,10 @@
       "question_number": 10,
       "question_text": "The acid-catalyzed conversion of propyl ethanoate to benzyl ethanoate is likely:",
       "options": {
-        "A": "reduction.",
-        "B": "hydrolysis.",
-        "C": "transesterification.",
-        "D": "oxidation."
+        "A": "reduction",
+        "B": "hydrolysis",
+        "C": "transesterification",
+        "D": "oxidation"
       },
       "correct_answer": "C",
       "explanation": "As far as we can tell, we are converting one ester to another in this reaction. The fact that this reaction is acid-catalyzed should confirm the suspicion that this is a transesterification reaction.",
@@ -3575,10 +3575,10 @@
       "question_number": 4,
       "question_text": "Nylon, a polyamide, is produced from hexanediamine and a substance, X. This substance, X, is most probably a(n):",
       "options": {
-        "A": "amine.",
-        "B": "carboxylic acid.",
-        "C": "ketone.",
-        "D": "alcohol."
+        "A": "amine",
+        "B": "carboxylic acid",
+        "C": "ketone",
+        "D": "alcohol"
       },
       "correct_answer": "B",
       "explanation": "An amide is formed from an amine and a carboxyl group or its acyl derivatives. In this question, an amine is already given; the compound to be identified must be an acyl compound. The only acyl compound among the choices given is a carboxylic acid.",
@@ -3600,10 +3600,10 @@
       "question_number": 5,
       "question_text": "Intermediates in the Strecker synthesis include all of the following nitrogen-containing functional groups EXCEPT a(n):",
       "options": {
-        "A": "nitrile.",
-        "B": "imine.",
-        "C": "amide.",
-        "D": "amine."
+        "A": "nitrile",
+        "B": "imine",
+        "C": "amide",
+        "D": "amine"
       },
       "correct_answer": "C",
       "explanation": "During the Strecker synthesis, ammonia attacks a carbonyl, forming an imine, (B). This imine is attacked by cyanide, forming an amine, (D), and a nitrile, (A). Amide bonds are formed between amino acids but do not appear during the Strecker synthesis.",
@@ -3701,10 +3701,10 @@
       "question_number": 9,
       "question_text": "During the Gabriel synthesis, phthalimide serves as the:",
       "options": {
-        "A": "nucleophile.",
-        "B": "base.",
-        "C": "leaving group.",
-        "D": "electrophile."
+        "A": "nucleophile",
+        "B": "base",
+        "C": "leaving group",
+        "D": "electrophile"
       },
       "correct_answer": "A",
       "explanation": "During the Gabriel synthesis, phthalimide attacks a secondary carbon in diethyl bromomalonate. The secondary carbon is the electrophile, (D), and bromide is the leaving group, (C).",
@@ -3726,10 +3726,10 @@
       "question_number": 10,
       "question_text": "Each of the following reaction types occurs during the Gabriel synthesis EXCEPT:",
       "options": {
-        "A": "decarboxylation.",
-        "B": "nucleophilic substitution.",
-        "C": "dehydration.",
-        "D": "hydrolysis."
+        "A": "decarboxylation",
+        "B": "nucleophilic substitution",
+        "C": "dehydration",
+        "D": "hydrolysis"
       },
       "correct_answer": "C",
       "explanation": "The Gabriel synthesis includes two nucleophilic substitution steps, followed by hydrolysis and decarboxylation. Dehydration\u2014the loss of a water molecule\u2014is not a part of this reaction.",
@@ -3776,9 +3776,9 @@
       "question_number": 12,
       "question_text": "In aqueous solution, pyrophosphate will likely:",
       "options": {
-        "A": "form insoluble complexes.",
-        "B": "be stable and inert.",
-        "C": "degrade into inorganic phosphate.",
+        "A": "form insoluble complexes",
+        "B": "be stable and inert",
+        "C": "degrade into inorganic phosphate",
         "D": "decrease the polarity of the solvent."
       },
       "correct_answer": "C",
@@ -3826,10 +3826,10 @@
       "question_number": 14,
       "question_text": "When a bond is created between two nucleotide triphosphates in DNA synthesis, the small molecule released from this reaction is:",
       "options": {
-        "A": "pyrophosphate.",
-        "B": "inorganic phosphate.",
-        "C": "ATP.",
-        "D": "organic phosphate."
+        "A": "pyrophosphate",
+        "B": "inorganic phosphate",
+        "C": "ATP",
+        "D": "organic phosphate"
       },
       "correct_answer": "A",
       "explanation": "As DNA is synthesized, it forms phosphodiester bonds, releasing pyrophosphate, PPi. Pyrophosphate is an inorganic phosphate-containing molecule, but it is not the single phosphate group commonly referred to as inorganic phosphate, (B). The DNA molecule itself is referred to as an organic phosphate, (D).",
@@ -3855,7 +3855,7 @@
         "A": "allow high buffering capacity over a small pH range.",
         "B": "allow moderate buffering capacity over a large pH range.",
         "C": "allow low buffering capacity over a small pH range.",
-        "D": "do not allow buffering."
+        "D": "do not allow buffering"
       },
       "correct_answer": "B",
       "explanation": "Phosphoric acid has three hydrogens with pKa values spread across the pH range. This allows some degree of buffering over almost the entire standard pH range from 0 to 14.",
@@ -3877,9 +3877,9 @@
       "question_number": 1,
       "question_text": "IR spectroscopy is most useful for distinguishing:",
       "options": {
-        "A": "double and triple bonds.",
-        "B": "C\u2013H bonds.",
-        "C": "chirality of molecules.",
+        "A": "double and triple bonds",
+        "B": "C\u2013H bonds",
+        "C": "chirality of molecules",
         "D": "relative percentage of enantiomers in mixtures."
       },
       "correct_answer": "A",
@@ -3902,7 +3902,7 @@
       "question_number": 2,
       "question_text": "Oxygen (O2) does not exhibit an IR spectrum because:",
       "options": {
-        "A": "it has no molecular motions.",
+        "A": "it has no molecular motions",
         "B": "it is not possible to record IR spectra of a gaseous molecule.",
         "C": "molecular vibrations do not result in a change in the dipole moment.",
         "D": "molecular oxygen contains four lone pairs overall."
@@ -3979,7 +3979,7 @@
       "options": {
         "A": "it is not abundant in nature.",
         "B": "its resonances are not sensitive to the presence of neighboring atoms.",
-        "C": "it has no magnetic moment.",
+        "C": "it has no magnetic moment",
         "D": "the signal-to-noise ratio in the spectrum is too low."
       },
       "correct_answer": "C",
@@ -4004,7 +4004,7 @@
       "options": {
         "A": "coupling between a carbon atom and protons attached to that carbon atom.",
         "B": "coupling between a carbon atom and protons attached to adjacent carbon atoms.",
-        "C": "coupling between adjacent carbon atoms.",
+        "C": "coupling between adjacent carbon atoms",
         "D": "coupling between protons on adjacent carbon atoms."
       },
       "correct_answer": "D",
@@ -4027,10 +4027,10 @@
       "question_number": 7,
       "question_text": "Compared to IR and NMR spectroscopy, UV spectroscopy is preferred for detecting:",
       "options": {
-        "A": "aldehydes and ketones.",
-        "B": "unconjugated alkenes.",
-        "C": "conjugated alkenes.",
-        "D": "aliphatic acids and amines."
+        "A": "aldehydes and ketones",
+        "B": "unconjugated alkenes",
+        "C": "conjugated alkenes",
+        "D": "aliphatic acids and amines"
       },
       "correct_answer": "C",
       "explanation": "Most conjugated alkenes have an intense ultraviolet absorption. Aldehydes, ketones, acids, and amines, mentioned in (A) and (D), all absorb in the ultraviolet range. However, other forms of spectroscopy (mainly IR and NMR) are more useful for precise identification. Isolated alkenes, (B), can rarely be identified by UV spectroscopy.",
@@ -4077,8 +4077,8 @@
       "question_number": 9,
       "question_text": "Before absorbing an ultraviolet photon, electrons can be found in:",
       "options": {
-        "A": "the HOMO only.",
-        "B": "the LUMO only.",
+        "A": "the HOMO only",
+        "B": "the LUMO only",
         "C": "both the HOMO and the LUMO.",
         "D": "neither the HOMO nor the LUMO."
       },
@@ -4105,7 +4105,7 @@
         "A": "The absorbance band will occur at a lower wavenumber.",
         "B": "The absorbance band will occur at a higher wavenumber.",
         "C": "The absorbance band will occur at the same wavenumber.",
-        "D": "The absorbance band will disappear."
+        "D": "The absorbance band will disappear"
       },
       "correct_answer": "A",
       "explanation": "Carbonyl groups (C=O) in conjugation with double bonds tend to absorb at lower wavenumbers because the delocalization of \u03c0 electrons causes the C=O bond to lose double-bond character, shifting the stretching frequency closer to C\u2013O stretches. Remember that higher-order bonds tend to have higher absorption frequencies, so loss of double-bond character should decrease the absorption frequency of the group.",
@@ -4127,10 +4127,10 @@
       "question_number": 11,
       "question_text": "Wavenumber is directly proportional to:",
       "options": {
-        "A": "wavelength.",
-        "B": "frequency.",
-        "C": "percent transmittance.",
-        "D": "absorbance."
+        "A": "wavelength",
+        "B": "frequency",
+        "C": "percent transmittance",
+        "D": "absorbance"
       },
       "correct_answer": "B",
       "explanation": "Wavenumber is directly proportional to frequency It is inversely proportional to wavelength, (A), and has no proportionality to percent transmittance or absorbance, (C) and (D).",

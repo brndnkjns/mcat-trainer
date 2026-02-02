@@ -163,8 +163,8 @@
       "question_number": 7,
       "question_text": "Suppose an electron falls from n = 4 to its ground state, n = 1. Which of the following effects is most likely?",
       "options": {
-        "A": "A photon is absorbed.",
-        "B": "A photon is emitted.",
+        "A": "A photon is absorbed",
+        "B": "A photon is emitted",
         "C": "The electron moves into a p-orbital.",
         "D": "The electron moves into a d-orbital."
       },
@@ -539,10 +539,10 @@
       "question_number": 7,
       "question_text": "Metals are often used for making wires that conduct electricity. Which of the following properties of metals explains why?",
       "options": {
-        "A": "Metals are malleable.",
-        "B": "Metals have low electronegativities.",
+        "A": "Metals are malleable",
+        "B": "Metals have low electronegativities",
         "C": "Metals have valence electrons that can move freely.",
-        "D": "Metals have high melting points."
+        "D": "Metals have high melting points"
       },
       "correct_answer": "C",
       "explanation": "All four descriptions of metals are true, but the most significant property that contributes to the ability of metals to conduct electricity is the fact that they have valence electrons that can move freely. Malleability, (A), is the ability to shape a material with a hammer, which does not play a role in conducting electricity. The low electronegativity and high melting points of metals, (B) and (D), also do not play a major role in the conduction of electricity.",
@@ -565,7 +565,7 @@
       "question_text": "Which of the following is an important property of the group of elements shaded in the periodic table below?",
       "options": {
         "A": "These elements are the best electrical conductors in the periodic table.",
-        "B": "These elements form divalent cations.",
+        "B": "These elements form divalent cations",
         "C": "The second ionization energy for these elements is lower than the first ionization energy.",
         "D": "The atomic radii of these elements decrease as one moves down the column."
       },
@@ -943,7 +943,7 @@
         "A": "Hydrogen has a strong affinity for holding onto valence electrons.",
         "B": "Hydrogen can only hold two valence electrons.",
         "C": "Electronegative atoms disproportionately carry shared electron pairs when bonded to hydrogen.",
-        "D": "Hydrogen bonds have ionic character."
+        "D": "Hydrogen bonds have ionic character"
       },
       "correct_answer": "C",
       "explanation": "Electronegative atoms bonded to hydrogen disproportionately pull covalently bonded electrons toward themselves, which leaves hydrogen with a partial positive character. That partial positive charge is attracted to nearby negative or partial negative charges, such as those on other electronegative atoms.",
@@ -1542,10 +1542,10 @@
       "question_number": 2,
       "question_text": "In a certain equilibrium process, the activation energy of the forward reaction (\u0394G\u01c2f) is greater than the activation energy of the reverse reaction (\u0394G\u01c2r). This reaction is:",
       "options": {
-        "A": "endothermic.",
-        "B": "exothermic.",
-        "C": "spontaneous.",
-        "D": "nonspontaneous."
+        "A": "endothermic",
+        "B": "exothermic",
+        "C": "spontaneous",
+        "D": "nonspontaneous"
       },
       "correct_answer": "D",
       "explanation": "Before you try to answer this question, you should draw a free energy diagram for the system. If the activation energy of the forward reaction is greater than the activation energy of the reverse reaction, then the products must have a higher free energy than the reactants. The overall energy of the system is higher at the end than it was in the beginning. The net free energy change is positive, indicating an endergonic (nonspontaneous) reaction. The terms endothermic, (A), and exothermic, (B), are associated with enthalpy. While free energy does depend on enthalpy, it also depends on entropy; there is not enough information in the question stem to reliably determine the sign of the entropy change of the reaction.",
@@ -1567,7 +1567,7 @@
       "question_number": 3,
       "question_text": "A reactant in a second-order reaction at a certain temperature is increased by a factor of 4. By how much is the rate of the reaction altered?",
       "options": {
-        "A": "It is unchanged.",
+        "A": "It is unchanged",
         "B": "It is increased by a factor of 4.",
         "C": "It is increased by a factor of 16.",
         "D": "It cannot be determined from the information given."
@@ -1592,7 +1592,7 @@
       "question_number": 4,
       "question_text": "The concentrations of all reactants in a zero-order reaction are increased two-fold. What is the new rate of the reaction?",
       "options": {
-        "A": "It is unchanged.",
+        "A": "It is unchanged",
         "B": "It is decreased by a factor of 2.",
         "C": "It is increased by a factor of 2.",
         "D": "It cannot be determined from the information given."
@@ -1818,10 +1818,10 @@
       "question_number": 13,
       "question_text": "Point C in this reaction profile refers to the:",
       "options": {
-        "A": "reactants.",
-        "B": "products.",
-        "C": "transition state.",
-        "D": "intermediates."
+        "A": "reactants",
+        "B": "products",
+        "C": "transition state",
+        "D": "intermediates"
       },
       "correct_answer": "D",
       "explanation": "Intermediates exist at \u201cvalleys\u201d in reaction diagrams. Reactants, (A), are represented by point A. Products, (B), are represented by point E. Transition states, (C), are represented by points B and D.",
@@ -1998,7 +1998,7 @@
         "A": "the equilibrium mixture will favor products over reactants.",
         "B": "the equilibrium mixture will favor reactants over products.",
         "C": "the equilibrium concentrations of reactants and products are equal.",
-        "D": "the reaction is essentially irreversible."
+        "D": "the reaction is essentially irreversible"
       },
       "correct_answer": "A",
       "explanation": "The larger the value of Keq (whether Kc or Kp), the larger the ratio of products to reactants. Therefore, if Kc \u226b 1, there are significantly larger concentrations of products than reactants at equilibrium. Even with a large Keq, the reaction will ultimately reach equilibrium far toward the products side and is therefore reversible, eliminating (D).",
@@ -2095,8 +2095,8 @@
       "question_number": 9,
       "question_text": "Which of the following actions does NOT affect the equilibrium position of a reaction?",
       "options": {
-        "A": "Adding or removing heat.",
-        "B": "Adding or removing a catalyst.",
+        "A": "Adding or removing heat",
+        "B": "Adding or removing a catalyst",
         "C": "Increasing or decreasing concentrations of reactants.",
         "D": "Increasing or decreasing volumes of reactants."
       },
@@ -2245,10 +2245,10 @@
       "question_number": 15,
       "question_text": "Which of the following statements best describes the effect of lowering the temperature of the following reaction?  A + B \u21cc C + D \u0394 H = \u2212 1.12 kJ mol",
       "options": {
-        "A": "[C] and [D] would increase.",
-        "B": "[A] and [B] would increase.",
-        "C": "\u0394H would increase.",
-        "D": "\u0394H would decrease."
+        "A": "[C] and [D] would increase",
+        "B": "[A] and [B] would increase",
+        "C": "\u0394H would increase",
+        "D": "\u0394H would decrease"
       },
       "correct_answer": "A",
       "explanation": "A negative \u0394H value indicates an exothermic reaction, meaning that the forward reaction produces heat. Visualize this as follows: A + B \u21cc C + D + heat This means that removing heat by decreasing the temperature is similar to removing any other product of the reaction. To compensate for this loss, the reaction will shift to the right, causing an increase in the concentrations of C and D, as well as a decrease in the concentrations of A and B.",
@@ -2270,10 +2270,10 @@
       "question_number": 1,
       "question_text": "Consider the cooling of an ideal gas in a closed system. This process is illustrated in the pressure\u2013volume graph shown in the following figure.   Based on this information, the process may be:",
       "options": {
-        "A": "adiabatic.",
-        "B": "isobaric.",
-        "C": "isothermal.",
-        "D": "isochoric."
+        "A": "adiabatic",
+        "B": "isobaric",
+        "C": "isothermal",
+        "D": "isochoric"
       },
       "correct_answer": "A",
       "explanation": "This process may be adiabatic. Given that the gas was cooled, it did not maintain constant temperature, eliminating (C). Isobaric and isovolumetric processes appear as horizontal and vertical lines in pressure\u2013volume graphs, respectively, eliminating (B) and (D). Adiabatic processes appear hyperbolic on pressure\u2013volume graphs, as illustrated here.",
@@ -2446,9 +2446,9 @@
       "question_number": 8,
       "question_text": "Consider the chemical reaction in the vessel depicted in the following diagram.",
       "options": {
-        "A": "The reaction is spontaneous.",
-        "B": "The reaction is nonspontaneous.",
-        "C": "The reaction is at equilibrium.",
+        "A": "The reaction is spontaneous",
+        "B": "The reaction is nonspontaneous",
+        "C": "The reaction is at equilibrium",
         "D": "There is not enough information to determine if the reaction is spontaneous."
       },
       "correct_answer": "D",
@@ -2623,10 +2623,10 @@
       "question_number": 15,
       "question_text": "Explosions are necessarily characterized by:",
       "options": {
-        "A": "\u0394G < 0.",
-        "B": "\u0394H > 0.",
-        "C": "\u0394S < 0.",
-        "D": "T < 0."
+        "A": "\u0394G < 0",
+        "B": "\u0394H > 0",
+        "C": "\u0394S < 0",
+        "D": "T < 0"
       },
       "correct_answer": "A",
       "explanation": "In an explosion, a significant amount of heat energy is released, meaning that the reaction is exothermic (\u0394H < 0), eliminating (B). The entropy change associated with an explosion is positive because energy is dispersed over a much larger area, eliminating (C). If this is true, the expression \u0394H \u2013 T\u0394S must be negative, indicating that this is an exergonic process (\u0394G < 0). Absolute temperature can never be negative, eliminating (D).",
@@ -3500,7 +3500,7 @@
       "question_number": 5,
       "question_text": "The function of a buffer is to:",
       "options": {
-        "A": "maintain a neutral pH.",
+        "A": "maintain a neutral pH",
         "B": "resist changes in pH when small amounts of acid or base are added.",
         "C": "slow down reactions between acids and bases.",
         "D": "speed up reactions between acids and bases."
@@ -3702,8 +3702,8 @@
       "options": {
         "A": "Amphoteric species can act as an acid or a base, depending on its environment.",
         "B": "Amphoteric species can act as an oxidizing or reducing agent, depending on its environment.",
-        "C": "Amphoteric species are sometimes amphiprotic.",
-        "D": "Amphoteric species are always nonpolar."
+        "C": "Amphoteric species are sometimes amphiprotic",
+        "D": "Amphoteric species are always nonpolar"
       },
       "correct_answer": "D",
       "explanation": "An amphoteric species is one that can act either as an acid or a base, depending on its environment. Proton transfers are classic oxidation\u2013reduction reactions, so (A) and (B) are true. (C) is true because many amphoteric species, such as water and bicarbonate, can either donate or accept a proton. (D) is false, and thus the correct answer because amphoteric species can be either polar or nonpolar in nature.",
@@ -3975,10 +3975,10 @@
       "question_number": 9,
       "question_text": "As methanol is converted to methanal, and then methanoic acid, the oxidation number of the carbon:",
       "options": {
-        "A": "increases.",
-        "B": "decreases.",
-        "C": "increases, then decreases.",
-        "D": "decreases, then increases."
+        "A": "increases",
+        "B": "decreases",
+        "C": "increases, then decreases",
+        "D": "decreases, then increases"
       },
       "correct_answer": "A",
       "explanation": "The formula for methanol is H3COH, for methanal is HCHO, and for methanoic acid is HCOOH. If we assign oxidation numbers to carbon in each molecule, it starts at \u20132, then becomes 0, then becomes +2: In general, it is often easier to think of oxidation as a gain of bonds to oxygen (or a similarly electronegative element) or loss of bonds to hydrogen for organic compounds. Therefore, because the carbon is oxidized as one converts from an alcohol to an aldehyde to a carboxylic acid, the oxidation number must increase.",
@@ -4075,10 +4075,10 @@
       "question_number": 13,
       "question_text": "Potentiometry in an oxidation\u2013reduction titration is analogous to performing an acid\u2013base titration with a(n):",
       "options": {
-        "A": "acidic indicator.",
-        "B": "basic indicator.",
-        "C": "pH meter.",
-        "D": "oxidizing agent."
+        "A": "acidic indicator",
+        "B": "basic indicator",
+        "C": "pH meter",
+        "D": "oxidizing agent"
       },
       "correct_answer": "C",
       "explanation": "Potentiometry refers to carrying out an oxidation\u2013reduction titration with a voltmeter present to get precise readings of the reaction\u2019s electromotive force (emf) to determine the endpoint. This is analogous to using a pH meter in an acid\u2013base titration because it uses technology to get precise readings for plotting a titration curve. Indicators, as in (A) and (B), can be used in both acid\u2013base and redox titrations, but provide a qualitative (rather than quantitative) analysis of the titration. Oxidizing and reducing agents are used in redox titrations, not acid\u2013base titrations, eliminating (D).",
@@ -4400,7 +4400,7 @@
       "question_number": 11,
       "question_text": "Which of the following choices is indicative of a spontaneous reaction, assuming standard conditions?",
       "options": {
-        "A": "E\u00b0cell is negative.",
+        "A": "E\u00b0cell is negative",
         "B": "Q = Keq",
         "C": "The cell is a concentration cell.",
         "D": "Keq > 1"
@@ -4425,10 +4425,10 @@
       "question_number": 12,
       "question_text": "For a cell with the following half-reactions:  Anode: SO2 + 2 H2O \u2192 SO42\u2212 + 4 H+ + 2 e\u2212  Cathode: Pd2+ + 2 e\u2212 \u2192 Pd  How would decreasing the pH of the solution inside the cell affect the electromotive force (emf)?",
       "options": {
-        "A": "The emf would decrease.",
+        "A": "The emf would decrease",
         "B": "The emf would remain the same.",
-        "C": "The emf would increase.",
-        "D": "The emf would become zero."
+        "C": "The emf would increase",
+        "D": "The emf would become zero"
       },
       "correct_answer": "A",
       "explanation": "A change in pH has a direct correlation to the hydrogen ion (H+) concentration. Decreasing the pH increases the H+ concentration, which means the concentration of products has increased in the oxidation of sulfur dioxide. This means it would be harder to liberate electrons, thus decreasing the emf. One could also view this decrease in oxidation potential as an increase in reduction potential. If E\u00b0red,anode increases, then E\u00b0cell must decrease according to E\u00b0cell = E\u00b0red,cathode \u2212 E\u00b0red,anode.",

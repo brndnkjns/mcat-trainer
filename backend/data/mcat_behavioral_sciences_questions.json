@@ -88,10 +88,10 @@
       "question_number": 4,
       "question_text": "The temporal lobe deals with all of the following EXCEPT:",
       "options": {
-        "A": "language comprehension.",
-        "B": "memory.",
-        "C": "emotion.",
-        "D": "motor skills."
+        "A": "language comprehension",
+        "B": "memory",
+        "C": "emotion",
+        "D": "motor skills"
       },
       "correct_answer": "D",
       "explanation": "The temporal lobes have many functions, but motor skills are not associated with this area. The temporal lobes contain Wernicke\u2019s area, which is responsible for language comprehension, (A). The temporal lobes also function in memory and emotion, (B) and (C), because they contain the hippocampus and amygdala. Motor skills are associated with the frontal lobe (primary motor cortex), basal ganglia (smooth movements), and cerebellum (coordination).",
@@ -239,8 +239,8 @@
       "question_text": "The adrenal glands do all of the following EXCEPT:",
       "options": {
         "A": "promote the fight-or-flight response via estrogen.",
-        "B": "produce stress responses via cortisol.",
-        "C": "produce both hormones and neurotransmitters.",
+        "B": "produce stress responses via cortisol",
+        "C": "produce both hormones and neurotransmitters",
         "D": "release estrogen in males and testosterone in females."
       },
       "correct_answer": "A",
@@ -388,10 +388,10 @@
       "question_number": 1,
       "question_text": "A weight lifter is just able to tell the difference between 100 and 125 pounds. According to Weber\u2019s law, the lifter would notice a difference between:",
       "options": {
-        "A": "125 and 150 pounds.",
-        "B": "5 and 6 pounds.",
-        "C": "25 and 35 pounds.",
-        "D": "225 and 275 pounds."
+        "A": "125 and 150 pounds",
+        "B": "5 and 6 pounds",
+        "C": "25 and 35 pounds",
+        "D": "225 and 275 pounds"
       },
       "correct_answer": "C",
       "explanation": "Weber\u2019s law posits that thresholds are proportional. Going from 100 to 125 pounds is a 25 percent increase. (C) is a 40 percent increase while all the rest are all under 25 percent.",
@@ -413,10 +413,10 @@
       "question_number": 2,
       "question_text": "A person is at a party with a friend. There is loud music in the background and the location is crowded. While listening to the music, the person hears what seems like the friend\u2019s laughter and turns around to investigate. The person is exhibiting:",
       "options": {
-        "A": "feature detection.",
-        "B": "bottom-up processing.",
-        "C": "vestibular sense.",
-        "D": "signal detection."
+        "A": "feature detection",
+        "B": "bottom-up processing",
+        "C": "vestibular sense",
+        "D": "signal detection"
       },
       "correct_answer": "D",
       "explanation": "The person is discerning a specific noise within a field of many noises. This is the definition of signal detection. In an experimental setup, the person\u2019s response would be considered a hit if the friend was indeed laughing; it would be considered a false alarm if the friend was not laughing.",
@@ -438,10 +438,10 @@
       "question_number": 3,
       "question_text": "A person is at a restaurant and orders a spicy entr\u00e9e. After the first bite, the person experiences burning in the mouth and becomes concerned that the food is too hot. The next few bites are similarly uncomfortable, but after a while the spiciness seems to subside somewhat, and by the end of the meal, the person doesn\u2019t notice the spice level. The end of the meal experience is best described as:",
       "options": {
-        "A": "adaptation.",
-        "B": "signal detection.",
-        "C": "a difference threshold.",
-        "D": "pain perception."
+        "A": "adaptation",
+        "B": "signal detection",
+        "C": "a difference threshold",
+        "D": "pain perception"
       },
       "correct_answer": "A",
       "explanation": "The spicy food can be considered an extreme stimulus because it eclipses what the person believes can be handled in terms of heat. However, after experiencing the stimulus over and over, the experience of spice drops to barely perceptible. This is sensory adaptation: a reduction in response to a stimulus over time.",
@@ -513,10 +513,10 @@
       "question_number": 6,
       "question_text": "A person is looking for change to do laundry and decides to look under the seats of the household car. Even using a flashlight allows no more than an obscured look at the space below. There are various items such as wrappers and papers, but the person sees the glint of silver from an object laying flat and determines it to be a coin. To make this determination, this person used:",
       "options": {
-        "A": "signal detection.",
-        "B": "sensory adaptation.",
-        "C": "feature detection.",
-        "D": "kinesthetic sense."
+        "A": "signal detection",
+        "B": "sensory adaptation",
+        "C": "feature detection",
+        "D": "kinesthetic sense"
       },
       "correct_answer": "C",
       "explanation": "This person was able to distinguish the coin from other items by recognizing specific features of the coin; in this case, it was the glint of the metal surface and its position in the car. This phenomenon is called feature detection.",
@@ -563,10 +563,10 @@
       "question_number": 8,
       "question_text": "The ability to sense stimuli against one\u2019s own skin is known as:",
       "options": {
-        "A": "somatosensation.",
-        "B": "kinesthetic sense.",
-        "C": "vestibular sense.",
-        "D": "chemoreception."
+        "A": "somatosensation",
+        "B": "kinesthetic sense",
+        "C": "vestibular sense",
+        "D": "chemoreception"
       },
       "correct_answer": "A",
       "explanation": "Somatosensation refers to the various modalities of touch: pressure, vibration, temperature, and pain. Kinesthetic sense, (B), refers to the ability to tell where one\u2019s body is in space. Vestibular sense, (C), refers to the detection of linear and rotational acceleration in the middle ear. Finally, chemoreception, (D), refers to sensing chemicals in the environment.",
@@ -638,10 +638,10 @@
       "question_number": 11,
       "question_text": "Chemicals that compel behavior after binding with chemoreceptors are known as:",
       "options": {
-        "A": "pheromones.",
-        "B": "olfactory receptors.",
-        "C": "somatostimuli.",
-        "D": "papillae."
+        "A": "pheromones",
+        "B": "olfactory receptors",
+        "C": "somatostimuli",
+        "D": "papillae"
       },
       "correct_answer": "A",
       "explanation": "Pheromones are the volatile chemicals given off by organisms that bind with olfactory chemoreceptors and influence behavior. It is debatable if pheromones serve a role in humans, but they are known to affect foraging and sexual behavior in some animals.",
@@ -663,10 +663,10 @@
       "question_number": 12,
       "question_text": "Prolonged vitamin B 12 deficiency can be associated with subacute combined degeneration of the spinal cord. Patients with this disease have difficulty walking because they lose the ability to feel where their feet are in space. This represents a loss of:",
       "options": {
-        "A": "vestibular sense.",
-        "B": "kinesthetic sense.",
-        "C": "parallel processing.",
-        "D": "feature detection."
+        "A": "vestibular sense",
+        "B": "kinesthetic sense",
+        "C": "parallel processing",
+        "D": "feature detection"
       },
       "correct_answer": "B",
       "explanation": "Kinesthetic sense, or proprioception, refers to the ability to tell where body parts are in three-dimensional space. The sensors for proprioception are found predominantly in the muscles and joints. Loss of vestibular sense, (A), would also cause difficulty walking, but this would be due to a sense of dizziness or vertigo, not an inability to feel one\u2019s feet.",
@@ -738,7 +738,7 @@
       "question_number": 15,
       "question_text": "A patient comes in with a tumor of the pituitary gland which has grown upward into the optic chiasm and caused a visual field defect. The most likely defect from compression of the optic chiasm is:",
       "options": {
-        "A": "complete blindness in one eye.",
+        "A": "complete blindness in one eye",
         "B": "loss of the upper visual fields in both eyes.",
         "C": "loss of the nasal visual fields in both eyes.",
         "D": "loss of the temporal visual fields in both eyes."
@@ -788,10 +788,10 @@
       "question_number": 2,
       "question_text": "Many pets will run toward the kitchen when they hear the sound of a can opener opening a can of pet food. The sound of the can opener is a(n):",
       "options": {
-        "A": "conditioned response.",
-        "B": "unconditioned response.",
-        "C": "conditioned stimulus.",
-        "D": "unconditioned stimulus."
+        "A": "conditioned response",
+        "B": "unconditioned response",
+        "C": "conditioned stimulus",
+        "D": "unconditioned stimulus"
       },
       "correct_answer": "C",
       "explanation": "The sound of a can opener would not normally produce a response on its own, making it a stimulus that must have been conditioned by association with food.",
@@ -813,10 +813,10 @@
       "question_number": 3,
       "question_text": "A person suffers from food poisoning after eating a spoiled orange and later finds that the smell of lemon and other citrus fruits causes a feeling of nausea. This is an example of:",
       "options": {
-        "A": "acquisition.",
-        "B": "generalization.",
-        "C": "discrimination.",
-        "D": "negative reinforcement."
+        "A": "acquisition",
+        "B": "generalization",
+        "C": "discrimination",
+        "D": "negative reinforcement"
       },
       "correct_answer": "B",
       "explanation": "Generalization is the process by which similar stimuli can produce the same conditioned response. Here, the response to the taste and smell of oranges has generalized to that of all citrus.",
@@ -863,10 +863,10 @@
       "question_number": 5,
       "question_text": "The presynaptic neuron becomes more efficient at releasing neurotransmitters while receptor density increases on the postsynaptic neuron. These changes are consistent with:",
       "options": {
-        "A": "long term potentiation.",
-        "B": "synaptic pruning.",
-        "C": "an increase in neuroplasticity.",
-        "D": "amnesia."
+        "A": "long term potentiation",
+        "B": "synaptic pruning",
+        "C": "an increase in neuroplasticity",
+        "D": "amnesia"
       },
       "correct_answer": "A",
       "explanation": "Long term potentiation is believed to be the neurophysiological basis of long-term memory, making (A) the correct answer. As synapses are reinforced, the neuroplasticity of the brain decreases, eliminating (C). Also, synaptic pruning, (B), refers to the removal of infrequently used synapses, which is not consistent with the description in the question stem.",
@@ -1513,10 +1513,10 @@
       "question_number": 1,
       "question_text": "A college student strives for excellent grades and hopes to graduate with a better GPA than an older sibling. This type of motivation is considered:",
       "options": {
-        "A": "extrinsic motivation.",
-        "B": "intrinsic motivation.",
-        "C": "a primary drive.",
-        "D": "a secondary drive."
+        "A": "extrinsic motivation",
+        "B": "intrinsic motivation",
+        "C": "a primary drive",
+        "D": "a secondary drive"
       },
       "correct_answer": "A",
       "explanation": "Due to the competitive nature of the motivation, this is considered extrinsic motivation. Extrinsic motivation is based on external conditions, including perceived reward or fear of punishment. In this case, the reward is beating the sibling. There is no suggestion of an uncomfortable internal state or tension, which is an aspect of drives, eliminating (C) and (D).",
@@ -1538,10 +1538,10 @@
       "question_number": 2,
       "question_text": "When practicing a recital song at home, a student sounds perfectly in pitch to family and friends. However, when performing at the recital in front of a large audience of peers, strangers, and coaches, the student\u2019s pitch and tone are off, resulting in a poor performance. This second performance is best explained by:",
       "options": {
-        "A": "drive reduction theory.",
-        "B": "instinct approach theory.",
-        "C": "Maslow\u2019s hierarchy of needs.",
-        "D": "the Yerkes\u2013Dodson law."
+        "A": "drive reduction theory",
+        "B": "instinct approach theory",
+        "C": "Maslow\u2019s hierarchy of needs",
+        "D": "the Yerkes\u2013Dodson law"
       },
       "correct_answer": "D",
       "explanation": "The Yerkes\u2013Dodson law states that there is an optimal level of arousal necessary to perform. If levels of arousal are too high, poor performance can result. In the case of this student performing at a recital, arousal level is very high as a result of nervousness and anxiety, resulting in a poor performance.",
@@ -1613,10 +1613,10 @@
       "question_number": 5,
       "question_text": "Experiencing emotion involves three components, which are:",
       "options": {
-        "A": "behavioral, reactionary, and cognitive.",
-        "B": "emotional, physical, and mental.",
-        "C": "physiological, cognitive, and behavioral.",
-        "D": "emotional, cognitive, and behavioral."
+        "A": "behavioral, reactionary, and cognitive",
+        "B": "emotional, physical, and mental",
+        "C": "physiological, cognitive, and behavioral",
+        "D": "emotional, cognitive, and behavioral"
       },
       "correct_answer": "C",
       "explanation": "The three components of emotion are the physiological (changes in the autonomic nervous system), cognitive (subjective interpretation of an emotion), and behavioral (facial expressions and body language) responses.",
@@ -1713,10 +1713,10 @@
       "question_number": 9,
       "question_text": "All of the following brain regions are primarily responsible for the experience of emotions EXCEPT the:",
       "options": {
-        "A": "amygdala.",
-        "B": "prefrontal cortex.",
-        "C": "basal ganglia.",
-        "D": "thalamus."
+        "A": "amygdala",
+        "B": "prefrontal cortex",
+        "C": "basal ganglia",
+        "D": "thalamus"
       },
       "correct_answer": "C",
       "explanation": "The amygdala, prefrontal cortex, and thalamus all play a role in the experience of emotions. The basal ganglia are involved in smooth movement and are not primarily responsible for the experience of emotions.",
@@ -1863,10 +1863,10 @@
       "question_number": 15,
       "question_text": "Each of the following responses to stress is considered maladaptive EXCEPT:",
       "options": {
-        "A": "drug use.",
-        "B": "social withdrawal.",
-        "C": "progressive muscle relaxation.",
-        "D": "avoiding the stressor."
+        "A": "drug use",
+        "B": "social withdrawal",
+        "C": "progressive muscle relaxation",
+        "D": "avoiding the stressor"
       },
       "correct_answer": "C",
       "explanation": "Progressive muscle relaxation is a relaxation technique demonstrated to help reduce stress in a manner that is beneficial to the body and psyche. The other methods described here, including avoidance of the stressor, (D), serve to increase stress or merely change the source of the stress.",
@@ -1888,10 +1888,10 @@
       "question_number": 1,
       "question_text": "Each of the following is considered a part of a person\u2019s self-concept EXCEPT:",
       "options": {
-        "A": "the past self.",
-        "B": "the ought self.",
-        "C": "the future self.",
-        "D": "self-schemata."
+        "A": "the past self",
+        "B": "the ought self",
+        "C": "the future self",
+        "D": "self-schemata"
       },
       "correct_answer": "B",
       "explanation": "Self-concept is defined as the sum of all of the ways in which we see ourselves, including who we are, as in (D), who we were in the past, (A), and who we may become in the future, (C). The ought self, while closely related to self-esteem, is our appraisal of how others see us and is not a part of our self-concept.",
@@ -1913,10 +1913,10 @@
       "question_number": 2,
       "question_text": "As a gender identity, androgyny is defined as:",
       "options": {
-        "A": "low femininity, low masculinity.",
-        "B": "high femininity, low masculinity.",
-        "C": "low femininity, high masculinity.",
-        "D": "high femininity, high masculinity."
+        "A": "low femininity, low masculinity",
+        "B": "high femininity, low masculinity",
+        "C": "low femininity, high masculinity",
+        "D": "high femininity, high masculinity"
       },
       "correct_answer": "D",
       "explanation": "Androgyny is defined as scoring highly on scales of both femininity and masculinity. Achieving a low score on both scales, (A), would be considered undifferentiated, while (B) and (C) would be described as feminine and masculine, respectively.",
@@ -2238,10 +2238,10 @@
       "question_number": 15,
       "question_text": "Having struggled for years through an economic recession, a young professional begins to buy lottery tickets every Friday. \u201cIf I won the lottery,\u201d the individual reasons, \u201cI\u2019d finally have the life I\u2019ve always wanted. All my stress would go away and I could live comfortably.\u201d These thoughts regarding winning the lottery are most representative of:",
       "options": {
-        "A": "a cardinal trait.",
-        "B": "fictional finalism.",
-        "C": "functional autonomy.",
-        "D": "unconditional positive regard."
+        "A": "a cardinal trait",
+        "B": "fictional finalism",
+        "C": "functional autonomy",
+        "D": "unconditional positive regard"
       },
       "correct_answer": "B",
       "explanation": "Fictional finalism is comprised of internal, idealistic beliefs about the future. The assumption that winning the lottery will solve all of life\u2019s problems is representative of this form of thinking. Cardinal traits, (A), are the traits around which individuals organize their entire life. Functional autonomy, (C), is when a behavior continues after the drive behind the behavior has ceased; for example, if this young professional continued purchasing lottery tickets after winning simply for enjoyment, then this behavior would have gained functional autonomy. Unconditional positive regard, (D), is used in some forms of humanistic therapy in which the therapist believes in the internal good of the client and does not judge the client negatively for any words or actions.",
@@ -2288,10 +2288,10 @@
       "question_number": 2,
       "question_text": "During an interview with a schizophrenic patient, a psychiatrist notices that the patient keeps repeating what the psychiatrist says. This phenomenon is known as:",
       "options": {
-        "A": "echolalia.",
-        "B": "echopraxia.",
-        "C": "loosening of associations.",
-        "D": "neologisms."
+        "A": "echolalia",
+        "B": "echopraxia",
+        "C": "loosening of associations",
+        "D": "neologisms"
       },
       "correct_answer": "A",
       "explanation": "Echolalia is an involuntary repetition of others\u2019 words and utterances and may be seen in schizophrenia. Echopraxia, (B), is imitation of others\u2019 actions. Loosening of associations, (C), is a type of disordered thought in which the patient moves between remotely related ideas. Neologisms, (D), are newly invented words.",
@@ -2313,10 +2313,10 @@
       "question_number": 3,
       "question_text": "A 42-year-old patient has always been extremely neat and tidy. This person works as a secretary and stays long after normal working hours to check the punctuation and spelling of letters prepared during the day. The patient was referred for counseling by a supervisor after repeatedly getting into fights with coworkers. \u201cThey don\u2019t take the job to heart,\u201d the patient says. \u201cThey just joke around all day.\u201d The most likely preliminary diagnosis for this patient is:",
       "options": {
-        "A": "obsessive\u2013compulsive personality disorder.",
-        "B": "antisocial personality disorder.",
-        "C": "narcissistic personality disorder.",
-        "D": "borderline personality disorder."
+        "A": "obsessive\u2013compulsive personality disorder",
+        "B": "antisocial personality disorder",
+        "C": "narcissistic personality disorder",
+        "D": "borderline personality disorder"
       },
       "correct_answer": "A",
       "explanation": "Focusing on details, loving routine, having a sense that there is only one right way to do things, and lack of humor suggests an obsessive\u2013compulsive personality disorder.",
@@ -2388,10 +2388,10 @@
       "question_number": 6,
       "question_text": "A young person of unknown age is brought by the Philadelphia police to the local emergency department for evaluation after being found wandering in a park. The patient carries no identification and is unable to provide a first or last name or any life details, except that the name Phoenix seems familiar. The police in Arizona are contacted and find a missing persons report matching the patient\u2019s description. Based on this information, the most likely diagnosis for this patient is:",
       "options": {
-        "A": "depersonalization/derealization disorder.",
-        "B": "dissociative identity disorder.",
-        "C": "somatic symptom disorder.",
-        "D": "dissociative amnesia with dissociative fugue."
+        "A": "depersonalization/derealization disorder",
+        "B": "dissociative identity disorder",
+        "C": "somatic symptom disorder",
+        "D": "dissociative amnesia with dissociative fugue"
       },
       "correct_answer": "D",
       "explanation": "Dissociative fugue is characterized by sudden travel or change in normal day-to-day activities and occurs in some cases of dissociative amnesia. Symptoms include an inability to recall one\u2019s past or confusion about one\u2019s identity. Thus, the described patient is most likely to be suffering dissociative amnesia accompanied by dissociative fugue.",
@@ -2563,10 +2563,10 @@
       "question_number": 13,
       "question_text": "A patient comes to the doctor with a two-week history of complete paralysis of the left arm. The patient has had no injury to the extremity, and full neurological workup fails to demonstrate any underlying cause. The patient seems surprisingly unconcerned about the paralysis, and seems more worried about an argument that happened one month ago in which the patient hit a family member. Based on this information, the patient\u2019s most likely diagnosis is:",
       "options": {
-        "A": "conversion disorder.",
-        "B": "generalized anxiety disorder.",
-        "C": "illness anxiety disorder.",
-        "D": "histrionic personality disorder."
+        "A": "conversion disorder",
+        "B": "generalized anxiety disorder",
+        "C": "illness anxiety disorder",
+        "D": "histrionic personality disorder"
       },
       "correct_answer": "A",
       "explanation": "Conversion disorder is marked by a motor or sensory symptom in the absence of an underlying physical or neurological cause. It is associated with an inciting event that, in this case, may have been the argument with the family member. The patient\u2019s lack of concern over the deficit is referred to as la belle indiff\u00e9rence.",
@@ -2714,7 +2714,7 @@
       "question_text": "During groupthink, members of the group do all of the following EXCEPT:",
       "options": {
         "A": "stereotype members outside of the group.",
-        "B": "withhold opposing views.",
+        "B": "withhold opposing views",
         "C": "ignore warnings against the ideas of the group.",
         "D": "create a sense of negativity against risk taking."
       },
@@ -2738,10 +2738,10 @@
       "question_number": 5,
       "question_text": "Adult prison systems may attempt to change the behavior of inmates through all of the following mechanisms of socialization EXCEPT:",
       "options": {
-        "A": "primary socialization.",
-        "B": "secondary socialization.",
-        "C": "anticipatory socialization.",
-        "D": "resocialization."
+        "A": "primary socialization",
+        "B": "secondary socialization",
+        "C": "anticipatory socialization",
+        "D": "resocialization"
       },
       "correct_answer": "A",
       "explanation": "Primary socialization is the teaching of acceptable actions and attitudes during childhood, which would occur too early to be part of the adult prison system. Resocialization, (D), is the process by which one changes behaviors by discarding old routines and patterns and transitions to new behaviors necessary for a life change. The prison environment is designed to change unlawful behavior into desired behavior, making this an incorrect choice. When entering prison, an inmate must also undergo secondary socialization, (B), learning the rules of the specific social environment of the prison. Finally, if the inmate is not incarcerated for life, attempts at anticipatory socialization, (C), must be made before releasing the inmate in preparation for life outside of the prison.",
@@ -3038,10 +3038,10 @@
       "question_number": 2,
       "question_text": "Becoming a college graduate requires hard work and diligence in academics. As such, being a college graduate could be considered a(n):",
       "options": {
-        "A": "ascribed status.",
-        "B": "achieved status.",
-        "C": "master status.",
-        "D": "cardinal status."
+        "A": "ascribed status",
+        "B": "achieved status",
+        "C": "master status",
+        "D": "cardinal status"
       },
       "correct_answer": "B",
       "explanation": "An achieved status is one that is acquired through personal efforts. This is in contrast to an ascribed status, (A), in which the status is involuntarily given based on race, ethnicity, gender, family background, and so on. A master status, (C), is one that influences all aspects of an individual\u2019s life. While being a college graduate is an important aspect of day-to-day life, it does not usually pervade every part of one\u2019s life.",
@@ -3063,10 +3063,10 @@
       "question_number": 3,
       "question_text": "A bureaucracy is a specific example of a(n):",
       "options": {
-        "A": "immediate network.",
-        "B": "primary group.",
-        "C": "organization.",
-        "D": "reference group."
+        "A": "immediate network",
+        "B": "primary group",
+        "C": "organization",
+        "D": "reference group"
       },
       "correct_answer": "C",
       "explanation": "A bureaucracy is an example of an organization, specifically one with the goal of performing complex tasks as efficiently as possible. Immediate networks and primary groups, (A) and (B), are characterized by strong, intimate bonds, which are not commonly seen in bureaucracies. Reference groups, (D), are those groups to which we compare ourselves for various characteristics.",
@@ -3213,10 +3213,10 @@
       "question_number": 9,
       "question_text": "In some cultures, it is considered taboo for one to show too much sadness at a funeral. In other cultures, wailing and crying loudly is expected. These cultures differ in their:",
       "options": {
-        "A": "characteristic institutions.",
-        "B": "display rules.",
-        "C": "authentic selves.",
-        "D": "peer groups."
+        "A": "characteristic institutions",
+        "B": "display rules",
+        "C": "authentic selves",
+        "D": "peer groups"
       },
       "correct_answer": "B",
       "explanation": "Display rules are those that dictate cultural expectations of emotion. In some cultures, sadness is considered personal and internal; in others, sadness is shared externally with the community.",
@@ -3265,8 +3265,8 @@
       "options": {
         "A": "bringing the front stage self to the back stage.",
         "B": "bringing the back stage self to the front stage.",
-        "C": "removing the front stage self.",
-        "D": "removing the back stage self."
+        "C": "removing the front stage self",
+        "D": "removing the back stage self"
       },
       "correct_answer": "B",
       "explanation": "If a candidate is \u201cexposed,\u201d then personal characteristics that are usually shielded from public view have been brought in front of the public. This would be pulling aspects of the back stage self to the front stage. It would not be considered removing the front stage self, (C), because the candidate still has a public image, even if it has been tarnished.",
@@ -3713,10 +3713,10 @@
       "question_number": 14,
       "question_text": "The behavior that accompanies the negative attitudes a person has toward a group or individual is referred to as:",
       "options": {
-        "A": "stereotyping.",
-        "B": "cultural relativism.",
-        "C": "prejudice.",
-        "D": "discrimination."
+        "A": "stereotyping",
+        "B": "cultural relativism",
+        "C": "prejudice",
+        "D": "discrimination"
       },
       "correct_answer": "D",
       "explanation": "Discrimination is when prejudicial attitudes cause individuals of a particular group to be treated differently than others. While prejudice is an attitude, discrimination is a behavior.",
@@ -3738,10 +3738,10 @@
       "question_number": 15,
       "question_text": "Game theory is designed to study:",
       "options": {
-        "A": "reliance on central traits.",
-        "B": "behavior attribution.",
-        "C": "decision-making behavior.",
-        "D": "self-enhancement."
+        "A": "reliance on central traits",
+        "B": "behavior attribution",
+        "C": "decision-making behavior",
+        "D": "self-enhancement"
       },
       "correct_answer": "C",
       "explanation": "Game theory was originally designed to study decision-making behavior in economics and mathematics; it has since been used to describe decision making in politics, biology, philosophy, and other fields.",
@@ -3863,10 +3863,10 @@
       "question_number": 5,
       "question_text": "A patient who resides in the United States says, \u201cI love you,\u201d and hugs the doctor after every routine visit. This behavior violates:",
       "options": {
-        "A": "personal beliefs.",
-        "B": "patient autonomy.",
-        "C": "social values.",
-        "D": "social norms."
+        "A": "personal beliefs",
+        "B": "patient autonomy",
+        "C": "social values",
+        "D": "social norms"
       },
       "correct_answer": "D",
       "explanation": "In the United States, it is not a common practice to say, \u201cI love you,\u201d and hug one\u2019s physician after each routine checkup; therefore, this behavior could be considered deviant, going against the social norm. Values, (C), are what an individual deems to be important.",
@@ -3913,10 +3913,10 @@
       "question_number": 7,
       "question_text": "Because there are more than 500 American Indian tribes, there are several different healing practices among them. Some tribes may have ceremonies that include chanting, singing, body painting, dancing, and even use of mind-altering substances to persuade the spirits to heal the sick person. These ceremonies are examples of:",
       "options": {
-        "A": "latent functions.",
-        "B": "rituals.",
-        "C": "cultural barriers.",
-        "D": "social movements."
+        "A": "latent functions",
+        "B": "rituals",
+        "C": "cultural barriers",
+        "D": "social movements"
       },
       "correct_answer": "B",
       "explanation": "Rituals are formalized ceremonial behaviors in which members of a group or community regularly engage. Therefore, these activities are examples of rituals performed for healing.",
@@ -3938,10 +3938,10 @@
       "question_number": 8,
       "question_text": "Over the last few decades, the United States population has become:",
       "options": {
-        "A": "bigger, older, and more diverse.",
-        "B": "bigger, younger, and more diverse.",
-        "C": "smaller, older, and less diverse.",
-        "D": "smaller, older, and more diverse."
+        "A": "bigger, older, and more diverse",
+        "B": "bigger, younger, and more diverse",
+        "C": "smaller, older, and less diverse",
+        "D": "smaller, older, and more diverse"
       },
       "correct_answer": "A",
       "explanation": "With a decrease in mortality rate and a higher immigration rate than emigration rate, the United States population continues to grow, with an increasing average age and increasing racial and ethnic diversity.",
@@ -4113,10 +4113,10 @@
       "question_number": 15,
       "question_text": "Urbanization can cause all of the following negative effects EXCEPT:",
       "options": {
-        "A": "decreased opportunity for social interaction.",
-        "B": "increased transmission of infectious disease.",
-        "C": "decreased air quality and sanitation.",
-        "D": "increased rates of violent crime."
+        "A": "decreased opportunity for social interaction",
+        "B": "increased transmission of infectious disease",
+        "C": "decreased air quality and sanitation",
+        "D": "increased rates of violent crime"
       },
       "correct_answer": "A",
       "explanation": "Urbanization is the migration of people into urban centers to create cities. The increased population density should provide additional opportunities for social interaction, not decreased opportunities.",
@@ -4288,10 +4288,10 @@
       "question_number": 7,
       "question_text": "A low-income single parent works a part-time job and lives in a small apartment in the city. When the single parent\u2019s children grow up, they take similar jobs and live in similar housing. This is an example of:",
       "options": {
-        "A": "upward social mobility.",
-        "B": "downward social mobility.",
-        "C": "social exclusion.",
-        "D": "social reproduction."
+        "A": "upward social mobility",
+        "B": "downward social mobility",
+        "C": "social exclusion",
+        "D": "social reproduction"
       },
       "correct_answer": "D",
       "explanation": "In this scenario, the children remain in the same socioeconomic class as their parent, indicating a lack of social mobility, (A) and (B). Rather, this is an example of social reproduction, in which social inequality, especially poverty, is passed from one generation to the next.",
@@ -4339,8 +4339,8 @@
       "question_text": "In comparison to urban centers, suburbs tend to have:",
       "options": {
         "A": "larger racially and ethnically underrepresented populations.",
-        "B": "higher rates of poverty.",
-        "C": "larger upper- and middle-class populations.",
+        "B": "higher rates of poverty",
+        "C": "larger upper- and middle-class populations",
         "D": "higher rates of crime and homicide."
       },
       "correct_answer": "C",
@@ -4438,10 +4438,10 @@
       "question_number": 13,
       "question_text": "Morbidity is increased in low-income groups because of all of the following EXCEPT:",
       "options": {
-        "A": "higher rates of obesity.",
-        "B": "less access to healthcare.",
-        "C": "higher rates of homicide.",
-        "D": "lower rates of physical activity."
+        "A": "higher rates of obesity",
+        "B": "less access to healthcare",
+        "C": "higher rates of homicide",
+        "D": "lower rates of physical activity"
       },
       "correct_answer": "C",
       "explanation": "Morbidity refers to the burden or severity of disease. All of the factors listed are true with regard to low-socioeconomic status populations; however, high homicide rates cause increases in mortality, not morbidity.",
@@ -4463,8 +4463,8 @@
       "question_number": 14,
       "question_text": "Hypertension (high blood pressure) can be diagnosed by having two or more blood pressure readings higher than 140/90 on two different occasions, separated by a week. Suppose that the criteria were changed to include anyone with a reading higher than 130/80 on at least one occasion. How would this change the prevalence of diagnosed hypertension in the population?",
       "options": {
-        "A": "The prevalence would increase.",
-        "B": "The prevalence would decrease.",
+        "A": "The prevalence would increase",
+        "B": "The prevalence would decrease",
         "C": "The prevalence would remain the same.",
         "D": "There is not enough information to determine the change in prevalence."
       },

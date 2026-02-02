@@ -90,7 +90,7 @@
       "options": {
         "A": "The tension is greater than 9800 N.",
         "B": "The tension is less than 9800 N.",
-        "C": "The tension equals 9800 N.",
+        "C": "The tension equals 9800 N",
         "D": "It cannot be determined from the information given."
       },
       "correct_answer": "A",
@@ -565,9 +565,9 @@
       "question_number": 8,
       "question_text": "During uniform circular motion, which of the following relationships is necessarily true?",
       "options": {
-        "A": "No work is done.",
-        "B": "The centripetal force does work.",
-        "C": "The velocity does work.",
+        "A": "No work is done",
+        "B": "The centripetal force does work",
+        "C": "The velocity does work",
         "D": "Potential energy depends on position of the object around the circle."
       },
       "correct_answer": "A",
@@ -616,9 +616,9 @@
       "question_text": "A massless spring initially compressed by a displacement of two centimeters is now compressed by four centimeters. How has the potential energy of this system changed?",
       "options": {
         "A": "The potential energy has not changed.",
-        "B": "The potential energy has doubled.",
+        "B": "The potential energy has doubled",
         "C": "The potential energy has increased by two joules.",
-        "D": "The potential energy has quadrupled."
+        "D": "The potential energy has quadrupled"
       },
       "correct_answer": "D",
       "explanation": "Elastic potential energy, like kinetic energy, is related to the square of another variable, as shown by the equation U=12 kx2. Increasing the displacement by a factor of 2 increases the potential energy by a factor of 22 = 4.",
@@ -940,7 +940,7 @@
       "question_number": 8,
       "question_text": "The entropy of a system can:",
       "options": {
-        "A": "never decrease.",
+        "A": "never decrease",
         "B": "decrease when the entropy of the surroundings increases by at least as much.",
         "C": "decrease when the system is isolated and the process is irreversible.",
         "D": "decrease during an adiabatic reversible process."
@@ -1395,7 +1395,7 @@
       "options": {
         "A": "Ball A",
         "B": "Ball B",
-        "C": "The forces will be equal.",
+        "C": "The forces will be equal",
         "D": "It is impossible to know without knowing the exact volume of each ball."
       },
       "correct_answer": "A",
@@ -1419,7 +1419,7 @@
       "question_number": 12,
       "question_text": "Which of the following correctly describes blood flow through the circulatory system?",
       "options": {
-        "A": "The flow rate is constant.",
+        "A": "The flow rate is constant",
         "B": "Pressure created by the heart moves blood through venous circulation.",
         "C": "The volume of blood entering and exiting the heart in a single cycle is equal.",
         "D": "The resistance of an artery is greater than the resistance of an arteriole."
@@ -1519,10 +1519,10 @@
       "question_number": 1,
       "question_text": "In the figure, the magnitude of the electric force on R due to S is:",
       "options": {
-        "A": "F2.",
-        "B": "F.",
-        "C": "2F.",
-        "D": "4F."
+        "A": "F2",
+        "B": "F",
+        "C": "2F",
+        "D": "4F"
       },
       "correct_answer": "B",
       "explanation": "According to Newton\u2019s third law, if R exerts a force on S, then S exerts a force with equal magnitude but opposite direction back on R. Therefore, the magnitude of the force on R due to S is F.",
@@ -1545,10 +1545,10 @@
       "question_number": 2,
       "question_text": "If the distance between the centers of the spheres is halved, the magnitude of the force on S due to R will be:",
       "options": {
-        "A": "F2.",
-        "B": "F4.",
-        "C": "2F.",
-        "D": "4F."
+        "A": "F2",
+        "B": "F4",
+        "C": "2F",
+        "D": "4F"
       },
       "correct_answer": "D",
       "explanation": "The force is inversely proportional to r2. Cutting the distance in half will therefore multiply the force by 22, making it four times its original value: Fold\u221d1r2Fnew\u221d1(r2)2=4r2=4\u00d7Fold",
@@ -1570,8 +1570,8 @@
       "question_number": 3,
       "question_text": "Assume the direction of F is the same direction as the electric field between R and S . If an electron were placed midway between R and S , the resultant electric force on the electron would be:",
       "options": {
-        "A": "toward R.",
-        "B": "toward S.",
+        "A": "toward R",
+        "B": "toward S",
         "C": "upward in the plane of the page.",
         "D": "downward in the plane of the page."
       },
@@ -1724,8 +1724,8 @@
       "options": {
         "A": "only at the midpoint of the dipole axis.",
         "B": "anywhere on the perpendicular bisector of the dipole axis and at infinity.",
-        "C": "anywhere on the dipole axis.",
-        "D": "only for points at infinity."
+        "C": "anywhere on the dipole axis",
+        "D": "only for points at infinity"
       },
       "correct_answer": "B",
       "explanation": "Potential is a scalar quantity. The total potential is the sum of the potentials of the positive and negative charges: VT=V++V\u2212=+kqr++(\u2212kqr\u2212) where r+ and r\u2013 represent the distances from the positive and negative charge, respectively. The sum of these terms will be zero at any point where r+ = r\u2013. This will be at any point along the perpendicular bisector of the dipole axis, as well as at infinity.",
@@ -1747,10 +1747,10 @@
       "question_number": 10,
       "question_text": "An electron is accelerated over a distance d by an electric potential V . The electric potential applied to this electron is then increased by a factor of 4 and the electron is accelerated over the same distance d . The speed of the electron at the end of the second trial will be larger than at the end of the first trial by a factor of:",
       "options": {
-        "A": "16.",
-        "B": "8.",
-        "C": "4.",
-        "D": "2."
+        "A": "16",
+        "B": "8",
+        "C": "4",
+        "D": "2"
       },
       "correct_answer": "D",
       "explanation": "The electric potential (V) is equal to the amount of work done (W) divided by the test charge (q). This means that the potential is directly proportional to the amount of work done, which is equal to the amount of energy gained by the particle; therefore, the overall amount of energy increases by a factor of 4. Because energy is directly proportional to the square of the speed (according to 12mv2), the speed must increase by a factor of 2.",
@@ -2357,7 +2357,7 @@
       "question_number": 4,
       "question_text": "Ultrasound machines calculate distance based upon:",
       "options": {
-        "A": "intensity of the reflected sound.",
+        "A": "intensity of the reflected sound",
         "B": "travel time of the reflected sound.",
         "C": "angle of incidence of the sound.",
         "D": "the detected frequency of the sound."
@@ -2633,9 +2633,9 @@
       "question_text": "Ignoring attenuation, how does the intensity of a sound change as the distance from the source doubles?",
       "options": {
         "A": "It is four times as intense.",
-        "B": "It is twice as intense.",
-        "C": "It is half as intense.",
-        "D": "It is one-quarter as intense."
+        "B": "It is twice as intense",
+        "C": "It is half as intense",
+        "D": "It is one-quarter as intense"
       },
       "correct_answer": "D",
       "explanation": "Intensity is equal to power divided by area. In this case, area refers to the surface area of concentric spheres emanating out from the source of the sound. This surface area is given by 4\u03c0r2, so as distance (r) doubles, the intensity will decrease by a factor of four.",
@@ -2707,10 +2707,10 @@
       "question_number": 3,
       "question_text": "An object is placed at the center of curvature of a concave mirror. Which of the following is true about the image?",
       "options": {
-        "A": "It is real and inverted.",
-        "B": "It is virtual and inverted.",
-        "C": "It is real and upright.",
-        "D": "It is virtual and upright."
+        "A": "It is real and inverted",
+        "B": "It is virtual and inverted",
+        "C": "It is real and upright",
+        "D": "It is virtual and upright"
       },
       "correct_answer": "A",
       "explanation": "One could solve this question with a ray diagram, but be wary about using ray diagrams on Test Day. It is easy to make small mistakes that cause the light rays not to intersect. Therefore, solve the question using the sign convention. If the object is at the center of curvature, its distance is 2f. We can plug into the optics equation: 1f=1o+1i\u21921i=1f\u22121o=1f\u221212f=12f i=2f=r Because i is positive, the image is real. For single mirrors or lenses, all real images are inverted.",
@@ -2807,9 +2807,9 @@
       "question_number": 7,
       "question_text": "As part of an organic chemistry lab, a student must determine the specific rotation of a chiral product. The student uses a plane polarizer, but accidentally inserts a second polarizer at a 90\u00b0 angle to the first. What is true of the resulting light if it passes through both polarizers?",
       "options": {
-        "A": "It is circularly polarized.",
+        "A": "It is circularly polarized",
         "B": "It is twice as plane polarized.",
-        "C": "There is no light.",
+        "C": "There is no light",
         "D": "It is the same as when passed through a single polarizer."
       },
       "correct_answer": "C",
@@ -2883,8 +2883,8 @@
       "question_text": "A student is analyzing the behavior of a light ray that is passed through a small opening and a lens and allowed to project on a screen a distance away. What happens to the central maximum (the brightest spot on the screen) when the slit becomes narrower?",
       "options": {
         "A": "The central maximum remains the same.",
-        "B": "The central maximum becomes narrower.",
-        "C": "The central maximum becomes wider.",
+        "B": "The central maximum becomes narrower",
+        "C": "The central maximum becomes wider",
         "D": "The central maximum divides into smaller light fringes."
       },
       "correct_answer": "C",
@@ -4034,7 +4034,7 @@
       "question_number": 11,
       "question_text": "A researcher designing a study has paid for it to be professionally translated into several languages. The researcher discusses the potential risks and benefits with each participant and allows them to bring documentation home for review before committing to the study. This researcher has put special focus on:",
       "options": {
-        "A": "justice by explaining potential risks.",
+        "A": "justice by explaining potential risks",
         "B": "beneficence by describing the potential benefits of the study.",
         "C": "respect for persons by acknowledging the subject\u2019s perspective and rights.",
         "D": "selection bias, by making the recruitment documents inclusive."
@@ -4135,10 +4135,10 @@
       "question_number": 15,
       "question_text": "Use of a colorimetric assay to determine protein concentration may be subject to all of the following EXCEPT:",
       "options": {
-        "A": "the use of standards.",
-        "B": "measurement error.",
-        "C": "the Hawthorne effect.",
-        "D": "systematic error."
+        "A": "the use of standards",
+        "B": "measurement error",
+        "C": "the Hawthorne effect",
+        "D": "systematic error"
       },
       "correct_answer": "C",
       "explanation": "The Hawthorne effect\u2014a change in behavior as a result of the knowledge that one is being observed\u2014is only present with human subjects. Basic science research generally does not suffer from the Hawthorne effect.",
@@ -4386,10 +4386,10 @@
       "question_number": 10,
       "question_text": "As the confidence level increases, a confidence interval:",
       "options": {
-        "A": "becomes wider.",
-        "B": "becomes thinner.",
-        "C": "shifts to higher values.",
-        "D": "shifts to lower values."
+        "A": "becomes wider",
+        "B": "becomes thinner",
+        "C": "shifts to higher values",
+        "D": "shifts to lower values"
       },
       "correct_answer": "A",
       "explanation": "To increase the confidence level, one must increase the size of the confidence interval to make it more likely that the true value of the mean is within the range. Therefore, the confidence interval must become wider.",
@@ -4436,10 +4436,10 @@
       "question_number": 12,
       "question_text": "Are there any outliers on the following box plot?",
       "options": {
-        "A": "Yes; 1575 is an outlier.",
-        "B": "Yes; 2600 is an outlier.",
+        "A": "Yes; 1575 is an outlier",
+        "B": "Yes; 2600 is an outlier",
         "C": "Yes; both 1575 and 2600 are outliers.",
-        "D": "No; there are no outliers."
+        "D": "No; there are no outliers"
       },
       "correct_answer": "C",
       "explanation": "Outliers can be determined with respect to the interquartile range, Q3-Q1. The interquartile range for this box plot is 2280 - 2075, or 205. Values that are 1.5 times IQR below Q1 or above Q3 are considered outliers. 2075 - 1.5 times 205 is approximately 2075 - 300, or 1775 (actual = 1767.5). Therefore, 1575 is an outlier. 2280 + 1.5 times 205 is approximately 2580 (actual = 2587.5). Therefore, 2600 is also an outlier.",

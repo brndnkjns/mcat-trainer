@@ -14,10 +14,10 @@
       "question_number": 1,
       "question_text": "Hyperbaric oxygen may be used as a treatment for certain types of bacterial infections. In this therapy, the patient is placed in a chamber in which the partial pressure of oxygen is significantly increased, increasing the partial pressure of oxygen in the patient\u2019s tissues. This treatment is most likely used for infections with:",
       "options": {
-        "A": "obligate aerobic bacteria.",
-        "B": "facultative anaerobic bacteria.",
-        "C": "aerotolerant anaerobic bacteria.",
-        "D": "obligate anaerobic bacteria."
+        "A": "obligate aerobic bacteria",
+        "B": "facultative anaerobic bacteria",
+        "C": "aerotolerant anaerobic bacteria",
+        "D": "obligate anaerobic bacteria"
       },
       "correct_answer": "D",
       "explanation": "Obligate anaerobes cannot survive in the presence of oxygen and would likely be killed by such a therapy, treating the infection. The other types of bacteria listed can all survive in the presence of oxygen, so infections involving these bacteria would likely not be treated using this therapy.",
@@ -512,10 +512,10 @@
       "question_number": 6,
       "question_text": "Upon ovulation, the oocyte is released into the:",
       "options": {
-        "A": "fallopian tube.",
-        "B": "follicle.",
-        "C": "abdominal cavity.",
-        "D": "uterus."
+        "A": "fallopian tube",
+        "B": "follicle",
+        "C": "abdominal cavity",
+        "D": "uterus"
       },
       "correct_answer": "C",
       "explanation": "This subtle point about ovulation is missed by most students and remains hard to believe until the organs are examined in anatomy class in medical school. The ruptured ovarian follicle releases an oocyte into the abdominal cavity, close to the entrance of the fallopian tube. With the aid of beating cilia, the oocyte is drawn into the fallopian tube, through which it travels until it reaches the uterus. If it is fertilized in the fallopian tube, it will implant in the uterine wall. If fertilization does not occur, it will be expelled along with the uterine lining during menstruation.",
@@ -663,9 +663,9 @@
       "question_text": "Which of the following is true regarding prophase?",
       "options": {
         "A": "The chromosomes separate and move to opposite poles of the cell.",
-        "B": "The spindle apparatus disappears.",
-        "C": "The chromosomes uncoil.",
-        "D": "The nucleoli disappear."
+        "B": "The spindle apparatus disappears",
+        "C": "The chromosomes uncoil",
+        "D": "The nucleoli disappear"
       },
       "correct_answer": "D",
       "explanation": "In prophase, the chromatin condenses into chromosomes, the spindle apparatus forms, and the nucleoli and nuclear membrane disappear. (A) describes anaphase, whereas (B) and (C) describe telophase.",
@@ -837,10 +837,10 @@
       "question_number": 4,
       "question_text": "The influence of a specific group of cells on the differentiation of another group of cells is called:",
       "options": {
-        "A": "competence.",
-        "B": "senescence.",
-        "C": "determination.",
-        "D": "induction."
+        "A": "competence",
+        "B": "senescence",
+        "C": "determination",
+        "D": "induction"
       },
       "correct_answer": "D",
       "explanation": "The influence of a specific group of cells on the differentiation of another group of cells is termed induction. For example, the eyes are formed through reciprocal induction between the brain and the ectoderm. Competence refers to the ability of a cell to respond to a given inducer, but not the influence of the group of organizing cells, eliminating (A). Senescence is a term for biological aging, eliminating (B). Determination may be the result of induction, but this term does not refer to the general concept of the effect of one group of cells on the differentiation of another group of cells, eliminating (C).",
@@ -987,10 +987,10 @@
       "question_number": 10,
       "question_text": "A child is born with an imperforate anus, in which the anal canal fails to form correctly and the rectum is not connected to the outside world. This pathology is most likely accounted for by a failure of:",
       "options": {
-        "A": "cell differentiation.",
-        "B": "cell determination.",
-        "C": "apoptosis.",
-        "D": "neurulation."
+        "A": "cell differentiation",
+        "B": "cell determination",
+        "C": "apoptosis",
+        "D": "neurulation"
       },
       "correct_answer": "C",
       "explanation": "During development, programmed cell death occurs in multiple locations in order to ensure development of the correct adult structures. One of the places in which this occurs is between fingers and toes; another is the digestive tract, where a central lumen is formed. If apoptosis does not occur correctly in the digestive tract, an imperforate anus could result. Failure of determination or differentiation would likely result in the absence of anorectal structures altogether, eliminating (A) and (B). Failure of neurulation would lead to the absence of a nervous system and would not be compatible with life, eliminating (D).",
@@ -1012,10 +1012,10 @@
       "question_number": 11,
       "question_text": "Following a myocardial infarction, the heart often heals by the creation of a scar by fibroblasts. This is an example of:",
       "options": {
-        "A": "complete regeneration.",
-        "B": "incomplete regeneration.",
-        "C": "competency.",
-        "D": "multipotency."
+        "A": "complete regeneration",
+        "B": "incomplete regeneration",
+        "C": "competency",
+        "D": "multipotency"
       },
       "correct_answer": "B",
       "explanation": "After an injury, healing occurs by some sort of regenerative process. In humans, some tissues, such as the liver, are capable of regenerating tissue with much the same function and structure as the original tissue. However, the heart is not capable of this sort of regeneration, often forming a fibrous scar in an area of injury. This is an example of incomplete regeneration, in which newly formed tissues are not identical in structure or function to the tissues that have been injured or lost.",
@@ -1162,10 +1162,10 @@
       "question_number": 2,
       "question_text": "All of the following are associated with the myelin sheath EXCEPT:",
       "options": {
-        "A": "faster conduction of nerve impulses.",
+        "A": "faster conduction of nerve impulses",
         "B": "nodes of Ranvier forming gaps along the axon.",
         "C": "increased magnitude of the potential difference during an action potential.",
-        "D": "saltatory conduction of action potentials."
+        "D": "saltatory conduction of action potentials"
       },
       "correct_answer": "C",
       "explanation": "Myelin is a white lipid-containing material surrounding the axons of many neurons in the central and peripheral nervous systems. It is arranged on the axon discontinuously; the gaps between the segments of myelin are called nodes of Ranvier, eliminating (B). Myelin increases the conduction velocity by insulating segments of the axon so that the membrane is permeable to ions only at the nodes of Ranvier, eliminating (A). The action potential jumps from node to node, a process known as saltatory conduction, eliminating (D). Action potentials are often described as being \u201call-or-nothing\u201d; the magnitude of the potential difference of an action potential is fixed, regardless of the intensity of the stimulus. Thus, myelin does not affect the magnitude of the potential difference in an action potential, making (C) the correct answer.",
@@ -1262,7 +1262,7 @@
       "question_number": 6,
       "question_text": "When a sensory neuron receives a stimulus that brings it to threshold, it will do all of the following EXCEPT:",
       "options": {
-        "A": "become depolarized.",
+        "A": "become depolarized",
         "B": "transduce the stimulus to an action potential.",
         "C": "inhibit the spread of the action potential to other sensory neurons.",
         "D": "cause the release of neurotransmitters onto cells in the central nervous system."
@@ -1287,10 +1287,10 @@
       "question_number": 7,
       "question_text": "When the potential across the axon membrane is more negative than the normal resting potential, the neuron is said to be in a state of:",
       "options": {
-        "A": "depolarization.",
-        "B": "hyperpolarization.",
-        "C": "repolarization.",
-        "D": "polarization."
+        "A": "depolarization",
+        "B": "hyperpolarization",
+        "C": "repolarization",
+        "D": "polarization"
       },
       "correct_answer": "B",
       "explanation": "When the potential across the axon membrane is more negative than the normal resting potential, the neuron is referred to as hyperpolarized. Hyperpolarization occurs right after an action potential and is caused by excess potassium exiting the neuron.",
@@ -1312,8 +1312,8 @@
       "question_number": 8,
       "question_text": "Which of the following statements concerning the somatic division of the peripheral nervous system is INCORRECT?",
       "options": {
-        "A": "Its pathways innervate skeletal muscle.",
-        "B": "Its pathways are usually voluntary.",
+        "A": "Its pathways innervate skeletal muscle",
+        "B": "Its pathways are usually voluntary",
         "C": "Some of its pathways are referred to as reflex arcs.",
         "D": "Its pathways always involve more than two neurons."
       },
@@ -1437,10 +1437,10 @@
       "question_number": 13,
       "question_text": "A neuron only fires an action potential if multiple presynaptic cells release neurotransmitters onto the dendrites of the neuron. This is an example of:",
       "options": {
-        "A": "saltatory conduction.",
-        "B": "summation.",
-        "C": "a feedback loop.",
-        "D": "inhibitory transmission."
+        "A": "saltatory conduction",
+        "B": "summation",
+        "C": "a feedback loop",
+        "D": "inhibitory transmission"
       },
       "correct_answer": "B",
       "explanation": "Some neurons require multiple instances of excitatory transmission to be brought to threshold. These excitatory signals may be close to each other in time (temporal) or in space (spatial); either way, this pattern of excitation is termed summation.",
@@ -1612,10 +1612,10 @@
       "question_number": 5,
       "question_text": "Iodine deficiency may result in:",
       "options": {
-        "A": "galactorrhea.",
-        "B": "cretinism.",
-        "C": "gigantism.",
-        "D": "hyperthyroidism."
+        "A": "galactorrhea",
+        "B": "cretinism",
+        "C": "gigantism",
+        "D": "hyperthyroidism"
       },
       "correct_answer": "B",
       "explanation": "Inflammation of the thyroid or iodine deficiency can cause hypothyroidism, in which the thyroid hormones are undersecreted or not secreted at all. Hypothyroidism in newborn infants causes cretinism, which is characterized by poor neurological and physical development (including intellectual disabilities, short stature, and coarse facial features). While iodine deficiency can result in a swelling of the thyroid gland (called a goiter), which can also be seen in causes of hyperthyroidism, iodine deficiency does not cause hyperthyroidism, eliminating (D). Galactorrhea, (A), is associated with prolactin; gigantism, (C), is associated with growth hormone.",
@@ -1688,7 +1688,7 @@
       "question_text": "Which of the following is true regarding pancreatic somatostatin?",
       "options": {
         "A": "Its secretion is increased by low blood glucose.",
-        "B": "It is always inhibitory.",
+        "B": "It is always inhibitory",
         "C": "It is regulated by cortisol levels.",
         "D": "It stimulates insulin and glucagon secretion."
       },
@@ -1887,10 +1887,10 @@
       "question_number": 1,
       "question_text": "All of the following facilitate gas exchange in the lungs EXCEPT:",
       "options": {
-        "A": "thin alveolar walls.",
+        "A": "thin alveolar walls",
         "B": "multiple subdivisions of the respiratory tree.",
         "C": "differences in the partial pressures of O2and CO2.",
-        "D": "active transporters in alveolar cells."
+        "D": "active transporters in alveolar cells"
       },
       "correct_answer": "D",
       "explanation": "Gas exchange in the lungs relies on passive diffusion of oxygen and carbon dioxide. This is accomplished easily because there is always a difference in the partial pressures of these two gases and because the subdivision of the respiratory tree creates a large surface area of interaction between the alveoli and the circulatory system. In addition, the thin alveolar walls allow for fast diffusion and gas exchange. Therefore, (A), (B), and (C) can be eliminated. (D) is the correct answer because active transport is not used in the gas exchange process in the lungs.",
@@ -1937,10 +1937,10 @@
       "question_number": 3,
       "question_text": "Total lung capacity is equal to the vital capacity plus the:",
       "options": {
-        "A": "tidal volume.",
-        "B": "expiratory reserve volume.",
-        "C": "residual volume.",
-        "D": "inspiratory reserve volume."
+        "A": "tidal volume",
+        "B": "expiratory reserve volume",
+        "C": "residual volume",
+        "D": "inspiratory reserve volume"
       },
       "correct_answer": "C",
       "explanation": "Total lung capacity is equal to the vital capacity (the maximum volume of air that can be forcibly inhaled and exhaled from the lungs) plus the residual volume (the air that always remains in the lungs, preventing the alveoli from collapsing).",
@@ -2187,9 +2187,9 @@
       "question_number": 13,
       "question_text": "Premature infants with respiratory distress are often placed on ventilators. Often, the ventilators are set to provide positive end-expiratory pressure. Why might this setting be useful for a premature infant?",
       "options": {
-        "A": "Premature infants lack surfactant.",
-        "B": "Premature infants lack lysozyme.",
-        "C": "Premature infants cannot thermoregulate.",
+        "A": "Premature infants lack surfactant",
+        "B": "Premature infants lack lysozyme",
+        "C": "Premature infants cannot thermoregulate",
         "D": "Premature infants are unable to control pH."
       },
       "correct_answer": "A",
@@ -2262,8 +2262,8 @@
       "question_number": 1,
       "question_text": "Which of the following is a FALSE statement regarding erythrocytes?",
       "options": {
-        "A": "Erythrocytes contain hemoglobin.",
-        "B": "Erythrocytes are anaerobic.",
+        "A": "Erythrocytes contain hemoglobin",
+        "B": "Erythrocytes are anaerobic",
         "C": "The nuclei of erythrocytes are located in the middle of the biconcave disc.",
         "D": "Erythrocytes are phagocytized in the spleen and liver after a certain period of time."
       },
@@ -2312,9 +2312,9 @@
       "question_number": 3,
       "question_text": "Hemoglobin\u2019s affinity for O 2 :",
       "options": {
-        "A": "increases in exercising muscle tissue.",
-        "B": "decreases as blood PaCO2 decreases.",
-        "C": "decreases as blood pH decreases.",
+        "A": "increases in exercising muscle tissue",
+        "B": "decreases as blood PaCO2 decreases",
+        "C": "decreases as blood pH decreases",
         "D": "is higher in maternal blood than in fetal blood."
       },
       "correct_answer": "C",
@@ -2538,7 +2538,7 @@
       "question_text": "The tricuspid valve prevents backflow of blood from the:",
       "options": {
         "A": "left ventricle into the left atrium.",
-        "B": "aorta into the left ventricle.",
+        "B": "aorta into the left ventricle",
         "C": "pulmonary artery into the right ventricle.",
         "D": "right ventricle into the right atrium."
       },
@@ -2687,7 +2687,7 @@
       "question_number": 3,
       "question_text": "The lymphatic system:",
       "options": {
-        "A": "transports hormones throughout the body.",
+        "A": "transports hormones throughout the body",
         "B": "transports chylomicrons to the circulatory system.",
         "C": "causes extravasation of fluid into tissues.",
         "D": "is the site of mast cell activation."
@@ -2912,10 +2912,10 @@
       "question_number": 12,
       "question_text": "Upon encountering an antigen, only T-cells with a specific T-cell receptor are activated. This is an example of:",
       "options": {
-        "A": "innate immunity.",
-        "B": "a cytotoxic T-cell response.",
-        "C": "humoral immunity.",
-        "D": "clonal selection."
+        "A": "innate immunity",
+        "B": "a cytotoxic T-cell response",
+        "C": "humoral immunity",
+        "D": "clonal selection"
       },
       "correct_answer": "D",
       "explanation": "When the adaptive immune system encounters an antigen, only the cells with antibodies or T-cell receptors specific to that antigen are activated. This is known as clonal selection. While a T-cell response may be a cytotoxic response, it could also be the activation of helper T-cells; plus, this does not explain the specificity of the response, eliminating (B).",
@@ -3062,10 +3062,10 @@
       "question_number": 3,
       "question_text": "In an experiment, enteropeptidase secretion was blocked. As a direct result, levels of all of the following active enzymes would likely be affected EXCEPT:",
       "options": {
-        "A": "trypsin.",
-        "B": "aminopeptidase.",
-        "C": "chymotrypsin.",
-        "D": "carboxypeptidase A."
+        "A": "trypsin",
+        "B": "aminopeptidase",
+        "C": "chymotrypsin",
+        "D": "carboxypeptidase A"
       },
       "correct_answer": "B",
       "explanation": "Aminopeptidase is a brush-border peptidase secreted by the cells lining the duodenum; it does not require enteropeptidase for activation. Both trypsinogen and procarboxypeptidases A and B are activated by enteropeptidase, eliminating (A) and (D). Once activated, trypsin can activate chymotrypsinogen; if trypsinogen cannot be activated, then chymotrypsinogen will not be activated either, eliminating (C).",
@@ -3287,10 +3287,10 @@
       "question_number": 12,
       "question_text": "The cleavage of fats into glycerol and fatty acids catalyzed by lipases in the lumen of the duodenum is best described as:",
       "options": {
-        "A": "mechanical digestion.",
-        "B": "chemical digestion.",
-        "C": "intracellular digestion.",
-        "D": "absorption."
+        "A": "mechanical digestion",
+        "B": "chemical digestion",
+        "C": "intracellular digestion",
+        "D": "absorption"
       },
       "correct_answer": "B",
       "explanation": "The cleavage of a fat described in this question stem refers to the breakdown of triacylglycerides, which is a hydrolysis reaction in which water is added across the ester linkage of the fatty acids to the glycerol backbone, breaking these bonds. For this reason, chemical digestion, (B), is correct. Note that, the location of this reaction occurs in the lumen of a digestive organ, so this reaction could also be classified as an extracellular reaction. This observation is important because it eliminates (C).",
@@ -3513,10 +3513,10 @@
       "question_number": 6,
       "question_text": "In the nephron, amino acids enter the vasa recta via the process of:",
       "options": {
-        "A": "filtration.",
-        "B": "secretion.",
-        "C": "excretion.",
-        "D": "reabsorption."
+        "A": "filtration",
+        "B": "secretion",
+        "C": "excretion",
+        "D": "reabsorption"
       },
       "correct_answer": "D",
       "explanation": "Essential substances, such as glucose, salts, amino acids, and water, are reabsorbed from the filtrate and returned to the blood in the vasa recta. In general, reabsorption refers to the movement of solutes from the filtrate back into the blood.",
@@ -3563,10 +3563,10 @@
       "question_number": 8,
       "question_text": "Glucose reabsorption in the nephron occurs in the:",
       "options": {
-        "A": "loop of Henle.",
-        "B": "distal convoluted tubule.",
-        "C": "proximal convoluted tubule.",
-        "D": "collecting duct."
+        "A": "loop of Henle",
+        "B": "distal convoluted tubule",
+        "C": "proximal convoluted tubule",
+        "D": "collecting duct"
       },
       "correct_answer": "C",
       "explanation": "The filtrate enters Bowman\u2019s capsule and then flows into the proximal convoluted tubule, where virtually all glucose, amino acids, and other important organic molecules are reabsorbed via active transport.",
@@ -3588,10 +3588,10 @@
       "question_number": 9,
       "question_text": "Under normal physiological circumstances, the primary function of the nephron is to create urine that is:",
       "options": {
-        "A": "hypertonic to the blood.",
-        "B": "hypotonic to the blood.",
-        "C": "isotonic to the filtrate.",
-        "D": "hypotonic to the vasa recta."
+        "A": "hypertonic to the blood",
+        "B": "hypotonic to the blood",
+        "C": "isotonic to the filtrate",
+        "D": "hypotonic to the vasa recta"
       },
       "correct_answer": "A",
       "explanation": "The kidneys function to eliminate wastes such as urea, while reabsorbing various important substances such as glucose and amino acids for reuse by the body. Generation of a solute concentration gradient from the cortex to the medulla allows a considerable amount of water to be reabsorbed. Excretion of concentrated urine serves to limit water losses from the body and helps to preserve blood volume. Thus, the primary function of the nephron is to create urine that is hypertonic to the blood, making (A) the correct answer and eliminating (B) and (D). Water should be reabsorbed from the filtrate, so urine should be hypertonic to the filtrate, eliminating (C).",
@@ -3788,10 +3788,10 @@
       "question_number": 2,
       "question_text": "Region 1 refers to:",
       "options": {
-        "A": "the thick filaments only.",
-        "B": "the thin filaments only.",
-        "C": "the A-band.",
-        "D": "the I-band."
+        "A": "the thick filaments only",
+        "B": "the thin filaments only",
+        "C": "the A-band",
+        "D": "the I-band"
       },
       "correct_answer": "C",
       "explanation": "Region 1 contains both thick and thin filaments overlapping each other. This region refers to the A-band and is measured from one end of the thick filaments to the other. This is also the only portion of the sarcomere that does not change length during muscle contraction.",
@@ -4013,10 +4013,10 @@
       "question_number": 11,
       "question_text": "Red bone marrow is involved in erythrocyte formation. In contrast, yellow bone marrow:",
       "options": {
-        "A": "is involved in leukocyte formation.",
+        "A": "is involved in leukocyte formation",
         "B": "is responsible for drainage of lymph.",
-        "C": "causes the formation of spicules.",
-        "D": "contains predominantly adipose tissue."
+        "C": "causes the formation of spicules",
+        "D": "contains predominantly adipose tissue"
       },
       "correct_answer": "D",
       "explanation": "Yellow marrow is largely inactive and is infiltrated by adipose tissue, making (D) the correct answer.",
@@ -4088,10 +4088,10 @@
       "question_number": 14,
       "question_text": "To facilitate the process of birth, an infant\u2019s head is somewhat flexible. This flexibility is due in part to the two fontanelles, which are soft spots of connective tissue in the infant\u2019s skull. With time, the fontanelles will close through a process known as:",
       "options": {
-        "A": "endochondral ossification.",
-        "B": "intramembranous ossification.",
-        "C": "bone resorption.",
-        "D": "longitudinal growth."
+        "A": "endochondral ossification",
+        "B": "intramembranous ossification",
+        "C": "bone resorption",
+        "D": "longitudinal growth"
       },
       "correct_answer": "B",
       "explanation": "Bones form in one of two ways: endochondral ossification and intramembranous ossification. Endochondral ossification is the replacement of cartilage with bone and occurs mostly in long bones, eliminating (A). Intramembranous ossification is the formation of bone from undifferentiated connective tissue cells (mesenchyme) and occurs mostly in the skull, making (B) the correct answer. Bone resorption is the breakdown of bone, not its formation, eliminating (C). Longitudinal growth occurs in long bones and is responsible for increasing height over time, but does not play a role in fontanelle ossification, eliminating (D).",
@@ -4213,8 +4213,8 @@
       "question_number": 4,
       "question_text": "If a test cross on a species of plant reveals the appearance of a recessive phenotype in the offspring, what must be true of the phenotypically dominant parent?",
       "options": {
-        "A": "It must be genotypically heterozygous.",
-        "B": "It must be genotypically homozygous.",
+        "A": "It must be genotypically heterozygous",
+        "B": "It must be genotypically homozygous",
         "C": "It could be either genotypically heterozygous or homozygous.",
         "D": "It must have the same genotype as the test cross control parent."
       },

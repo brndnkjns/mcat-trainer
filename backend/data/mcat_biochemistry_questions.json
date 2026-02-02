@@ -13,10 +13,10 @@
       "question_number": 1,
       "question_text": "In a neutral solution, most amino acids exist as:",
       "options": {
-        "A": "positively charged compounds.",
-        "B": "zwitterions.",
-        "C": "negatively charged compounds.",
-        "D": "hydrophobic molecules."
+        "A": "positively charged compounds",
+        "B": "zwitterions",
+        "C": "negatively charged compounds",
+        "D": "hydrophobic molecules"
       },
       "correct_answer": "B",
       "explanation": "Most amino acids (except the acidic and basic amino acids) have two sites for protonation: the carboxylic acid and the amine. At neutral pH, the carboxylic acid will be deprotonated (\u2013COO\u2013) and the amine will remain protonated \u2013NH3+. This dipolar ion is a zwitterion, so (B) is the correct answer.",
@@ -38,10 +38,10 @@
       "question_number": 2,
       "question_text": "At pH 7, the charge on a glutamic acid molecule is:",
       "options": {
-        "A": "\u20132.",
-        "B": "\u20131.",
-        "C": "0.",
-        "D": "+1."
+        "A": "\u20132",
+        "B": "\u20131",
+        "C": "0",
+        "D": "+1"
       },
       "correct_answer": "B",
       "explanation": "Glutamic acid is an acidic amino acid because it has an extra carboxyl group. At neutral pH, both carboxyl groups are deprotonated and thus negatively charged. The amino group has a positive charge because it remains protonated at pH 7. Overall, therefore, glutamic acid has a net charge of \u20131, and (B) is correct. Notice that you do not even need to know the pI values to solve this question; as an acidic amino acid, glutamic acid must have a pI below 7.",
@@ -163,10 +163,10 @@
       "question_number": 7,
       "question_text": "An \u03b1 -helix is most likely to be held together by:",
       "options": {
-        "A": "disulfide bonds.",
-        "B": "hydrophobic effects.",
-        "C": "hydrogen bonds.",
-        "D": "ionic attractions between side chains."
+        "A": "disulfide bonds",
+        "B": "hydrophobic effects",
+        "C": "hydrogen bonds",
+        "D": "ionic attractions between side chains"
       },
       "correct_answer": "C",
       "explanation": "The \u03b1-helix is held together primarily by hydrogen bonds between the carboxyl groups and amino groups of amino acids. Disulfide bridges, (A), and hydrophobic effects, (B), are primarily involved in tertiary structures, not secondary. Even if they were charged, the side chains of amino acids are too far apart to participate in strong interactions in secondary structure.",
@@ -263,10 +263,10 @@
       "question_number": 11,
       "question_text": "Following translation and folding, many receptor tyrosine kinases exist as monomers in their inactive state on the cell membrane. Upon the binding of a ligand, these proteins dimerize and initiate a signaling cascade. During this process, their highest element of protein structure changes from:",
       "options": {
-        "A": "secondary to tertiary.",
-        "B": "tertiary to quaternary.",
-        "C": "primary to secondary.",
-        "D": "secondary to quaternary."
+        "A": "secondary to tertiary",
+        "B": "tertiary to quaternary",
+        "C": "primary to secondary",
+        "D": "secondary to quaternary"
       },
       "correct_answer": "B",
       "explanation": "In their inactive state, the receptor tyrosine kinases are fully folded single polypeptide chains and thus have tertiary structure. When these monomers dimerize, they become a protein complex and thus have elements of quaternary structure. This change from tertiary to quaternary structure justifies (B).",
@@ -313,10 +313,10 @@
       "question_number": 13,
       "question_text": "In lysine, the p K a of the side chain is about 10.5. Assuming that the p K a of the carboxyl and amino groups are 2 and 9, respectively, the pI of lysine is closest to:",
       "options": {
-        "A": "5.5.",
-        "B": "6.2.",
-        "C": "7.4.",
-        "D": "9.8."
+        "A": "5.5",
+        "B": "6.2",
+        "C": "7.4",
+        "D": "9.8"
       },
       "correct_answer": "D",
       "explanation": "Because lysine has a basic side chain, we ignore the pKa of the carboxyl group, and average the pKa of the side chain and the amino group; the average of 9 and 10.5 is 9.75, which is closest to (D).",
@@ -438,10 +438,10 @@
       "question_number": 3,
       "question_text": "Some enzymes require the presence of a nonprotein molecule to behave catalytically. An enzyme devoid of this molecule is called a(n):",
       "options": {
-        "A": "holoenzyme.",
-        "B": "apoenzyme.",
-        "C": "coenzyme.",
-        "D": "zymoenzyme."
+        "A": "holoenzyme",
+        "B": "apoenzyme",
+        "C": "coenzyme",
+        "D": "zymoenzyme"
       },
       "correct_answer": "B",
       "explanation": "An enzyme devoid of its necessary cofactor is called an apoenzyme and is catalytically inactive.",
@@ -564,10 +564,10 @@
       "question_number": 8,
       "question_text": "At a concentration of 5 \u00d7 10 \u20136  M substrate, the rate of the reaction will be:",
       "options": {
-        "A": "10 .",
-        "B": "20 .",
-        "C": "30 .",
-        "D": "40 ."
+        "A": "10 ",
+        "B": "20 ",
+        "C": "30 ",
+        "D": "40 "
       },
       "correct_answer": "A",
       "explanation": "As with the last question, relationships are important. At a concentration of 5 \u00d7 10\u20136 M, enzyme A is working at one-half of its Vmax because the concentration is equal to the Km of the enzyme. Therefore, one-half of which corresponds to (A).",
@@ -589,10 +589,10 @@
       "question_number": 9,
       "question_text": "At a concentration of 5 \u00d7 10 \u20134  M substrate, the rate of the reaction will be:",
       "options": {
-        "A": "10 .",
-        "B": "15 .",
-        "C": "20 .",
-        "D": "30 ."
+        "A": "10 ",
+        "B": "15 ",
+        "C": "20 ",
+        "D": "30 "
       },
       "correct_answer": "C",
       "explanation": "At a concentration of 5 \u00d7 10\u20134 M, there is 100 times more substrate than present at half maximal velocity. At high values (significantly larger than the value of Km), the enzyme is at or near its Vmax, which is 20 .",
@@ -1140,9 +1140,9 @@
       "question_number": 1,
       "question_text": "When glucose is in a straight-chain formation, it:",
       "options": {
-        "A": "is an aldoketose.",
-        "B": "is a pentose.",
-        "C": "has five chiral carbons.",
+        "A": "is an aldoketose",
+        "B": "is a pentose",
+        "C": "has five chiral carbons",
         "D": "is one of a group of 16 stereoisomers."
       },
       "correct_answer": "D",
@@ -1215,10 +1215,10 @@
       "question_number": 4,
       "question_text": "The formation of \u03b1 - D -glucopyranose from \u03b2 - D -glucopyranose is called:",
       "options": {
-        "A": "glycosidation.",
-        "B": "mutarotation.",
-        "C": "enantiomerization.",
-        "D": "racemization."
+        "A": "glycosidation",
+        "B": "mutarotation",
+        "C": "enantiomerization",
+        "D": "racemization"
       },
       "correct_answer": "B",
       "explanation": "Mutarotation is the interconversion between anomers of a compound. Enantiomerization and racemization, (C) and (D), are related: enantiomerization is the formation of a mirror-image or optically inverted form of a compound, whereas racemization is moving a solution toward an equal concentration of both enantiomers. Glycosidation, (A), is the addition of a sugar to another compound.",
@@ -1240,9 +1240,9 @@
       "question_number": 5,
       "question_text": "Ketose sugars may have the ability to act as reducing sugars. Which process explains this?",
       "options": {
-        "A": "Ketose sugars undergo tautomerization.",
+        "A": "Ketose sugars undergo tautomerization",
         "B": "The ketone group is oxidized directly.",
-        "C": "Ketose sugars undergo anomerization.",
+        "C": "Ketose sugars undergo anomerization",
         "D": "The ketone group is reduced directly."
       },
       "correct_answer": "A",
@@ -1429,10 +1429,10 @@
       "question_number": 12,
       "question_text": "The reaction below is an example of one step in:",
       "options": {
-        "A": "aldehyde formation.",
-        "B": "hemiketal formation.",
-        "C": "mutarotation.",
-        "D": "glycosidic bond cleavage."
+        "A": "aldehyde formation",
+        "B": "hemiketal formation",
+        "C": "mutarotation",
+        "D": "glycosidic bond cleavage"
       },
       "correct_answer": "C",
       "explanation": "In solution, the hemiacetal ring of glucose will break open spontaneously and then re-form. When the ring is broken, bond rotation occurs between C-1 and C-2 to produce either the \u03b1- or the \u03b2-anomer. The reaction given in this question depicts the mutarotation of glucose. (A) is incorrect because the reactant is an aldehyde, not the product. (B) is incorrect because a hemiketal has an \u2013OH group, an \u2013OR group, and two \u2013R groups. In addition, hemiketals are formed from ketones, and our starting reactant is an aldehyde. Finally, (D) is incorrect because there is no glycosidic bond in the starting reactant.",
@@ -1488,9 +1488,9 @@
       "question_text": "Andersen\u2019s disease (glycogen storage disease type IV) is a condition characterized by a deficiency in glycogen branching enzyme. Absence of this enzyme would be likely to cause all of the following effects EXCEPT:",
       "options": {
         "A": "decreased glycogen solubility in human cells.",
-        "B": "slower action of glycogen phosphorylase.",
+        "B": "slower action of glycogen phosphorylase",
         "C": "less storage of glucose in the body.",
-        "D": "glycogen devoid of \u03b1-1,4 linkages."
+        "D": "glycogen devoid of \u03b1-1,4 linkages"
       },
       "correct_answer": "D",
       "explanation": "In Andersen\u2019s disease, glycogen is less branched than normal, thereby inducing lower solubility of glycogen. Branches reduce the interactions between adjacent chains of glycogen and encourage interactions with the aqueous environment. The smaller number of branches means that glycogen phosphorylase has fewer terminal glucose monomers on which to act, making enzyme activity slower than normal overall. Finally, without branches, the density of glucose monomers cannot be as high; therefore, the total glucose stored is lower than normal. Glycogen synthase is still functioning normally, so we would expect normal \u03b1-1,4 linkages in the glycogen of an individual with Andersen\u2019s disease but few (if any) \u03b1-1,6 linkages.",
@@ -1562,8 +1562,8 @@
       "question_number": 2,
       "question_text": "During saponification:",
       "options": {
-        "A": "triacylglycerols undergo a condensation reaction.",
-        "B": "triacylglycerols undergo ester hydrolysis.",
+        "A": "triacylglycerols undergo a condensation reaction",
+        "B": "triacylglycerols undergo ester hydrolysis",
         "C": "fatty acid salts are produced using a strong acid.",
         "D": "fatty acid salts are bound to albumin."
       },
@@ -1612,10 +1612,10 @@
       "question_number": 4,
       "question_text": "Soap bubbles form because fatty acid salts organize into:",
       "options": {
-        "A": "lysosomes.",
-        "B": "micelles.",
-        "C": "phospholipid bilayers.",
-        "D": "hydrogen bonds."
+        "A": "lysosomes",
+        "B": "micelles",
+        "C": "phospholipid bilayers",
+        "D": "hydrogen bonds"
       },
       "correct_answer": "B",
       "explanation": "Fatty acid salt micelles are responsible for the formation of soap bubbles. While phospholipids can form bilayers, as in (C), the fatty acids in soap are free fatty acids, not phospholipids.",
@@ -1715,7 +1715,7 @@
         "A": "They form protective spheres in any solvent, with hydrophobic molecules interior and hydrophilic molecules exterior.",
         "B": "They have two fatty acid chains and a polar head group.",
         "C": "They are important to the formation of the phospholipid bilayer and soap bubbles.",
-        "D": "They have a glycerol base."
+        "D": "They have a glycerol base"
       },
       "correct_answer": "C",
       "explanation": "Phospholipids are amphipathic, as are fatty acid salts. Although amphipathic molecules take spherical forms with hydrophobic molecules interior in aqueous solution, as in (A), the opposite would be true in a nonpolar solvent. (B) describes phospholipids and sphingolipids, and (D) describes triacylglycerols and phospholipids; both groups do not include fatty acid salts.",
@@ -1813,7 +1813,7 @@
       "question_text": "Which of the following statements about terpenes is FALSE?",
       "options": {
         "A": "Terpenes are strongly scented molecules that sometimes serve protective functions.",
-        "B": "Terpenes are steroid precursors.",
+        "B": "Terpenes are steroid precursors",
         "C": "A triterpene is made of three isoprene moieties, and therefore has 15 carbons.",
         "D": "Terpenes are made by plants and insects."
       },
@@ -1912,10 +1912,10 @@
       "question_number": 1,
       "question_text": "In a single strand of a nucleic acid, nucleotides are linked by:",
       "options": {
-        "A": "hydrogen bonds.",
-        "B": "phosphodiester bonds.",
-        "C": "ionic bonds.",
-        "D": "van der Waals forces."
+        "A": "hydrogen bonds",
+        "B": "phosphodiester bonds",
+        "C": "ionic bonds",
+        "D": "van der Waals forces"
       },
       "correct_answer": "B",
       "explanation": "Nucleotides bond together to form polynucleotides. The 3\u2032 hydroxyl group of one nucleotide\u2019s sugar joins the 5\u2032 hydroxyl group of the adjacent nucleotide\u2019s sugar by a phosphodiester bond. Hydrogen bonding, (A), is important for holding complementary strands together, but does not play a role in the bonds formed between adjacent nucleotides on a single strand.",
@@ -2012,10 +2012,10 @@
       "question_number": 5,
       "question_text": "For a compound to be aromatic, all of the following must be true EXCEPT:",
       "options": {
-        "A": "the molecule is cyclic.",
+        "A": "the molecule is cyclic",
         "B": "the molecule contains 4n + 2 \u03c0 electrons.",
         "C": "the molecule contains alternating single and double bonds.",
-        "D": "the molecule is planar."
+        "D": "the molecule is planar"
       },
       "correct_answer": "C",
       "explanation": "For a compound to be aromatic, it must be cyclic, planar, conjugated, and contain 4n + 2 \u03c0 electrons, where n is any integer. Conjugation requires that every atom in the ring have at least one unhybridized p-orbital. While most examples of aromatic compounds have alternating single and double bonds, compounds can be aromatic if they contain triple bonds as well; this would still permit at least one unhybridized p-orbital.",
@@ -2164,7 +2164,7 @@
       "options": {
         "A": "Uracil is much more difficult to synthesize than thymine.",
         "B": "Uracil binds adenine too strongly for replication.",
-        "C": "Cytosine degradation results in uracil.",
+        "C": "Cytosine degradation results in uracil",
         "D": "Uracil is used as a DNA synthesis activator."
       },
       "correct_answer": "C",
@@ -2187,10 +2187,10 @@
       "question_number": 12,
       "question_text": "Tumor suppressor genes are most likely to result in cancer through:",
       "options": {
-        "A": "loss of function mutations.",
-        "B": "gain of function mutations.",
-        "C": "overexpression.",
-        "D": "proto-oncogene formation."
+        "A": "loss of function mutations",
+        "B": "gain of function mutations",
+        "C": "overexpression",
+        "D": "proto-oncogene formation"
       },
       "correct_answer": "A",
       "explanation": "Oncogenes are most likely to result in cancer through activation, (B), while tumor suppressor genes are most likely to result in cancer through inactivation.",
@@ -2337,10 +2337,10 @@
       "question_number": 3,
       "question_text": "Topoisomerases are enzymes involved in:",
       "options": {
-        "A": "DNA replication and transcription.",
-        "B": "posttranscriptional processing.",
-        "C": "RNA synthesis and translation.",
-        "D": "posttranslational processing."
+        "A": "DNA replication and transcription",
+        "B": "posttranscriptional processing",
+        "C": "RNA synthesis and translation",
+        "D": "posttranslational processing"
       },
       "correct_answer": "A",
       "explanation": "Topoisomerases, such as prokaryotic DNA gyrase, are involved in DNA replication and mRNA synthesis (transcription). DNA gyrase is a type of topoisomerase that enhances the action of helicase enzymes by the introduction of negative supercoils into the DNA molecule. These negative supercoils facilitate DNA replication by keeping the strands separated and untangled.",
@@ -2814,10 +2814,10 @@
       "question_number": 7,
       "question_text": "A membrane receptor is most likely to be a(n):",
       "options": {
-        "A": "embedded protein with catalytic activity.",
-        "B": "transmembrane protein with sequestration activity.",
-        "C": "membrane-associated protein with sequestration activity.",
-        "D": "transmembrane protein with catalytic activity."
+        "A": "embedded protein with catalytic activity",
+        "B": "transmembrane protein with sequestration activity",
+        "C": "membrane-associated protein with sequestration activity",
+        "D": "transmembrane protein with catalytic activity"
       },
       "correct_answer": "D",
       "explanation": "Membrane receptors must have both an extracellular and intracellular domain; therefore, they are considered transmembrane proteins. In order to initiate a second messenger cascade, they typically display enzymatic activity, although some may act strictly as channels.",
@@ -2889,10 +2889,10 @@
       "question_number": 10,
       "question_text": "The bulk movement of liquid into a cell through vesicular infoldings is known as:",
       "options": {
-        "A": "phagocytosis.",
-        "B": "pinocytosis.",
-        "C": "exocytosis.",
-        "D": "drinking."
+        "A": "phagocytosis",
+        "B": "pinocytosis",
+        "C": "exocytosis",
+        "D": "drinking"
       },
       "correct_answer": "B",
       "explanation": "The endocytosis (bulk uptake through vesicle formation) of fluid is known as pinocytosis. Phagocytosis, (A), is the endocytic intake of solids, while exocytosis, (C), is a method of releasing vesicular contents. Drinking, (D), does not apply on a cellular level.",
@@ -3189,8 +3189,8 @@
       "question_number": 7,
       "question_text": "A biopsy is done on a child with an enlarged liver and shows accumulation of glycogen granules with single glucose residues remaining at the branch points near the periphery of the granule. The most likely genetic defect is in the gene encoding:",
       "options": {
-        "A": "\u03b1-1,4 phosphorylase (glycogen phosphorylase).",
-        "B": "\u03b1-1,4:\u03b1-1,6 transferase (branching enzyme).",
+        "A": "\u03b1-1,4 phosphorylase (glycogen phosphorylase)",
+        "B": "\u03b1-1,4:\u03b1-1,6 transferase (branching enzyme)",
         "C": "\u03b1-1,4:\u03b1-1,4 transferase (part of debranching enzyme complex).",
         "D": "\u03b1-1,6 glucosidase (part of debranching enzyme complex)."
       },
@@ -3239,10 +3239,10 @@
       "question_number": 9,
       "question_text": "After a brief period of intense exercise, the activity of muscle pyruvate dehydrogenase is greatly increased. This increased activity is most likely due to:",
       "options": {
-        "A": "decreased ADP.",
-        "B": "increased acetyl-CoA.",
-        "C": "increased NADH/NAD+ ratio.",
-        "D": "increased pyruvate concentration."
+        "A": "decreased ADP",
+        "B": "increased acetyl-CoA",
+        "C": "increased NADH/NAD+ ratio",
+        "D": "increased pyruvate concentration"
       },
       "correct_answer": "D",
       "explanation": "In most biochemical pathways, only a few enzymatic reactions are under regulatory control. These often occur either at the beginning of pathways or at pathway branch points. The pyruvate dehydrogenase (PDH) complex controls the link between glycolysis and the citric acid cycle, and decarboxylates pyruvate (the end product of glycolysis) with production of NADH and acetyl-CoA (the substrate for the citric acid cycle). After intense exercise, one would expect PDH to be highly active to generate ATP. ADP levels, (A), should be high because ATP was just burned by the muscle. Acetyl-CoA, (B), is an inhibitor of PDH, causing a shift of pyruvate into the gluconeogenic pathway. A high NADH/NAD+ ratio, (C), would imply that the cell is already energetically satisfied and not in need of energy, which would not be expected in intensely exercising muscle.",
@@ -3389,10 +3389,10 @@
       "question_number": 15,
       "question_text": "Each of the following catalyzes a rate-limiting step of a carbohydrate metabolism pathway EXCEPT:",
       "options": {
-        "A": "hexokinase.",
-        "B": "glycogen synthase.",
-        "C": "glucose-6-phosphate dehydrogenase.",
-        "D": "fructose-1,6-bisphosphatase."
+        "A": "hexokinase",
+        "B": "glycogen synthase",
+        "C": "glucose-6-phosphate dehydrogenase",
+        "D": "fructose-1,6-bisphosphatase"
       },
       "correct_answer": "A",
       "explanation": "Hexokinase catalyzes an important irreversible step of glycolysis, but it is not the rate-limiting step. Phosphofructokinase-1 catalyzes the rate-limiting step of glycolysis. Glycogen synthase, (B), catalyzes the rate-limiting step of glycogenesis; glucose-6-phosphate dehydrogenase, (C), catalyzes the rate-limiting step of the pentose phosphate pathway; and fructose-1,6-bisphosphatase, >(D), catalyzes the rate-limiting step of gluconeogenesis.",
@@ -3516,7 +3516,7 @@
       "options": {
         "A": "oxygen is the final electron acceptor.",
         "B": "oxygen is necessary for all ATP synthesis.",
-        "C": "net water is consumed.",
+        "C": "net water is consumed",
         "D": "the proton-motive force is necessary for all ATP synthesis."
       },
       "correct_answer": "A",
@@ -3539,10 +3539,10 @@
       "question_number": 6,
       "question_text": "Fatty acids enter the catabolic pathway in the form of:",
       "options": {
-        "A": "glycerol.",
-        "B": "adipose tissue.",
-        "C": "acetyl-CoA.",
-        "D": "ketone bodies."
+        "A": "glycerol",
+        "B": "adipose tissue",
+        "C": "acetyl-CoA",
+        "D": "ketone bodies"
       },
       "correct_answer": "C",
       "explanation": "Fat molecules stored in adipose tissue can be hydrolyzed by lipases to fatty acids and glycerol. While glycerol can be converted into glyceraldehyde 3-phosphate, a glycolytic intermediate, a fatty acid must first be activated in the cytoplasm by coupling the fatty acid to CoA\u2013SH, forming fatty acyl-CoA. The fatty acid is then transferred to a molecule of carnitine, which can carry it across the inner mitochondrial membrane. Once inside, the fatty acid is transferred to a mitochondrial CoA\u2013SH, re-forming fatty acyl-CoA. Through fatty acid oxidation, this fatty acyl-CoA can become acetyl-CoA, which enters the citric acid cycle.",
@@ -3642,7 +3642,7 @@
         "A": "Oxygen must be conserved for the electron transport chain.",
         "B": "Thioester hydrolysis has a higher energy yield.",
         "C": "Typical ester hydrolysis cannot occur in vivo.",
-        "D": "Thioester cleavage requires more energy."
+        "D": "Thioester cleavage requires more energy"
       },
       "correct_answer": "B",
       "explanation": "Thioester links release a great deal of energy when hydrolyzed, making them well-suited as respiration reaction drivers. They are particularly useful because they release more energy than typical ester cleavage. It is thioester formation, not hydrolysis, that requires a great deal of energy, making (D) incorrect.",
@@ -3914,10 +3914,10 @@
       "question_number": 6,
       "question_text": "Statin drugs inhibit HMG-CoA reductase. As such, they are likely prescribed for:",
       "options": {
-        "A": "hypercholesterolemia (high cholesterol).",
-        "B": "hypertriglyceridemia (high triacylglycerol).",
-        "C": "hypocholesterolemia (low cholesterol).",
-        "D": "visceral adiposity (obesity)."
+        "A": "hypercholesterolemia (high cholesterol)",
+        "B": "hypertriglyceridemia (high triacylglycerol)",
+        "C": "hypocholesterolemia (low cholesterol)",
+        "D": "visceral adiposity (obesity)"
       },
       "correct_answer": "A",
       "explanation": "Statins are drugs that are prescribed to treat high cholesterol and act as competitive inhibitors of HMG-CoA reductase. HMG-CoA reductase is the rate-limiting enzyme of de novo cholesterol synthesis; inhibition of this enzyme lowers production of cholesterol, thus lowering overall levels of cholesterol.",
@@ -4039,10 +4039,10 @@
       "question_number": 11,
       "question_text": "The majority of triacylglycerols stored in adipocytes originate from:",
       "options": {
-        "A": "synthesis in the adipocyte.",
-        "B": "dietary intake.",
-        "C": "ketone bodies.",
-        "D": "synthesis in the liver."
+        "A": "synthesis in the adipocyte",
+        "B": "dietary intake",
+        "C": "ketone bodies",
+        "D": "synthesis in the liver"
       },
       "correct_answer": "D",
       "explanation": "The liver is the major metabolic organ in the body and is responsible for much of the synthesis and interconversion of fuel sources. Most of the triacylglycerols that are synthesized in the liver are transported as VLDL to adipose tissue for storage. Both the adipocytes, (A), and dietary intake, (B), constitute a minor source of triacylglycerols.",
@@ -4064,10 +4064,10 @@
       "question_number": 12,
       "question_text": "2,4-Dienoyl-CoA reductase is used in the oxidation of:",
       "options": {
-        "A": "saturated fatty acids.",
-        "B": "monounsaturated fatty acids.",
-        "C": "polyunsaturated fatty acids.",
-        "D": "cholesterol."
+        "A": "saturated fatty acids",
+        "B": "monounsaturated fatty acids",
+        "C": "polyunsaturated fatty acids",
+        "D": "cholesterol"
       },
       "correct_answer": "C",
       "explanation": "In order for the enzymes of fatty acid oxidation to operate, there can be, at most, one double bond in the area of enzyme activity, and it must be oriented between carbons 2 and 3. In order to accomplish this in monounsaturated fatty acids, an isomerase is employed. When there are multiple double bonds that fall within the enzymatic binding site, both an isomerase and 2,4-dienoyl-CoA reductase are required for the oxidative enzymes to act on the fatty acid. For this question, simply recognizing that dienoyl refers to having multiple double bonds is sufficient to arrive at the answer.",
@@ -4090,9 +4090,9 @@
       "question_text": "Which of the following is true regarding ketolysis?",
       "options": {
         "A": "Ketolysis occurs only in the brain.",
-        "B": "Ketolysis occurs in the liver.",
-        "C": "Ketolysis generates acetyl-CoA.",
-        "D": "Ketolysis increases glucose metabolism."
+        "B": "Ketolysis occurs in the liver",
+        "C": "Ketolysis generates acetyl-CoA",
+        "D": "Ketolysis increases glucose metabolism"
       },
       "correct_answer": "C",
       "explanation": "Ketolysis is the breakdown of ketone bodies to acetyl-CoA for energy. This process occurs in the brain and muscle tissues, but cannot occur in the liver, which lacks an enzyme necessary for ketone body breakdown. Ketolysis is not associated with an increase in glucose metabolism because it most often occurs under conditions of starvation.",
@@ -4264,10 +4264,10 @@
       "question_number": 5,
       "question_text": "The ability to exist in both an oxidized and a reduced state is characteristic of:",
       "options": {
-        "A": "adenosine triphosphate (ATP).",
-        "B": "electron carriers.",
-        "C": "regulatory enzymes.",
-        "D": "peptide hormones."
+        "A": "adenosine triphosphate (ATP)",
+        "B": "electron carriers",
+        "C": "regulatory enzymes",
+        "D": "peptide hormones"
       },
       "correct_answer": "B",
       "explanation": "In order to transport electrons, electron carriers like flavoproteins must be able to exist in a stable oxidized state and a stable reduced form. ATP can be dephosphorylated but is generally not oxidized or reduced. Regulatory enzymes may also be phosphorylated or dephosphorylated but are not generally oxidized or reduced.",
@@ -4515,9 +4515,9 @@
       "question_text": "Which process is expected to begin earliest in a prolonged fast?",
       "options": {
         "A": "Ketone bodies are used by the brain.",
-        "B": "Glycogen storage is halted.",
-        "C": "Proteins are broken down.",
-        "D": "Enzyme phosphorylation and dephosphorylation."
+        "B": "Glycogen storage is halted",
+        "C": "Proteins are broken down",
+        "D": "Enzyme phosphorylation and dephosphorylation"
       },
       "correct_answer": "D",
       "explanation": "A prolonged fast is characterized by an increase in glucagon, which accomplishes its cellular activity by phosphorylating and dephosphorylating metabolic enzymes. Glycogen storage, (B), is then halted, but this requires enzyme regulation by glucagon to occur. Later in the postabsorptive state, protein breakdown, (C), begins. Eventually, in starvation, ketone bodies, (A), are used by the brain for its main energy source.",
