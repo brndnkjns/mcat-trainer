@@ -532,32 +532,6 @@
       }
     },
     {
-      "id": "ch2_q7",
-      "chapter": 2,
-      "chapter_title": "Enzymes",
-      "question_number": 7,
-      "question_text": "The activity of an enzyme is measured at several different substrate concentrations, and the data are shown in the table below. [S] (mM) 0.01 1 0.05 9.1 0.1 17 0.5 50 1 67 5 91 10 95 50 99 100 100  Km for this enzyme is approximately:     Questions 8 and 9 refer to the following statement:  Consider a reaction catalyzed by enzyme A with a Km value of 5 \u00d7 10\u20136 M and Vmax of 20 .",
-      "options": {
-        "A": "0.5",
-        "B": "1.0",
-        "C": "10.0",
-        "D": "50.0"
-      },
-      "correct_answer": "A",
-      "explanation": "While the equations given in the text are useful, recognizing relationships is even more important. You can see that as substrate concentration increases significantly, there is only a small change in the rate. This occurs as we approach Vmax. Because the Vmax is near equals The substrate concentration giving this rate is 0.5 mM and corresponds to Km; therefore, (A) is correct.",
-      "image_filename": "biochemistry_ch2_q7.jpg",
-      "short_reason": "Km = [S] at half-max velocity. Look for where rate is about 50% of max (around 50 when max is near 100) = 0.5 mM!",
-      "wrong_answer_explanations": {
-        "B": "At 1.0 mM, the rate is 67 - that's above half-max, so Km must be lower.",
-        "C": "At 10.0 mM, rate is 95 - way past half-max, almost at Vmax already.",
-        "D": "50 is the rate at Km, not the Km itself! Don't confuse the y-value with the x-value."
-      },
-      "learn_with_ai": {
-        "prompt": "MCAT Biochemistry - Enzymes: Explain why '0.5' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
-        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%270.5%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
-    },
-    {
       "id": "ch2_q8",
       "chapter": 2,
       "chapter_title": "Enzymes",
@@ -605,32 +579,6 @@
       "learn_with_ai": {
         "prompt": "MCAT Biochemistry - Enzymes: Explain why '20 .' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%2720%20.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
-    },
-    {
-      "id": "ch2_q10",
-      "chapter": 2,
-      "chapter_title": "Enzymes",
-      "question_number": 10,
-      "question_text": "The graph below shows kinetic data obtained for flu virus enzyme activity as a function of substrate concentration in the presence and absence of two antiviral drugs.   Based on the graph, which of the following statements is correct?",
-      "options": {
-        "A": "Both drugs are noncompetitive inhibitors of the viral enzyme.",
-        "B": "Oseltamivir increases the Km value for the substrate compared to Relenza.",
-        "C": "Zanamivir increases the Vmax value for the substrate compared to Tamiflu.",
-        "D": "Both drugs are competitive inhibitors of the viral enzyme."
-      },
-      "correct_answer": "B",
-      "explanation": "Based on the graph, when the substrate is present, oseltamivir results in the same Vmax and a higher Km compared to when no inhibitor is added. These are hallmarks of competitive inhibitors. Noncompetitive inhibitors result in decreased Vmax and the same Km as the uninhibited reaction, which is shown by the zanamivir line in the graph. Because the question is only comparing the values between the two inhibitors, and not the enzyme without inhibitor, the mechanism of inhibition is less important to determine than the values of Km and Vmax. This is a great example of why previewing the answer choices works well in the sciences.",
-      "image_filename": "biochemistry_ch2_q10.png",
-      "short_reason": "Competitive inhibitors INCREASE Km (harder to find substrate) but same Vmax. Oseltamivir does this more than Relenza!",
-      "wrong_answer_explanations": {
-        "A": "The drugs show different patterns - oseltamivir is competitive (same Vmax, higher Km), zanamivir is noncompetitive.",
-        "C": "Zanamivir (noncompetitive) DECREASES Vmax, doesn't increase it compared to oseltamivir.",
-        "D": "They're different types! Oseltamivir is competitive, zanamivir is noncompetitive."
-      },
-      "learn_with_ai": {
-        "prompt": "MCAT Biochemistry - Enzymes: Explain why 'Oseltamivir increases the Km value for the substrate compared to Relenza.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
-        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20Enzymes%3A%20Explain%20why%20%27Oseltamivir%20increases%20the%20Km%20value%20for%20the%20substrate%20compared%20to%20Relenza.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
@@ -2356,32 +2304,6 @@
       }
     },
     {
-      "id": "ch7_q4",
-      "chapter": 7,
-      "chapter_title": "RNA and the Genetic Code",
-      "question_number": 4,
-      "question_text": "Val-tRNA Val is the tRNA that carries valine to the ribosome during translation. Which of the following sequences gives an appropriate anticodon for this tRNA? (Note: Refer to Figure 7.6 for a genetic code table.)",
-      "options": {
-        "A": "CAU",
-        "B": "AUC",
-        "C": "UAC",
-        "D": "GUG"
-      },
-      "correct_answer": "C",
-      "explanation": "There are four different codons for valine: GUU, GUC, GUA, and GUG. Through base-pairing, we can determine that the proper anticodon must end with \u201cAC.\u201d Remember that the codon and anticodon are antiparallel to each other, and that nucleic acids are always written 5\u2032 \u2192 3\u2032 on the MCAT. Therefore, we are looking for an answer that ends with \u201cAC\u201d (rather than starting with \u201cCA\u201d).",
-      "image_filename": "biochemistry_ch7_q4.jpg",
-      "short_reason": "Valine codons start with GU-. Anticodon pairs 3' to 5', so it ends in -AC. Answer must end in AC, be written 5' to 3' = UAC!",
-      "wrong_answer_explanations": {
-        "A": "CAU ends in AU, not AC - wouldn't pair correctly with valine codons.",
-        "B": "AUC doesn't end in AC - wrong anticodon sequence.",
-        "D": "GUG is actually a valine CODON, not an anticodon!"
-      },
-      "learn_with_ai": {
-        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'UAC' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
-        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27UAC%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
-    },
-    {
       "id": "ch7_q5",
       "chapter": 7,
       "chapter_title": "RNA and the Genetic Code",
@@ -2504,32 +2426,6 @@
       "learn_with_ai": {
         "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'shRNA' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27shRNA%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
-    },
-    {
-      "id": "ch7_q10",
-      "chapter": 7,
-      "chapter_title": "RNA and the Genetic Code",
-      "question_number": 10,
-      "question_text": "A 4-year-old toddler with cystic fibrosis (CF) is seen by his physician for an upper respiratory infection. Prior genetic testing has shown that there has been a deletion of three base pairs in exon 10 of the CFTR gene that affects codons 507 and 508. The nucleotide sequence in this region for normal and mutant alleles is shown below ( X denotes the missing nucleotide): Codon Number 506 507 508 509 510 511 Normal gene (coding strand) ATC ATC TTT GGT GTT TCC Mutant gene (coding strand) ATC ATX XXT GGT GTT TCC  What effect will this mutation have on the amino acid sequence of the protein encoded by the CFTR gene? (Note: Refer to Figure 7.6 for a genetic code table.)",
-      "options": {
-        "A": "Deletion of a phenylalanine residue with no change in the C-terminus sequence",
-        "B": "Deletion of a leucine residue with no change in the C-terminus sequence",
-        "C": "Deletion of a phenylalanine residue with a change in the C-terminus sequence",
-        "D": "Deletion of a leucine residue with a change in the C-terminus sequence"
-      },
-      "correct_answer": "A",
-      "explanation": "In this table, we are given the sequence of the sense (coding) DNA strand. This will be identical to the mRNA transcript, except all thymine nucleotides will be replaced with uracil. With the deletion of these three bases, codon 507 changes from AUC to AUU in the transcript; these both code for isoleucine due to wobble. However, codon 508 (UUU in the transcript) has been lost. UUU codes for phenylalanine. The C-terminus sequence will remain unchanged because the deletion of three bases (exactly one codon) will not throw off the reading frame. For reference, the mutant reading frames would be: (Note: refer back to Figure 7.6 for a table of the genetic code)",
-      "image_filename": "biochemistry_ch7_q10.jpg",
-      "short_reason": "Deleting 3 bases = deleting exactly 1 codon = losing 1 amino acid (Phe)! Frame stays intact because 3 is divisible by 3!",
-      "wrong_answer_explanations": {
-        "B": "Looking at the codon table, the lost codon (UUU) codes for phenylalanine, not leucine.",
-        "C": "Deleting exactly 3 bases maintains the reading frame - C-terminus sequence unchanged.",
-        "D": "Phenylalanine (not leucine) is lost, and the reading frame is preserved."
-      },
-      "learn_with_ai": {
-        "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'Deletion of a phenylalanine residue with no change in the C-terminus sequence' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
-        "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27Deletion%20of%20a%20phenylalanine%20residue%20with%20no%20change%20in%20the%20C-terminus%20sequence%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
       }
     },
     {
