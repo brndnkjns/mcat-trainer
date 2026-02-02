@@ -181,17 +181,6 @@ function SessionSetup({ user }) {
         </p>
       </div>
 
-      {/* Timer Info */}
-      <div className="card">
-        <h2 className="card-header">Timer Settings</h2>
-        <p>Each question has a <strong>95-second</strong> time limit, matching MCAT pacing.</p>
-        <ul className="mt-2 text-small text-muted" style={{ paddingLeft: 20 }}>
-          <li>Timer turns yellow at 30 seconds remaining</li>
-          <li>Timer turns red at 10 seconds remaining</li>
-          <li>If time runs out, the question is marked incorrect</li>
-        </ul>
-      </div>
-
       {/* Start Button */}
       <div className="card">
         <button
