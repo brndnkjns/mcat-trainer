@@ -8,9 +8,7 @@ function Dashboard({ user }) {
   const [sessions, setSessions] = useState([]);
   const [streak, setStreak] = useState(null);
   const [dailyProgress, setDailyProgress] = useState(null);
-  const [recommendations, setRecommendations] = useState(null);
   const [scoreTrend, setScoreTrend] = useState(null);
-  const [dueReviews, setDueReviews] = useState([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -20,19 +18,15 @@ function Dashboard({ user }) {
       api.getUserSessions(user.id, 5),
       api.getStreak(user.id),
       api.getDailyProgress(user.id),
-      api.getRecommendations(user.id),
       api.getScoreTrend(user.id, 14),
-      api.getDueReviews(user.id, 10),
     ])
-      .then(([statsData, topicsData, sessionsData, streakData, dailyData, recsData, trendData, reviewsData]) => {
+      .then(([statsData, topicsData, sessionsData, streakData, dailyData, trendData]) => {
         setStats(statsData);
         setWeakTopics(topicsData);
         setSessions(sessionsData);
         setStreak(streakData);
         setDailyProgress(dailyData);
-        setRecommendations(recsData);
         setScoreTrend(trendData);
-        setDueReviews(reviewsData);
       })
       .catch(console.error)
       .finally(() => setLoading(false));
@@ -94,37 +88,6 @@ function Dashboard({ user }) {
           </div>
         )}
       </div>
-
-      {/* Smart Recommendation */}
-      {recommendations?.top_recommendation && (
-        <div className="recommendation-card">
-          <h3>💡 What to do next</h3>
-          <p>{recommendations.top_recommendation.message}</p>
-          <Link
-            to={recommendations.top_recommendation.action === 'practice' ? '/study/setup' : '/error-notebook'}
-            className="btn btn-primary"
-          >
-            Let's Go →
-          </Link>
-        </div>
-      )}
-
-      {/* Due Reviews Alert */}
-      {dueReviews.length > 0 && (
-        <div className="card due-reviews-card mb-4">
-          <div className="flex justify-between items-center">
-            <div>
-              <h3>🔔 Review Due</h3>
-              <p className="text-muted">
-                {dueReviews.length} question{dueReviews.length > 1 ? 's' : ''} scheduled for review
-              </p>
-            </div>
-            <Link to="/study/setup" className="btn btn-primary">
-              Review Now
-            </Link>
-          </div>
-        </div>
-      )}
 
       {/* Quick Actions */}
       <div className="card">
