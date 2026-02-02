@@ -581,7 +581,10 @@
       "learn_with_ai": {
         "prompt": "MCAT General Chemistry - The Periodic Table: Explain why 'These elements form divalent cations.' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20General%20Chemistry%20-%20The%20Periodic%20Table%3A%20Explain%20why%20%27These%20elements%20form%20divalent%20cations.%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
+      },
+      "images": [
+        "/images/questions/ch2_q8_gc_ch02_figure_text_un65-01.png"
+      ]
     },
     {
       "id": "ch2_q9",

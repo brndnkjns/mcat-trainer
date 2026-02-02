@@ -2521,7 +2521,7 @@
       "chapter": 7,
       "chapter_title": "RNA and the Genetic Code",
       "question_number": 10,
-      "question_text": "A 4-year-old toddler with cystic fibrosis (CF) is seen by his physician for an upper respiratory infection. Prior genetic testing has shown that there has been a deletion of three base pairs in exon 10 of the CFTR gene that affects codons 507 and 508. The nucleotide sequence in this region for normal and mutant alleles is shown below ( X denotes the missing nucleotide): Codon Number 506 507 508 509 510 511 Normal gene (coding strand) ATC ATC TTT GGT GTT TCC Mutant gene (coding strand) ATC ATX XXT GGT GTT TCC  What effect will this mutation have on the amino acid sequence of the protein encoded by the CFTR gene? (Note: Refer to Figure 7.6 for a genetic code table.)",
+      "question_text": "A 4-year-old toddler with cystic fibrosis (CF) is seen by his physician for an upper respiratory infection. Prior genetic testing has shown that there has been a deletion of three base pairs in exon 10 of the CFTR gene that affects codons 507 and 508. The nucleotide sequence in this region for normal and mutant alleles is shown below ( X denotes the missing nucleotide): Codon Number 506 507 508 509 510 511 Normal gene (coding strand) ATC ATC TTT GGT GTT TCC Mutant gene (coding strand) ATC ATX XXT GGT GTT TCC  What effect will this mutation have on the amino acid sequence of the protein encoded by the CFTR gene? (See the genetic code table below.)",
       "options": {
         "A": "Deletion of a phenylalanine residue with no change in the C-terminus sequence",
         "B": "Deletion of a leucine residue with no change in the C-terminus sequence",
@@ -2540,7 +2540,10 @@
       "learn_with_ai": {
         "prompt": "MCAT Biochemistry - RNA and the Genetic Code: Explain why 'Deletion of a phenylalanine residue with no change in the C-terminus sequence' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Biochemistry%20-%20RNA%20and%20the%20Genetic%20Code%3A%20Explain%20why%20%27Deletion%20of%20a%20phenylalanine%20residue%20with%20no%20change%20in%20the%20C-terminus%20sequence%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
+      },
+      "images": [
+        "/images/questions/ch7_q10_p282-1.jpg"
+      ]
     },
     {
       "id": "ch7_q11",

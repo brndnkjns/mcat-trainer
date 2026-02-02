@@ -2123,7 +2123,10 @@
       "learn_with_ai": {
         "prompt": "MCAT Physics and Math - Circuits: Explain why '5 V' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Physics%20and%20Math%20-%20Circuits%3A%20Explain%20why%20%275%20V%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
+      },
+      "images": [
+        "/images/questions/ch6_q8_phy_fig6.png"
+      ]
     },
     {
       "id": "ch6_q9",

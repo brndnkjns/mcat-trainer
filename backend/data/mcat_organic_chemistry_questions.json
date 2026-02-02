@@ -3434,7 +3434,10 @@
       "learn_with_ai": {
         "prompt": "MCAT Organic Chemistry - Carboxylic Acid Derivatives: Explain why 'Conjugation' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Carboxylic%20Acid%20Derivatives%3A%20Explain%20why%20%27Conjugation%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
+      },
+      "images": [
+        "/images/questions/ch9_q12_oc_ch09_figure_text_un219-03.png"
+      ]
     },
     {
       "id": "ch9_q13",
@@ -3459,7 +3462,10 @@
       "learn_with_ai": {
         "prompt": "MCAT Organic Chemistry - Carboxylic Acid Derivatives: Explain why 'I, II, and III' is correct. Include a simple explanation, why students get this wrong, and a memory trick.",
         "url": "https://gemini.google.com/guided-learning?query=MCAT%20Organic%20Chemistry%20-%20Carboxylic%20Acid%20Derivatives%3A%20Explain%20why%20%27I%2C%20II%2C%20and%20III%27%20is%20correct.%20Include%20a%20simple%20explanation%2C%20why%20students%20get%20this%20wrong%2C%20and%20a%20memory%20trick."
-      }
+      },
+      "images": [
+        "/images/questions/ch9_q13_oc_ch09_figure_text_un220.png"
+      ]
     },
     {
       "id": "ch9_q14",
